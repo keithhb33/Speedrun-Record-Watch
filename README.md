@@ -1,4 +1,4 @@
-# speedrun-weekly-records
+# speedrun-record-watch
 
 Auto-updated leaderboard highlights from speedrun.com.
 
