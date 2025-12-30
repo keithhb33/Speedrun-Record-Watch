@@ -10,6 +10,35 @@
 
 typedef struct { char *data; size_t size; } Buffer;
 
+/* ----------------- debug / logging ----------------- */
+
+static int g_debug = 1; // set DEBUG=0 in env to silence
+
+static void log_ts(FILE *fp) {
+    time_t t = time(NULL);
+    struct tm tmv;
+    gmtime_r(&t, &tmv);
+    char buf[32];
+    strftime(buf, sizeof(buf), "%Y-%m-%d %H:%M:%S", &tmv);
+    fprintf(fp, "%sZ ", buf);
+}
+
+#define LOG(fmt, ...) do { \
+    if (g_debug) { \
+        log_ts(stderr); \
+        fprintf(stderr, "[dbg] " fmt "\n", ##__VA_ARGS__); \
+        fflush(stderr); \
+    } \
+} while (0)
+
+static void init_debug_from_env(void) {
+    const char *v = getenv("DEBUG");
+    if (!v) return;
+    if (strcmp(v, "0") == 0 || strcasecmp(v, "false") == 0 || strcasecmp(v, "no") == 0) g_debug = 0;
+}
+
+/* ----------------- http helpers ----------------- */
+
 static size_t write_cb(void *contents, size_t size, size_t nmemb, void *userp) {
     size_t realsize = size * nmemb;
     Buffer *buf = (Buffer *)userp;
@@ -38,18 +67,29 @@ static char *fetch_url(CURL *curl, const char *url) {
     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
     curl_easy_setopt(curl, CURLOPT_ACCEPT_ENCODING, "");
 
+    // prevent indefinite hangs
+    curl_easy_setopt(curl, CURLOPT_CONNECTTIMEOUT, 20L);
+    curl_easy_setopt(curl, CURLOPT_TIMEOUT, 60L);
+
     for (int attempt = 0; attempt < 6; attempt++) {
         buf.size = 0;
         buf.data[0] = '\0';
 
+        clock_t c0 = clock();
         CURLcode res = curl_easy_perform(curl);
+        clock_t c1 = clock();
+        double elapsed = (double)(c1 - c0) / (double)CLOCKS_PER_SEC;
 
         long http_code = 0;
         curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &http_code);
 
         if (res == CURLE_OK && http_code >= 200 && http_code < 300) {
+            LOG("HTTP %ld in %.2fs (%zu bytes): %s", http_code, elapsed, buf.size, url);
             return buf.data;
         }
+
+        LOG("HTTP FAIL attempt=%d res=%d (%s) code=%ld in %.2fs: %s",
+            attempt + 1, (int)res, curl_easy_strerror(res), http_code, elapsed, url);
 
         // Backoff on 429 / 5xx
         if (http_code == 429 || (http_code >= 500 && http_code < 600)) {
@@ -62,6 +102,8 @@ static char *fetch_url(CURL *curl, const char *url) {
     free(buf.data);
     return NULL;
 }
+
+/* ----------------- json helpers ----------------- */
 
 static const char *json_get_string(cJSON *obj, const char *key) {
     cJSON *v = cJSON_GetObjectItemCaseSensitive(obj, key);
@@ -80,6 +122,8 @@ static long json_get_long(cJSON *obj, const char *key, long fallback) {
     if (cJSON_IsNumber(v)) return (long)v->valuedouble;
     return fallback;
 }
+
+/* ----------------- time helpers ----------------- */
 
 static void format_seconds(double sec, char *out, size_t outsz) {
     if (sec < 0) { snprintf(out, outsz, "?"); return; }
@@ -112,6 +156,8 @@ static time_t parse_iso8601_utc(const char *s) {
     if (!strptime(s, "%Y-%m-%dT%H:%M:%SZ", &tmv)) return (time_t)-1;
     return timegm(&tmv);
 }
+
+/* ----------------- fs helpers ----------------- */
 
 static int ensure_dir(const char *path) {
     struct stat st;
@@ -240,6 +286,8 @@ static const char *find_value_label(VarMap *vars, const char *var_id, const char
 }
 
 static VarMap *load_category_vars(CURL *curl, const char *cat_id) {
+    LOG("Fetch category variables: cat_id=%s", cat_id ? cat_id : "(null)");
+
     char url[512];
     snprintf(url, sizeof(url),
              "https://www.speedrun.com/api/v1/categories/%s/variables?max=200",
@@ -287,8 +335,13 @@ static VarMap *load_category_vars(CURL *curl, const char *cat_id) {
 
 static VarMap *get_cached_vars(CURL *curl, CatVarCache **cache, const char *cat_id) {
     for (CatVarCache *c = *cache; c; c = c->next) {
-        if (strcmp(c->cat_id, cat_id) == 0) return c->vars;
+        if (strcmp(c->cat_id, cat_id) == 0) {
+            LOG("Category vars cache hit: %s", cat_id);
+            return c->vars;
+        }
     }
+    LOG("Category vars cache miss: %s", cat_id);
+
     VarMap *vars = load_category_vars(curl, cat_id);
 
     CatVarCache *n = calloc(1, sizeof(CatVarCache));
@@ -536,11 +589,24 @@ static const char *fetch_top1_run_id(CURL *curl,
                                      const char *catId,
                                      const char *levelId,
                                      cJSON *valuesObj) {
+    static long s_lb_calls = 0;
+    s_lb_calls++;
+
     char *key = make_lb_key(gameId, catId, levelId, valuesObj);
     if (!key) return NULL;
 
     const char *cached = lb_cache_get(*cache, key);
-    if (cached) { free(key); return cached; }
+    if (cached) {
+        // log cache hits occasionally
+        if (g_debug && (s_lb_calls % 200 == 0)) LOG("LB cache hit (sampled): %s", key);
+        free(key);
+        return cached;
+    }
+
+    // log fetches occasionally (avoid huge spam)
+    if (g_debug && (s_lb_calls % 50 == 0)) {
+        LOG("LB fetch (sampled): game=%s cat=%s level=%s", gameId ? gameId : "", catId ? catId : "", levelId ? levelId : "");
+    }
 
     char url[2048];
     build_leaderboard_url(url, sizeof(url), gameId, catId, levelId, valuesObj);
@@ -563,8 +629,7 @@ static const char *fetch_top1_run_id(CURL *curl,
 
     if (topId) {
         lb_cache_put(cache, key, topId);
-        // After put, retrieve pointer owned by cache (stable until cache freed)
-        const char *ret = lb_cache_get(*cache, key);
+        const char *ret = lb_cache_get(*cache, key); // pointer owned by cache
         cJSON_Delete(root);
         free(key);
         return ret;
@@ -574,7 +639,6 @@ static const char *fetch_top1_run_id(CURL *curl,
     free(key);
     return NULL;
 }
-
 
 static int is_current_wr(CURL *curl, LbCache **cache,
                          const char *runId,
@@ -749,8 +813,18 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     }
     if (scan_floor < 0) scan_floor = 0;
 
+    long pages = 0;
+    long runs_seen = 0;
+    long runs_checked = 0;
+    long wrs_added = 0;
+    time_t newest = 0;
+    time_t oldest = 0;
 
     while (1) {
+        pages++;
+        LOG("Runs page: offset=%d max=%d scan_floor=%ld prune_cutoff=%ld last_seen=%ld",
+            offset, max, scan_floor, (long)prune_cutoff_epoch, last_seen_epoch);
+
         char url[1024];
         snprintf(url, sizeof(url),
                  "https://www.speedrun.com/api/v1/runs"
@@ -760,17 +834,31 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
                  max, offset);
 
         char *json = fetch_url(curl, url);
-        if (!json) break;
+        if (!json) {
+            LOG("Failed to fetch runs page (offset=%d). Stopping.", offset);
+            break;
+        }
 
         cJSON *root = cJSON_Parse(json);
         free(json);
-        if (!root) break;
+        if (!root) {
+            LOG("Failed to parse runs JSON (offset=%d). Stopping.", offset);
+            break;
+        }
 
         cJSON *data = cJSON_GetObjectItemCaseSensitive(root, "data");
-        if (!cJSON_IsArray(data)) { cJSON_Delete(root); break; }
+        if (!cJSON_IsArray(data)) {
+            LOG("Runs JSON missing data[] (offset=%d). Stopping.", offset);
+            cJSON_Delete(root);
+            break;
+        }
 
         int page_n = cJSON_GetArraySize(data);
-        if (page_n <= 0) { cJSON_Delete(root); break; }
+        if (page_n <= 0) {
+            LOG("Runs page empty (offset=%d). Stopping.", offset);
+            cJSON_Delete(root);
+            break;
+        }
 
         int stop = 0;
 
@@ -785,6 +873,10 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             time_t vtime = parse_iso8601_utc(verify_date);
             if (vtime == (time_t)-1) continue;
 
+            runs_seen++;
+            if (newest == 0) newest = vtime;
+            oldest = vtime;
+
             // Track newest verify time we've seen this run
             if ((long)vtime > new_last_seen) new_last_seen = (long)vtime;
 
@@ -794,24 +886,42 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             // Don’t store anything older than 7d window
             if (vtime < prune_cutoff_epoch) continue;
 
-            // Add if it’s a current #1 WR and not already in wrs.json
+            runs_checked++;
+
+            int before = cJSON_GetArraySize(wrs);
             maybe_add_wr_from_run(curl, catCache, lbCache, wrs, run, (long)vtime, verify_date);
+            int after = cJSON_GetArraySize(wrs);
+            if (after > before) wrs_added++;
 
             // very light politeness delay
             usleep(5000);
+
+            // heartbeat every so often so logs keep moving
+            if (g_debug && (runs_seen % 500 == 0)) {
+                LOG("Progress: pages=%ld seen=%ld checked=%ld added=%ld (offset=%d)",
+                    pages, runs_seen, runs_checked, wrs_added, offset);
+            }
         }
+
+        LOG("Page done: pages=%ld seen=%ld checked=%ld added=%ld newest=%ld oldest=%ld",
+            pages, runs_seen, runs_checked, wrs_added, (long)newest, (long)oldest);
 
         cJSON_Delete(root);
 
-        if (stop) break;
+        if (stop) {
+            LOG("Stopping scan: reached scan_floor (oldest run < scan_floor)");
+            break;
+        }
 
         offset += page_n;
         if (page_n < max) break;
     }
 
+    LOG("Scan complete: pages=%ld seen=%ld checked=%ld added=%ld new_last_seen=%ld",
+        pages, runs_seen, runs_checked, wrs_added, new_last_seen);
+
     return new_last_seen;
 }
-
 
 /* ----------------- README rendering ----------------- */
 
@@ -860,6 +970,8 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
 }
 
 int main(void) {
+    init_debug_from_env();
+
     if (!ensure_dir("data")) {
         fprintf(stderr, "Failed to ensure ./data directory\n");
         return 1;
@@ -869,6 +981,9 @@ int main(void) {
     time_t cutoff_1h  = now - 1 * 3600;
     time_t cutoff_24h = now - 24 * 3600;
     time_t cutoff_7d  = now - 7 * 24 * 3600;
+
+    LOG("Start. now=%ld cutoff_1h=%ld cutoff_24h=%ld cutoff_7d=%ld",
+        (long)now, (long)cutoff_1h, (long)cutoff_24h, (long)cutoff_7d);
 
     curl_global_init(CURL_GLOBAL_DEFAULT);
     CURL *curl = curl_easy_init();
@@ -880,6 +995,9 @@ int main(void) {
 
     long last_seen_epoch = load_last_seen_epoch();
     cJSON *wrs = load_wrs_array();
+
+    LOG("Loaded state: last_seen_epoch=%ld", last_seen_epoch);
+    LOG("Loaded wrs.json: %d entries", cJSON_GetArraySize(wrs));
 
     // Always prune first (keeps file small)
     prune_old_wrs(wrs, cutoff_7d);
@@ -895,6 +1013,9 @@ int main(void) {
     // Persist
     save_wrs_array(wrs);
     save_last_seen_epoch(new_last_seen);
+
+    LOG("After scan: wrs.json entries=%d new_last_seen=%ld", cJSON_GetArraySize(wrs), new_last_seen);
+    LOG("Saved state+wrs.");
 
     // Output markdown (tools/update_readme.sh injects this into README)
     printf("## 🏁 Live #1 Records\n\n");
