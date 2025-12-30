@@ -10,7 +10,7 @@ wr_weekly: src/wr_weekly.c
 	$(CC) $(CFLAGS) -o $@ $< $(LDLIBS)
 
 run: wr_weekly
-	./wr_weekly --days 7 --limit 50
+	./wr_weekly > /tmp/wr_sections.md
 
 clean:
 	rm -f wr_weekly
