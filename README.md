@@ -1,8 +1,6 @@
 # speedrun-record-watch
 
-Auto-updated leaderboard highlights from speedrun.com.
-
-The sections below list **runs verified recently that are currently #1 on their exact leaderboard**.
+The sections below track **recently verified #1 records on the speedrun.com leaderboards.**
 
 <!-- WR-WEEKLY:START -->
 _Updating..._
