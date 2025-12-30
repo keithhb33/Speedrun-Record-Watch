@@ -1,0 +1,46 @@
+name: Update README (weekly WRs)
+
+on:
+  schedule:
+    # Daily at 06:15 UTC (scheduled workflows run on default branch)
+    - cron: "15 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libcurl4-openssl-dev libcjson-dev
+
+      - name: Build
+        run: make
+
+      - name: Generate section
+        run: |
+          ./wr_weekly --days 7 --limit 50 > /tmp/wr_weekly.md
+
+      - name: Update README
+        run: |
+          tools/update_readme.sh /tmp/wr_weekly.md
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update weekly WR section"
+          git push
