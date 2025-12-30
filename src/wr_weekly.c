@@ -5,6 +5,9 @@
 #include <unistd.h>
 #include <time.h>
 #include <sys/stat.h>
+#include <stdint.h>
+#include <math.h>
+
 #include <curl/curl.h>
 #include <cjson/cJSON.h>
 
@@ -63,11 +66,10 @@ static char *fetch_url(CURL *curl, const char *url) {
     curl_easy_setopt(curl, CURLOPT_URL, url);
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_cb);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, (void *)&buf);
-    curl_easy_setopt(curl, CURLOPT_USERAGENT, "wr-live-readme-bot/2.0 (libcurl)");
+    curl_easy_setopt(curl, CURLOPT_USERAGENT, "wr-live-readme-bot/2.1 (libcurl)");
     curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
     curl_easy_setopt(curl, CURLOPT_ACCEPT_ENCODING, "");
 
-    // prevent indefinite hangs
     curl_easy_setopt(curl, CURLOPT_CONNECTTIMEOUT, 20L);
     curl_easy_setopt(curl, CURLOPT_TIMEOUT, 60L);
 
@@ -91,7 +93,6 @@ static char *fetch_url(CURL *curl, const char *url) {
         LOG("HTTP FAIL attempt=%d res=%d (%s) code=%ld in %.2fs: %s",
             attempt + 1, (int)res, curl_easy_strerror(res), http_code, elapsed, url);
 
-        // Backoff on 429 / 5xx
         if (http_code == 429 || (http_code >= 500 && http_code < 600)) {
             usleep((useconds_t)(200000 * (attempt + 1)));
             continue;
@@ -138,7 +139,6 @@ static void format_seconds(double sec, char *out, size_t outsz) {
 static time_t parse_iso8601_utc(const char *s) {
     if (!s) return (time_t)-1;
 
-    // Strip fractional seconds if present
     char tmp[64];
     memset(tmp, 0, sizeof(tmp));
     const char *dot = strchr(s, '.');
@@ -191,14 +191,94 @@ static int write_file(const char *path, const char *data) {
     return 1;
 }
 
-static int run_id_in_array(cJSON *arr, const char *run_id) {
-    if (!cJSON_IsArray(arr) || !run_id) return 0;
-    cJSON *it = NULL;
-    cJSON_ArrayForEach(it, arr) {
-        const char *rid = json_get_string(it, "run_id");
-        if (rid && strcmp(rid, run_id) == 0) return 1;
+/* ----------------- fast string hash set (run_id + processed keys) ----------------- */
+
+typedef struct StrSet {
+    char **keys;
+    size_t cap;
+    size_t len;
+} StrSet;
+
+static uint64_t fnv1a_64(const char *s) {
+    uint64_t h = 1469598103934665603ULL;
+    for (const unsigned char *p = (const unsigned char*)s; *p; p++) {
+        h ^= (uint64_t)(*p);
+        h *= 1099511628211ULL;
+    }
+    return h;
+}
+
+static int strset_init(StrSet *s, size_t initial_cap) {
+    if (!s) return 0;
+    size_t cap = 1;
+    while (cap < initial_cap) cap <<= 1;
+    s->keys = calloc(cap, sizeof(char*));
+    if (!s->keys) return 0;
+    s->cap = cap;
+    s->len = 0;
+    return 1;
+}
+
+static void strset_free(StrSet *s) {
+    if (!s || !s->keys) return;
+    for (size_t i = 0; i < s->cap; i++) free(s->keys[i]);
+    free(s->keys);
+    s->keys = NULL;
+    s->cap = 0;
+    s->len = 0;
+}
+
+static int strset_rehash(StrSet *s, size_t newcap) {
+    StrSet ns = {0};
+    if (!strset_init(&ns, newcap)) return 0;
+
+    for (size_t i = 0; i < s->cap; i++) {
+        char *k = s->keys[i];
+        if (!k) continue;
+        uint64_t h = fnv1a_64(k);
+        size_t mask = ns.cap - 1;
+        size_t idx = (size_t)h & mask;
+        while (ns.keys[idx]) idx = (idx + 1) & mask;
+        ns.keys[idx] = k; // move ownership
+        ns.len++;
+        s->keys[i] = NULL;
+    }
+
+    free(s->keys);
+    *s = ns;
+    return 1;
+}
+
+static int strset_has(const StrSet *s, const char *key) {
+    if (!s || !s->keys || !key) return 0;
+    uint64_t h = fnv1a_64(key);
+    size_t mask = s->cap - 1;
+    size_t idx = (size_t)h & mask;
+    for (size_t probe = 0; probe < s->cap; probe++) {
+        char *k = s->keys[idx];
+        if (!k) return 0;
+        if (strcmp(k, key) == 0) return 1;
+        idx = (idx + 1) & mask;
     }
     return 0;
+}
+
+static int strset_add(StrSet *s, const char *key) {
+    if (!s || !s->keys || !key) return 0;
+    if (s->len * 10 >= s->cap * 7) { // > 0.7 load
+        if (!strset_rehash(s, s->cap * 2)) return 0;
+    }
+    uint64_t h = fnv1a_64(key);
+    size_t mask = s->cap - 1;
+    size_t idx = (size_t)h & mask;
+    while (s->keys[idx]) {
+        if (strcmp(s->keys[idx], key) == 0) return 1; // already
+        idx = (idx + 1) & mask;
+    }
+    s->keys[idx] = strdup(key);
+    if (!s->keys[idx]) return 0;
+    s->len++;
+    return 1;
 }
 
 /* ----------------- category variable cache for subcategory labels ----------------- */
@@ -336,11 +416,9 @@ static VarMap *load_category_vars(CURL *curl, const char *cat_id) {
 static VarMap *get_cached_vars(CURL *curl, CatVarCache **cache, const char *cat_id) {
     for (CatVarCache *c = *cache; c; c = c->next) {
         if (strcmp(c->cat_id, cat_id) == 0) {
-            LOG("Category vars cache hit: %s", cat_id);
             return c->vars;
         }
     }
-    LOG("Category vars cache miss: %s", cat_id);
 
     VarMap *vars = load_category_vars(curl, cat_id);
 
@@ -453,11 +531,11 @@ static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
     }
 }
 
-/* ----------------- leaderboard check + cache ----------------- */
+/* ----------------- leaderboard top-1 cache (in-memory) ----------------- */
 
 typedef struct LbCache {
-    char *key;           // canonical key
-    char *top_run_id;    // cached top #1 run id
+    char *key;
+    char *top_run_id;
     struct LbCache *next;
 } LbCache;
 
@@ -471,22 +549,21 @@ static void free_lb_cache(LbCache *c) {
     }
 }
 
-// Build safe URL, append var filters without truncation.
-static void build_leaderboard_url(char *out, size_t outsz,
-                                 const char *gameId, const char *categoryId, const char *levelId,
-                                 cJSON *valuesObj) {
+static void build_leaderboard_url_top(char *out, size_t outsz,
+                                     const char *gameId, const char *categoryId, const char *levelId,
+                                     cJSON *valuesObj, int topN) {
     if (outsz == 0) return;
     out[0] = '\0';
 
     int written = 0;
     if (levelId && levelId[0]) {
         written = snprintf(out, outsz,
-                           "https://www.speedrun.com/api/v1/leaderboards/%s/level/%s/%s?top=1",
-                           gameId, levelId, categoryId);
+                           "https://www.speedrun.com/api/v1/leaderboards/%s/level/%s/%s?top=%d",
+                           gameId, levelId, categoryId, topN);
     } else {
         written = snprintf(out, outsz,
-                           "https://www.speedrun.com/api/v1/leaderboards/%s/category/%s?top=1",
-                           gameId, categoryId);
+                           "https://www.speedrun.com/api/v1/leaderboards/%s/category/%s?top=%d",
+                           gameId, categoryId, topN);
     }
     if (written < 0 || (size_t)written >= outsz) { out[outsz - 1] = '\0'; return; }
 
@@ -521,7 +598,6 @@ static char *make_lb_key(const char *gameId, const char *catId, const char *leve
 
     snprintf(buf, cap, "%s|%s|%s|", gameId ? gameId : "", catId ? catId : "", levelId ? levelId : "");
 
-    // collect pairs
     int n = 0;
     if (cJSON_IsObject(valuesObj)) {
         cJSON *kv = NULL;
@@ -597,19 +673,12 @@ static const char *fetch_top1_run_id(CURL *curl,
 
     const char *cached = lb_cache_get(*cache, key);
     if (cached) {
-        // log cache hits occasionally
-        if (g_debug && (s_lb_calls % 200 == 0)) LOG("LB cache hit (sampled): %s", key);
         free(key);
         return cached;
     }
 
-    // log fetches occasionally (avoid huge spam)
-    if (g_debug && (s_lb_calls % 50 == 0)) {
-        LOG("LB fetch (sampled): game=%s cat=%s level=%s", gameId ? gameId : "", catId ? catId : "", levelId ? levelId : "");
-    }
-
     char url[2048];
-    build_leaderboard_url(url, sizeof(url), gameId, catId, levelId, valuesObj);
+    build_leaderboard_url_top(url, sizeof(url), gameId, catId, levelId, valuesObj, 1);
 
     char *json = fetch_url(curl, url);
     if (!json) { free(key); return NULL; }
@@ -629,7 +698,7 @@ static const char *fetch_top1_run_id(CURL *curl,
 
     if (topId) {
         lb_cache_put(cache, key, topId);
-        const char *ret = lb_cache_get(*cache, key); // pointer owned by cache
+        const char *ret = lb_cache_get(*cache, key);
         cJSON_Delete(root);
         free(key);
         return ret;
@@ -651,7 +720,7 @@ static int is_current_wr(CURL *curl, LbCache **cache,
     return strcmp(topId, runId) == 0;
 }
 
-/* ----------------- state + wrs persistence ----------------- */
+/* ----------------- persistence ----------------- */
 
 static long load_last_seen_epoch(void) {
     char *txt = read_file("data/state.json");
@@ -718,40 +787,34 @@ static int wr_cmp_newest_first(const void *a, const void *b) {
     return 0;
 }
 
-static void sort_wrs_array(cJSON *arr) {
+static cJSON *sorted_wrs_dup(cJSON *arr) {
+    if (!cJSON_IsArray(arr)) return cJSON_CreateArray();
     int n = cJSON_GetArraySize(arr);
-    if (n <= 1) return;
+    if (n <= 1) return cJSON_Duplicate(arr, 1);
 
     cJSON **items = calloc((size_t)n, sizeof(cJSON*));
-    if (!items) return;
-    for (int i = 0; i < n; i++) items[i] = cJSON_GetArrayItem(arr, i);
+    if (!items) return cJSON_Duplicate(arr, 1);
 
+    for (int i = 0; i < n; i++) items[i] = cJSON_GetArrayItem(arr, i);
     qsort(items, (size_t)n, sizeof(cJSON*), wr_cmp_newest_first);
 
-    cJSON *newArr = cJSON_CreateArray();
-    for (int i = 0; i < n; i++) {
-        cJSON_AddItemToArray(newArr, cJSON_Duplicate(items[i], 1));
-    }
+    cJSON *out = cJSON_CreateArray();
+    for (int i = 0; i < n; i++) cJSON_AddItemToArray(out, cJSON_Duplicate(items[i], 1));
 
-    // replace arr contents
-    while (cJSON_GetArraySize(arr) > 0) cJSON_DeleteItemFromArray(arr, 0);
-    for (int i = 0; i < cJSON_GetArraySize(newArr); i++) {
-        cJSON_AddItemToArray(arr, cJSON_Duplicate(cJSON_GetArrayItem(newArr, i), 1));
-    }
-    cJSON_Delete(newArr);
     free(items);
+    return out;
 }
 
-/* ----------------- main fetch loop: only NEW runs since last_seen ----------------- */
+/* ----------------- add WR entry (no current-WR requirement) ----------------- */
 
-static void maybe_add_wr_from_run(CURL *curl, CatVarCache **catCache, LbCache **lbCache,
-                                 cJSON *wrs,
+static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
+                                 cJSON *wrs, StrSet *runIds,
                                  cJSON *run,
                                  long verified_epoch,
                                  const char *verify_date) {
     const char *runId = json_get_string(run, "id");
     if (!runId) return;
-    if (run_id_in_array(wrs, runId)) return;
+    if (strset_has(runIds, runId)) return;
 
     const char *weblink = json_get_string(run, "weblink");
 
@@ -771,9 +834,6 @@ static void maybe_add_wr_from_run(CURL *curl, CatVarCache **catCache, LbCache **
 
     cJSON *valuesObj = cJSON_GetObjectItemCaseSensitive(run, "values");
 
-    // check WR
-    if (!is_current_wr(curl, lbCache, runId, gameId, catId, levelId, valuesObj)) return;
-
     char players[512];
     print_players_compact(run, players, sizeof(players));
 
@@ -792,11 +852,243 @@ static void maybe_add_wr_from_run(CURL *curl, CatVarCache **catCache, LbCache **
     cJSON_AddStringToObject(obj, "weblink", weblink ? weblink : "");
 
     free(subcats);
+
     cJSON_AddItemToArray(wrs, obj);
+    strset_add(runIds, runId);
 }
 
+/* ----------------- fetch run details by id ----------------- */
+
+static cJSON *fetch_run_details(CURL *curl, const char *run_id, int embed) {
+    if (!run_id || !run_id[0]) return NULL;
+
+    char url[512];
+    if (embed) {
+        snprintf(url, sizeof(url),
+                 "https://www.speedrun.com/api/v1/runs/%s?embed=game,category,players,level",
+                 run_id);
+    } else {
+        snprintf(url, sizeof(url),
+                 "https://www.speedrun.com/api/v1/runs/%s",
+                 run_id);
+    }
+
+    char *json = fetch_url(curl, url);
+    if (!json) return NULL;
+
+    cJSON *root = cJSON_Parse(json);
+    free(json);
+    if (!root) return NULL;
+
+    cJSON *data = cJSON_GetObjectItemCaseSensitive(root, "data");
+    if (!cJSON_IsObject(data)) { cJSON_Delete(root); return NULL; }
+
+    cJSON *dup = cJSON_Duplicate(data, 1);
+    cJSON_Delete(root);
+    return dup;
+}
+
+static int get_run_verify_epoch_and_iso(cJSON *runObj, long *epoch_out, const char **iso_out) {
+    if (epoch_out) *epoch_out = 0;
+    if (iso_out) *iso_out = NULL;
+
+    cJSON *status = cJSON_GetObjectItemCaseSensitive(runObj, "status");
+    const char *verify_date = NULL;
+    if (cJSON_IsObject(status)) verify_date = json_get_string(status, "verify-date");
+    if (!verify_date) return 0;
+
+    time_t vtime = parse_iso8601_utc(verify_date);
+    if (vtime == (time_t)-1) return 0;
+
+    if (epoch_out) *epoch_out = (long)vtime;
+    if (iso_out) *iso_out = verify_date;
+    return 1;
+}
+
+/* ----------------- record history reconstruction per leaderboard key ----------------- */
+
+typedef struct LbRunInfo {
+    char *run_id;
+    double primary_t;
+    long verified_epoch;     // 0 if unknown
+} LbRunInfo;
+
+static void free_lbruninfos(LbRunInfo *a, int n) {
+    if (!a) return;
+    for (int i = 0; i < n; i++) free(a[i].run_id);
+    free(a);
+}
+
+static int lbrun_cmp_epoch_asc(const void *a, const void *b) {
+    const LbRunInfo *ra = (const LbRunInfo*)a;
+    const LbRunInfo *rb = (const LbRunInfo*)b;
+    if (ra->verified_epoch < rb->verified_epoch) return -1;
+    if (ra->verified_epoch > rb->verified_epoch) return 1;
+    return 0;
+}
+
+static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
+                                      cJSON *wrs, StrSet *runIds,
+                                      const char *gameId, const char *catId, const char *levelId, cJSON *valuesObj,
+                                      time_t cutoff_7d) {
+    const int TOPN = 200;
+    char url[2048];
+    build_leaderboard_url_top(url, sizeof(url), gameId, catId, levelId, valuesObj, TOPN);
+
+    char *json = fetch_url(curl, url);
+    if (!json) return;
+
+    cJSON *root = cJSON_Parse(json);
+    free(json);
+    if (!root) return;
+
+    cJSON *data = cJSON_GetObjectItemCaseSensitive(root, "data");
+    cJSON *runs = data ? cJSON_GetObjectItemCaseSensitive(data, "runs") : NULL;
+    if (!cJSON_IsArray(runs)) { cJSON_Delete(root); return; }
+
+    int n_entries = cJSON_GetArraySize(runs);
+    if (n_entries <= 0) { cJSON_Delete(root); return; }
+
+    LbRunInfo *infos = calloc((size_t)n_entries, sizeof(LbRunInfo));
+    if (!infos) { cJSON_Delete(root); return; }
+
+    int n = 0;
+    for (int i = 0; i < n_entries; i++) {
+        cJSON *entry = cJSON_GetArrayItem(runs, i);
+        if (!cJSON_IsObject(entry)) continue;
+
+        cJSON *runObj = cJSON_GetObjectItemCaseSensitive(entry, "run");
+        if (!cJSON_IsObject(runObj)) continue;
+
+        const char *rid = json_get_string(runObj, "id");
+        if (!rid) continue;
+
+        double pt = -1;
+        cJSON *times = cJSON_GetObjectItemCaseSensitive(runObj, "times");
+        if (cJSON_IsObject(times)) pt = json_get_number(times, "primary_t", -1);
+        if (pt < 0) continue;
+
+        long ve = 0;
+        const char *iso = NULL;
+        if (get_run_verify_epoch_and_iso(runObj, &ve, &iso)) {
+            // ok
+        } else {
+            // Some leaderboard payloads omit verify-date. We'll fill selectively later.
+            ve = 0;
+        }
+
+        infos[n].run_id = strdup(rid);
+        infos[n].primary_t = pt;
+        infos[n].verified_epoch = ve;
+        n++;
+    }
+
+    cJSON_Delete(root);
+
+    if (n == 0) { free(infos); return; }
+
+    // Fill missing verify_epoch using /runs/{id} (no embed) for only those missing.
+    for (int i = 0; i < n; i++) {
+        if (infos[i].verified_epoch != 0) continue;
+        cJSON *runBare = fetch_run_details(curl, infos[i].run_id, 0);
+        if (!runBare) continue;
+
+        long ve = 0;
+        const char *iso = NULL;
+        if (get_run_verify_epoch_and_iso(runBare, &ve, &iso)) {
+            infos[i].verified_epoch = ve;
+        }
+        cJSON_Delete(runBare);
+
+        // tiny politeness: these calls are rare (only when leaderboard payload lacks verify-date)
+        usleep(2000);
+    }
+
+    // Determine baseline best time before cutoff, if available in our TOPN slice.
+    double baseline_best = INFINITY;
+    for (int i = 0; i < n; i++) {
+        if (infos[i].verified_epoch > 0 && (time_t)infos[i].verified_epoch < cutoff_7d) {
+            if (infos[i].primary_t < baseline_best) baseline_best = infos[i].primary_t;
+        }
+    }
+
+    // Collect candidates within window (must have verify_epoch known).
+    LbRunInfo *cand = calloc((size_t)n, sizeof(LbRunInfo));
+    if (!cand) { free_lbruninfos(infos, n); return; }
+    int cN = 0;
+    for (int i = 0; i < n; i++) {
+        if (infos[i].verified_epoch <= 0) continue;
+        if ((time_t)infos[i].verified_epoch < cutoff_7d) continue;
+        cand[cN].run_id = strdup(infos[i].run_id);
+        cand[cN].primary_t = infos[i].primary_t;
+        cand[cN].verified_epoch = infos[i].verified_epoch;
+        cN++;
+    }
+
+    free_lbruninfos(infos, n);
+
+    if (cN == 0) { free_lbruninfos(cand, cN); return; }
+
+    qsort(cand, (size_t)cN, sizeof(LbRunInfo), lbrun_cmp_epoch_asc);
+
+    const double EPS = 1e-6;
+    double best = baseline_best;
+
+    // If we couldn't find a baseline (TOPN slice didn't include any pre-window verified run),
+    // we still track monotonic improvements/ties within the window.
+    int have_baseline = isfinite(best);
+
+    for (int i = 0; i < cN; i++) {
+        int include = 0;
+        if (!have_baseline) {
+            // First event becomes the initial within-window "record chain" seed.
+            include = 1;
+            best = cand[i].primary_t;
+            have_baseline = 1;
+        } else {
+            double t = cand[i].primary_t;
+            if (t < best - EPS) {
+                include = 1;
+                best = t;
+            } else if (fabs(t - best) <= EPS) {
+                // tie WR: include as a new co-#1
+                include = 1;
+            }
+        }
+
+        if (!include) continue;
+
+        // Add full run details (with embeds) to wrs.json, if not present.
+        if (strset_has(runIds, cand[i].run_id)) continue;
+
+        cJSON *runFull = fetch_run_details(curl, cand[i].run_id, 1);
+        if (!runFull) continue;
+
+        long ve = 0;
+        const char *iso = NULL;
+        if (!get_run_verify_epoch_and_iso(runFull, &ve, &iso)) {
+            cJSON_Delete(runFull);
+            continue;
+        }
+
+        // Ensure it's still in window (defensive)
+        if ((time_t)ve >= cutoff_7d) {
+            add_wr_entry_from_run(curl, catCache, wrs, runIds, runFull, ve, iso);
+        }
+
+        cJSON_Delete(runFull);
+
+        // very light politeness delay
+        usleep(3000);
+    }
+
+    free_lbruninfos(cand, cN);
+}
+
+/* ----------------- scan runs feed, detect new current-WR keys, then backfill history ----------------- */
+
 static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache **lbCache,
-                                     cJSON *wrs,
+                                     cJSON *wrs, StrSet *runIds,
                                      long last_seen_epoch,
                                      time_t prune_cutoff_epoch) {
     const int max = 200;
@@ -808,15 +1100,17 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     if (last_seen_epoch > 0) {
         scan_floor = last_seen_epoch - 6 * 3600;   // overlap
     } else {
-        // first run: only scan what we care about (7 days) plus overlap
         scan_floor = (long)prune_cutoff_epoch - 6 * 3600;
     }
     if (scan_floor < 0) scan_floor = 0;
 
+    StrSet processedKeys = {0};
+    strset_init(&processedKeys, 1024);
+
     long pages = 0;
     long runs_seen = 0;
     long runs_checked = 0;
-    long wrs_added = 0;
+    long keys_processed = 0;
     time_t newest = 0;
     time_t oldest = 0;
 
@@ -877,34 +1171,59 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             if (newest == 0) newest = vtime;
             oldest = vtime;
 
-            // Track newest verify time we've seen this run
             if ((long)vtime > new_last_seen) new_last_seen = (long)vtime;
 
-            // Stop once we are older than the scan floor (overlap window)
             if ((long)vtime < scan_floor) { stop = 1; break; }
 
-            // Don’t store anything older than 7d window
             if (vtime < prune_cutoff_epoch) continue;
 
             runs_checked++;
 
-            int before = cJSON_GetArraySize(wrs);
-            maybe_add_wr_from_run(curl, catCache, lbCache, wrs, run, (long)vtime, verify_date);
-            int after = cJSON_GetArraySize(wrs);
-            if (after > before) wrs_added++;
+            const char *runId = json_get_string(run, "id");
+            if (!runId) continue;
 
-            // very light politeness delay
-            usleep(5000);
+            // Quick skip: if we already stored this run, it won't create a "new current WR key" event.
+            if (strset_has(runIds, runId)) continue;
 
-            // heartbeat every so often so logs keep moving
-            if (g_debug && (runs_seen % 500 == 0)) {
-                LOG("Progress: pages=%ld seen=%ld checked=%ld added=%ld (offset=%d)",
-                    pages, runs_seen, runs_checked, wrs_added, offset);
+            const char *gameId = NULL, *gameName = NULL;
+            const char *catId  = NULL, *catName  = NULL;
+            const char *levelId = NULL, *levelName = NULL;
+
+            extract_id_and_name(cJSON_GetObjectItemCaseSensitive(run, "game"), &gameId, &gameName);
+            extract_id_and_name(cJSON_GetObjectItemCaseSensitive(run, "category"), &catId, &catName);
+            extract_id_and_name(cJSON_GetObjectItemCaseSensitive(run, "level"), &levelId, &levelName);
+            if (!gameId || !catId) continue;
+
+            cJSON *valuesObj = cJSON_GetObjectItemCaseSensitive(run, "values");
+
+            // If this run is the CURRENT #1, then this leaderboard had a record change chain inside our window.
+            // We process the leaderboard key once and reconstruct all record-change events (incl. intermediates).
+            if (is_current_wr(curl, lbCache, runId, gameId, catId, levelId, valuesObj)) {
+                char *key = make_lb_key(gameId, catId, levelId, valuesObj);
+                if (key) {
+                    if (!strset_has(&processedKeys, key)) {
+                        strset_add(&processedKeys, key);
+                        keys_processed++;
+
+                        LOG("New current WR detected; backfilling history for key: %s", key);
+                        track_leaderboard_history(curl, catCache, wrs, runIds, gameId, catId, levelId, valuesObj, prune_cutoff_epoch);
+                    }
+                    free(key);
+                }
             }
+
+            // heartbeat log
+            if (g_debug && (runs_seen % 500 == 0)) {
+                LOG("Progress: pages=%ld seen=%ld checked=%ld keys_processed=%ld (offset=%d)",
+                    pages, runs_seen, runs_checked, keys_processed, offset);
+            }
+
+            // tiny politeness delay
+            if ((runs_checked % 40) == 0) usleep(2000);
         }
 
-        LOG("Page done: pages=%ld seen=%ld checked=%ld added=%ld newest=%ld oldest=%ld",
-            pages, runs_seen, runs_checked, wrs_added, (long)newest, (long)oldest);
+        LOG("Page done: pages=%ld seen=%ld checked=%ld keys_processed=%ld newest=%ld oldest=%ld",
+            pages, runs_seen, runs_checked, keys_processed, (long)newest, (long)oldest);
 
         cJSON_Delete(root);
 
@@ -917,8 +1236,10 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
         if (page_n < max) break;
     }
 
-    LOG("Scan complete: pages=%ld seen=%ld checked=%ld added=%ld new_last_seen=%ld",
-        pages, runs_seen, runs_checked, wrs_added, new_last_seen);
+    strset_free(&processedKeys);
+
+    LOG("Scan complete: pages=%ld seen=%ld checked=%ld keys_processed=%ld new_last_seen=%ld",
+        pages, runs_seen, runs_checked, keys_processed, new_last_seen);
 
     return new_last_seen;
 }
@@ -962,12 +1283,13 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
     }
 
     if (printed == 0) {
-        // keep table header, but add note row
         printf("|  | _None_ |  |  |  |  |  |  |\n");
     }
 
     printf("\n");
 }
+
+/* ----------------- main ----------------- */
 
 int main(void) {
     init_debug_from_env();
@@ -996,19 +1318,33 @@ int main(void) {
     long last_seen_epoch = load_last_seen_epoch();
     cJSON *wrs = load_wrs_array();
 
-    LOG("Loaded state: last_seen_epoch=%ld", last_seen_epoch);
-    LOG("Loaded wrs.json: %d entries", cJSON_GetArraySize(wrs));
-
     // Always prune first (keeps file small)
     prune_old_wrs(wrs, cutoff_7d);
+
+    // Build run-id set from pruned cache
+    StrSet runIds = {0};
+    strset_init(&runIds, 2048);
+
+    int existing = cJSON_GetArraySize(wrs);
+    for (int i = 0; i < existing; i++) {
+        cJSON *it = cJSON_GetArrayItem(wrs, i);
+        if (!cJSON_IsObject(it)) continue;
+        const char *rid = json_get_string(it, "run_id");
+        if (rid) strset_add(&runIds, rid);
+    }
+
+    LOG("Loaded state: last_seen_epoch=%ld", last_seen_epoch);
+    LOG("Loaded wrs.json (post-prune): %d entries", cJSON_GetArraySize(wrs));
 
     CatVarCache *catCache = NULL;
     LbCache *lbCache = NULL;
 
-    long new_last_seen = scan_new_runs_and_update(curl, &catCache, &lbCache, wrs, last_seen_epoch, cutoff_7d);
+    long new_last_seen = scan_new_runs_and_update(curl, &catCache, &lbCache, wrs, &runIds, last_seen_epoch, cutoff_7d);
 
-    // Sort newest-first for rendering
-    sort_wrs_array(wrs);
+    // Sort newest-first for rendering and persistence
+    cJSON *sorted = sorted_wrs_dup(wrs);
+    cJSON_Delete(wrs);
+    wrs = sorted;
 
     // Persist
     save_wrs_array(wrs);
@@ -1017,7 +1353,7 @@ int main(void) {
     LOG("After scan: wrs.json entries=%d new_last_seen=%ld", cJSON_GetArraySize(wrs), new_last_seen);
     LOG("Saved state+wrs.");
 
-    // Output markdown (tools/update_readme.sh injects this into README)
+    // Output markdown
     printf("## 🏁 Live #1 Records\n\n");
     printf("_Updated hourly via GitHub Actions._\n\n");
 
@@ -1028,6 +1364,7 @@ int main(void) {
     cJSON_Delete(wrs);
     free_cache(catCache);
     free_lb_cache(lbCache);
+    strset_free(&runIds);
 
     curl_easy_cleanup(curl);
     curl_global_cleanup();
