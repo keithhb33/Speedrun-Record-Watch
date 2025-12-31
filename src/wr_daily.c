@@ -1306,7 +1306,7 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     long new_last_seen = last_seen_epoch;
 
     long scan_floor;
-    const long overlap_sec = 24 * 3600;
+    const long overlap_sec = 1 * 3600;
 
     if (last_seen_epoch > 0) {
         scan_floor = last_seen_epoch - overlap_sec;
