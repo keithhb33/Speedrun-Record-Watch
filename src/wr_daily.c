@@ -164,6 +164,20 @@ static void format_iso_utc(time_t t, char *out, size_t outsz) {
     strftime(out, outsz, "%Y-%m-%dT%H:%M:%SZ", &tmv);
 }
 
+/* --- README timestamp formatting in Eastern Time (ET; shows EST/EDT) --- */
+static void init_tz_eastern(void) {
+    setenv("TZ", "America/New_York", 1);
+    tzset();
+}
+
+static void format_pretty_et(time_t t, char *out, size_t outsz) {
+    if (!out || outsz == 0) return;
+    struct tm tmv;
+    localtime_r(&t, &tmv);
+    // Example: "Dec 31, 2025 11:03 PM EST"
+    strftime(out, outsz, "%b %d, %Y %I:%M %p %Z", &tmv);
+}
+
 /* ----------------- fs helpers ----------------- */
 
 static int ensure_dir(const char *path) {
@@ -1277,11 +1291,39 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
 
 /* ----------------- README rendering ----------------- */
 
+static void fputs_html_escaped(FILE *fp, const char *s) {
+    if (!s) return;
+    for (const unsigned char *p = (const unsigned char*)s; *p; p++) {
+        switch (*p) {
+            case '&': fputs("&amp;", fp); break;
+            case '<': fputs("&lt;", fp); break;
+            case '>': fputs("&gt;", fp); break;
+            case '"': fputs("&quot;", fp); break;
+            case '\'': fputs("&#39;", fp); break;
+            default: fputc(*p, fp); break;
+        }
+    }
+}
+
 static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_epoch) {
     printf("### %s\n\n", title);
 
-    printf("| Verified (UTC) | Game | Category | Subcategory | Level | Time | Runner(s) | Link |\n");
-    printf("|---|---|---|---|---|---:|---|---|\n");
+    // Scrollable table container; full-width; wraps text to avoid horizontal scrolling.
+    printf("<div style=\"max-height: 520px; overflow-y: auto; border: 1px solid #d0d7de; border-radius: 8px; padding: 6px;\">\n");
+    printf("<table style=\"width: 100%%; border-collapse: collapse; table-layout: fixed;\">\n");
+
+    printf("<thead>\n<tr>\n");
+    printf("<th align=\"left\" style=\"white-space: nowrap;\">Verified (ET)</th>\n");
+    printf("<th align=\"left\">Game</th>\n");
+    printf("<th align=\"left\">Category</th>\n");
+    printf("<th align=\"left\">Subcategory</th>\n");
+    printf("<th align=\"left\">Level</th>\n");
+    printf("<th align=\"right\" style=\"white-space: nowrap;\">Time</th>\n");
+    printf("<th align=\"left\">Runner(s)</th>\n");
+    printf("<th align=\"left\" style=\"white-space: nowrap;\">Link</th>\n");
+    printf("</tr>\n</thead>\n");
+
+    printf("<tbody>\n");
 
     int printed = 0;
     cJSON *it = NULL;
@@ -1289,7 +1331,6 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         long v = json_get_long(it, "verified_epoch", 0);
         if ((time_t)v < cutoff_epoch) continue;
 
-        const char *iso = json_get_string(it, "verified_iso");
         const char *game = json_get_string(it, "game");
         const char *cat = json_get_string(it, "category");
         const char *sub = json_get_string(it, "subcats");
@@ -1301,29 +1342,66 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         char tbuf[64];
         format_seconds(t, tbuf, sizeof(tbuf));
 
-        printf("| %s | %s | %s | %s | %s | %s | %s | %s |\n",
-               iso ? iso : "",
-               game ? game : "",
-               cat ? cat : "",
-               (sub && sub[0]) ? sub : "",
-               (lvl && lvl[0]) ? lvl : "",
-               tbuf,
-               players ? players : "",
-               (link && link[0]) ? link : "");
+        char vbuf[64];
+        format_pretty_et((time_t)v, vbuf, sizeof(vbuf));
+
+        printf("<tr>\n");
+
+        printf("<td style=\"white-space: nowrap;\">");
+        fputs_html_escaped(stdout, vbuf);
+        printf("</td>\n");
+
+        printf("<td style=\"word-break: break-word;\">");
+        fputs_html_escaped(stdout, game ? game : "");
+        printf("</td>\n");
+
+        printf("<td style=\"word-break: break-word;\">");
+        fputs_html_escaped(stdout, cat ? cat : "");
+        printf("</td>\n");
+
+        printf("<td style=\"word-break: break-word;\">");
+        fputs_html_escaped(stdout, (sub && sub[0]) ? sub : "");
+        printf("</td>\n");
+
+        printf("<td style=\"word-break: break-word;\">");
+        fputs_html_escaped(stdout, (lvl && lvl[0]) ? lvl : "");
+        printf("</td>\n");
+
+        printf("<td align=\"right\" style=\"white-space: nowrap;\">");
+        fputs_html_escaped(stdout, tbuf);
+        printf("</td>\n");
+
+        printf("<td style=\"word-break: break-word;\">");
+        fputs_html_escaped(stdout, players ? players : "");
+        printf("</td>\n");
+
+        printf("<td style=\"white-space: nowrap;\">");
+        if (link && link[0]) {
+            printf("<a href=\"");
+            fputs_html_escaped(stdout, link);
+            printf("\">🔗</a>");
+        }
+        printf("</td>\n");
+
+        printf("</tr>\n");
+
         printed++;
     }
 
     if (printed == 0) {
-        printf("|  | _None_ |  |  |  |  |  |  |\n");
+        printf("<tr><td colspan=\"8\"><em>None</em></td></tr>\n");
     }
 
-    printf("\n");
+    printf("</tbody>\n");
+    printf("</table>\n");
+    printf("</div>\n\n");
 }
 
 /* ----------------- main ----------------- */
 
 int main(void) {
     init_debug_from_env();
+    init_tz_eastern(); // affects README time formatting via localtime()
 
     if (!ensure_dir("data")) {
         fprintf(stderr, "Failed to ensure ./data directory\n");
@@ -1383,7 +1461,7 @@ int main(void) {
     LOG("After scan: wrs.json entries=%d new_last_seen=%ld", cJSON_GetArraySize(wrs), new_last_seen);
     LOG("Saved state+wrs.");
 
-    // Output markdown
+    // Output markdown/HTML (GitHub README supports inline HTML)
     printf("## 🏁 Live #1 Records\n\n");
     printf("_Updated hourly via GitHub Actions._\n\n");
 
