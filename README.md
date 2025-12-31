@@ -1,6 +1,6 @@
 # speedrun-record-watch
 
-This repository is a comprehensive list of changes to **#1 spots** on the **Speedrun.com** leaderboards. The positions are updated hourly.
+This repository is a comprehensive list of changes to **#1 spots** on the **speedrun.com** leaderboards. The positions are updated hourly.
 
 
 <!-- WR-DAILY:START -->

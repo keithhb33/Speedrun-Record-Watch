@@ -541,6 +541,57 @@ static const char *get_game_asset_uri_from_run(cJSON *runObj, const char *asset_
     return (uri && uri[0]) ? uri : NULL;
 }
 
+/* Normalize cover URLs:
+   - force https
+   - change ".../cover?..." to ".../cover.png?..." (or ".../cover.png" if no query)
+*/
+static void normalize_cover_uri(const char *in, char *out, size_t outsz) {
+    if (!out || outsz == 0) return;
+    out[0] = '\0';
+    if (!in || !in[0]) return;
+
+    char tmp[1024];
+    tmp[0] = '\0';
+
+    // 1) http -> https
+    if (strncmp(in, "http://", 7) == 0) {
+        snprintf(tmp, sizeof(tmp), "https://%s", in + 7);
+    } else {
+        snprintf(tmp, sizeof(tmp), "%s", in);
+    }
+
+    // 2) insert .png after /cover if not already present
+    const char *p = strstr(tmp, "/cover");
+    if (!p) {
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+
+    // already cover.png ?
+    if (strncmp(p, "/cover.png", 9) == 0) {
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+
+    // build: prefix (up through "/cover") + ".png" + suffix
+    size_t prefix_len = (size_t)(p - tmp) + strlen("/cover");
+    if (prefix_len >= sizeof(tmp)) { // defensive
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+
+    char prefix[1024];
+    if (prefix_len >= sizeof(prefix)) {
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+    memcpy(prefix, tmp, prefix_len);
+    prefix[prefix_len] = '\0';
+
+    const char *suffix = tmp + prefix_len; // starts at '?' or end or anything after "cover"
+    snprintf(out, outsz, "%s.png%s", prefix, suffix);
+}
+
 static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
     out[0] = '\0';
     cJSON *players = cJSON_GetObjectItemCaseSensitive(runObj, "players");
@@ -706,9 +757,6 @@ static const char *fetch_top1_run_id(CURL *curl,
                                      const char *catId,
                                      const char *levelId,
                                      cJSON *valuesObj) {
-    static long s_lb_calls = 0;
-    s_lb_calls++;
-
     char *key = make_lb_key(gameId, catId, levelId, valuesObj);
     if (!key) return NULL;
 
@@ -853,7 +901,6 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
                                  cJSON *run,
                                  long verified_epoch,
                                  const char *verify_date) {
-    (void)curl; // kept for signature parity (used by subcategory formatting)
     const char *runId = json_get_string(run, "id");
     if (!runId) return;
     if (strset_has(runIds, runId)) return;
@@ -870,11 +917,17 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
 
     if (!gameId || !catId) return;
 
-    // Prefer tiny cover to keep README compact. Fall back to small/medium.
-    const char *cover_uri = get_game_asset_uri_from_run(run, "cover-tiny");
-    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "cover-small");
-    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "cover-medium");
-    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "icon");
+    // Prefer tiny cover to keep README compact.
+    const char *cover_uri_raw = get_game_asset_uri_from_run(run, "cover-tiny");
+    if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "cover-small");
+    if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "cover-medium");
+    if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "icon");
+
+    char cover_uri[1024];
+    cover_uri[0] = '\0';
+    if (cover_uri_raw && cover_uri_raw[0]) {
+        normalize_cover_uri(cover_uri_raw, cover_uri, sizeof(cover_uri));
+    }
 
     double primary_t = -1;
     cJSON *times = cJSON_GetObjectItemCaseSensitive(run, "times");
@@ -892,7 +945,7 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
     cJSON_AddNumberToObject(obj, "verified_epoch", (double)verified_epoch);
     cJSON_AddStringToObject(obj, "verified_iso", verify_date ? verify_date : "");
     cJSON_AddStringToObject(obj, "game", gameName ? gameName : gameId);
-    cJSON_AddStringToObject(obj, "game_cover", cover_uri ? cover_uri : "");
+    cJSON_AddStringToObject(obj, "game_cover", cover_uri[0] ? cover_uri : "");
     cJSON_AddStringToObject(obj, "category", catName ? catName : catId);
     cJSON_AddStringToObject(obj, "level", (levelId ? (levelName ? levelName : levelId) : ""));
     cJSON_AddStringToObject(obj, "subcats", subcats ? subcats : "");
@@ -1294,7 +1347,7 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     return new_last_seen;
 }
 
-/* ----------------- README rendering (zoomed-out markdown table + game cover) ----------------- */
+/* ----------------- README rendering (no trunc except Subcategories) ----------------- */
 
 static void fputs_html_escaped(FILE *fp, const char *s) {
     if (!s) return;
@@ -1312,7 +1365,15 @@ static void fputs_html_escaped(FILE *fp, const char *s) {
     }
 }
 
-static void print_cell_zoomed(const char *s, int max_chars) {
+/* Plain cell (no trunc) */
+static void print_cell_plain_sub(const char *s) {
+    printf("<sub>");
+    fputs_html_escaped(stdout, s ? s : "");
+    printf("</sub>");
+}
+
+/* Truncated cell ONLY for subcategories */
+static void print_cell_subcat_trunc(const char *s, int max_chars) {
     if (!s) s = "";
     int n = (int)strlen(s);
     int trunc = (max_chars > 0 && n > max_chars);
@@ -1346,52 +1407,37 @@ static void print_cell_zoomed(const char *s, int max_chars) {
     printf("</span></sub>");
 }
 
-static void print_game_cell_zoomed(const char *game_name, const char *cover_uri, int max_chars) {
+/* Game cell: image ABOVE the text; image ~50% bigger */
+static void print_game_cell_with_cover(const char *game_name, const char *cover_uri_maybe) {
     if (!game_name) game_name = "";
 
-    printf("<sub>");
+    char cover_norm[1024];
+    cover_norm[0] = '\0';
+    if (cover_uri_maybe && cover_uri_maybe[0]) {
+        normalize_cover_uri(cover_uri_maybe, cover_norm, sizeof(cover_norm));
+    }
 
-    if (cover_uri && cover_uri[0]) {
+    // Keep the cell compact/zoomed-out but do NOT truncate game name
+    printf("<div style=\"text-align:center;\">");
+
+    if (cover_norm[0]) {
+        // 18px -> 27px (~50% bigger)
         printf("<img src=\"");
-        fputs_html_escaped(stdout, cover_uri);
-        printf("\" alt=\"\" width=\"18\" height=\"18\" style=\"vertical-align: middle; margin-right: 4px;\"/>");
+        fputs_html_escaped(stdout, cover_norm);
+        printf("\" alt=\"\" width=\"27\" style=\"display:block; margin:0 auto 4px auto;\"/>");
     }
 
-    // reuse the trunc+tooltip behavior for the title
-    printf("<span title=\"");
+    printf("<sub>");
     fputs_html_escaped(stdout, game_name);
-    printf("\">");
+    printf("</sub>");
 
-    int n = (int)strlen(game_name);
-    int trunc = (max_chars > 0 && n > max_chars);
-    if (!trunc || max_chars <= 0) {
-        fputs_html_escaped(stdout, game_name);
-    } else {
-        int take = max_chars - 1;
-        if (take < 0) take = 0;
-
-        int end = take;
-        while (end > 0) {
-            unsigned char c = (unsigned char)game_name[end];
-            if ((c & 0xC0) != 0x80) break;
-            end--;
-        }
-        if (end <= 0) end = take;
-
-        for (int i = 0; i < end && game_name[i]; i++) {
-            char tmp[2] = { game_name[i], 0 };
-            fputs_html_escaped(stdout, tmp);
-        }
-        printf("…");
-    }
-
-    printf("</span></sub>");
+    printf("</div>");
 }
 
 static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_epoch) {
     printf("### %s\n\n", title);
 
-    printf("| <sub>When (ET)</sub> | <sub>Game</sub> | <sub>Cat</sub> | <sub>Subcat</sub> | <sub>Lvl</sub> | <sub>Time</sub> | <sub>Runners</sub> | <sub>Link</sub> |\n");
+    printf("| <sub>When (ET)</sub> | <sub>Game</sub> | <sub>Category</sub> | <sub>Subcategory</sub> | <sub>Level</sub> | <sub>Time</sub> | <sub>Runner(s)</sub> | <sub>Link</sub> |\n");
     printf("|---|---|---|---|---|---:|---|---|\n");
 
     int printed = 0;
@@ -1416,19 +1462,19 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         format_pretty_et((time_t)v, when_buf, sizeof(when_buf));
 
         printf("| ");
-        print_cell_zoomed(when_buf, 18);
+        print_cell_plain_sub(when_buf);
         printf(" | ");
-        print_game_cell_zoomed(game ? game : "", (game_cover && game_cover[0]) ? game_cover : NULL, 18);
+        print_game_cell_with_cover(game ? game : "", (game_cover && game_cover[0]) ? game_cover : NULL);
         printf(" | ");
-        print_cell_zoomed(cat ? cat : "", 16);
+        print_cell_plain_sub(cat ? cat : "");
         printf(" | ");
-        print_cell_zoomed((sub && sub[0]) ? sub : "", 16);
+        print_cell_subcat_trunc((sub && sub[0]) ? sub : "", 20);   // ONLY trunc column
         printf(" | ");
-        print_cell_zoomed((lvl && lvl[0]) ? lvl : "", 14);
+        print_cell_plain_sub((lvl && lvl[0]) ? lvl : "");
         printf(" | <sub>");
         fputs_html_escaped(stdout, tbuf);
         printf("</sub> | ");
-        print_cell_zoomed(players ? players : "", 16);
+        print_cell_plain_sub(players ? players : "");
         printf(" | ");
 
         if (link && link[0]) {
