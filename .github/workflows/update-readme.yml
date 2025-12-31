@@ -2,7 +2,7 @@ name: Update README (daily records)
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # at minute 7, every 2 hours
+    - cron: "0 */1 * * *"   # at minute 0, every 1 hour
   workflow_dispatch: {}
 
 concurrency:
