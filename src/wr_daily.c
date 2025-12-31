@@ -157,13 +157,6 @@ static time_t parse_iso8601_utc(const char *s) {
     return timegm(&tmv);
 }
 
-static void format_iso_utc(time_t t, char *out, size_t outsz) {
-    if (!out || outsz == 0) return;
-    struct tm tmv;
-    gmtime_r(&t, &tmv);
-    strftime(out, outsz, "%Y-%m-%dT%H:%M:%SZ", &tmv);
-}
-
 /* --- README timestamp formatting in Eastern Time (ET; shows EST/EDT) --- */
 static void init_tz_eastern(void) {
     setenv("TZ", "America/New_York", 1);
@@ -602,6 +595,68 @@ static void normalize_uri_https(const char *in, char *out, size_t outsz) {
     }
 }
 
+/* Normalize speedrun.com user image URLs:
+   - force https
+   - change ".../image?..." to ".../image.png?..." (or ".../image.png" if no query)
+   Examples:
+     https://www.speedrun.com/static/user/abc/image?v=123  -> https://www.speedrun.com/static/user/abc/image.png?v=123
+     http://www.speedrun.com/static/user/abc/image         -> https://www.speedrun.com/static/user/abc/image.png
+*/
+static void normalize_user_image_uri(const char *in, char *out, size_t outsz) {
+    if (!out || outsz == 0) return;
+    out[0] = '\0';
+    if (!in || !in[0]) return;
+
+    char tmp[1024];
+    tmp[0] = '\0';
+
+    /* https */
+    if (strncmp(in, "http://", 7) == 0) {
+        snprintf(tmp, sizeof(tmp), "https://%s", in + 7);
+    } else {
+        snprintf(tmp, sizeof(tmp), "%s", in);
+    }
+
+    /* find last "/image" occurrence */
+    const char *p = NULL;
+    const char *q = tmp;
+    while ((q = strstr(q, "/image")) != NULL) {
+        p = q;
+        q += 6; /* strlen("/image") */
+    }
+
+    if (!p) {
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+
+    /* already has .png */
+    if (strncmp(p, "/image.png", 10) == 0) {
+        snprintf(out, outsz, "%s", tmp);
+        return;
+    }
+
+    /* only rewrite if it's exactly "/image" followed by end or query/fragment */
+    if (strncmp(p, "/image", 6) == 0) {
+        char after = p[6];
+        if (after == '\0' || after == '?' || after == '#') {
+            size_t prelen = (size_t)(p - tmp) + 6; /* include "/image" */
+            if (prelen >= sizeof(tmp)) {
+                snprintf(out, outsz, "%s", tmp);
+                return;
+            }
+
+            /* out = tmp[0:prelen] + ".png" + tmp[prelen:] */
+            /* tmp[prelen:] starts at '?' or '\0' or '#' */
+            int written = snprintf(out, outsz, "%.*s.png%s", (int)prelen, tmp, tmp + prelen);
+            if (written < 0) out[0] = '\0';
+            return;
+        }
+    }
+
+    snprintf(out, outsz, "%s", tmp);
+}
+
 static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
     out[0] = '\0';
     cJSON *players = cJSON_GetObjectItemCaseSensitive(runObj, "players");
@@ -668,7 +723,10 @@ static cJSON *build_players_array(cJSON *runObj) {
 
         char img[1024];
         img[0] = '\0';
-        if (img_raw && img_raw[0]) normalize_uri_https(img_raw, img, sizeof(img));
+        if (img_raw && img_raw[0]) {
+            /* IMPORTANT: user avatars require ".png" inserted after "/image" */
+            normalize_user_image_uri(img_raw, img, sizeof(img));
+        }
 
         cJSON *o = cJSON_CreateObject();
         cJSON_AddStringToObject(o, "name", name);
@@ -1264,8 +1322,6 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     long runs_seen = 0;
     long runs_checked = 0;
     long keys_processed = 0;
-    time_t newest = 0;
-    time_t oldest = 0;
 
     while (1) {
         pages++;
@@ -1321,9 +1377,6 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             if (vtime == (time_t)-1) continue;
 
             runs_seen++;
-            if (newest == 0) newest = vtime;
-            oldest = vtime;
-
             if ((long)vtime > new_last_seen) new_last_seen = (long)vtime;
 
             if ((long)vtime < scan_floor) { stop = 1; break; }
@@ -1440,7 +1493,7 @@ static void print_cell_subcat_trunc(const char *s, int max_chars) {
     printf("</span></sub>");
 }
 
-/* Game cell: image + <br/> + title (exactly like your example) */
+/* Game cell: image + <br/> + title */
 static void print_game_cell_with_cover(const char *game_name, const char *cover_uri_maybe) {
     if (!game_name) game_name = "";
 
@@ -1468,7 +1521,7 @@ static void print_game_cell_with_cover(const char *game_name, const char *cover_
     printf("</div>");
 }
 
-/* Runner(s) cell: avatars + <br/> + names (like game cell vibe) */
+/* Runner(s) cell: avatars + <br/> + names */
 static void print_runners_cell_with_avatars(cJSON *players_data, const char *fallback_names) {
     if (!cJSON_IsArray(players_data) || cJSON_GetArraySize(players_data) <= 0) {
         print_cell_plain_sub(fallback_names ? fallback_names : "");
