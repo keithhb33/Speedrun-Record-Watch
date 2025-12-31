@@ -1104,10 +1104,12 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     long new_last_seen = last_seen_epoch;
 
     long scan_floor;
+    const long overlap_sec = 3 * 3600;
+
     if (last_seen_epoch > 0) {
-        scan_floor = last_seen_epoch - 6 * 3600;   // overlap
+        scan_floor = last_seen_epoch - overlap_sec;
     } else {
-        scan_floor = (long)prune_cutoff_epoch - 6 * 3600;
+        scan_floor = (long)prune_cutoff_epoch - overlap_sec;
     }
     if (scan_floor < 0) scan_floor = 0;
 
