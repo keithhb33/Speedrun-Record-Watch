@@ -13,4 +13,4 @@ _Updating..._
 sudo apt-get update
 sudo apt-get install -y build-essential libcurl4-openssl-dev libcjson-dev
 make
-./wr_weekly
+./wr_daily
