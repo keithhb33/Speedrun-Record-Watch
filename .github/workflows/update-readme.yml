@@ -1,4 +1,4 @@
-name: Update README (live records)
+name: Update README (daily records)
 
 on:
   #schedule:
@@ -30,7 +30,7 @@ jobs:
       - name: Generate section
         run: |
           mkdir -p data
-          ./wr_weekly > /tmp/wr_sections.md
+          ./wr_daily > /tmp/wr_sections.md
 
       - name: Update README
         run: |
@@ -45,5 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md data/state.json data/wrs.json
-          git commit -m "chore: update live record sections"
+          git commit -m "chore: update daily record sections"
           git push

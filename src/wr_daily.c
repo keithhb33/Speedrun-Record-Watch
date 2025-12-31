@@ -157,6 +157,13 @@ static time_t parse_iso8601_utc(const char *s) {
     return timegm(&tmv);
 }
 
+static void format_iso_utc(time_t t, char *out, size_t outsz) {
+    if (!out || outsz == 0) return;
+    struct tm tmv;
+    gmtime_r(&t, &tmv);
+    strftime(out, outsz, "%Y-%m-%dT%H:%M:%SZ", &tmv);
+}
+
 /* ----------------- fs helpers ----------------- */
 
 static int ensure_dir(const char *path) {
@@ -930,7 +937,7 @@ static int lbrun_cmp_epoch_asc(const void *a, const void *b) {
 static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
                                       cJSON *wrs, StrSet *runIds,
                                       const char *gameId, const char *catId, const char *levelId, cJSON *valuesObj,
-                                      time_t cutoff_7d) {
+                                      time_t cutoff_epoch) {
     const int TOPN = 200;
     char url[2048];
     build_leaderboard_url_top(url, sizeof(url), gameId, catId, levelId, valuesObj, TOPN);
@@ -1007,7 +1014,7 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
     // Determine baseline best time before cutoff, if available in our TOPN slice.
     double baseline_best = INFINITY;
     for (int i = 0; i < n; i++) {
-        if (infos[i].verified_epoch > 0 && (time_t)infos[i].verified_epoch < cutoff_7d) {
+        if (infos[i].verified_epoch > 0 && (time_t)infos[i].verified_epoch < cutoff_epoch) {
             if (infos[i].primary_t < baseline_best) baseline_best = infos[i].primary_t;
         }
     }
@@ -1018,7 +1025,7 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
     int cN = 0;
     for (int i = 0; i < n; i++) {
         if (infos[i].verified_epoch <= 0) continue;
-        if ((time_t)infos[i].verified_epoch < cutoff_7d) continue;
+        if ((time_t)infos[i].verified_epoch < cutoff_epoch) continue;
         cand[cN].run_id = strdup(infos[i].run_id);
         cand[cN].primary_t = infos[i].primary_t;
         cand[cN].verified_epoch = infos[i].verified_epoch;
@@ -1072,7 +1079,7 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
         }
 
         // Ensure it's still in window (defensive)
-        if ((time_t)ve >= cutoff_7d) {
+        if ((time_t)ve >= cutoff_epoch) {
             add_wr_entry_from_run(curl, catCache, wrs, runIds, runFull, ve, iso);
         }
 
@@ -1222,6 +1229,28 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             if ((runs_checked % 40) == 0) usleep(2000);
         }
 
+        // ---- human-friendly progress estimate ----
+        if (g_debug && newest != 0 && oldest != 0) {
+            double total = difftime(newest, (time_t)scan_floor);   // seconds from newest down to scan_floor
+            double done  = difftime(newest, oldest);              // seconds from newest down to oldest on this page
+            double pct = 0.0;
+            if (total > 0.0) {
+                pct = (done / total) * 100.0;
+                if (pct < 0.0) pct = 0.0;
+                if (pct > 100.0) pct = 100.0;
+            }
+
+            char oldest_iso[32], floor_iso[32];
+            format_iso_utc(oldest, oldest_iso, sizeof(oldest_iso));
+            format_iso_utc((time_t)scan_floor, floor_iso, sizeof(floor_iso));
+
+            double remaining = difftime(oldest, (time_t)scan_floor); // seconds remaining until scan_floor
+            if (remaining < 0) remaining = 0;
+
+            LOG("Scan progress: oldest=%s scan_floor=%s done=%.1f%% remaining≈%.2f hours",
+                oldest_iso, floor_iso, pct, remaining / 3600.0);
+        }
+
         LOG("Page done: pages=%ld seen=%ld checked=%ld keys_processed=%ld newest=%ld oldest=%ld",
             pages, runs_seen, runs_checked, keys_processed, (long)newest, (long)oldest);
 
@@ -1302,10 +1331,9 @@ int main(void) {
     time_t now = time(NULL);
     time_t cutoff_1h  = now - 1 * 3600;
     time_t cutoff_24h = now - 24 * 3600;
-    time_t cutoff_7d  = now - 7 * 24 * 3600;
 
-    LOG("Start. now=%ld cutoff_1h=%ld cutoff_24h=%ld cutoff_7d=%ld",
-        (long)now, (long)cutoff_1h, (long)cutoff_24h, (long)cutoff_7d);
+    LOG("Start. now=%ld cutoff_1h=%ld cutoff_24h=%ld",
+        (long)now, (long)cutoff_1h, (long)cutoff_24h);
 
     curl_global_init(CURL_GLOBAL_DEFAULT);
     CURL *curl = curl_easy_init();
@@ -1318,8 +1346,8 @@ int main(void) {
     long last_seen_epoch = load_last_seen_epoch();
     cJSON *wrs = load_wrs_array();
 
-    // Always prune first (keeps file small)
-    prune_old_wrs(wrs, cutoff_7d);
+    // Always prune first (keeps file small) — keep only last 24 hours
+    prune_old_wrs(wrs, cutoff_24h);
 
     // Build run-id set from pruned cache
     StrSet runIds = {0};
@@ -1339,7 +1367,7 @@ int main(void) {
     CatVarCache *catCache = NULL;
     LbCache *lbCache = NULL;
 
-    long new_last_seen = scan_new_runs_and_update(curl, &catCache, &lbCache, wrs, &runIds, last_seen_epoch, cutoff_7d);
+    long new_last_seen = scan_new_runs_and_update(curl, &catCache, &lbCache, wrs, &runIds, last_seen_epoch, cutoff_24h);
 
     // Sort newest-first for rendering and persistence
     cJSON *sorted = sorted_wrs_dup(wrs);
@@ -1359,7 +1387,6 @@ int main(void) {
 
     print_section_from_wrs("Past hour", wrs, cutoff_1h);
     print_section_from_wrs("Past 24 hours", wrs, cutoff_24h);
-    print_section_from_wrs("Past 7 days", wrs, cutoff_7d);
 
     cJSON_Delete(wrs);
     free_cache(catCache);

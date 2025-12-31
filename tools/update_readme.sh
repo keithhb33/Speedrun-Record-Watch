@@ -9,8 +9,8 @@ if [[ -z "${NEW_CONTENT_FILE}" || ! -f "${NEW_CONTENT_FILE}" ]]; then
   exit 2
 fi
 
-START="<!-- WR-WEEKLY:START -->"
-END="<!-- WR-WEEKLY:END -->"
+START="<!-- WR-DAILY:START -->"
+END="<!-- WR-DAILY:END -->"
 
 tmp="$(mktemp)"
 

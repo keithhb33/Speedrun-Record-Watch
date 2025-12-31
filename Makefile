@@ -4,13 +4,13 @@ LDLIBS := -lcurl -lcjson
 
 .PHONY: all clean run
 
-all: wr_weekly
+all: wr_daily
 
-wr_weekly: src/wr_weekly.c
+wr_daily: src/wr_daily.c
 	$(CC) $(CFLAGS) -o $@ $< $(LDLIBS)
 
-run: wr_weekly
-	./wr_weekly > /tmp/wr_sections.md
+run: wr_daily
+	./wr_daily > /tmp/wr_sections.md
 
 clean:
-	rm -f wr_weekly
+	rm -f wr_daily
