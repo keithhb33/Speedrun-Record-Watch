@@ -587,6 +587,21 @@ static void normalize_cover_uri(const char *in, char *out, size_t outsz) {
     snprintf(out, outsz, "%s.png%s", prefix, suffix);
 }
 
+/* Normalize any URI:
+   - force https if it starts with http://
+*/
+static void normalize_uri_https(const char *in, char *out, size_t outsz) {
+    if (!out || outsz == 0) return;
+    out[0] = '\0';
+    if (!in || !in[0]) return;
+
+    if (strncmp(in, "http://", 7) == 0) {
+        snprintf(out, outsz, "https://%s", in + 7);
+    } else {
+        snprintf(out, outsz, "%s", in);
+    }
+}
+
 static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
     out[0] = '\0';
     cJSON *players = cJSON_GetObjectItemCaseSensitive(runObj, "players");
@@ -616,6 +631,58 @@ static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
         used += clen;
         out[used] = '\0';
     }
+}
+
+/* Build players array with avatar + profile link from embedded run.players.data */
+static cJSON *build_players_array(cJSON *runObj) {
+    cJSON *players = cJSON_GetObjectItemCaseSensitive(runObj, "players");
+    if (cJSON_IsObject(players)) players = cJSON_GetObjectItemCaseSensitive(players, "data");
+    if (!cJSON_IsArray(players)) return NULL;
+
+    cJSON *out = cJSON_CreateArray();
+    if (!out) return NULL;
+
+    cJSON *p = NULL;
+    cJSON_ArrayForEach(p, players) {
+        const char *name = json_get_string(p, "name");
+        if (!name) {
+            cJSON *names = cJSON_GetObjectItemCaseSensitive(p, "names");
+            if (cJSON_IsObject(names)) name = json_get_string(names, "international");
+        }
+        if (!name) name = json_get_string(p, "id");
+        if (!name) name = "unknown";
+
+        const char *weblink = json_get_string(p, "weblink");
+
+        const char *img_raw = NULL;
+        cJSON *assets = cJSON_GetObjectItemCaseSensitive(p, "assets");
+        if (cJSON_IsObject(assets)) {
+            cJSON *imgObj = cJSON_GetObjectItemCaseSensitive(assets, "image");
+            if (cJSON_IsObject(imgObj)) img_raw = json_get_string(imgObj, "uri");
+
+            if (!img_raw || !img_raw[0]) {
+                cJSON *iconObj = cJSON_GetObjectItemCaseSensitive(assets, "icon");
+                if (cJSON_IsObject(iconObj)) img_raw = json_get_string(iconObj, "uri");
+            }
+        }
+
+        char img[1024];
+        img[0] = '\0';
+        if (img_raw && img_raw[0]) normalize_uri_https(img_raw, img, sizeof(img));
+
+        cJSON *o = cJSON_CreateObject();
+        cJSON_AddStringToObject(o, "name", name);
+        cJSON_AddStringToObject(o, "weblink", (weblink && weblink[0]) ? weblink : "");
+        cJSON_AddStringToObject(o, "image", img[0] ? img : "");
+        cJSON_AddItemToArray(out, o);
+    }
+
+    if (cJSON_GetArraySize(out) == 0) {
+        cJSON_Delete(out);
+        return NULL;
+    }
+
+    return out;
 }
 
 /* ----------------- leaderboard top-1 cache (in-memory) ----------------- */
@@ -888,7 +955,7 @@ static cJSON *sorted_wrs_dup(cJSON *arr) {
     return out;
 }
 
-/* ----------------- add WR entry (store game cover) ----------------- */
+/* ----------------- add WR entry (store game cover + players_data) ----------------- */
 
 static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
                                  cJSON *wrs, StrSet *runIds,
@@ -932,6 +999,8 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
     char players[512];
     print_players_compact(run, players, sizeof(players));
 
+    cJSON *players_data = build_players_array(run);
+
     char *subcats = format_subcategories(curl, catCache, catId, valuesObj);
 
     cJSON *obj = cJSON_CreateObject();
@@ -945,6 +1014,9 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
     cJSON_AddStringToObject(obj, "subcats", subcats ? subcats : "");
     cJSON_AddNumberToObject(obj, "primary_t", primary_t);
     cJSON_AddStringToObject(obj, "players", players);
+    if (players_data) {
+        cJSON_AddItemToObject(obj, "players_data", players_data);
+    }
     cJSON_AddStringToObject(obj, "weblink", weblink ? weblink : "");
 
     free(subcats);
@@ -1386,13 +1458,63 @@ static void print_game_cell_with_cover(const char *game_name, const char *cover_
         printf("\" alt=\"\" width=\"60\" style=\"display:block; margin:0 auto 4px auto;\"/>");
         printf("<br/>");
     } else {
-        // still keep the line break so layout matches
         printf("<br/>");
     }
 
     printf("<sub>");
     fputs_html_escaped(stdout, game_name);
     printf("</sub>");
+
+    printf("</div>");
+}
+
+/* Runner(s) cell: avatars + <br/> + names (like game cell vibe) */
+static void print_runners_cell_with_avatars(cJSON *players_data, const char *fallback_names) {
+    if (!cJSON_IsArray(players_data) || cJSON_GetArraySize(players_data) <= 0) {
+        print_cell_plain_sub(fallback_names ? fallback_names : "");
+        return;
+    }
+
+    printf("<div style=\"display:flex; gap:6px; justify-content:center; align-items:flex-start;\">");
+
+    int n = cJSON_GetArraySize(players_data);
+    for (int i = 0; i < n; i++) {
+        cJSON *p = cJSON_GetArrayItem(players_data, i);
+        if (!cJSON_IsObject(p)) continue;
+
+        const char *name = json_get_string(p, "name");
+        const char *img  = json_get_string(p, "image");
+        const char *link = json_get_string(p, "weblink");
+
+        if (!name) name = "unknown";
+        if (!img) img = "";
+        if (!link) link = "";
+
+        printf("<div style=\"text-align:center;\">");
+
+        if (img[0]) {
+            if (link[0]) {
+                printf("<a href=\"");
+                fputs_html_escaped(stdout, link);
+                printf("\">");
+            }
+
+            printf("<img src=\"");
+            fputs_html_escaped(stdout, img);
+            printf("\" alt=\"\" width=\"40\" style=\"display:block; margin:0 auto 4px auto; border-radius:50%%;\"/>");
+
+            if (link[0]) printf("</a>");
+            printf("<br/>");
+        } else {
+            printf("<br/>");
+        }
+
+        printf("<sub>");
+        fputs_html_escaped(stdout, name);
+        printf("</sub>");
+
+        printf("</div>");
+    }
 
     printf("</div>");
 }
@@ -1415,6 +1537,7 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         const char *sub = json_get_string(it, "subcats");
         const char *lvl = json_get_string(it, "level");
         const char *players = json_get_string(it, "players");
+        cJSON *players_data = cJSON_GetObjectItemCaseSensitive(it, "players_data");
         const char *link = json_get_string(it, "weblink");
         double t = json_get_number(it, "primary_t", -1);
 
@@ -1437,7 +1560,9 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         printf(" | <sub>");
         fputs_html_escaped(stdout, tbuf);
         printf("</sub> | ");
-        print_cell_plain_sub(players ? players : "");
+
+        print_runners_cell_with_avatars(players_data, players ? players : "");
+
         printf(" | ");
 
         if (link && link[0]) {
@@ -1457,6 +1582,36 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
     }
 
     printf("\n");
+}
+
+/* Upgrade existing recent wrs.json entries (within cutoff) with players_data so avatars show immediately */
+static void enrich_recent_entries_with_players_data(CURL *curl, cJSON *wrs, time_t cutoff_epoch) {
+    if (!cJSON_IsArray(wrs)) return;
+
+    cJSON *it = NULL;
+    cJSON_ArrayForEach(it, wrs) {
+        if (!cJSON_IsObject(it)) continue;
+
+        long v = json_get_long(it, "verified_epoch", 0);
+        if ((time_t)v < cutoff_epoch) continue;
+
+        if (cJSON_GetObjectItemCaseSensitive(it, "players_data")) continue;
+
+        const char *rid = json_get_string(it, "run_id");
+        if (!rid || !rid[0]) continue;
+
+        cJSON *runFull = fetch_run_details(curl, rid, 1);
+        if (!runFull) continue;
+
+        cJSON *arr = build_players_array(runFull);
+        cJSON_Delete(runFull);
+
+        if (arr) {
+            cJSON_AddItemToObject(it, "players_data", arr);
+        }
+
+        usleep(2000);
+    }
 }
 
 /* ----------------- main ----------------- */
@@ -1500,6 +1655,9 @@ int main(void) {
         const char *rid = json_get_string(it, "run_id");
         if (rid) strset_add(&runIds, rid);
     }
+
+    /* Ensure avatars show for already-saved recent entries */
+    enrich_recent_entries_with_players_data(curl, wrs, cutoff_24h);
 
     LOG("Loaded state: last_seen_epoch=%ld", last_seen_epoch);
     LOG("Loaded wrs.json (post-prune): %d entries", cJSON_GetArraySize(wrs));
