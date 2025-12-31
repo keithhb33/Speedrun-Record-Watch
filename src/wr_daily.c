@@ -1308,19 +1308,35 @@ static void fputs_html_escaped(FILE *fp, const char *s) {
 static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_epoch) {
     printf("### %s\n\n", title);
 
-    // Scrollable table container; full-width; wraps text to avoid horizontal scrolling.
-    printf("<div style=\"max-height: 520px; overflow-y: auto; border: 1px solid #d0d7de; border-radius: 8px; padding: 6px;\">\n");
+    printf("<div style=\"height: 520px; overflow-y: auto; overflow-x: hidden; "
+           "overscroll-behavior: contain; border: 1px solid #d0d7de; "
+           "border-radius: 8px; padding: 6px;\">\n");
+
+    // table-layout: fixed + explicit col widths ensures the Link column stays on-screen.
     printf("<table style=\"width: 100%%; border-collapse: collapse; table-layout: fixed;\">\n");
 
+    // Column widths tuned to keep important columns visible without horizontal scrolling.
+    // Remaining space is distributed across the flexible columns.
+    printf("<colgroup>\n");
+    printf("  <col style=\"width: 190px;\">\n"); // Verified (ET)
+    printf("  <col style=\"width: auto;\">\n");  // Game
+    printf("  <col style=\"width: auto;\">\n");  // Category
+    printf("  <col style=\"width: auto;\">\n");  // Subcategory
+    printf("  <col style=\"width: 160px;\">\n"); // Level
+    printf("  <col style=\"width: 90px;\">\n");  // Time
+    printf("  <col style=\"width: 220px;\">\n"); // Runner(s)
+    printf("  <col style=\"width: 70px;\">\n");  // Link
+    printf("</colgroup>\n");
+
     printf("<thead>\n<tr>\n");
-    printf("<th align=\"left\" style=\"white-space: nowrap;\">Verified (ET)</th>\n");
-    printf("<th align=\"left\">Game</th>\n");
-    printf("<th align=\"left\">Category</th>\n");
-    printf("<th align=\"left\">Subcategory</th>\n");
-    printf("<th align=\"left\">Level</th>\n");
-    printf("<th align=\"right\" style=\"white-space: nowrap;\">Time</th>\n");
-    printf("<th align=\"left\">Runner(s)</th>\n");
-    printf("<th align=\"left\" style=\"white-space: nowrap;\">Link</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Verified (ET)</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Game</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Category</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Subcategory</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Level</th>\n");
+    printf("<th align=\"right\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Time</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Runner(s)</th>\n");
+    printf("<th align=\"left\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Link</th>\n");
     printf("</tr>\n</thead>\n");
 
     printf("<tbody>\n");
@@ -1347,39 +1363,41 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
 
         printf("<tr>\n");
 
-        printf("<td style=\"white-space: nowrap;\">");
+        printf("<td style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, vbuf);
         printf("</td>\n");
 
-        printf("<td style=\"word-break: break-word;\">");
+        // Use overflow-wrap:anywhere so long names wrap instead of forcing horizontal scroll.
+        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, game ? game : "");
         printf("</td>\n");
 
-        printf("<td style=\"word-break: break-word;\">");
+        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, cat ? cat : "");
         printf("</td>\n");
 
-        printf("<td style=\"word-break: break-word;\">");
+        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, (sub && sub[0]) ? sub : "");
         printf("</td>\n");
 
-        printf("<td style=\"word-break: break-word;\">");
+        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, (lvl && lvl[0]) ? lvl : "");
         printf("</td>\n");
 
-        printf("<td align=\"right\" style=\"white-space: nowrap;\">");
+        printf("<td align=\"right\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, tbuf);
         printf("</td>\n");
 
-        printf("<td style=\"word-break: break-word;\">");
+        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
         fputs_html_escaped(stdout, players ? players : "");
         printf("</td>\n");
 
-        printf("<td style=\"white-space: nowrap;\">");
+        // Link column: always visible; show a short label so it fits.
+        printf("<td style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
         if (link && link[0]) {
             printf("<a href=\"");
             fputs_html_escaped(stdout, link);
-            printf("\">🔗</a>");
+            printf("\">open</a>");
         }
         printf("</td>\n");
 
@@ -1389,13 +1407,17 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
     }
 
     if (printed == 0) {
-        printf("<tr><td colspan=\"8\"><em>None</em></td></tr>\n");
+        printf("<tr><td colspan=\"8\" style=\"padding: 6px;\"><em>None</em></td></tr>\n");
     }
 
     printf("</tbody>\n");
     printf("</table>\n");
     printf("</div>\n\n");
+
+    // Small hint so users know to scroll the embedded box (optional, but helpful)
+    printf("<sub><em>Tip: scroll inside the box to browse more rows.</em></sub>\n\n");
 }
+
 
 /* ----------------- main ----------------- */
 
