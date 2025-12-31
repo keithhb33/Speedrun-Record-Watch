@@ -521,6 +521,26 @@ static void extract_id_and_name(cJSON *field, const char **id_out, const char **
     }
 }
 
+/* Get game asset URI from an embedded run object (run.game.data.assets.<key>.uri) */
+static const char *get_game_asset_uri_from_run(cJSON *runObj, const char *asset_key) {
+    if (!cJSON_IsObject(runObj) || !asset_key) return NULL;
+
+    cJSON *game = cJSON_GetObjectItemCaseSensitive(runObj, "game");
+    if (!cJSON_IsObject(game)) return NULL;
+
+    cJSON *gdata = cJSON_GetObjectItemCaseSensitive(game, "data");
+    if (!cJSON_IsObject(gdata)) return NULL;
+
+    cJSON *assets = cJSON_GetObjectItemCaseSensitive(gdata, "assets");
+    if (!cJSON_IsObject(assets)) return NULL;
+
+    cJSON *asset = cJSON_GetObjectItemCaseSensitive(assets, asset_key);
+    if (!cJSON_IsObject(asset)) return NULL;
+
+    const char *uri = json_get_string(asset, "uri");
+    return (uri && uri[0]) ? uri : NULL;
+}
+
 static void print_players_compact(cJSON *runObj, char *out, size_t outsz) {
     out[0] = '\0';
     cJSON *players = cJSON_GetObjectItemCaseSensitive(runObj, "players");
@@ -833,6 +853,7 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
                                  cJSON *run,
                                  long verified_epoch,
                                  const char *verify_date) {
+    (void)curl; // kept for signature parity (used by subcategory formatting)
     const char *runId = json_get_string(run, "id");
     if (!runId) return;
     if (strset_has(runIds, runId)) return;
@@ -848,6 +869,12 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
     extract_id_and_name(cJSON_GetObjectItemCaseSensitive(run, "level"), &levelId, &levelName);
 
     if (!gameId || !catId) return;
+
+    // Prefer tiny cover to keep README compact. Fall back to small/medium.
+    const char *cover_uri = get_game_asset_uri_from_run(run, "cover-tiny");
+    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "cover-small");
+    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "cover-medium");
+    if (!cover_uri) cover_uri = get_game_asset_uri_from_run(run, "icon");
 
     double primary_t = -1;
     cJSON *times = cJSON_GetObjectItemCaseSensitive(run, "times");
@@ -865,6 +892,7 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
     cJSON_AddNumberToObject(obj, "verified_epoch", (double)verified_epoch);
     cJSON_AddStringToObject(obj, "verified_iso", verify_date ? verify_date : "");
     cJSON_AddStringToObject(obj, "game", gameName ? gameName : gameId);
+    cJSON_AddStringToObject(obj, "game_cover", cover_uri ? cover_uri : "");
     cJSON_AddStringToObject(obj, "category", catName ? catName : catId);
     cJSON_AddStringToObject(obj, "level", (levelId ? (levelName ? levelName : levelId) : ""));
     cJSON_AddStringToObject(obj, "subcats", subcats ? subcats : "");
@@ -994,7 +1022,6 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
         if (get_run_verify_epoch_and_iso(runObj, &ve, &iso)) {
             // ok
         } else {
-            // Some leaderboard payloads omit verify-date. We'll fill selectively later.
             ve = 0;
         }
 
@@ -1008,7 +1035,6 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
 
     if (n == 0) { free(infos); return; }
 
-    // Fill missing verify_epoch using /runs/{id} (no embed) for only those missing.
     for (int i = 0; i < n; i++) {
         if (infos[i].verified_epoch != 0) continue;
         cJSON *runBare = fetch_run_details(curl, infos[i].run_id, 0);
@@ -1020,12 +1046,9 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
             infos[i].verified_epoch = ve;
         }
         cJSON_Delete(runBare);
-
-        // tiny politeness: these calls are rare (only when leaderboard payload lacks verify-date)
         usleep(2000);
     }
 
-    // Determine baseline best time before cutoff, if available in our TOPN slice.
     double baseline_best = INFINITY;
     for (int i = 0; i < n; i++) {
         if (infos[i].verified_epoch > 0 && (time_t)infos[i].verified_epoch < cutoff_epoch) {
@@ -1033,7 +1056,6 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
         }
     }
 
-    // Collect candidates within window (must have verify_epoch known).
     LbRunInfo *cand = calloc((size_t)n, sizeof(LbRunInfo));
     if (!cand) { free_lbruninfos(infos, n); return; }
     int cN = 0;
@@ -1054,32 +1076,25 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
 
     const double EPS = 1e-6;
     double best = baseline_best;
-
-    // If we couldn't find a baseline (TOPN slice didn't include any pre-window verified run),
-    // we still track monotonic improvements/ties within the window.
     int have_baseline = isfinite(best);
 
     for (int i = 0; i < cN; i++) {
         int include = 0;
         if (!have_baseline) {
-            // First event becomes the initial within-window "record chain" seed.
             include = 1;
             best = cand[i].primary_t;
             have_baseline = 1;
         } else {
-            double t = cand[i].primary_t;
-            if (t < best - EPS) {
+            double tt = cand[i].primary_t;
+            if (tt < best - EPS) {
                 include = 1;
-                best = t;
-            } else if (fabs(t - best) <= EPS) {
-                // tie WR: include as a new co-#1
+                best = tt;
+            } else if (fabs(tt - best) <= EPS) {
                 include = 1;
             }
         }
 
         if (!include) continue;
-
-        // Add full run details (with embeds) to wrs.json, if not present.
         if (strset_has(runIds, cand[i].run_id)) continue;
 
         cJSON *runFull = fetch_run_details(curl, cand[i].run_id, 1);
@@ -1092,14 +1107,11 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
             continue;
         }
 
-        // Ensure it's still in window (defensive)
         if ((time_t)ve >= cutoff_epoch) {
             add_wr_entry_from_run(curl, catCache, wrs, runIds, runFull, ve, iso);
         }
 
         cJSON_Delete(runFull);
-
-        // very light politeness delay
         usleep(3000);
     }
 
@@ -1197,7 +1209,6 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             if ((long)vtime > new_last_seen) new_last_seen = (long)vtime;
 
             if ((long)vtime < scan_floor) { stop = 1; break; }
-
             if (vtime < prune_cutoff_epoch) continue;
 
             runs_checked++;
@@ -1205,7 +1216,6 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             const char *runId = json_get_string(run, "id");
             if (!runId) continue;
 
-            // Quick skip: if we already stored this run, it won't create a "new current WR key" event.
             if (strset_has(runIds, runId)) continue;
 
             const char *gameId = NULL, *gameName = NULL;
@@ -1219,8 +1229,6 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
 
             cJSON *valuesObj = cJSON_GetObjectItemCaseSensitive(run, "values");
 
-            // If this run is the CURRENT #1, then this leaderboard had a record change chain inside our window.
-            // We process the leaderboard key once and reconstruct all record-change events (incl. intermediates).
             if (is_current_wr(curl, lbCache, runId, gameId, catId, levelId, valuesObj)) {
                 char *key = make_lb_key(gameId, catId, levelId, valuesObj);
                 if (key) {
@@ -1235,20 +1243,17 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
                 }
             }
 
-            // heartbeat log
             if (g_debug && (runs_seen % 500 == 0)) {
                 LOG("Progress: pages=%ld seen=%ld checked=%ld keys_processed=%ld (offset=%d)",
                     pages, runs_seen, runs_checked, keys_processed, offset);
             }
 
-            // tiny politeness delay
             if ((runs_checked % 40) == 0) usleep(2000);
         }
 
-        // ---- human-friendly progress estimate ----
         if (g_debug && newest != 0 && oldest != 0) {
-            double total = difftime(newest, (time_t)scan_floor);   // seconds from newest down to scan_floor
-            double done  = difftime(newest, oldest);              // seconds from newest down to oldest on this page
+            double total = difftime(newest, (time_t)scan_floor);
+            double done  = difftime(newest, oldest);
             double pct = 0.0;
             if (total > 0.0) {
                 pct = (done / total) * 100.0;
@@ -1260,7 +1265,7 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
             format_iso_utc(oldest, oldest_iso, sizeof(oldest_iso));
             format_iso_utc((time_t)scan_floor, floor_iso, sizeof(floor_iso));
 
-            double remaining = difftime(oldest, (time_t)scan_floor); // seconds remaining until scan_floor
+            double remaining = difftime(oldest, (time_t)scan_floor);
             if (remaining < 0) remaining = 0;
 
             LOG("Scan progress: oldest=%s scan_floor=%s done=%.1f%% remaining≈%.2f hours",
@@ -1289,7 +1294,7 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     return new_last_seen;
 }
 
-/* ----------------- README rendering ----------------- */
+/* ----------------- README rendering (zoomed-out markdown table + game cover) ----------------- */
 
 static void fputs_html_escaped(FILE *fp, const char *s) {
     if (!s) return;
@@ -1300,46 +1305,94 @@ static void fputs_html_escaped(FILE *fp, const char *s) {
             case '>': fputs("&gt;", fp); break;
             case '"': fputs("&quot;", fp); break;
             case '\'': fputs("&#39;", fp); break;
+            case '|': fputs("&#124;", fp); break;      // important inside markdown tables
+            case '\n': case '\r': case '\t': fputc(' ', fp); break;
             default: fputc(*p, fp); break;
         }
     }
 }
 
+static void print_cell_zoomed(const char *s, int max_chars) {
+    if (!s) s = "";
+    int n = (int)strlen(s);
+    int trunc = (max_chars > 0 && n > max_chars);
+
+    printf("<sub><span title=\"");
+    fputs_html_escaped(stdout, s);
+    printf("\">");
+
+    if (!trunc || max_chars <= 0) {
+        fputs_html_escaped(stdout, s);
+    } else {
+        int take = max_chars - 1;
+        if (take < 0) take = 0;
+
+        // Best-effort avoid cutting mid UTF-8 continuation byte.
+        int end = take;
+        while (end > 0) {
+            unsigned char c = (unsigned char)s[end];
+            if ((c & 0xC0) != 0x80) break;
+            end--;
+        }
+        if (end <= 0) end = take;
+
+        for (int i = 0; i < end && s[i]; i++) {
+            char tmp[2] = { s[i], 0 };
+            fputs_html_escaped(stdout, tmp);
+        }
+        printf("…");
+    }
+
+    printf("</span></sub>");
+}
+
+static void print_game_cell_zoomed(const char *game_name, const char *cover_uri, int max_chars) {
+    if (!game_name) game_name = "";
+
+    printf("<sub>");
+
+    if (cover_uri && cover_uri[0]) {
+        printf("<img src=\"");
+        fputs_html_escaped(stdout, cover_uri);
+        printf("\" alt=\"\" width=\"18\" height=\"18\" style=\"vertical-align: middle; margin-right: 4px;\"/>");
+    }
+
+    // reuse the trunc+tooltip behavior for the title
+    printf("<span title=\"");
+    fputs_html_escaped(stdout, game_name);
+    printf("\">");
+
+    int n = (int)strlen(game_name);
+    int trunc = (max_chars > 0 && n > max_chars);
+    if (!trunc || max_chars <= 0) {
+        fputs_html_escaped(stdout, game_name);
+    } else {
+        int take = max_chars - 1;
+        if (take < 0) take = 0;
+
+        int end = take;
+        while (end > 0) {
+            unsigned char c = (unsigned char)game_name[end];
+            if ((c & 0xC0) != 0x80) break;
+            end--;
+        }
+        if (end <= 0) end = take;
+
+        for (int i = 0; i < end && game_name[i]; i++) {
+            char tmp[2] = { game_name[i], 0 };
+            fputs_html_escaped(stdout, tmp);
+        }
+        printf("…");
+    }
+
+    printf("</span></sub>");
+}
+
 static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_epoch) {
     printf("### %s\n\n", title);
 
-    printf("<div style=\"height: 520px; overflow-y: auto; overflow-x: hidden; "
-           "overscroll-behavior: contain; border: 1px solid #d0d7de; "
-           "border-radius: 8px; padding: 6px;\">\n");
-
-    // table-layout: fixed + explicit col widths ensures the Link column stays on-screen.
-    printf("<table style=\"width: 100%%; border-collapse: collapse; table-layout: fixed;\">\n");
-
-    // Column widths tuned to keep important columns visible without horizontal scrolling.
-    // Remaining space is distributed across the flexible columns.
-    printf("<colgroup>\n");
-    printf("  <col style=\"width: 190px;\">\n"); // Verified (ET)
-    printf("  <col style=\"width: auto;\">\n");  // Game
-    printf("  <col style=\"width: auto;\">\n");  // Category
-    printf("  <col style=\"width: auto;\">\n");  // Subcategory
-    printf("  <col style=\"width: 160px;\">\n"); // Level
-    printf("  <col style=\"width: 90px;\">\n");  // Time
-    printf("  <col style=\"width: 220px;\">\n"); // Runner(s)
-    printf("  <col style=\"width: 70px;\">\n");  // Link
-    printf("</colgroup>\n");
-
-    printf("<thead>\n<tr>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Verified (ET)</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Game</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Category</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Subcategory</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Level</th>\n");
-    printf("<th align=\"right\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Time</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; border-bottom: 1px solid #d0d7de;\">Runner(s)</th>\n");
-    printf("<th align=\"left\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">Link</th>\n");
-    printf("</tr>\n</thead>\n");
-
-    printf("<tbody>\n");
+    printf("| <sub>When (ET)</sub> | <sub>Game</sub> | <sub>Cat</sub> | <sub>Subcat</sub> | <sub>Lvl</sub> | <sub>Time</sub> | <sub>Runners</sub> | <sub>Link</sub> |\n");
+    printf("|---|---|---|---|---|---:|---|---|\n");
 
     int printed = 0;
     cJSON *it = NULL;
@@ -1348,6 +1401,7 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         if ((time_t)v < cutoff_epoch) continue;
 
         const char *game = json_get_string(it, "game");
+        const char *game_cover = json_get_string(it, "game_cover");
         const char *cat = json_get_string(it, "category");
         const char *sub = json_get_string(it, "subcats");
         const char *lvl = json_get_string(it, "level");
@@ -1358,66 +1412,43 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         char tbuf[64];
         format_seconds(t, tbuf, sizeof(tbuf));
 
-        char vbuf[64];
-        format_pretty_et((time_t)v, vbuf, sizeof(vbuf));
+        char when_buf[64];
+        format_pretty_et((time_t)v, when_buf, sizeof(when_buf));
 
-        printf("<tr>\n");
-
-        printf("<td style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, vbuf);
-        printf("</td>\n");
-
-        // Use overflow-wrap:anywhere so long names wrap instead of forcing horizontal scroll.
-        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, game ? game : "");
-        printf("</td>\n");
-
-        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, cat ? cat : "");
-        printf("</td>\n");
-
-        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, (sub && sub[0]) ? sub : "");
-        printf("</td>\n");
-
-        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, (lvl && lvl[0]) ? lvl : "");
-        printf("</td>\n");
-
-        printf("<td align=\"right\" style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
+        printf("| ");
+        print_cell_zoomed(when_buf, 18);
+        printf(" | ");
+        print_game_cell_zoomed(game ? game : "", (game_cover && game_cover[0]) ? game_cover : NULL, 18);
+        printf(" | ");
+        print_cell_zoomed(cat ? cat : "", 16);
+        printf(" | ");
+        print_cell_zoomed((sub && sub[0]) ? sub : "", 16);
+        printf(" | ");
+        print_cell_zoomed((lvl && lvl[0]) ? lvl : "", 14);
+        printf(" | <sub>");
         fputs_html_escaped(stdout, tbuf);
-        printf("</td>\n");
+        printf("</sub> | ");
+        print_cell_zoomed(players ? players : "", 16);
+        printf(" | ");
 
-        printf("<td style=\"padding: 6px; overflow-wrap: anywhere; border-bottom: 1px solid #d0d7de;\">");
-        fputs_html_escaped(stdout, players ? players : "");
-        printf("</td>\n");
-
-        // Link column: always visible; show a short label so it fits.
-        printf("<td style=\"padding: 6px; white-space: nowrap; border-bottom: 1px solid #d0d7de;\">");
         if (link && link[0]) {
-            printf("<a href=\"");
+            printf("<sub><a href=\"");
             fputs_html_escaped(stdout, link);
-            printf("\">open</a>");
+            printf("\">open</a></sub>");
+        } else {
+            printf("<sub>&nbsp;</sub>");
         }
-        printf("</td>\n");
 
-        printf("</tr>\n");
-
+        printf(" |\n");
         printed++;
     }
 
     if (printed == 0) {
-        printf("<tr><td colspan=\"8\" style=\"padding: 6px;\"><em>None</em></td></tr>\n");
+        printf("| <sub>—</sub> | <em>None</em> |  |  |  |  |  |  |\n");
     }
 
-    printf("</tbody>\n");
-    printf("</table>\n");
-    printf("</div>\n\n");
-
-    // Small hint so users know to scroll the embedded box (optional, but helpful)
-    printf("<sub><em>Tip: scroll inside the box to browse more rows.</em></sub>\n\n");
+    printf("\n");
 }
-
 
 /* ----------------- main ----------------- */
 
@@ -1483,7 +1514,7 @@ int main(void) {
     LOG("After scan: wrs.json entries=%d new_last_seen=%ld", cJSON_GetArraySize(wrs), new_last_seen);
     LOG("Saved state+wrs.");
 
-    // Output markdown/HTML (GitHub README supports inline HTML)
+    // Output markdown (GitHub allows HTML inside markdown tables)
     printf("## 🏁 Live #1 Records\n\n");
     printf("_Updated hourly via GitHub Actions._\n\n");
 
