@@ -1443,7 +1443,7 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         if (link && link[0]) {
             printf("<sub><a href=\"");
             fputs_html_escaped(stdout, link);
-            printf("\">open</a></sub>");
+            printf("\">link</a></sub>");
         } else {
             printf("<sub>&nbsp;</sub>");
         }
