@@ -174,7 +174,6 @@ static void format_pretty_et(time_t t, char *out, size_t outsz) {
     if (!out || outsz == 0) return;
     struct tm tmv;
     localtime_r(&t, &tmv);
-    // Example: "Dec 31, 2025 11:03 PM EST"
     strftime(out, outsz, "%b %d, %Y %I:%M %p %Z", &tmv);
 }
 
@@ -260,7 +259,7 @@ static int strset_rehash(StrSet *s, size_t newcap) {
         size_t mask = ns.cap - 1;
         size_t idx = (size_t)h & mask;
         while (ns.keys[idx]) idx = (idx + 1) & mask;
-        ns.keys[idx] = k; // move ownership
+        ns.keys[idx] = k;
         ns.len++;
         s->keys[i] = NULL;
     }
@@ -286,14 +285,14 @@ static int strset_has(const StrSet *s, const char *key) {
 
 static int strset_add(StrSet *s, const char *key) {
     if (!s || !s->keys || !key) return 0;
-    if (s->len * 10 >= s->cap * 7) { // > 0.7 load
+    if (s->len * 10 >= s->cap * 7) {
         if (!strset_rehash(s, s->cap * 2)) return 0;
     }
     uint64_t h = fnv1a_64(key);
     size_t mask = s->cap - 1;
     size_t idx = (size_t)h & mask;
     while (s->keys[idx]) {
-        if (strcmp(s->keys[idx], key) == 0) return 1; // already
+        if (strcmp(s->keys[idx], key) == 0) return 1;
         idx = (idx + 1) & mask;
     }
     s->keys[idx] = strdup(key);
@@ -553,29 +552,25 @@ static void normalize_cover_uri(const char *in, char *out, size_t outsz) {
     char tmp[1024];
     tmp[0] = '\0';
 
-    // 1) http -> https
     if (strncmp(in, "http://", 7) == 0) {
         snprintf(tmp, sizeof(tmp), "https://%s", in + 7);
     } else {
         snprintf(tmp, sizeof(tmp), "%s", in);
     }
 
-    // 2) insert .png after /cover if not already present
     const char *p = strstr(tmp, "/cover");
     if (!p) {
         snprintf(out, outsz, "%s", tmp);
         return;
     }
 
-    // already cover.png ?
     if (strncmp(p, "/cover.png", 9) == 0) {
         snprintf(out, outsz, "%s", tmp);
         return;
     }
 
-    // build: prefix (up through "/cover") + ".png" + suffix
     size_t prefix_len = (size_t)(p - tmp) + strlen("/cover");
-    if (prefix_len >= sizeof(tmp)) { // defensive
+    if (prefix_len >= sizeof(tmp)) {
         snprintf(out, outsz, "%s", tmp);
         return;
     }
@@ -588,7 +583,7 @@ static void normalize_cover_uri(const char *in, char *out, size_t outsz) {
     memcpy(prefix, tmp, prefix_len);
     prefix[prefix_len] = '\0';
 
-    const char *suffix = tmp + prefix_len; // starts at '?' or end or anything after "cover"
+    const char *suffix = tmp + prefix_len;
     snprintf(out, outsz, "%s.png%s", prefix, suffix);
 }
 
@@ -682,7 +677,6 @@ static int kv_cmp(const void *a, const void *b) {
     return strcmp(ka->k, kb->k);
 }
 
-// Canonical leaderboard key: game|cat|level|k=v&k=v...
 static char *make_lb_key(const char *gameId, const char *catId, const char *levelId, cJSON *valuesObj) {
     size_t cap = 2048;
     char *buf = malloc(cap);
@@ -894,7 +888,7 @@ static cJSON *sorted_wrs_dup(cJSON *arr) {
     return out;
 }
 
-/* ----------------- add WR entry (no current-WR requirement) ----------------- */
+/* ----------------- add WR entry (store game cover) ----------------- */
 
 static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
                                  cJSON *wrs, StrSet *runIds,
@@ -917,10 +911,10 @@ static void add_wr_entry_from_run(CURL *curl, CatVarCache **catCache,
 
     if (!gameId || !catId) return;
 
-    // Prefer tiny cover to keep README compact.
     const char *cover_uri_raw = get_game_asset_uri_from_run(run, "cover-tiny");
     if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "cover-small");
     if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "cover-medium");
+    if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "cover-large");
     if (!cover_uri_raw) cover_uri_raw = get_game_asset_uri_from_run(run, "icon");
 
     char cover_uri[1024];
@@ -1012,7 +1006,7 @@ static int get_run_verify_epoch_and_iso(cJSON *runObj, long *epoch_out, const ch
 typedef struct LbRunInfo {
     char *run_id;
     double primary_t;
-    long verified_epoch;     // 0 if unknown
+    long verified_epoch;
 } LbRunInfo;
 
 static void free_lbruninfos(LbRunInfo *a, int n) {
@@ -1073,7 +1067,6 @@ static void track_leaderboard_history(CURL *curl, CatVarCache **catCache,
         long ve = 0;
         const char *iso = NULL;
         if (get_run_verify_epoch_and_iso(runObj, &ve, &iso)) {
-            // ok
         } else {
             ve = 0;
         }
@@ -1296,37 +1289,8 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
                 }
             }
 
-            if (g_debug && (runs_seen % 500 == 0)) {
-                LOG("Progress: pages=%ld seen=%ld checked=%ld keys_processed=%ld (offset=%d)",
-                    pages, runs_seen, runs_checked, keys_processed, offset);
-            }
-
             if ((runs_checked % 40) == 0) usleep(2000);
         }
-
-        if (g_debug && newest != 0 && oldest != 0) {
-            double total = difftime(newest, (time_t)scan_floor);
-            double done  = difftime(newest, oldest);
-            double pct = 0.0;
-            if (total > 0.0) {
-                pct = (done / total) * 100.0;
-                if (pct < 0.0) pct = 0.0;
-                if (pct > 100.0) pct = 100.0;
-            }
-
-            char oldest_iso[32], floor_iso[32];
-            format_iso_utc(oldest, oldest_iso, sizeof(oldest_iso));
-            format_iso_utc((time_t)scan_floor, floor_iso, sizeof(floor_iso));
-
-            double remaining = difftime(oldest, (time_t)scan_floor);
-            if (remaining < 0) remaining = 0;
-
-            LOG("Scan progress: oldest=%s scan_floor=%s done=%.1f%% remaining≈%.2f hours",
-                oldest_iso, floor_iso, pct, remaining / 3600.0);
-        }
-
-        LOG("Page done: pages=%ld seen=%ld checked=%ld keys_processed=%ld newest=%ld oldest=%ld",
-            pages, runs_seen, runs_checked, keys_processed, (long)newest, (long)oldest);
 
         cJSON_Delete(root);
 
@@ -1347,7 +1311,7 @@ static long scan_new_runs_and_update(CURL *curl, CatVarCache **catCache, LbCache
     return new_last_seen;
 }
 
-/* ----------------- README rendering (no trunc except Subcategories) ----------------- */
+/* ----------------- README rendering (only Subcategories truncated) ----------------- */
 
 static void fputs_html_escaped(FILE *fp, const char *s) {
     if (!s) return;
@@ -1358,21 +1322,19 @@ static void fputs_html_escaped(FILE *fp, const char *s) {
             case '>': fputs("&gt;", fp); break;
             case '"': fputs("&quot;", fp); break;
             case '\'': fputs("&#39;", fp); break;
-            case '|': fputs("&#124;", fp); break;      // important inside markdown tables
+            case '|': fputs("&#124;", fp); break;
             case '\n': case '\r': case '\t': fputc(' ', fp); break;
             default: fputc(*p, fp); break;
         }
     }
 }
 
-/* Plain cell (no trunc) */
 static void print_cell_plain_sub(const char *s) {
     printf("<sub>");
     fputs_html_escaped(stdout, s ? s : "");
     printf("</sub>");
 }
 
-/* Truncated cell ONLY for subcategories */
 static void print_cell_subcat_trunc(const char *s, int max_chars) {
     if (!s) s = "";
     int n = (int)strlen(s);
@@ -1388,7 +1350,6 @@ static void print_cell_subcat_trunc(const char *s, int max_chars) {
         int take = max_chars - 1;
         if (take < 0) take = 0;
 
-        // Best-effort avoid cutting mid UTF-8 continuation byte.
         int end = take;
         while (end > 0) {
             unsigned char c = (unsigned char)s[end];
@@ -1407,7 +1368,7 @@ static void print_cell_subcat_trunc(const char *s, int max_chars) {
     printf("</span></sub>");
 }
 
-/* Game cell: image ABOVE the text; image ~50% bigger */
+/* Game cell: image + <br/> + title (exactly like your example) */
 static void print_game_cell_with_cover(const char *game_name, const char *cover_uri_maybe) {
     if (!game_name) game_name = "";
 
@@ -1417,14 +1378,16 @@ static void print_game_cell_with_cover(const char *game_name, const char *cover_
         normalize_cover_uri(cover_uri_maybe, cover_norm, sizeof(cover_norm));
     }
 
-    // Keep the cell compact/zoomed-out but do NOT truncate game name
     printf("<div style=\"text-align:center;\">");
 
     if (cover_norm[0]) {
-        // 18px -> 27px (~50% bigger)
         printf("<img src=\"");
         fputs_html_escaped(stdout, cover_norm);
-        printf("\" alt=\"\" width=\"27\" style=\"display:block; margin:0 auto 4px auto;\"/>");
+        printf("\" alt=\"\" width=\"60\" style=\"display:block; margin:0 auto 4px auto;\"/>");
+        printf("<br/>");
+    } else {
+        // still keep the line break so layout matches
+        printf("<br/>");
     }
 
     printf("<sub>");
@@ -1468,7 +1431,7 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
         printf(" | ");
         print_cell_plain_sub(cat ? cat : "");
         printf(" | ");
-        print_cell_subcat_trunc((sub && sub[0]) ? sub : "", 20);   // ONLY trunc column
+        print_cell_subcat_trunc((sub && sub[0]) ? sub : "", 20);
         printf(" | ");
         print_cell_plain_sub((lvl && lvl[0]) ? lvl : "");
         printf(" | <sub>");
@@ -1500,7 +1463,7 @@ static void print_section_from_wrs(const char *title, cJSON *wrs, time_t cutoff_
 
 int main(void) {
     init_debug_from_env();
-    init_tz_eastern(); // affects README time formatting via localtime()
+    init_tz_eastern();
 
     if (!ensure_dir("data")) {
         fprintf(stderr, "Failed to ensure ./data directory\n");
@@ -1525,10 +1488,8 @@ int main(void) {
     long last_seen_epoch = load_last_seen_epoch();
     cJSON *wrs = load_wrs_array();
 
-    // Always prune first (keeps file small) — keep only last 24 hours
     prune_old_wrs(wrs, cutoff_24h);
 
-    // Build run-id set from pruned cache
     StrSet runIds = {0};
     strset_init(&runIds, 2048);
 
@@ -1546,21 +1507,19 @@ int main(void) {
     CatVarCache *catCache = NULL;
     LbCache *lbCache = NULL;
 
-    long new_last_seen = scan_new_runs_and_update(curl, &catCache, &lbCache, wrs, &runIds, last_seen_epoch, cutoff_24h);
+    long new_last_seen = scan_new_runs_and_update(
+        curl, &catCache, &lbCache, wrs, &runIds, last_seen_epoch, cutoff_24h
+    );
 
-    // Sort newest-first for rendering and persistence
     cJSON *sorted = sorted_wrs_dup(wrs);
     cJSON_Delete(wrs);
     wrs = sorted;
 
-    // Persist
     save_wrs_array(wrs);
     save_last_seen_epoch(new_last_seen);
 
     LOG("After scan: wrs.json entries=%d new_last_seen=%ld", cJSON_GetArraySize(wrs), new_last_seen);
-    LOG("Saved state+wrs.");
 
-    // Output markdown (GitHub allows HTML inside markdown tables)
     printf("## 🏁 Live #1 Records\n\n");
     printf("_Updated hourly via GitHub Actions._\n\n");
 
