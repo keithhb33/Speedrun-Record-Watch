@@ -1,4 +1,1278 @@
 [{
+		"run_id":	"mr52672y",
+		"verified_epoch":	1767363861,
+		"verified_iso":	"2026-01-02T14:24:21Z",
+		"game":	"Raldi's Crackhouse",
+		"game_cover":	"https://www.speedrun.com/static/game/pdv2lmv6/cover.png?v=ff7d977",
+		"category":	"Any%",
+		"level":	"Neil Mode",
+		"subcats":	"Run Type: Glitchless, Modifiers: No Modifiers, Version: 2.0.8+",
+		"primary_t":	290,
+		"players":	"spedrun781",
+		"players_data":	[{
+				"name":	"spedrun781",
+				"weblink":	"http://www.speedrun.com/user/spedrun781",
+				"image":	"https://www.speedrun.com/static/user/j0en14m8/image.png?v=60758f5"
+			}],
+		"weblink":	"http://www.speedrun.com/raldis_crackhouse/run/mr52672y"
+	}, {
+		"run_id":	"y8nw0vwy",
+		"verified_epoch":	1767363788,
+		"verified_iso":	"2026-01-02T14:23:08Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Donpa Cup, Speed Class: Super Sonic, Patch: 1.2.0+",
+		"primary_t":	485.95,
+		"players":	"jleza",
+		"players_data":	[{
+				"name":	"jleza",
+				"weblink":	"http://www.speedrun.com/user/jleza",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/y8nw0vwy"
+	}, {
+		"run_id":	"y8nw26dy",
+		"verified_epoch":	1767363639,
+		"verified_iso":	"2026-01-02T14:20:39Z",
+		"game":	"Sorry We're Closed",
+		"game_cover":	"https://www.speedrun.com/static/game/y65r0z71/cover.png?v=5050160",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"New Game Plus: NG, Platform: Console, Combat Settings: Unrestricted",
+		"primary_t":	5506,
+		"players":	"bigscared",
+		"players_data":	[{
+				"name":	"bigscared",
+				"weblink":	"http://www.speedrun.com/user/bigscared",
+				"image":	"https://www.speedrun.com/static/user/xkmyok2j/image.png?v=178e0fb"
+			}],
+		"weblink":	"http://www.speedrun.com/SWC/run/y8nw26dy"
+	}, {
+		"run_id":	"zn52767z",
+		"verified_epoch":	1767363612,
+		"verified_iso":	"2026-01-02T14:20:12Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Super Sonic Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Secret Cup, Speed Class: Super Sonic, Patch: 1.2.0+",
+		"primary_t":	510.233,
+		"players":	"jleza",
+		"players_data":	[{
+				"name":	"jleza",
+				"weblink":	"http://www.speedrun.com/user/jleza",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/zn52767z"
+	}, {
+		"run_id":	"yv5lprem",
+		"verified_epoch":	1767363538,
+		"verified_iso":	"2026-01-02T14:18:58Z",
+		"game":	"One-Armed Robber",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3q3v6/cover.png?v=c1ebe7c",
+		"category":	"Solo",
+		"level":	"Harbour",
+		"subcats":	"Strategy: Loud, Glitching: Glitchless, Restriction: None",
+		"primary_t":	100.083,
+		"players":	"mucktro",
+		"players_data":	[{
+				"name":	"mucktro",
+				"weblink":	"http://www.speedrun.com/user/mucktro",
+				"image":	"https://www.speedrun.com/static/user/8lroym28/image.png?v=f3443df"
+			}],
+		"weblink":	"http://www.speedrun.com/oar/run/yv5lprem"
+	}, {
+		"run_id":	"y68vngpz",
+		"verified_epoch":	1767363439,
+		"verified_iso":	"2026-01-02T14:17:19Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Super Sonic Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Chao Cup, Speed Class: Super Sonic, Patch: 1.2.0+",
+		"primary_t":	534,
+		"players":	"jleza",
+		"players_data":	[{
+				"name":	"jleza",
+				"weblink":	"http://www.speedrun.com/user/jleza",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/y68vngpz"
+	}, {
+		"run_id":	"z568p2ey",
+		"verified_epoch":	1767363351,
+		"verified_iso":	"2026-01-02T14:15:51Z",
+		"game":	"One-Armed Robber",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3q3v6/cover.png?v=c1ebe7c",
+		"category":	"Solo",
+		"level":	"Black Diamond Casino (DLC)",
+		"subcats":	"Strategy: Loud, Glitching: Glitchless, Restriction: None, Slots Removal: Slots",
+		"primary_t":	110.267,
+		"players":	"mucktro",
+		"players_data":	[{
+				"name":	"mucktro",
+				"weblink":	"http://www.speedrun.com/user/mucktro",
+				"image":	"https://www.speedrun.com/static/user/8lroym28/image.png?v=f3443df"
+			}],
+		"weblink":	"http://www.speedrun.com/oar/run/z568p2ey"
+	}, {
+		"run_id":	"y9wjk8nz",
+		"verified_epoch":	1767363324,
+		"verified_iso":	"2026-01-02T14:15:24Z",
+		"game":	"Great Swordsman",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np79y6/cover.png?v=549623e",
+		"category":	"1 Loop",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	935,
+		"players":	"Dumple",
+		"players_data":	[{
+				"name":	"Dumple",
+				"weblink":	"http://www.speedrun.com/user/Dumple",
+				"image":	"https://www.speedrun.com/static/user/68w6rm3j/image.png?v=0f732a3"
+			}],
+		"weblink":	"http://www.speedrun.com/Great_Swordsman/run/y9wjk8nz"
+	}, {
+		"run_id":	"yo50rv1z",
+		"verified_epoch":	1767363284,
+		"verified_iso":	"2026-01-02T14:14:44Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Super Sonic Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Boom Boo Cup, Speed Class: Super Sonic, Patch: 1.2.0+",
+		"primary_t":	457.766,
+		"players":	"jleza",
+		"players_data":	[{
+				"name":	"jleza",
+				"weblink":	"http://www.speedrun.com/user/jleza",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/yo50rv1z"
+	}, {
+		"run_id":	"m7vn3q9m",
+		"verified_epoch":	1767363270,
+		"verified_iso":	"2026-01-02T14:14:30Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"The Hadal Blacksite",
+		"level":	"Searchlights Ending Encounter",
+		"subcats":	"Version: Worth The Wait, Players: Solo, Items: Items",
+		"primary_t":	193.55,
+		"players":	"Skepter9000",
+		"players_data":	[{
+				"name":	"Skepter9000",
+				"weblink":	"http://www.speedrun.com/user/Skepter9000",
+				"image":	"https://www.speedrun.com/static/user/86pyrd3j/image.png?v=409281d"
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Pressure_CE/run/m7vn3q9m"
+	}, {
+		"run_id":	"y8nw6eny",
+		"verified_epoch":	1767363173,
+		"verified_iso":	"2026-01-02T14:12:53Z",
+		"game":	"One-Armed Robber",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3q3v6/cover.png?v=c1ebe7c",
+		"category":	"Solo",
+		"level":	"FIA Offices (DLC)",
+		"subcats":	"Strategy: Loud, Glitching: Glitchless, Restriction: None",
+		"primary_t":	88.267,
+		"players":	"mucktro",
+		"players_data":	[{
+				"name":	"mucktro",
+				"weblink":	"http://www.speedrun.com/user/mucktro",
+				"image":	"https://www.speedrun.com/static/user/8lroym28/image.png?v=f3443df"
+			}],
+		"weblink":	"http://www.speedrun.com/oar/run/y8nw6eny"
+	}, {
+		"run_id":	"mepw1d0y",
+		"verified_epoch":	1767363165,
+		"verified_iso":	"2026-01-02T14:12:45Z",
+		"game":	"Silent Hill: Homecoming",
+		"game_cover":	"https://www.speedrun.com/static/game/m9dope6p/cover.png?v=588901a",
+		"category":	"Any% NG+",
+		"level":	"",
+		"subcats":	"Installed: No, Difficulty: Hard, Platform: Console",
+		"primary_t":	2949,
+		"players":	"Sasam",
+		"players_data":	[{
+				"name":	"Sasam",
+				"weblink":	"http://www.speedrun.com/user/Sasam",
+				"image":	"https://www.speedrun.com/static/user/68wll4jg/image.png?v=4f5f989"
+			}],
+		"weblink":	"http://www.speedrun.com/shh/run/mepw1d0y"
+	}, {
+		"run_id":	"mepw403y",
+		"verified_epoch":	1767363129,
+		"verified_iso":	"2026-01-02T14:12:09Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Super Sonic Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Coral Cup, Speed Class: Super Sonic, Patch: 1.2.0+",
+		"primary_t":	443.099,
+		"players":	"jleza",
+		"players_data":	[{
+				"name":	"jleza",
+				"weblink":	"http://www.speedrun.com/user/jleza",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/mepw403y"
+	}, {
+		"run_id":	"y8nw8k1y",
+		"verified_epoch":	1767363126,
+		"verified_iso":	"2026-01-02T14:12:06Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"The Hadal Blacksite",
+		"level":	"Searchlights Grand Encounter",
+		"subcats":	"Version: Worth The Wait, Players: Solo, Items: No Items",
+		"primary_t":	69.067,
+		"players":	"CMIYGL",
+		"players_data":	[{
+				"name":	"CMIYGL",
+				"weblink":	"http://www.speedrun.com/user/CMIYGL",
+				"image":	"https://www.speedrun.com/static/user/8r6dnyg8/image.png?v=71c9941"
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Pressure_CE/run/y8nw8k1y"
+	}, {
+		"run_id":	"m7vn075m",
+		"verified_epoch":	1767363028,
+		"verified_iso":	"2026-01-02T14:10:28Z",
+		"game":	"One-Armed Robber",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3q3v6/cover.png?v=c1ebe7c",
+		"category":	"Solo",
+		"level":	"Rodman Research Facility V1 (DLC)",
+		"subcats":	"Strategy: Loud, Glitching: Any%, Restriction: None",
+		"primary_t":	98.917,
+		"players":	"mucktro",
+		"players_data":	[{
+				"name":	"mucktro",
+				"weblink":	"http://www.speedrun.com/user/mucktro",
+				"image":	"https://www.speedrun.com/static/user/8lroym28/image.png?v=f3443df"
+			}],
+		"weblink":	"http://www.speedrun.com/oar/run/m7vn075m"
+	}, {
+		"run_id":	"y8n6l4ny",
+		"verified_epoch":	1767363021,
+		"verified_iso":	"2026-01-02T14:10:21Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Solo",
+		"level":	"",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Full-game Sub-category: Small Maps, Difficulty: Standard, Mode: Any%",
+		"primary_t":	1400.15,
+		"players":	"IcedMohka",
+		"players_data":	[{
+				"name":	"IcedMohka",
+				"weblink":	"http://www.speedrun.com/user/IcedMohka",
+				"image":	"https://www.speedrun.com/static/user/zx70w0j7/image.png?v=aafa547"
+			}],
+		"weblink":	"http://www.speedrun.com/phasmophobia/run/y8n6l4ny"
+	}, {
+		"run_id":	"mkrp053z",
+		"verified_epoch":	1767363011,
+		"verified_iso":	"2026-01-02T14:10:11Z",
+		"game":	"One-Armed Robber",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3q3v6/cover.png?v=c1ebe7c",
+		"category":	"Solo",
+		"level":	"Rodman Research Facility V1 (DLC)",
+		"subcats":	"Strategy: Loud, Glitching: Glitchless, Restriction: None",
+		"primary_t":	98.917,
+		"players":	"mucktro",
+		"players_data":	[{
+				"name":	"mucktro",
+				"weblink":	"http://www.speedrun.com/user/mucktro",
+				"image":	"https://www.speedrun.com/static/user/8lroym28/image.png?v=f3443df"
+			}],
+		"weblink":	"http://www.speedrun.com/oar/run/mkrp053z"
+	}, {
+		"run_id":	"yo504l0z",
+		"verified_epoch":	1767362944,
+		"verified_iso":	"2026-01-02T14:09:04Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Solo",
+		"level":	"Sunny Meadows Restricted",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Standard, Mode: Evidence%",
+		"primary_t":	53.917,
+		"players":	"ItsFrosti",
+		"players_data":	[{
+				"name":	"ItsFrosti",
+				"weblink":	"http://www.speedrun.com/user/ItsFrosti",
+				"image":	"https://www.speedrun.com/static/user/j464ynl8/image.png?v=59dad3e"
+			}],
+		"weblink":	"http://www.speedrun.com/phasmophobia/run/yo504l0z"
+	}, {
+		"run_id":	"m320nrwy",
+		"verified_epoch":	1767362912,
+		"verified_iso":	"2026-01-02T14:08:32Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Super Sonic Individual Cups",
+		"level":	"",
+		"subcats":	"Category: Donpa Cup, Speed Class: Sonic, Patch: 1.2.0+",
+		"primary_t":	558.783,
+		"players":	"joanhdpg92",
+		"players_data":	[{
+				"name":	"joanhdpg92",
+				"weblink":	"http://www.speedrun.com/user/joanhdpg92",
+				"image":	"https://www.speedrun.com/static/user/j2qqd4pj/image.png?v=96663b4"
+			}],
+		"weblink":	"http://www.speedrun.com/srcw/run/m320nrwy"
+	}, {
+		"run_id":	"z0kdxw9m",
+		"verified_epoch":	1767362891,
+		"verified_iso":	"2026-01-02T14:08:11Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Infamous% (Solo)",
+		"level":	"",
+		"subcats":	"DLC: DLC, Game Version: Current, Run Type: Any%, XP Boost: Any",
+		"primary_t":	655.796,
+		"players":	"AFProphet",
+		"players_data":	[{
+				"name":	"AFProphet",
+				"weblink":	"http://www.speedrun.com/user/AFProphet",
+				"image":	"https://www.speedrun.com/static/user/jpznw20x/image.png?v=62cd40b"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/z0kdxw9m"
+	}, {
+		"run_id":	"zq58dkrz",
+		"verified_epoch":	1767362884,
+		"verified_iso":	"2026-01-02T14:08:04Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Infamous% (Co-op)",
+		"level":	"",
+		"subcats":	"DLC: DLC, Game Version: Current, Run Type: Any%",
+		"primary_t":	323.414,
+		"players":	"AFProphet, NotToxicFlameYT",
+		"players_data":	[{
+				"name":	"AFProphet",
+				"weblink":	"http://www.speedrun.com/user/AFProphet",
+				"image":	"https://www.speedrun.com/static/user/jpznw20x/image.png?v=62cd40b"
+			}, {
+				"name":	"NotToxicFlameYT",
+				"weblink":	"http://www.speedrun.com/user/NotToxicFlameYT",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/zq58dkrz"
+	}, {
+		"run_id":	"m320k9dy",
+		"verified_epoch":	1767362879,
+		"verified_iso":	"2026-01-02T14:07:59Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Infamous% (Co-op)",
+		"level":	"",
+		"subcats":	"DLC: No DLC, Game Version: Current, Run Type: Any%",
+		"primary_t":	323.414,
+		"players":	"AFProphet, NotToxicFlameYT",
+		"players_data":	[{
+				"name":	"AFProphet",
+				"weblink":	"http://www.speedrun.com/user/AFProphet",
+				"image":	"https://www.speedrun.com/static/user/jpznw20x/image.png?v=62cd40b"
+			}, {
+				"name":	"NotToxicFlameYT",
+				"weblink":	"http://www.speedrun.com/user/NotToxicFlameYT",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/m320k9dy"
+	}, {
+		"run_id":	"yj7od67y",
+		"verified_epoch":	1767362675,
+		"verified_iso":	"2026-01-02T14:04:35Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Solo)",
+		"level":	"Meadowland Bank",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Glitchless",
+		"primary_t":	245.274,
+		"players":	"Magoro10",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/yj7od67y"
+	}, {
+		"run_id":	"y68vq76z",
+		"verified_epoch":	1767362607,
+		"verified_iso":	"2026-01-02T14:03:27Z",
+		"game":	"gameboysix's Nonogram",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gk2qx1/cover.png?v=35a62a2",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Board Size: 15x15, Player Count: 3 Players",
+		"primary_t":	14.684,
+		"players":	"bikk, notslowws, kimchongyun",
+		"players_data":	[{
+				"name":	"bikk",
+				"weblink":	"http://www.speedrun.com/user/bikk",
+				"image":	""
+			}, {
+				"name":	"notslowws",
+				"weblink":	"http://www.speedrun.com/user/notslowws",
+				"image":	""
+			}, {
+				"name":	"kimchongyun",
+				"weblink":	"http://www.speedrun.com/user/kimchongyun",
+				"image":	"https://www.speedrun.com/static/user/x31kmrq8/image.png?v=79de6c1"
+			}],
+		"weblink":	"http://www.speedrun.com/gameboysixs_Nonogram/run/y68vq76z"
+	}, {
+		"run_id":	"y8nwxrwy",
+		"verified_epoch":	1767362588,
+		"verified_iso":	"2026-01-02T14:03:08Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Solo)",
+		"level":	"Meadowland Bank",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Any%",
+		"primary_t":	245.274,
+		"players":	"Magoro10",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/y8nwxrwy"
+	}, {
+		"run_id":	"m3203pdy",
+		"verified_epoch":	1767362568,
+		"verified_iso":	"2026-01-02T14:02:48Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Normal (Solo)",
+		"level":	"Diamond Store",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Any%, Bag Collection (Diamond Store): Standard",
+		"primary_t":	12.034,
+		"players":	"mythicbody",
+		"players_data":	[{
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/m3203pdy"
+	}, {
+		"run_id":	"yv5lq9em",
+		"verified_epoch":	1767362557,
+		"verified_iso":	"2026-01-02T14:02:37Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Normal (Co-op)",
+		"level":	"The Depot",
+		"subcats":	"Method: Stealth, Game Version: Current, Run Type: Glitchless",
+		"primary_t":	25.448,
+		"players":	"FireBlaze_309, mythicbody, narkyii, Magoro10",
+		"players_data":	[{
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/yv5lq9em"
+	}, {
+		"run_id":	"y8nwjrny",
+		"verified_epoch":	1767362551,
+		"verified_iso":	"2026-01-02T14:02:31Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Normal (Co-op)",
+		"level":	"The Depot",
+		"subcats":	"Method: Stealth, Game Version: Current, Run Type: Any%",
+		"primary_t":	25.448,
+		"players":	"FireBlaze_309, mythicbody, narkyii, Magoro10",
+		"players_data":	[{
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/y8nwjrny"
+	}, {
+		"run_id":	"mepwjvqy",
+		"verified_epoch":	1767362528,
+		"verified_iso":	"2026-01-02T14:02:08Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"Shadow Raid",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Glitchless, Bag Collection (Shadow Raid): Standard",
+		"primary_t":	32.482,
+		"players":	"Magoro10, mythicbody, narkyii, FireBlaze_309",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/mepwjvqy"
+	}, {
+		"run_id":	"y68vn3qz",
+		"verified_epoch":	1767362510,
+		"verified_iso":	"2026-01-02T14:01:50Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"Shadow Raid",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Any%, Bag Collection (Shadow Raid): Standard",
+		"primary_t":	32.482,
+		"players":	"Magoro10, mythicbody, narkyii, FireBlaze_309",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/y68vn3qz"
+	}, {
+		"run_id":	"y2r271wm",
+		"verified_epoch":	1767362482,
+		"verified_iso":	"2026-01-02T14:01:22Z",
+		"game":	"Bully: Scholarship Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/l3dxqp1y/cover.png?v=e1371d7",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Version: PC, Any%: DDM",
+		"primary_t":	7710,
+		"players":	"NickDaRager",
+		"players_data":	[{
+				"name":	"NickDaRager",
+				"weblink":	"http://www.speedrun.com/user/NickDaRager",
+				"image":	"https://www.speedrun.com/static/user/xy5p7ez8/image.png?v=1dde75c"
+			}],
+		"weblink":	"http://www.speedrun.com/bullyse/run/y2r271wm"
+	}, {
+		"run_id":	"zg9l8kjm",
+		"verified_epoch":	1767362476,
+		"verified_iso":	"2026-01-02T14:01:16Z",
+		"game":	"Geometry Dash",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gxkxd2/cover.png?v=55e83a6",
+		"category":	"1-8",
+		"level":	"",
+		"subcats":	"Category: Any%, FPS: N/A (2.2), Version: 2.207, Game Type / OS: Mobile, Confirm Exit Bug: Used",
+		"primary_t":	695.433,
+		"players":	"novertex",
+		"players_data":	[{
+				"name":	"novertex",
+				"weblink":	"http://www.speedrun.com/user/novertex",
+				"image":	"https://www.speedrun.com/static/user/8q5gp2o8/image.png?v=23256f4"
+			}],
+		"weblink":	"http://www.speedrun.com/gmd/run/zg9l8kjm"
+	}, {
+		"run_id":	"m7vn644m",
+		"verified_epoch":	1767362460,
+		"verified_iso":	"2026-01-02T14:01:00Z",
+		"game":	"Bully: Scholarship Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/l3dxqp1y/cover.png?v=e1371d7",
+		"category":	"PC",
+		"level":	"Chapter V",
+		"subcats":	"",
+		"primary_t":	1750,
+		"players":	"NickDaRager",
+		"players_data":	[{
+				"name":	"NickDaRager",
+				"weblink":	"http://www.speedrun.com/user/NickDaRager",
+				"image":	"https://www.speedrun.com/static/user/xy5p7ez8/image.png?v=1dde75c"
+			}],
+		"weblink":	"http://www.speedrun.com/bullyse/run/m7vn644m"
+	}, {
+		"run_id":	"yo506r7z",
+		"verified_epoch":	1767362428,
+		"verified_iso":	"2026-01-02T14:00:28Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"R&B Bank",
+		"subcats":	"Method: Stealth, Game Version: Current, Run Type: Glitchless, Bag Collection (R&B): Standard",
+		"primary_t":	332.952,
+		"players":	"Magoro10, mythicbody, narkyii, FireBlaze_309",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/yo506r7z"
+	}, {
+		"run_id":	"zg9lrdvm",
+		"verified_epoch":	1767362401,
+		"verified_iso":	"2026-01-02T14:00:01Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"R&B Bank",
+		"subcats":	"Method: Stealth, Game Version: Current, Run Type: Any%, Bag Collection (R&B): Standard",
+		"primary_t":	332.952,
+		"players":	"Magoro10, mythicbody, narkyii, FireBlaze_309",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/zg9lrdvm"
+	}, {
+		"run_id":	"m7vn3e0m",
+		"verified_epoch":	1767362311,
+		"verified_iso":	"2026-01-02T13:58:31Z",
+		"game":	"Radium ",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7pk5zd/cover.png?v=f33badc",
+		"category":	"Golden Trophy",
+		"level":	"",
+		"subcats":	"Players (gt): 2 Players, Run Type (gt): Any%, Play mode : VR",
+		"primary_t":	421,
+		"players":	"HennerzBently, inspirity",
+		"players_data":	[{
+				"name":	"HennerzBently",
+				"weblink":	"http://www.speedrun.com/user/HennerzBently",
+				"image":	"https://www.speedrun.com/static/user/j9r9n3oj/image.png?v=2a5be35"
+			}, {
+				"name":	"inspirity",
+				"weblink":	"http://www.speedrun.com/user/inspirity",
+				"image":	"https://www.speedrun.com/static/user/8d0koolx/image.png?v=9640014"
+			}],
+		"weblink":	"http://www.speedrun.com/Radium_/run/m7vn3e0m"
+	}, {
+		"run_id":	"y68v991z",
+		"verified_epoch":	1767362299,
+		"verified_iso":	"2026-01-02T13:58:19Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Normal (Co-op)",
+		"level":	"R&B Bank",
+		"subcats":	"Method: Stealth, Game Version: Current, Run Type: Glitchless, Bag Collection (R&B): Standard",
+		"primary_t":	328.573,
+		"players":	"Magoro10, mythicbody, narkyii, FireBlaze_309",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}, {
+				"name":	"FireBlaze_309",
+				"weblink":	"http://www.speedrun.com/user/FireBlaze_309",
+				"image":	"https://www.speedrun.com/static/user/jopn4q3x/image.png?v=96d62ba"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/y68v991z"
+	}, {
+		"run_id":	"yo506kjz",
+		"verified_epoch":	1767362260,
+		"verified_iso":	"2026-01-02T13:57:40Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"Authority",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Glitchless, Bag Collection (Authority): Standard",
+		"primary_t":	55.514,
+		"players":	"Magoro10, mythicbody, nekothechan, narkyii",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"nekothechan",
+				"weblink":	"http://www.speedrun.com/user/nekothechan",
+				"image":	"https://www.speedrun.com/static/user/8vk6wwej/image.png?v=b9518ad"
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/yo506kjz"
+	}, {
+		"run_id":	"zn520rlz",
+		"verified_epoch":	1767362255,
+		"verified_iso":	"2026-01-02T13:57:35Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Nightmare (Co-op)",
+		"level":	"Authority",
+		"subcats":	"Method: Loud, Game Version: Current, Run Type: Any%, Bag Collection (Authority): Standard",
+		"primary_t":	55.514,
+		"players":	"Magoro10, mythicbody, nekothechan, narkyii",
+		"players_data":	[{
+				"name":	"Magoro10",
+				"weblink":	"http://www.speedrun.com/user/Magoro10",
+				"image":	""
+			}, {
+				"name":	"mythicbody",
+				"weblink":	"http://www.speedrun.com/user/mythicbody",
+				"image":	""
+			}, {
+				"name":	"nekothechan",
+				"weblink":	"http://www.speedrun.com/user/nekothechan",
+				"image":	"https://www.speedrun.com/static/user/8vk6wwej/image.png?v=b9518ad"
+			}, {
+				"name":	"narkyii",
+				"weblink":	"http://www.speedrun.com/user/narkyii",
+				"image":	"https://www.speedrun.com/static/user/j5pmypw8/image.png?v=c30d163"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/zn520rlz"
+	}, {
+		"run_id":	"zn5v049z",
+		"verified_epoch":	1767362193,
+		"verified_iso":	"2026-01-02T13:56:33Z",
+		"game":	"Notoriety ",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvwr96w/cover.png?v=c4ff02e",
+		"category":	"Infamous% (Solo)",
+		"level":	"",
+		"subcats":	"DLC: No DLC, Game Version: Current, Run Type: Any%, XP Boost: Any",
+		"primary_t":	655.796,
+		"players":	"AFProphet",
+		"players_data":	[{
+				"name":	"AFProphet",
+				"weblink":	"http://www.speedrun.com/user/AFProphet",
+				"image":	"https://www.speedrun.com/static/user/jpznw20x/image.png?v=62cd40b"
+			}],
+		"weblink":	"http://www.speedrun.com/notoriety/run/zn5v049z"
+	}, {
+		"run_id":	"y68v2l0z",
+		"verified_epoch":	1767362127,
+		"verified_iso":	"2026-01-02T13:55:27Z",
+		"game":	"The Santa Trials",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvg304d/cover.png?v=bd7c36a",
+		"category":	"The Trial Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	52,
+		"players":	"SlothLord",
+		"players_data":	[{
+				"name":	"SlothLord",
+				"weblink":	"http://www.speedrun.com/user/SlothLord",
+				"image":	"https://www.speedrun.com/static/user/xz7dqv9j/image.png?v=7dd966b"
+			}],
+		"weblink":	"http://www.speedrun.com/Santas_Trials/run/y68v2l0z"
+	}, {
+		"run_id":	"y8nwkl1y",
+		"verified_epoch":	1767362122,
+		"verified_iso":	"2026-01-02T13:55:22Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Oceania: Countries",
+		"level":	"",
+		"subcats":	"Mode: Pin (Hard), Platform: Website",
+		"primary_t":	4.486,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/y8nwkl1y"
+	}, {
+		"run_id":	"y9wjkxnz",
+		"verified_epoch":	1767362058,
+		"verified_iso":	"2026-01-02T13:54:18Z",
+		"game":	"Color Book",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27np51/cover.png?v=1624ea0",
+		"category":	"Solo",
+		"level":	"Sunset Plain",
+		"subcats":	"Gears?: Gearless",
+		"primary_t":	223.74,
+		"players":	"IUseArchByTheWay",
+		"players_data":	[{
+				"name":	"IUseArchByTheWay",
+				"weblink":	"http://www.speedrun.com/user/IUseArchByTheWay",
+				"image":	"https://www.speedrun.com/static/user/j2ymd578/image.png?v=2afd60b"
+			}],
+		"weblink":	"http://www.speedrun.com/Color_Book/run/y9wjkxnz"
+	}, {
+		"run_id":	"y2r2k69m",
+		"verified_epoch":	1767362050,
+		"verified_iso":	"2026-01-02T13:54:10Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin (Hard, No Borders)",
+		"level":	"Parts of the World",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.456,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/y2r2k69m"
+	}, {
+		"run_id":	"zq58d41z",
+		"verified_epoch":	1767362034,
+		"verified_iso":	"2026-01-02T13:53:54Z",
+		"game":	"Color Book",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27np51/cover.png?v=1624ea0",
+		"category":	"Solo",
+		"level":	"Timmy and the Killbots",
+		"subcats":	"Gears?: Gearless",
+		"primary_t":	105.88,
+		"players":	"IUseArchByTheWay",
+		"players_data":	[{
+				"name":	"IUseArchByTheWay",
+				"weblink":	"http://www.speedrun.com/user/IUseArchByTheWay",
+				"image":	"https://www.speedrun.com/static/user/j2ymd578/image.png?v=2afd60b"
+			}],
+		"weblink":	"http://www.speedrun.com/Color_Book/run/zq58d41z"
+	}, {
+		"run_id":	"zq58d5xz",
+		"verified_epoch":	1767362029,
+		"verified_iso":	"2026-01-02T13:53:49Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin (No Borders)",
+		"level":	"Parts of the World",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.35,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/zq58d5xz"
+	}, {
+		"run_id":	"m320k24y",
+		"verified_epoch":	1767362001,
+		"verified_iso":	"2026-01-02T13:53:21Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin (Hard, No Borders)",
+		"level":	"Northern Africa: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.646,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/m320k24y"
+	}, {
+		"run_id":	"mr5v25dy",
+		"verified_epoch":	1767361984,
+		"verified_iso":	"2026-01-02T13:53:04Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin (No Borders)",
+		"level":	"Northern Africa: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.647,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/mr5v25dy"
+	}, {
+		"run_id":	"m7vn3vem",
+		"verified_epoch":	1767361967,
+		"verified_iso":	"2026-01-02T13:52:47Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin (Hard)",
+		"level":	"Northern Africa: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.404,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/m7vn3vem"
+	}, {
+		"run_id":	"zg9lw7nm",
+		"verified_epoch":	1767361964,
+		"verified_iso":	"2026-01-02T13:52:44Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"The Hadal Blacksite",
+		"level":	"The Ridge",
+		"subcats":	"Players: Solo, Items: Items",
+		"primary_t":	101.383,
+		"players":	"Sharmelle",
+		"players_data":	[{
+				"name":	"Sharmelle",
+				"weblink":	"http://www.speedrun.com/user/Sharmelle",
+				"image":	"https://www.speedrun.com/static/user/8eovpydj/image.png?v=ba00408"
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Pressure_CE/run/zg9lw7nm"
+	}, {
+		"run_id":	"z179k79z",
+		"verified_epoch":	1767361951,
+		"verified_iso":	"2026-01-02T13:52:31Z",
+		"game":	"Seterra (Geoguessr Version)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
+		"category":	"Pin",
+		"level":	"Northern Africa: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.604,
+		"players":	"Serdzio10",
+		"players_data":	[{
+				"name":	"Serdzio10",
+				"weblink":	"http://www.speedrun.com/user/Serdzio10",
+				"image":	"https://www.speedrun.com/static/user/xz2p0l9x/image.png?v=8b7b039"
+			}],
+		"weblink":	"http://www.speedrun.com/seterra/run/z179k79z"
+	}, {
+		"run_id":	"zg9lex0m",
+		"verified_epoch":	1767361781,
+		"verified_iso":	"2026-01-02T13:49:41Z",
+		"game":	"Gran Turismo 7",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0qpl31/cover.png?v=9477cde",
+		"category":	"IL",
+		"level":	"Event Races: Circuit Gilles-Villeneuve",
+		"subcats":	"Event Race: Nissan GT-R Cup",
+		"primary_t":	471.794,
+		"players":	"CZCJiaxu",
+		"players_data":	[{
+				"name":	"CZCJiaxu",
+				"weblink":	"http://www.speedrun.com/user/CZCJiaxu",
+				"image":	"https://www.speedrun.com/static/user/8r6o4d68/image.png?v=1f55a62"
+			}],
+		"weblink":	"http://www.speedrun.com/gt7/run/zg9lex0m"
+	}, {
+		"run_id":	"mr5v617y",
+		"verified_epoch":	1767361699,
+		"verified_iso":	"2026-01-02T13:48:19Z",
+		"game":	"Bloodthief",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
+		"category":	"Bloodless%",
+		"level":	"1-5: Blighted Holdfast",
+		"subcats":	"Build: v1.2.2, Sword: Skrike",
+		"primary_t":	33.656,
+		"players":	"_SleepyZZZ",
+		"players_data":	[{
+				"name":	"_SleepyZZZ",
+				"weblink":	"http://www.speedrun.com/user/_SleepyZZZ",
+				"image":	"https://www.speedrun.com/static/user/xk6wzgk8/image.png?v=9fc5429"
+			}],
+		"weblink":	"http://www.speedrun.com/Bloodthief/run/mr5v617y"
+	}, {
+		"run_id":	"zp5634ry",
+		"verified_epoch":	1767361632,
+		"verified_iso":	"2026-01-02T13:47:12Z",
+		"game":	"Bloodthief",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
+		"category":	"Bloodless%",
+		"level":	"1-2: Varu Rooftops",
+		"subcats":	"Build: v1.2.2, Sword: Skrike",
+		"primary_t":	11.778,
+		"players":	"_SleepyZZZ",
+		"players_data":	[{
+				"name":	"_SleepyZZZ",
+				"weblink":	"http://www.speedrun.com/user/_SleepyZZZ",
+				"image":	"https://www.speedrun.com/static/user/xk6wzgk8/image.png?v=9fc5429"
+			}],
+		"weblink":	"http://www.speedrun.com/Bloodthief/run/zp5634ry"
+	}, {
+		"run_id":	"y8nw10dy",
+		"verified_epoch":	1767361605,
+		"verified_iso":	"2026-01-02T13:46:45Z",
+		"game":	"Bloodthief",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
+		"category":	"Pacifist%",
+		"level":	"1-2: Varu Rooftops",
+		"subcats":	"Build: v1.2.2, Sword: Skrike",
+		"primary_t":	15.244,
+		"players":	"miatas",
+		"players_data":	[{
+				"name":	"miatas",
+				"weblink":	"http://www.speedrun.com/user/miatas",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Bloodthief/run/y8nw10dy"
+	}, {
+		"run_id":	"yv5lv56m",
+		"verified_epoch":	1767361509,
+		"verified_iso":	"2026-01-02T13:45:09Z",
+		"game":	"Harry Potter Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/3dx2xov1/cover.png?v=0fcf05e",
+		"category":	"Single Year",
+		"level":	"",
+		"subcats":	"Year: HP5, Percentage: 100%",
+		"primary_t":	19989,
+		"players":	"Flo203",
+		"players_data":	[{
+				"name":	"Flo203",
+				"weblink":	"http://www.speedrun.com/user/Flo203",
+				"image":	"https://www.speedrun.com/static/user/48gl4k2x/image.png?v=163facb"
+			}],
+		"weblink":	"http://www.speedrun.com/hpce/run/yv5lv56m"
+	}, {
+		"run_id":	"y68v236z",
+		"verified_epoch":	1767361426,
+		"verified_iso":	"2026-01-02T13:43:46Z",
+		"game":	"Hive Minigames Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvzxmr6/cover.png?v=0c7a888",
+		"category":	"Microhub Parkour",
+		"level":	"",
+		"subcats":	"Bedwars Hub Parkour: (Blank), Skywars Hub Parkour: Cave, Just Build Hub Parkour: (Blank)",
+		"primary_t":	32.513,
+		"players":	"Hummel2224",
+		"players_data":	[{
+				"name":	"Hummel2224",
+				"weblink":	"http://www.speedrun.com/user/Hummel2224",
+				"image":	"https://www.speedrun.com/static/user/j5ppqnn8/image.png?v=6fcbd94"
+			}],
+		"weblink":	"http://www.speedrun.com/hivece/run/y68v236z"
+	}, {
+		"run_id":	"zn52q93z",
+		"verified_epoch":	1767361293,
+		"verified_iso":	"2026-01-02T13:41:33Z",
+		"game":	"Postal 2",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4r4x1e/cover.png?v=1db2a6f",
+		"category":	"Normal Mode",
+		"level":	"Monday",
+		"subcats":	"Difficulty: Easy, Patch: 5100, Individual levels variables: Glitched",
+		"primary_t":	198.29,
+		"players":	"fiveskill",
+		"players_data":	[{
+				"name":	"fiveskill",
+				"weblink":	"http://www.speedrun.com/user/fiveskill",
+				"image":	"https://www.speedrun.com/static/user/8wkg77l8/image.png?v=bd4d1b3"
+			}],
+		"weblink":	"http://www.speedrun.com/postal2/run/zn52q93z"
+	}, {
+		"run_id":	"mr522v2y",
+		"verified_epoch":	1767361209,
+		"verified_iso":	"2026-01-02T13:40:09Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Trio",
+		"level":	"Tanglewood Street",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Standard, Mode: Any%",
+		"primary_t":	49.967,
+		"players":	"houmreu, kohout135, IntruderPL",
+		"players_data":	[{
+				"name":	"houmreu",
+				"weblink":	"http://www.speedrun.com/user/houmreu",
+				"image":	"https://www.speedrun.com/static/user/xy577pz8/image.png?v=af96998"
+			}, {
+				"name":	"kohout135",
+				"weblink":	"http://www.speedrun.com/user/kohout135",
+				"image":	"https://www.speedrun.com/static/user/j26dvwpx/image.png?v=755d7bd"
+			}, {
+				"name":	"IntruderPL",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/phasmophobia/run/mr522v2y"
+	}, {
+		"run_id":	"zx31nk5z",
+		"verified_epoch":	1767361112,
+		"verified_iso":	"2026-01-02T13:38:32Z",
+		"game":	"Hive Minigames",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4o90p1/cover.png?v=b025b26",
+		"category":	"Mobile",
+		"level":	"Western",
+		"subcats":	"Leap Cooldown: Default",
+		"primary_t":	63.837,
+		"players":	"x7xaii5x",
+		"players_data":	[{
+				"name":	"x7xaii5x",
+				"weblink":	"http://www.speedrun.com/user/x7xaii5x",
+				"image":	"https://www.speedrun.com/static/user/8w0dwgvj/image.png?v=798b8e1"
+			}],
+		"weblink":	"http://www.speedrun.com/hive/run/zx31nk5z"
+	}, {
+		"run_id":	"y8nw0p1y",
+		"verified_epoch":	1767361102,
+		"verified_iso":	"2026-01-02T13:38:22Z",
+		"game":	"Flipping Is Hard",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xyvz1/cover.png?v=6ee5d8f",
+		"category":	"Demo",
+		"level":	"",
+		"subcats":	"Category: 3+ Coop Any%, Version: 0.9.12",
+		"primary_t":	830.72,
+		"players":	"PixlPioneer, Gappyy, SilverKing64",
+		"players_data":	[{
+				"name":	"PixlPioneer",
+				"weblink":	"http://www.speedrun.com/user/PixlPioneer",
+				"image":	""
+			}, {
+				"name":	"Gappyy",
+				"weblink":	"http://www.speedrun.com/user/Gappyy",
+				"image":	""
+			}, {
+				"name":	"SilverKing64",
+				"weblink":	"http://www.speedrun.com/user/SilverKing64",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Flipping_Is_Hard/run/y8nw0p1y"
+	}, {
+		"run_id":	"zg9l8qnm",
+		"verified_epoch":	1767361088,
+		"verified_iso":	"2026-01-02T13:38:08Z",
+		"game":	"Sonic the Fighters",
+		"game_cover":	"https://www.speedrun.com/static/game/n2688k6p/cover.png?v=1b9f175",
+		"category":	"Fang",
+		"level":	"Flying Carpet",
+		"subcats":	"",
+		"primary_t":	25.85,
+		"players":	"KievanRusCitizen",
+		"players_data":	[{
+				"name":	"KievanRusCitizen",
+				"weblink":	"http://www.speedrun.com/user/KievanRusCitizen",
+				"image":	"https://www.speedrun.com/static/user/j46oepd8/image.png?v=f98f07f"
+			}],
+		"weblink":	"http://www.speedrun.com/sonicthefighters/run/zg9l8qnm"
+	}, {
+		"run_id":	"zq5ddd8z",
+		"verified_epoch":	1767361075,
+		"verified_iso":	"2026-01-02T13:37:55Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Trio",
+		"level":	"Nell's Diner",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Standard, Mode: Any%",
+		"primary_t":	65.017,
+		"players":	"houmreu, kohout135, IntruderPL",
+		"players_data":	[{
+				"name":	"houmreu",
+				"weblink":	"http://www.speedrun.com/user/houmreu",
+				"image":	"https://www.speedrun.com/static/user/xy577pz8/image.png?v=af96998"
+			}, {
+				"name":	"kohout135",
+				"weblink":	"http://www.speedrun.com/user/kohout135",
+				"image":	"https://www.speedrun.com/static/user/j26dvwpx/image.png?v=755d7bd"
+			}, {
+				"name":	"IntruderPL",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/phasmophobia/run/zq5ddd8z"
+	}, {
+		"run_id":	"m7vn3lem",
+		"verified_epoch":	1767361009,
+		"verified_iso":	"2026-01-02T13:36:49Z",
+		"game":	"Harry Potter Multiruns",
+		"game_cover":	"https://www.speedrun.com/static/game/v1plmp68/cover.png?v=6dcb869",
+		"category":	"Handheld Octofecta",
+		"level":	"",
+		"subcats":	"Handheld Octofecta: Any%",
+		"primary_t":	30455,
+		"players":	"Flo203",
+		"players_data":	[{
+				"name":	"Flo203",
+				"weblink":	"http://www.speedrun.com/user/Flo203",
+				"image":	"https://www.speedrun.com/static/user/48gl4k2x/image.png?v=163facb"
+			}],
+		"weblink":	"http://www.speedrun.com/hpmulti/run/m7vn3lem"
+	}, {
+		"run_id":	"mkrpqw1z",
+		"verified_epoch":	1767361004,
+		"verified_iso":	"2026-01-02T13:36:44Z",
+		"game":	"Harry Potter Multiruns",
+		"game_cover":	"https://www.speedrun.com/static/game/v1plmp68/cover.png?v=6dcb869",
+		"category":	"GBA Pentafecta",
+		"level":	"",
+		"subcats":	"GBA Pentafecta: Any%",
+		"primary_t":	12049,
+		"players":	"Flo203",
+		"players_data":	[{
+				"name":	"Flo203",
+				"weblink":	"http://www.speedrun.com/user/Flo203",
+				"image":	"https://www.speedrun.com/static/user/48gl4k2x/image.png?v=163facb"
+			}],
+		"weblink":	"http://www.speedrun.com/hpmulti/run/mkrpqw1z"
+	}, {
+		"run_id":	"yo50o91z",
+		"verified_epoch":	1767360986,
+		"verified_iso":	"2026-01-02T13:36:26Z",
+		"game":	"Sonic the Fighters",
+		"game_cover":	"https://www.speedrun.com/static/game/n2688k6p/cover.png?v=1b9f175",
+		"category":	"Fang",
+		"level":	"Dynamite Plant",
+		"subcats":	"",
+		"primary_t":	33.58,
+		"players":	"KievanRusCitizen",
+		"players_data":	[{
+				"name":	"KievanRusCitizen",
+				"weblink":	"http://www.speedrun.com/user/KievanRusCitizen",
+				"image":	"https://www.speedrun.com/static/user/j46oepd8/image.png?v=f98f07f"
+			}],
+		"weblink":	"http://www.speedrun.com/sonicthefighters/run/yo50o91z"
+	}, {
 		"run_id":	"y8nwkvwy",
 		"verified_epoch":	1767360930,
 		"verified_iso":	"2026-01-02T13:35:30Z",
@@ -2359,6 +3633,27 @@
 				"image":	"https://www.speedrun.com/static/user/j2pqz5l8/image.png?v=34e18a5"
 			}],
 		"weblink":	"http://www.speedrun.com/Radium_/run/yw5gr73y"
+	}, {
+		"run_id":	"z179llgz",
+		"verified_epoch":	1767342509,
+		"verified_iso":	"2026-01-02T08:28:29Z",
+		"game":	"Radium ",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7pk5zd/cover.png?v=f33badc",
+		"category":	"Golden Trophy",
+		"level":	"",
+		"subcats":	"Players (gt): 2 Players, Run Type (gt): Any%, Play mode : VR",
+		"primary_t":	561,
+		"players":	"iamxjaydenYT, 10918",
+		"players_data":	[{
+				"name":	"iamxjaydenYT",
+				"weblink":	"http://www.speedrun.com/user/iamxjaydenYT",
+				"image":	""
+			}, {
+				"name":	"10918",
+				"weblink":	"http://www.speedrun.com/user/10918",
+				"image":	"https://www.speedrun.com/static/user/x7gp60vx/image.png?v=dc9ce09"
+			}],
+		"weblink":	"http://www.speedrun.com/Radium_/run/z179llgz"
 	}, {
 		"run_id":	"zx5qw9em",
 		"verified_epoch":	1767342465,
@@ -16034,352 +17329,4 @@
 				"image":	"https://www.speedrun.com/static/user/xyo4n6zj/image.png?v=fc0b2a9"
 			}],
 		"weblink":	"http://www.speedrun.com/jak3ext/run/y9w81vvz"
-	}, {
-		"run_id":	"mkrpkq1z",
-		"verified_epoch":	1767277374,
-		"verified_iso":	"2026-01-01T14:22:54Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.5, Seed System: Set Seed, Sub-category: Any%, Difficulty: Hollow, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Sewer Ending, Robot Granny: No Robot Granny, Extras: No Extras, Dynamic Spawns: No Dynamic Spawns",
-		"primary_t":	77.533,
-		"players":	"Quizhn",
-		"players_data":	[{
-				"name":	"Quizhn",
-				"weblink":	"http://www.speedrun.com/user/Quizhn",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/mkrpkq1z"
-	}, {
-		"run_id":	"zq5j351z",
-		"verified_epoch":	1767277364,
-		"verified_iso":	"2026-01-01T14:22:44Z",
-		"game":	"SWORD ART ONLINE Fractured Daydream",
-		"game_cover":	"https://www.speedrun.com/static/game/369w40ld/cover.png?v=2a8111a",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"difficulty: Easy",
-		"primary_t":	7706,
-		"players":	"mororin",
-		"players_data":	[{
-				"name":	"mororin",
-				"weblink":	"http://www.speedrun.com/user/mororin",
-				"image":	"https://www.speedrun.com/static/user/8q527e78/image.png?v=2ba62df"
-			}],
-		"weblink":	"http://www.speedrun.com/SWORD_ART_ONLINE_Fractured_Daydream/run/zq5j351z"
-	}, {
-		"run_id":	"z1727r9z",
-		"verified_epoch":	1767277351,
-		"verified_iso":	"2026-01-01T14:22:31Z",
-		"game":	"The Case of the Golden Idol",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qwlgx6/cover.png?v=7d890cc",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1055,
-		"players":	"geollama",
-		"players_data":	[{
-				"name":	"geollama",
-				"weblink":	"http://www.speedrun.com/user/geollama",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/the_case_of_the_golden_idol/run/z1727r9z"
-	}, {
-		"run_id":	"y9wjlgez",
-		"verified_epoch":	1767277192,
-		"verified_iso":	"2026-01-01T14:19:52Z",
-		"game":	"Ao Oni 2024",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv9vmo1/cover.png?v=86e4fb3",
-		"category":	"Any% RTA",
-		"level":	"",
-		"subcats":	"Speed: 10x Speed",
-		"primary_t":	468,
-		"players":	"tanbayasu",
-		"players_data":	[{
-				"name":	"tanbayasu",
-				"weblink":	"http://www.speedrun.com/user/tanbayasu",
-				"image":	"https://www.speedrun.com/static/user/j4w373dx/image.png?v=d943532"
-			}],
-		"weblink":	"http://www.speedrun.com/Ao_Oni_2024/run/y9wjlgez"
-	}, {
-		"run_id":	"yw5g3rpy",
-		"verified_epoch":	1767277116,
-		"verified_iso":	"2026-01-01T14:18:36Z",
-		"game":	"Roblox: Grace Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd47m5pd/cover.png?v=452e98e",
-		"category":	"Highest Modifier",
-		"level":	"",
-		"subcats":	"Version: Spread the Love [CURRENT]",
-		"primary_t":	0.101,
-		"players":	"JakubKowalczyk",
-		"players_data":	[{
-				"name":	"JakubKowalczyk",
-				"weblink":	"http://www.speedrun.com/user/JakubKowalczyk",
-				"image":	"https://www.speedrun.com/static/user/jm0gwee8/image.png?v=836d783"
-			}],
-		"weblink":	"http://www.speedrun.com/grace_ce/run/yw5g3rpy"
-	}, {
-		"run_id":	"z0kxvg8m",
-		"verified_epoch":	1767277023,
-		"verified_iso":	"2026-01-01T14:17:03Z",
-		"game":	"Ao Oni 2024",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv9vmo1/cover.png?v=86e4fb3",
-		"category":	"Any% RTA",
-		"level":	"",
-		"subcats":	"Speed: 5x Speed",
-		"primary_t":	352,
-		"players":	"tanbayasu",
-		"players_data":	[{
-				"name":	"tanbayasu",
-				"weblink":	"http://www.speedrun.com/user/tanbayasu",
-				"image":	"https://www.speedrun.com/static/user/j4w373dx/image.png?v=d943532"
-			}],
-		"weblink":	"http://www.speedrun.com/Ao_Oni_2024/run/z0kxvg8m"
-	}, {
-		"run_id":	"m7vwv74m",
-		"verified_epoch":	1767276932,
-		"verified_iso":	"2026-01-01T14:15:32Z",
-		"game":	"The Case of the Golden Idol",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qwlgx6/cover.png?v=7d890cc",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	462,
-		"players":	"geollama",
-		"players_data":	[{
-				"name":	"geollama",
-				"weblink":	"http://www.speedrun.com/user/geollama",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/the_case_of_the_golden_idol/run/m7vwv74m"
-	}, {
-		"run_id":	"y2r2006m",
-		"verified_epoch":	1767276924,
-		"verified_iso":	"2026-01-01T14:15:24Z",
-		"game":	"Hello Neighbor: Hide and Seek",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkz2oxd/cover.png?v=e9a9106",
-		"category":	"Console",
-		"level":	"",
-		"subcats":	"CATEGORY CONSOLE: Any%",
-		"primary_t":	1484.833,
-		"players":	"JTSTM",
-		"players_data":	[{
-				"name":	"JTSTM",
-				"weblink":	"http://www.speedrun.com/user/JTSTM",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/hello_neighbor_hide_and_seek/run/y2r2006m"
-	}, {
-		"run_id":	"z0knqd8m",
-		"verified_epoch":	1767276627,
-		"verified_iso":	"2026-01-01T14:10:27Z",
-		"game":	"Lethal Company",
-		"game_cover":	"https://www.speedrun.com/static/game/369wyg0d/cover.png?v=a47e230",
-		"category":	"Classic Ironman",
-		"level":	"",
-		"subcats":	"Number of Players: 2 Employees, Glitch Type: Glitchless, Version: v73, Version (Classic Ironman): v60+, [CIM] Modifications: Beehives",
-		"primary_t":	3092.88,
-		"players":	"GrassHopps, Drtree210",
-		"players_data":	[{
-				"name":	"GrassHopps",
-				"weblink":	"http://www.speedrun.com/user/GrassHopps",
-				"image":	"https://www.speedrun.com/static/user/8eo0r0pj/image.png?v=fa2fc6b"
-			}, {
-				"name":	"Drtree210",
-				"weblink":	"http://www.speedrun.com/user/Drtree210",
-				"image":	"https://www.speedrun.com/static/user/jm6dyoy8/image.png?v=fa55450"
-			}],
-		"weblink":	"http://www.speedrun.com/Lethal_Company/run/z0knqd8m"
-	}, {
-		"run_id":	"y40k4kqz",
-		"verified_epoch":	1767276526,
-		"verified_iso":	"2026-01-01T14:08:46Z",
-		"game":	"Super Bear Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
-		"category":	"Single Bears",
-		"level":	"Snow Valley",
-		"subcats":	"Single Bears: Vladimir, Version: 12.1.3",
-		"primary_t":	7.65,
-		"players":	"DineshKumar",
-		"players_data":	[{
-				"name":	"DineshKumar",
-				"weblink":	"http://www.speedrun.com/user/DineshKumar",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sba/run/y40k4kqz"
-	}, {
-		"run_id":	"z179jnwz",
-		"verified_epoch":	1767276359,
-		"verified_iso":	"2026-01-01T14:05:59Z",
-		"game":	"Metroid Dread",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxkz0v1/cover.png?v=7556078",
-		"category":	"Boss Rush (Practice Mode)",
-		"level":	"Raven Beak",
-		"subcats":	"Difficulty: Normal Mode, Glitch Category: No Major Glitches, Turbo: Turbo",
-		"primary_t":	45,
-		"players":	"Metroll",
-		"players_data":	[{
-				"name":	"Metroll",
-				"weblink":	"http://www.speedrun.com/user/Metroll",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/mdread/run/z179jnwz"
-	}, {
-		"run_id":	"mko99d5z",
-		"verified_epoch":	1767276181,
-		"verified_iso":	"2026-01-01T14:03:01Z",
-		"game":	"Tyke and Sons Lumber Co.",
-		"game_cover":	"https://www.speedrun.com/static/game/m1zkgg01/cover.png?v=9cb0528",
-		"category":	"All Games",
-		"level":	"",
-		"subcats":	"All Games File: NG+",
-		"primary_t":	984.067,
-		"players":	"Tyzzoned",
-		"players_data":	[{
-				"name":	"Tyzzoned",
-				"weblink":	"http://www.speedrun.com/user/Tyzzoned",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/tyke_and_sons/run/mko99d5z"
-	}, {
-		"run_id":	"m3203k4y",
-		"verified_epoch":	1767275884,
-		"verified_iso":	"2026-01-01T13:58:04Z",
-		"game":	"Drink More Glurp",
-		"game_cover":	"https://www.speedrun.com/static/game/46w30eq1/cover.png?v=329806d",
-		"category":	"All gold medals",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1046,
-		"players":	"poyo1702",
-		"players_data":	[{
-				"name":	"poyo1702",
-				"weblink":	"http://www.speedrun.com/user/poyo1702",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/drink_more_glurp/run/m3203k4y"
-	}, {
-		"run_id":	"y406q6dz",
-		"verified_epoch":	1767275267,
-		"verified_iso":	"2026-01-01T13:47:47Z",
-		"game":	"Call of Duty: Black Ops Zombies",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2ggq10/cover.png?v=3dd3d3a",
-		"category":	"Five",
-		"level":	"",
-		"subcats":	"Number of Players: 2P Co-Op, Five: Round 5",
-		"primary_t":	156.7,
-		"players":	"RainingZombies, Aslan61",
-		"players_data":	[{
-				"name":	"RainingZombies",
-				"weblink":	"http://www.speedrun.com/user/RainingZombies",
-				"image":	"https://www.speedrun.com/static/user/j23gl5px/image.png?v=22b05a9"
-			}, {
-				"name":	"Aslan61",
-				"weblink":	"http://www.speedrun.com/user/Aslan61",
-				"image":	"https://www.speedrun.com/static/user/81qrwmpj/image.png?v=990961b"
-			}],
-		"weblink":	"http://www.speedrun.com/bozombies/run/y406q6dz"
-	}, {
-		"run_id":	"y68v7rpz",
-		"verified_epoch":	1767275146,
-		"verified_iso":	"2026-01-01T13:45:46Z",
-		"game":	"Human Fall Flat",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qgnmdg/cover.png?v=64b198e",
-		"category":	"Console",
-		"level":	"Reprise",
-		"subcats":	"Game Version: v1094332, IL subcategory: Any%",
-		"primary_t":	20.283,
-		"players":	"rei_3999",
-		"players_data":	[{
-				"name":	"rei_3999",
-				"weblink":	"http://www.speedrun.com/user/rei_3999",
-				"image":	"https://www.speedrun.com/static/user/xkzl9w2x/image.png?v=d888776"
-			}],
-		"weblink":	"http://www.speedrun.com/hff/run/y68v7rpz"
-	}, {
-		"run_id":	"zn527nvz",
-		"verified_epoch":	1767275106,
-		"verified_iso":	"2026-01-01T13:45:06Z",
-		"game":	"Escape the Backrooms",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxkwoy1/cover.png?v=7e01c97",
-		"category":	"True Ending",
-		"level":	"",
-		"subcats":	"Difficulty (TE-S): Easy/Normal, Category [TE-S]: NMG",
-		"primary_t":	5806.65,
-		"players":	"Uton2008",
-		"players_data":	[{
-				"name":	"Uton2008",
-				"weblink":	"http://www.speedrun.com/user/Uton2008",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/etb/run/zn527nvz"
-	}, {
-		"run_id":	"z0kdpj4m",
-		"verified_epoch":	1767274931,
-		"verified_iso":	"2026-01-01T13:42:11Z",
-		"game":	"Roblox: Isle 10",
-		"game_cover":	"https://www.speedrun.com/static/game/o6gk45o1/cover.png?v=e84c663",
-		"category":	"Boat",
-		"level":	"",
-		"subcats":	"Player Count: 1P, Portals: Portals, Speedrun Mode: Speedrun Mode, Modifiers: No Modifiers, Version: Isle 10.2",
-		"primary_t":	407.05,
-		"players":	"ChosenScroll",
-		"players_data":	[{
-				"name":	"ChosenScroll",
-				"weblink":	"http://www.speedrun.com/user/ChosenScroll",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/roblox_isle_10/run/z0kdpj4m"
-	}, {
-		"run_id":	"y68v07qz",
-		"verified_epoch":	1767274685,
-		"verified_iso":	"2026-01-01T13:38:05Z",
-		"game":	"Sonic Generations (2024)",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy7np6/cover.png?v=1440fcd",
-		"category":	"Modern",
-		"level":	"Chemical Plant Challenge 5",
-		"subcats":	"Speed Glitches: No",
-		"primary_t":	58.84,
-		"players":	"The_hkr3000",
-		"players_data":	[{
-				"name":	"The_hkr3000",
-				"weblink":	"http://www.speedrun.com/user/The_hkr3000",
-				"image":	"https://www.speedrun.com/static/user/jn1kd918/image.png?v=bd105e3"
-			}],
-		"weblink":	"http://www.speedrun.com/Sonic_Generations_2024/run/y68v07qz"
-	}, {
-		"run_id":	"zp562jvy",
-		"verified_epoch":	1767274604,
-		"verified_iso":	"2026-01-01T13:36:44Z",
-		"game":	"Sonic Generations (2024)",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy7np6/cover.png?v=1440fcd",
-		"category":	"Modern",
-		"level":	"Shadow the Hedgehog",
-		"subcats":	"Normal/Hard Shadow: Hard, Speed Glitches: Yes",
-		"primary_t":	41.9,
-		"players":	"SlavicSnowball",
-		"players_data":	[{
-				"name":	"SlavicSnowball",
-				"weblink":	"http://www.speedrun.com/user/SlavicSnowball",
-				"image":	"https://www.speedrun.com/static/user/jpy5v5yj/image.png?v=b07904a"
-			}],
-		"weblink":	"http://www.speedrun.com/Sonic_Generations_2024/run/zp562jvy"
-	}, {
-		"run_id":	"ydon6vxz",
-		"verified_epoch":	1767274560,
-		"verified_iso":	"2026-01-01T13:36:00Z",
-		"game":	"Getaway Shootout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4rvjw1/cover.png?v=015181c",
-		"category":	"Right Only (Levels)",
-		"level":	"Market",
-		"subcats":	"Player Mode: 1 Player",
-		"primary_t":	10.233,
-		"players":	"leogul11",
-		"players_data":	[{
-				"name":	"leogul11",
-				"weblink":	"http://www.speedrun.com/user/leogul11",
-				"image":	"https://www.speedrun.com/static/user/jn1ndnw8/image.png?v=0a3d43c"
-			}],
-		"weblink":	"http://www.speedrun.com/getaway_shootout_ce/run/ydon6vxz"
 	}]
