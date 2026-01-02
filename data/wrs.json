@@ -1,4 +1,38 @@
 [{
+		"run_id":	"y68v221z",
+		"verified_epoch":	1767339815,
+		"verified_iso":	"2026-01-02T07:43:35Z",
+		"game":	"Junkoid",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7x0vg1/cover.png?v=80abda1",
+		"category":	"100% (No Up+A)",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	1781.499,
+		"players":	"BreadForBrunch",
+		"players_data":	[{
+				"name":	"BreadForBrunch",
+				"weblink":	"http://www.speedrun.com/user/BreadForBrunch",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Junkoid/run/y68v221z"
+	}, {
+		"run_id":	"y9wj8gkz",
+		"verified_epoch":	1767339784,
+		"verified_iso":	"2026-01-02T07:43:04Z",
+		"game":	"The Munchables",
+		"game_cover":	"https://www.speedrun.com/static/game/4d79zvg1/cover.png?v=9510998",
+		"category":	"House%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	249,
+		"players":	"Halfpipe",
+		"players_data":	[{
+				"name":	"Halfpipe",
+				"weblink":	"http://www.speedrun.com/user/Halfpipe",
+				"image":	"https://www.speedrun.com/static/user/8q0lnv0j/image.png?v=dd7bc86"
+			}],
+		"weblink":	"http://www.speedrun.com/munch/run/y9wj8gkz"
+	}, {
 		"run_id":	"zn52vn7z",
 		"verified_epoch":	1767338484,
 		"verified_iso":	"2026-01-02T07:21:24Z",
@@ -17404,72 +17438,4 @@
 				"image":	"https://www.speedrun.com/static/user/j26e35ox/image.png?v=f888bea"
 			}],
 		"weblink":	"http://www.speedrun.com/yamafuda_2nd_station/run/mr5v6g8y"
-	}, {
-		"run_id":	"z0kdo29m",
-		"verified_epoch":	1767253550,
-		"verified_iso":	"2026-01-01T07:45:50Z",
-		"game":	"Sonic Generations (2024)",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy7np6/cover.png?v=1440fcd",
-		"category":	"Modern",
-		"level":	"City Escape Challenge 2",
-		"subcats":	"Speed Glitches: No",
-		"primary_t":	25.81,
-		"players":	"seeingfastness",
-		"players_data":	[{
-				"name":	"seeingfastness",
-				"weblink":	"http://www.speedrun.com/user/seeingfastness",
-				"image":	"https://www.speedrun.com/static/user/j2w7mzpj/image.png?v=4d4fccd"
-			}],
-		"weblink":	"http://www.speedrun.com/Sonic_Generations_2024/run/z0kdo29m"
-	}, {
-		"run_id":	"zx5qo7qm",
-		"verified_epoch":	1767253194,
-		"verified_iso":	"2026-01-01T07:39:54Z",
-		"game":	"Ball Blast",
-		"game_cover":	"https://www.speedrun.com/static/game/nd273851/cover.png?v=ea7714d",
-		"category":	"Boss Rush",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	0.717,
-		"players":	"SMG2xfan",
-		"players_data":	[{
-				"name":	"SMG2xfan",
-				"weblink":	"http://www.speedrun.com/user/SMG2xfan",
-				"image":	"https://www.speedrun.com/static/user/8dpwyp58/image.png?v=9b124da"
-			}],
-		"weblink":	"http://www.speedrun.com/Ball_Blast/run/zx5qo7qm"
-	}, {
-		"run_id":	"yo506ndz",
-		"verified_epoch":	1767253161,
-		"verified_iso":	"2026-01-01T07:39:21Z",
-		"game":	"Wreckreation",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y3lj26/cover.png?v=c3d44b5",
-		"category":	"Levels",
-		"level":	"Star Valley (Road Rule)",
-		"subcats":	"Foliage Density: Unspecified",
-		"primary_t":	125.17,
-		"players":	"MeAndMyDustStorm",
-		"players_data":	[{
-				"name":	"MeAndMyDustStorm",
-				"weblink":	"http://www.speedrun.com/user/MeAndMyDustStorm",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Wreckreation/run/yo506ndz"
-	}, {
-		"run_id":	"zq5805rz",
-		"verified_epoch":	1767253148,
-		"verified_iso":	"2026-01-01T07:39:08Z",
-		"game":	"Wii Sports Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxzo36/cover.png?v=7069e35",
-		"category":	"Golf Challenges",
-		"level":	"",
-		"subcats":	"Version: 1.1, Golf Category: x10, Disconnect State: DS, Golf Course: Intermediate",
-		"primary_t":	847,
-		"players":	"ArcskiMari",
-		"players_data":	[{
-				"name":	"ArcskiMari",
-				"weblink":	"http://www.speedrun.com/user/ArcskiMari",
-				"image":	"https://www.speedrun.com/static/user/j9222v78/image.png?v=c33378c"
-			}],
-		"weblink":	"http://www.speedrun.com/wsce/run/zq5805rz"
 	}]
