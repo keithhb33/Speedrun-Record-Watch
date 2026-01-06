@@ -1,4 +1,378 @@
 [{
+		"run_id":	"mkr15evz",
+		"verified_epoch":	1767698542,
+		"verified_iso":	"2026-01-06T11:22:22Z",
+		"game":	"Granny",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl725d/cover.png?v=d530372",
+		"category":	"v1.8+",
+		"level":	"",
+		"subcats":	"Sub-category: Any% Glitchless, Difficulty: Practice, Ending: Sewer Ending",
+		"primary_t":	208.5,
+		"players":	"Fish_Gaming",
+		"players_data":	[{
+				"name":	"Fish_Gaming",
+				"weblink":	"http://www.speedrun.com/user/Fish_Gaming",
+				"image":	"https://www.speedrun.com/static/user/86rqpr38/image.png?v=914aed1"
+			}],
+		"weblink":	"http://www.speedrun.com/granny/run/mkr15evz"
+	}, {
+		"run_id":	"yw5gjo3y",
+		"verified_epoch":	1767698480,
+		"verified_iso":	"2026-01-06T11:21:20Z",
+		"game":	"Nine Sols",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yjyqk1/cover.png?v=9c699c0",
+		"category":	"All Sols and Seals",
+		"level":	"",
+		"subcats":	"All Sols and Seals: Restricted, Patch: Speedrun Branch, FPS Cap: Uncapped",
+		"primary_t":	7545,
+		"players":	"ImSoBlind",
+		"players_data":	[{
+				"name":	"ImSoBlind",
+				"weblink":	"http://www.speedrun.com/user/ImSoBlind",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/nine_sols/run/yw5gjo3y"
+	}, {
+		"run_id":	"y2rwvg9m",
+		"verified_epoch":	1767698210,
+		"verified_iso":	"2026-01-06T11:16:50Z",
+		"game":	"Colin McRae: Dirt 2",
+		"game_cover":	"https://www.speedrun.com/static/game/y654lk4d/cover.png?v=dfd1906",
+		"category":	"Trailblazer Cars",
+		"level":	"China: Yu Yong",
+		"subcats":	"",
+		"primary_t":	164.02,
+		"players":	"LaMadreRusia",
+		"players_data":	[{
+				"name":	"LaMadreRusia",
+				"weblink":	"http://www.speedrun.com/user/LaMadreRusia",
+				"image":	"https://www.speedrun.com/static/user/8lz0z0vx/image.png?v=dccd34a"
+			}],
+		"weblink":	"http://www.speedrun.com/dirt2/run/y2rwvg9m"
+	}, {
+		"run_id":	"mepg4e3y",
+		"verified_epoch":	1767697893,
+		"verified_iso":	"2026-01-06T11:11:33Z",
+		"game":	"Serious Sam: The First Encounter",
+		"game_cover":	"https://www.speedrun.com/static/game/vo6g4962/cover.png?v=471e51e",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Game mode: Singleplayer, Difficulty: Normal, Version: Vanilla",
+		"primary_t":	1786,
+		"players":	"Inv1ve",
+		"players_data":	[{
+				"name":	"Inv1ve",
+				"weblink":	"http://www.speedrun.com/user/Inv1ve",
+				"image":	"https://www.speedrun.com/static/user/48g3272x/image.png?v=56445ed"
+			}],
+		"weblink":	"http://www.speedrun.com/sstfe/run/mepg4e3y"
+	}, {
+		"run_id":	"zg9eknnm",
+		"verified_epoch":	1767697704,
+		"verified_iso":	"2026-01-06T11:08:24Z",
+		"game":	"Mage Bros.",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zj8n26/cover.png?v=3677202",
+		"category":	"World One",
+		"level":	"",
+		"subcats":	"Player: Solo",
+		"primary_t":	1005,
+		"players":	"AcrylicAlloy",
+		"players_data":	[{
+				"name":	"AcrylicAlloy",
+				"weblink":	"http://www.speedrun.com/user/AcrylicAlloy",
+				"image":	"https://www.speedrun.com/static/user/8rpz2v3j/image.png?v=646e3ad"
+			}],
+		"weblink":	"http://www.speedrun.com/mage_bros/run/zg9eknnm"
+	}, {
+		"run_id":	"ydonrrwz",
+		"verified_epoch":	1767697631,
+		"verified_iso":	"2026-01-06T11:07:11Z",
+		"game":	"OCTOPATH TRAVELER 0",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxyg0p6/cover.png?v=b83eebf",
+		"category":	"Master of All",
+		"level":	"",
+		"subcats":	"FPS/Platform: 120 fps",
+		"primary_t":	8898,
+		"players":	"YTreds",
+		"players_data":	[{
+				"name":	"YTreds",
+				"weblink":	"http://www.speedrun.com/user/YTreds",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/OCTOPATH_TRAVELER_0/run/ydonrrwz"
+	}, {
+		"run_id":	"yl5xrqkz",
+		"verified_epoch":	1767697609,
+		"verified_iso":	"2026-01-06T11:06:49Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Over & Under",
+		"subcats":	"Special Emotes: No Emotes, Version: 0.93.5",
+		"primary_t":	24.833,
+		"players":	"IsJustNightmare",
+		"players_data":	[{
+				"name":	"IsJustNightmare",
+				"weblink":	"http://www.speedrun.com/user/IsJustNightmare",
+				"image":	"https://www.speedrun.com/static/user/jm01qze8/image.png?v=5dcc3b6"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/yl5xrqkz"
+	}, {
+		"run_id":	"y8nperny",
+		"verified_epoch":	1767697536,
+		"verified_iso":	"2026-01-06T11:05:36Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Jurassic Rush",
+		"subcats":	"Special Emotes: Special/Taunt Emotes, Version: 0.93.5",
+		"primary_t":	28.533,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/y8nperny"
+	}, {
+		"run_id":	"ydole50z",
+		"verified_epoch":	1767697532,
+		"verified_iso":	"2026-01-06T11:05:32Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Jurassic Rush",
+		"subcats":	"Special Emotes: No Emotes, Version: 0.93.5",
+		"primary_t":	33.5,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/ydole50z"
+	}, {
+		"run_id":	"zg9orwnm",
+		"verified_epoch":	1767697528,
+		"verified_iso":	"2026-01-06T11:05:28Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Abducted Avenue",
+		"subcats":	"Special Emotes: No Emotes, Version: 0.93.5",
+		"primary_t":	47.033,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/zg9orwnm"
+	}, {
+		"run_id":	"yl5ddvxz",
+		"verified_epoch":	1767697499,
+		"verified_iso":	"2026-01-06T11:04:59Z",
+		"game":	"Slendrina: Asylum (Unofficial PC)",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0qoj21/cover.png?v=4b7f6bc",
+		"category":	"Hard",
+		"level":	"",
+		"subcats":	"Version?: Revamp",
+		"primary_t":	105.917,
+		"players":	"d3dys",
+		"players_data":	[{
+				"name":	"d3dys",
+				"weblink":	"http://www.speedrun.com/user/d3dys",
+				"image":	"https://www.speedrun.com/static/user/8ezv4178/image.png?v=e33acfc"
+			}],
+		"weblink":	"http://www.speedrun.com/slendrina_asylum_unofficial_pc/run/yl5ddvxz"
+	}, {
+		"run_id":	"yw5xk49y",
+		"verified_epoch":	1767697479,
+		"verified_iso":	"2026-01-06T11:04:39Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"SkySlide",
+		"subcats":	"Special Emotes: Special/Taunt Emotes, Version: 0.93",
+		"primary_t":	64.1,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/yw5xk49y"
+	}, {
+		"run_id":	"y2rw71wm",
+		"verified_epoch":	1767697474,
+		"verified_iso":	"2026-01-06T11:04:34Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Super Paint Slide",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	6.766,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/y2rw71wm"
+	}, {
+		"run_id":	"zq5qvr8z",
+		"verified_epoch":	1767697470,
+		"verified_iso":	"2026-01-06T11:04:30Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Super Pivot Slide",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	7.133,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/zq5qvr8z"
+	}, {
+		"run_id":	"mkr1525z",
+		"verified_epoch":	1767697459,
+		"verified_iso":	"2026-01-06T11:04:19Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Over & Under",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	10.333,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/mkr1525z"
+	}, {
+		"run_id":	"z17nxjrz",
+		"verified_epoch":	1767697455,
+		"verified_iso":	"2026-01-06T11:04:15Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Stumble Trouble",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	10.7,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/z17nxjrz"
+	}, {
+		"run_id":	"y9wd35nz",
+		"verified_epoch":	1767697450,
+		"verified_iso":	"2026-01-06T11:04:10Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Crab's Landing",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	11.533,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/y9wd35nz"
+	}, {
+		"run_id":	"zn52j8vz",
+		"verified_epoch":	1767697447,
+		"verified_iso":	"2026-01-06T11:04:07Z",
+		"game":	"Slendrina: Asylum (Unofficial PC)",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0qoj21/cover.png?v=4b7f6bc",
+		"category":	"Easy",
+		"level":	"",
+		"subcats":	"Version?: Revamp",
+		"primary_t":	104.517,
+		"players":	"d3dys",
+		"players_data":	[{
+				"name":	"d3dys",
+				"weblink":	"http://www.speedrun.com/user/d3dys",
+				"image":	"https://www.speedrun.com/static/user/8ezv4178/image.png?v=e33acfc"
+			}],
+		"weblink":	"http://www.speedrun.com/slendrina_asylum_unofficial_pc/run/zn52j8vz"
+	}, {
+		"run_id":	"ydole60z",
+		"verified_epoch":	1767697446,
+		"verified_iso":	"2026-01-06T11:04:06Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Jurassic Rush",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	14.933,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/ydole60z"
+	}, {
+		"run_id":	"yo5x6jjz",
+		"verified_epoch":	1767697441,
+		"verified_iso":	"2026-01-06T11:04:01Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Lava Rush",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	15.466,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/yo5x6jjz"
+	}, {
+		"run_id":	"yl5xr03z",
+		"verified_epoch":	1767697435,
+		"verified_iso":	"2026-01-06T11:03:55Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Any%",
+		"level":	"Super Slide",
+		"subcats":	"Special Emotes: Powers, Version: 0.93",
+		"primary_t":	26.133,
+		"players":	"sawmiel",
+		"players_data":	[{
+				"name":	"sawmiel",
+				"weblink":	"http://www.speedrun.com/user/sawmiel",
+				"image":	"https://www.speedrun.com/static/user/xz5zqo4x/image.png?v=464ff04"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/yl5xr03z"
+	}, {
+		"run_id":	"z5683wjy",
+		"verified_epoch":	1767697359,
+		"verified_iso":	"2026-01-06T11:02:39Z",
+		"game":	"Fatal Frame II: Crimson Butterfly",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pow468/cover.png?v=d6fb540",
+		"category":	"Any% NG+ PS2",
+		"level":	"",
+		"subcats":	"Difficulty PS2 NG+: Normal",
+		"primary_t":	4853,
+		"players":	"HINS1994",
+		"players_data":	[{
+				"name":	"HINS1994",
+				"weblink":	"http://www.speedrun.com/user/HINS1994",
+				"image":	"https://www.speedrun.com/static/user/8r6z72q8/image.png?v=8f993b7"
+			}],
+		"weblink":	"http://www.speedrun.com/fatal_frame_ii_crimson_butterfly/run/z5683wjy"
+	}, {
 		"run_id":	"zg9orpvm",
 		"verified_epoch":	1767695979,
 		"verified_iso":	"2026-01-06T10:39:39Z",
@@ -18213,174 +18587,4 @@
 				"image":	"https://www.speedrun.com/static/user/xk1qov7j/image.png?v=e52a493"
 			}],
 		"weblink":	"http://www.speedrun.com/nioh_2/run/y9wje4kz"
-	}, {
-		"run_id":	"ydon7o0z",
-		"verified_epoch":	1767612135,
-		"verified_iso":	"2026-01-05T11:22:15Z",
-		"game":	"Dofus 3",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0nrxw1/cover.png?v=6de6f70",
-		"category":	"Xp",
-		"level":	"",
-		"subcats":	"Version: 3.4, Character: Sram, Level: 15",
-		"primary_t":	359.333,
-		"players":	"Loupp",
-		"players_data":	[{
-				"name":	"Loupp",
-				"weblink":	"http://www.speedrun.com/user/Loupp",
-				"image":	"https://www.speedrun.com/static/user/8gz7312j/image.png?v=48157c7"
-			}],
-		"weblink":	"http://www.speedrun.com/dofus/run/ydon7o0z"
-	}, {
-		"run_id":	"yl53op3z",
-		"verified_epoch":	1767611631,
-		"verified_iso":	"2026-01-05T11:13:51Z",
-		"game":	"Manic Miners",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lnlez6/cover.png?v=0e04ee8",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"Campaign: Baz's Mod, Version: 1.0.4",
-		"primary_t":	14779,
-		"players":	"DonFortune",
-		"players_data":	[{
-				"name":	"DonFortune",
-				"weblink":	"http://www.speedrun.com/user/DonFortune",
-				"image":	"https://www.speedrun.com/static/user/v8l3m78m/image.png?v=d9580f1"
-			}],
-		"weblink":	"http://www.speedrun.com/Manic_Miners/run/yl53op3z"
-	}, {
-		"run_id":	"y8o243wm",
-		"verified_epoch":	1767611628,
-		"verified_iso":	"2026-01-05T11:13:48Z",
-		"game":	"Manic Miners",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lnlez6/cover.png?v=0e04ee8",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Campaign: Baz's Mod, Version: 1.0.4",
-		"primary_t":	6087,
-		"players":	"DonFortune",
-		"players_data":	[{
-				"name":	"DonFortune",
-				"weblink":	"http://www.speedrun.com/user/DonFortune",
-				"image":	"https://www.speedrun.com/static/user/v8l3m78m/image.png?v=d9580f1"
-			}],
-		"weblink":	"http://www.speedrun.com/Manic_Miners/run/y8o243wm"
-	}, {
-		"run_id":	"mr5vd18y",
-		"verified_epoch":	1767611248,
-		"verified_iso":	"2026-01-05T11:07:28Z",
-		"game":	"Mortal Kombat Shaolin Monks",
-		"game_cover":	"https://www.speedrun.com/static/game/m1znjx10/cover.png?v=033f2ee",
-		"category":	"No OOB/No Infinite Jump",
-		"level":	"",
-		"subcats":	"Character(s): Liu Kang, Platform: PS2 (Emu), Difficulty: Hard",
-		"primary_t":	4124,
-		"players":	"ipunK",
-		"players_data":	[{
-				"name":	"ipunK",
-				"weblink":	"http://www.speedrun.com/user/ipunK",
-				"image":	"https://www.speedrun.com/static/user/j46nm4l8/image.png?v=7374fed"
-			}],
-		"weblink":	"http://www.speedrun.com/mksm/run/mr5vd18y"
-	}, {
-		"run_id":	"m7v3xg5m",
-		"verified_epoch":	1767611211,
-		"verified_iso":	"2026-01-05T11:06:51Z",
-		"game":	"Cookie Clicker Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4oppg1/cover.png?v=49a1ea9",
-		"category":	"Holiday - 1 Million Cookies",
-		"level":	"",
-		"subcats":	"Version: 2.052, Golden Cookies: No Golden Cookies, Click Category: Left Click, Click Method: Left Clicks, Verified: Yes",
-		"primary_t":	1435,
-		"players":	"WinterSprinter",
-		"players_data":	[{
-				"name":	"WinterSprinter",
-				"weblink":	"http://www.speedrun.com/user/WinterSprinter",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/cclickermemes/run/m7v3xg5m"
-	}, {
-		"run_id":	"yl5ll2rz",
-		"verified_epoch":	1767610980,
-		"verified_iso":	"2026-01-05T11:03:00Z",
-		"game":	"Cookie Clicker Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4oppg1/cover.png?v=49a1ea9",
-		"category":	"Christmas: Find Rudolph",
-		"level":	"",
-		"subcats":	"Version: 2.052, Click Method: Left Clicks, Verified: No",
-		"primary_t":	236,
-		"players":	"WinterSprinter",
-		"players_data":	[{
-				"name":	"WinterSprinter",
-				"weblink":	"http://www.speedrun.com/user/WinterSprinter",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/cclickermemes/run/yl5ll2rz"
-	}, {
-		"run_id":	"mkr141lz",
-		"verified_epoch":	1767610924,
-		"verified_iso":	"2026-01-05T11:02:04Z",
-		"game":	"Raldi's Crackhouse",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv2lmv6/cover.png?v=ff7d977",
-		"category":	"Any%",
-		"level":	"Neil Mode",
-		"subcats":	"Run Type: Glitchless, Modifiers: No Modifiers, Version: 2.0.8+, Pause Buffering: No",
-		"primary_t":	217,
-		"players":	"TikTakNastayashi",
-		"players_data":	[{
-				"name":	"TikTakNastayashi",
-				"weblink":	"http://www.speedrun.com/user/TikTakNastayashi",
-				"image":	"https://www.speedrun.com/static/user/jm7ge64j/image.png?v=a163baf"
-			}],
-		"weblink":	"http://www.speedrun.com/raldis_crackhouse/run/mkr141lz"
-	}, {
-		"run_id":	"yl5x052z",
-		"verified_epoch":	1767610672,
-		"verified_iso":	"2026-01-05T10:57:52Z",
-		"game":	"Final Fantasy XVI",
-		"game_cover":	"https://www.speedrun.com/static/game/j1n802x1/cover.png?v=81ddcb4",
-		"category":	"Stage Replay",
-		"level":	"Drake's Breath",
-		"subcats":	"Patch: 1.03 PC, Difficulty: Final Fantasy, Platform: PC",
-		"primary_t":	694,
-		"players":	"Angel_KAL",
-		"players_data":	[{
-				"name":	"Angel_KAL",
-				"weblink":	"http://www.speedrun.com/user/Angel_KAL",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/ff16/run/yl5x052z"
-	}, {
-		"run_id":	"zq5de85z",
-		"verified_epoch":	1767610621,
-		"verified_iso":	"2026-01-05T10:57:01Z",
-		"game":	"Cookie Clicker Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4oppg1/cover.png?v=49a1ea9",
-		"category":	"Christmas: Find Rudolph",
-		"level":	"",
-		"subcats":	"Version: 2.0052, Click Method: Butterfly Clicks, Verified: No",
-		"primary_t":	225,
-		"players":	"Lfor",
-		"players_data":	[{
-				"name":	"Lfor",
-				"weblink":	"http://www.speedrun.com/user/Lfor",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/cclickermemes/run/zq5de85z"
-	}, {
-		"run_id":	"zp56l5vy",
-		"verified_epoch":	1767610523,
-		"verified_iso":	"2026-01-05T10:55:23Z",
-		"game":	"Cookie Clicker Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4oppg1/cover.png?v=49a1ea9",
-		"category":	"Holiday - 1 Million Cookies",
-		"level":	"",
-		"subcats":	"Version: 2.052, Golden Cookies: No Golden Cookies, Click Category: Left Click, Click Method: Butterfly Clicks, Verified: No",
-		"primary_t":	1055,
-		"players":	"Lfor",
-		"players_data":	[{
-				"name":	"Lfor",
-				"weblink":	"http://www.speedrun.com/user/Lfor",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/cclickermemes/run/zp56l5vy"
 	}]
