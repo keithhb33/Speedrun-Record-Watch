@@ -1,4 +1,106 @@
 [{
+		"run_id":	"zx5x7x5m",
+		"verified_epoch":	1767955499,
+		"verified_iso":	"2026-01-09T10:44:59Z",
+		"game":	"Cars",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qpy9dg/cover.png?v=2eaaa15",
+		"category":	"No Major Exploits",
+		"level":	"Ornament Valley Circuit",
+		"subcats":	"Type: Best Lap",
+		"primary_t":	101.93,
+		"players":	"Tima_goodman",
+		"players_data":	[{
+				"name":	"Tima_goodman",
+				"weblink":	"http://www.speedrun.com/user/Tima_goodman",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/cars/run/zx5x7x5m"
+	}, {
+		"run_id":	"ydolokjz",
+		"verified_epoch":	1767955286,
+		"verified_iso":	"2026-01-09T10:41:26Z",
+		"game":	"Climbing Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27mx51/cover.png?v=b9bd367",
+		"category":	"Glitched",
+		"level":	"Queen Kichatna",
+		"subcats":	"",
+		"primary_t":	824.89,
+		"players":	"jeth_noob",
+		"players_data":	[{
+				"name":	"jeth_noob",
+				"weblink":	"http://www.speedrun.com/user/jeth_noob",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Climbing_Game/run/ydolokjz"
+	}, {
+		"run_id":	"ydo03rqz",
+		"verified_epoch":	1767954783,
+		"verified_iso":	"2026-01-09T10:33:03Z",
+		"game":	"Waldi's Wankhouse",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkq47qd/cover.png?v=4d1d2c1",
+		"category":	"Any%",
+		"level":	"Eaten Doritos Mode",
+		"subcats":	"Version (Buffs): 0.0.2 (Buffed)",
+		"primary_t":	352,
+		"players":	"TikTakNastayashi",
+		"players_data":	[{
+				"name":	"TikTakNastayashi",
+				"weblink":	"http://www.speedrun.com/user/TikTakNastayashi",
+				"image":	"https://www.speedrun.com/static/user/jm7ge64j/image.png?v=a163baf"
+			}],
+		"weblink":	"http://www.speedrun.com/Waldis_Wankhouse/run/ydo03rqz"
+	}, {
+		"run_id":	"z56kk8gy",
+		"verified_epoch":	1767954731,
+		"verified_iso":	"2026-01-09T10:32:11Z",
+		"game":	"Joker Show (PC) Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/ldew2njd/cover.png?v=fafe052",
+		"category":	"Trap%",
+		"level":	"",
+		"subcats":	"Difficulty: Medium",
+		"primary_t":	31.645,
+		"players":	"KenjyLeBest",
+		"players_data":	[{
+				"name":	"KenjyLeBest",
+				"weblink":	"http://www.speedrun.com/user/KenjyLeBest",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/joker_pc_ce/run/z56kk8gy"
+	}, {
+		"run_id":	"y68qqv1z",
+		"verified_epoch":	1767954726,
+		"verified_iso":	"2026-01-09T10:32:06Z",
+		"game":	"Joker Show (PC) Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/ldew2njd/cover.png?v=fafe052",
+		"category":	"Trap%",
+		"level":	"",
+		"subcats":	"Difficulty: Easy",
+		"primary_t":	32.104,
+		"players":	"KenjyLeBest",
+		"players_data":	[{
+				"name":	"KenjyLeBest",
+				"weblink":	"http://www.speedrun.com/user/KenjyLeBest",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/joker_pc_ce/run/y68qqv1z"
+	}, {
+		"run_id":	"yl5x9vrz",
+		"verified_epoch":	1767954686,
+		"verified_iso":	"2026-01-09T10:31:26Z",
+		"game":	"Metel (Mobile) Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j7po76/cover.png?v=cc5946b",
+		"category":	"Death% (Punishment)",
+		"level":	"",
+		"subcats":	"Chapter (Death%): Eugene",
+		"primary_t":	154.604,
+		"players":	"Tooz1x",
+		"players_data":	[{
+				"name":	"Tooz1x",
+				"weblink":	"http://www.speedrun.com/user/Tooz1x",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/metel_mobile_ce/run/yl5x9vrz"
+	}, {
 		"run_id":	"y9w0wkez",
 		"verified_epoch":	1767954537,
 		"verified_iso":	"2026-01-09T10:28:57Z",
@@ -18842,55 +18944,4 @@
 				"image":	"https://www.speedrun.com/static/user/xkz2y59x/image.png?v=9767f92"
 			}],
 		"weblink":	"http://www.speedrun.com/granny_legacy/run/yl5xln3z"
-	}, {
-		"run_id":	"z17nnkrz",
-		"verified_epoch":	1767868821,
-		"verified_iso":	"2026-01-08T10:40:21Z",
-		"game":	"Cannon Strike",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"100% levels 25 through 36 mobile ",
-		"level":	"Beat sections of games mobile ",
-		"subcats":	"",
-		"primary_t":	263,
-		"players":	"GrandMasterMario5000",
-		"players_data":	[{
-				"name":	"GrandMasterMario5000",
-				"weblink":	"http://www.speedrun.com/user/GrandMasterMario5000",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Cannon_Strike/run/z17nnkrz"
-	}, {
-		"run_id":	"zp5xxpry",
-		"verified_epoch":	1767868660,
-		"verified_iso":	"2026-01-08T10:37:40Z",
-		"game":	"Cannon Strike",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"100% segmented ",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	670,
-		"players":	"GrandMasterMario5000",
-		"players_data":	[{
-				"name":	"GrandMasterMario5000",
-				"weblink":	"http://www.speedrun.com/user/GrandMasterMario5000",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Cannon_Strike/run/zp5xxpry"
-	}, {
-		"run_id":	"zp5xpw8y",
-		"verified_epoch":	1767868611,
-		"verified_iso":	"2026-01-08T10:36:51Z",
-		"game":	"Metroid Dread",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxkz0v1/cover.png?v=7556078",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Glitch Category: Glitchless, Difficulty: Dread, Turbo: No, Copy: Physical, Version: 2.1.0",
-		"primary_t":	16646,
-		"players":	"FGHVgamer",
-		"players_data":	[{
-				"name":	"FGHVgamer",
-				"weblink":	"http://www.speedrun.com/user/FGHVgamer",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/mdread/run/zp5xpw8y"
 	}]
