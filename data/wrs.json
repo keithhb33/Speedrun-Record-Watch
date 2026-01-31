@@ -1,4 +1,585 @@
 [{
+		"run_id":	"yo557q5z",
+		"verified_epoch":	1769843052,
+		"verified_iso":	"2026-01-31T07:04:12Z",
+		"game":	"Peggle Category Extensions  ",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0q34l1/cover.png?v=28903c4",
+		"category":	"Day and Night NG+",
+		"level":	"",
+		"subcats":	"DN+: Level Lock, Deluxe M: Any Master, Nights Masters: Any Master",
+		"primary_t":	8083,
+		"players":	"crazytonedog",
+		"players_data":	[{
+				"name":	"crazytonedog",
+				"weblink":	"http://www.speedrun.com/user/crazytonedog",
+				"image":	"https://www.speedrun.com/static/user/e8ep01px/image.png?v=1a8e191"
+			}],
+		"weblink":	"http://www.speedrun.com/peggle_category_extensions__/run/yo557q5z"
+	}, {
+		"run_id":	"y9wgk22z",
+		"verified_epoch":	1769842702,
+		"verified_iso":	"2026-01-31T06:58:22Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 10",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	28.4,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/y9wgk22z"
+	}, {
+		"run_id":	"yo58o41z",
+		"verified_epoch":	1769842573,
+		"verified_iso":	"2026-01-31T06:56:13Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 9",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	12.533,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/yo58o41z"
+	}, {
+		"run_id":	"yj7rr4oy",
+		"verified_epoch":	1769842561,
+		"verified_iso":	"2026-01-31T06:56:01Z",
+		"game":	"Bouken Yuuki Pluster World: Densetsu no Plust Gate EX",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j9leed/cover.png?v=282f77f",
+		"category":	"SP Any%",
+		"level":	"",
+		"subcats":	"WPM(Password): No WPM, Character Rule: Character Restricted, Character name: Beetma Advance",
+		"primary_t":	8667,
+		"players":	"10gurt",
+		"players_data":	[{
+				"name":	"10gurt",
+				"weblink":	"http://www.speedrun.com/user/10gurt",
+				"image":	"https://www.speedrun.com/static/user/8r12nnwj/image.png?v=f1e9e46"
+			}],
+		"weblink":	"http://www.speedrun.com/Bouken_Yuuki_Pluster_World_Densetsu_no_Plust_Gate_EX/run/yj7rr4oy"
+	}, {
+		"run_id":	"yj7rwk7y",
+		"verified_epoch":	1769842480,
+		"verified_iso":	"2026-01-31T06:54:40Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 8",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	18.25,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/yj7rwk7y"
+	}, {
+		"run_id":	"yv5evgxm",
+		"verified_epoch":	1769842250,
+		"verified_iso":	"2026-01-31T06:50:50Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 7",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	33.017,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/yv5evgxm"
+	}, {
+		"run_id":	"y9wgg7ez",
+		"verified_epoch":	1769842242,
+		"verified_iso":	"2026-01-31T06:50:42Z",
+		"game":	"Super Meat Boy",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pxxz68/cover.png?v=d504d11",
+		"category":	"1",
+		"level":	"Dark Rapture",
+		"subcats":	"Character: Meat Boy, Clips: No Clips",
+		"primary_t":	7.55,
+		"players":	"Karmic31",
+		"players_data":	[{
+				"name":	"Karmic31",
+				"weblink":	"http://www.speedrun.com/user/Karmic31",
+				"image":	"https://www.speedrun.com/static/user/0jm54nzx/image.png?v=563a0fe"
+			}],
+		"weblink":	"http://www.speedrun.com/smb/run/y9wgg7ez"
+	}, {
+		"run_id":	"m7vjvlem",
+		"verified_epoch":	1769842178,
+		"verified_iso":	"2026-01-31T06:49:38Z",
+		"game":	"ROBLOX: Piggy Book 2",
+		"game_cover":	"https://www.speedrun.com/static/game/lde357x6/cover.png?v=5b4e00a",
+		"category":	"Holiday Spirit",
+		"level":	"",
+		"subcats":	"Sub-Category: 1-Player, Glitches: Glitch%",
+		"primary_t":	140,
+		"players":	"deadmate",
+		"players_data":	[{
+				"name":	"deadmate",
+				"weblink":	"http://www.speedrun.com/user/deadmate",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/piggy2/run/m7vjvlem"
+	}, {
+		"run_id":	"y68wq7qz",
+		"verified_epoch":	1769842036,
+		"verified_iso":	"2026-01-31T06:47:16Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 6",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	14.583,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/y68wq7qz"
+	}, {
+		"run_id":	"mkrxr53z",
+		"verified_epoch":	1769841976,
+		"verified_iso":	"2026-01-31T06:46:16Z",
+		"game":	"House of Slendrina",
+		"game_cover":	"https://www.speedrun.com/static/game/369pge01/cover.png?v=ec4cb87",
+		"category":	"Any% Glitchless",
+		"level":	"",
+		"subcats":	"Difficulty: Medium, Version: V1.5+",
+		"primary_t":	123.95,
+		"players":	"Pestooooo",
+		"players_data":	[{
+				"name":	"Pestooooo",
+				"weblink":	"http://www.speedrun.com/user/Pestooooo",
+				"image":	"https://www.speedrun.com/static/user/8wgv0zzx/image.png?v=b57c130"
+			}],
+		"weblink":	"http://www.speedrun.com/hos/run/mkrxr53z"
+	}, {
+		"run_id":	"zq5nd69z",
+		"verified_epoch":	1769841836,
+		"verified_iso":	"2026-01-31T06:43:56Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 5",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	43.85,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/zq5nd69z"
+	}, {
+		"run_id":	"y2rng7wm",
+		"verified_epoch":	1769841768,
+		"verified_iso":	"2026-01-31T06:42:48Z",
+		"game":	"PlateUp!",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4kq3k6/cover.png?v=8926e1a",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Seed: Random Seed, Seed: -, Dishes: Coffee, Players: Quad, Patch: 1.2.1, Patches: 1.2.0-1.3.x, Map Setting: Turbo, Mouse Use: Yes",
+		"primary_t":	2476.83,
+		"players":	"Kulutues, switch227, wonktootie, caffeinated_c9lui",
+		"players_data":	[{
+				"name":	"Kulutues",
+				"weblink":	"http://www.speedrun.com/user/Kulutues",
+				"image":	"https://www.speedrun.com/static/user/jmz0m7zx/image.png?v=e3cff17"
+			}, {
+				"name":	"switch227",
+				"weblink":	"http://www.speedrun.com/user/switch227",
+				"image":	"https://www.speedrun.com/static/user/j9py4rwx/image.png?v=60d4541"
+			}, {
+				"name":	"wonktootie",
+				"weblink":	"http://www.speedrun.com/user/wonktootie",
+				"image":	"https://www.speedrun.com/static/user/xz0y6ge8/image.png?v=f34871f"
+			}, {
+				"name":	"caffeinated_c9lui",
+				"weblink":	"http://www.speedrun.com/user/caffeinated_c9lui",
+				"image":	"https://www.speedrun.com/static/user/8dpo06l8/image.png?v=57b3c72"
+			}],
+		"weblink":	"http://www.speedrun.com/plateup/run/y2rng7wm"
+	}, {
+		"run_id":	"y40vx5qz",
+		"verified_epoch":	1769841625,
+		"verified_iso":	"2026-01-31T06:40:25Z",
+		"game":	"ArenaBreakout",
+		"game_cover":	"https://www.speedrun.com/static/game/268wqvo6/cover.png?v=03fa63a",
+		"category":	"survivor",
+		"level":	"",
+		"subcats":	"map: farm, player: 2player",
+		"primary_t":	132.76,
+		"players":	"DA_LIU, LIU_198",
+		"players_data":	[{
+				"name":	"DA_LIU",
+				"weblink":	"http://www.speedrun.com/user/DA_LIU",
+				"image":	""
+			}, {
+				"name":	"LIU_198",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/arenabreakout/run/y40vx5qz"
+	}, {
+		"run_id":	"ydo8xjwz",
+		"verified_epoch":	1769841515,
+		"verified_iso":	"2026-01-31T06:38:35Z",
+		"game":	"Bloodthief",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
+		"category":	"Pacifist%",
+		"level":	"1-2: Varu Rooftops",
+		"subcats":	"Build: v1.0.6, Sword: Skrike",
+		"primary_t":	23.183,
+		"players":	"Rhogar_",
+		"players_data":	[{
+				"name":	"Rhogar_",
+				"weblink":	"http://www.speedrun.com/user/Rhogar_",
+				"image":	"https://www.speedrun.com/static/user/8wkylwz8/image.png?v=1a78ccf"
+			}],
+		"weblink":	"http://www.speedrun.com/Bloodthief/run/ydo8xjwz"
+	}, {
+		"run_id":	"z170nv9z",
+		"verified_epoch":	1769841299,
+		"verified_iso":	"2026-01-31T06:34:59Z",
+		"game":	"Slackers - Carts of Glory",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zy7gz6/cover.png?v=d749863",
+		"category":	"Any% Third Person Extended",
+		"level":	"",
+		"subcats":	"Required Rank: All Gold, Num of Cources : Current",
+		"primary_t":	1394.767,
+		"players":	"Wh1teW0lf",
+		"players_data":	[{
+				"name":	"Wh1teW0lf",
+				"weblink":	"http://www.speedrun.com/user/Wh1teW0lf",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Slackers__Carts_of_Glory/run/z170nv9z"
+	}, {
+		"run_id":	"mepd149y",
+		"verified_epoch":	1769840959,
+		"verified_iso":	"2026-01-31T06:29:19Z",
+		"game":	"Minecraft: Bedrock Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4ovvg1/cover.png?v=5891d21",
+		"category":	"Any% Glitchless (Console)",
+		"level":	"",
+		"subcats":	"Seed Type: Set Seed (PS/Switch), Version (Any% Glitchless Console): Pre 1.16, Version: 1.14.1, World Difficulty: Easy",
+		"primary_t":	344,
+		"players":	"TTVx2skyyy",
+		"players_data":	[{
+				"name":	"TTVx2skyyy",
+				"weblink":	"http://www.speedrun.com/user/TTVx2skyyy",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/mcbe/run/mepd149y"
+	}, {
+		"run_id":	"yo58ql7z",
+		"verified_epoch":	1769840943,
+		"verified_iso":	"2026-01-31T06:29:03Z",
+		"game":	"Colorful Dash -カラフルダッシュ",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0nlew1/cover.png?v=56a6e62",
+		"category":	"Levels (glitched)",
+		"level":	"Yellow",
+		"subcats":	"",
+		"primary_t":	18.92,
+		"players":	"yuriVRC",
+		"players_data":	[{
+				"name":	"yuriVRC",
+				"weblink":	"http://www.speedrun.com/user/yuriVRC",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Colorful_Dash/run/yo58ql7z"
+	}, {
+		"run_id":	"y2rr62wm",
+		"verified_epoch":	1769840903,
+		"verified_iso":	"2026-01-31T06:28:23Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Extreme, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Dynamic Spawns: No Dynamic Spawns, Granny's Weapon: With Weapon",
+		"primary_t":	299.433,
+		"players":	"perss",
+		"players_data":	[{
+				"name":	"perss",
+				"weblink":	"http://www.speedrun.com/user/perss",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/y2rr62wm"
+	}, {
+		"run_id":	"y2rre5wm",
+		"verified_epoch":	1769840733,
+		"verified_iso":	"2026-01-31T06:25:33Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Dynamic Spawns: No Dynamic Spawns, Granny's Weapon: With Bat",
+		"primary_t":	190.474,
+		"players":	"Erik_G",
+		"players_data":	[{
+				"name":	"Erik_G",
+				"weblink":	"http://www.speedrun.com/user/Erik_G",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/y2rre5wm"
+	}, {
+		"run_id":	"yw5ooe3y",
+		"verified_epoch":	1769840582,
+		"verified_iso":	"2026-01-31T06:23:02Z",
+		"game":	"Bloodthief",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
+		"category":	"Pacifist%",
+		"level":	"1-2: Varu Rooftops",
+		"subcats":	"Build: v1.2.2, Sword: Coldbringer",
+		"primary_t":	10.789,
+		"players":	"hatchy_From_Quebec",
+		"players_data":	[{
+				"name":	"hatchy_From_Quebec",
+				"weblink":	"http://www.speedrun.com/user/hatchy_From_Quebec",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Bloodthief/run/yw5ooe3y"
+	}, {
+		"run_id":	"z17600gz",
+		"verified_epoch":	1769840372,
+		"verified_iso":	"2026-01-31T06:19:32Z",
+		"game":	"MX OffRoad Master",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4r88g1/cover.png?v=f82c710",
+		"category":	"Individual Levels",
+		"level":	"Level 1",
+		"subcats":	"Bike Type: Red/orange/green Bike",
+		"primary_t":	47.92,
+		"players":	"bambospino",
+		"players_data":	[{
+				"name":	"bambospino",
+				"weblink":	"http://www.speedrun.com/user/bambospino",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/MX_OffRoad_Master/run/z17600gz"
+	}, {
+		"run_id":	"mkrxrjxz",
+		"verified_epoch":	1769840340,
+		"verified_iso":	"2026-01-31T06:19:00Z",
+		"game":	"Spiral Obby",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3p5d/cover.png?v=af989c8",
+		"category":	"Complete",
+		"level":	"Classic Spiral: Stage 19",
+		"subcats":	"Server Change: Nothing, Skips: No Skips",
+		"primary_t":	12.85,
+		"players":	"applejuice4672",
+		"players_data":	[{
+				"name":	"applejuice4672",
+				"weblink":	"http://www.speedrun.com/user/applejuice4672",
+				"image":	"https://www.speedrun.com/static/user/81mq1zq8/image.png?v=597dc2f"
+			}],
+		"weblink":	"http://www.speedrun.com/Spiral_Obby/run/mkrxrjxz"
+	}, {
+		"run_id":	"mkrxo83z",
+		"verified_epoch":	1769840318,
+		"verified_iso":	"2026-01-31T06:18:38Z",
+		"game":	"Final Fantasy X-2",
+		"game_cover":	"https://www.speedrun.com/static/game/268vgkdp/cover.png?v=294b1f5",
+		"category":	"HD",
+		"level":	"",
+		"subcats":	"Category Value 3: PC Any%",
+		"primary_t":	8537,
+		"players":	"ame4128",
+		"players_data":	[{
+				"name":	"ame4128",
+				"weblink":	"http://www.speedrun.com/user/ame4128",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/ffx_2/run/mkrxo83z"
+	}, {
+		"run_id":	"y8nlgvwy",
+		"verified_epoch":	1769840253,
+		"verified_iso":	"2026-01-31T06:17:33Z",
+		"game":	"Karlson (Itch.io) Category Extension",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4kgpp6/cover.png?v=c087fb8",
+		"category":	"Double Crouch",
+		"level":	"Escape 0",
+		"subcats":	"",
+		"primary_t":	1.33,
+		"players":	"VenusPower",
+		"players_data":	[{
+				"name":	"VenusPower",
+				"weblink":	"http://www.speedrun.com/user/VenusPower",
+				"image":	"https://www.speedrun.com/static/user/8v51eovj/image.png?v=2bde0d4"
+			}],
+		"weblink":	"http://www.speedrun.com/karlson_itch_io_category_extension/run/y8nlgvwy"
+	}, {
+		"run_id":	"y68wj6qz",
+		"verified_epoch":	1769840241,
+		"verified_iso":	"2026-01-31T06:17:21Z",
+		"game":	"Karlson (Itch.io) Category Extension",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4kgpp6/cover.png?v=c087fb8",
+		"category":	"Double Crouch",
+		"level":	"Sandbox 1",
+		"subcats":	"",
+		"primary_t":	1.49,
+		"players":	"VenusPower",
+		"players_data":	[{
+				"name":	"VenusPower",
+				"weblink":	"http://www.speedrun.com/user/VenusPower",
+				"image":	"https://www.speedrun.com/static/user/8v51eovj/image.png?v=2bde0d4"
+			}],
+		"weblink":	"http://www.speedrun.com/karlson_itch_io_category_extension/run/y68wj6qz"
+	}, {
+		"run_id":	"zx5p06gm",
+		"verified_epoch":	1769840230,
+		"verified_iso":	"2026-01-31T06:17:10Z",
+		"game":	"Karlson (Itch.io) Category Extension",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4kgpp6/cover.png?v=c087fb8",
+		"category":	"Double Crouch",
+		"level":	"Escape 2",
+		"subcats":	"",
+		"primary_t":	2.58,
+		"players":	"VenusPower",
+		"players_data":	[{
+				"name":	"VenusPower",
+				"weblink":	"http://www.speedrun.com/user/VenusPower",
+				"image":	"https://www.speedrun.com/static/user/8v51eovj/image.png?v=2bde0d4"
+			}],
+		"weblink":	"http://www.speedrun.com/karlson_itch_io_category_extension/run/zx5p06gm"
+	}, {
+		"run_id":	"zx5pwvgm",
+		"verified_epoch":	1769840048,
+		"verified_iso":	"2026-01-31T06:14:08Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 4",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	21.433,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/zx5pwvgm"
+	}, {
+		"run_id":	"mr5wk4dy",
+		"verified_epoch":	1769839895,
+		"verified_iso":	"2026-01-31T06:11:35Z",
+		"game":	"Super Pitfall 30th Anniversary Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mqepd2/cover.png?v=3b648bd",
+		"category":	"any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	322,
+		"players":	"HayfieldBay",
+		"players_data":	[{
+				"name":	"HayfieldBay",
+				"weblink":	"http://www.speedrun.com/user/HayfieldBay",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/super_pitfall_30th_anniversary_edition/run/mr5wk4dy"
+	}, {
+		"run_id":	"mkrxq43z",
+		"verified_epoch":	1769839852,
+		"verified_iso":	"2026-01-31T06:10:52Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 3",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	33.383,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/mkrxq43z"
+	}, {
+		"run_id":	"m3281xgy",
+		"verified_epoch":	1769839766,
+		"verified_iso":	"2026-01-31T06:09:26Z",
+		"game":	"Minecraft: Bedrock Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4ovvg1/cover.png?v=5891d21",
+		"category":	"Any% Glitchless (Console)",
+		"level":	"",
+		"subcats":	"Seed Type: Set Seed (PS/Switch), Version (Any% Glitchless Console): Pre 1.16, Version: 1.2, World Difficulty: Easy",
+		"primary_t":	369,
+		"players":	"KATU33",
+		"players_data":	[{
+				"name":	"KATU33",
+				"weblink":	"http://www.speedrun.com/user/KATU33",
+				"image":	"https://www.speedrun.com/static/user/j9ky72w8/image.png?v=75a630c"
+			}],
+		"weblink":	"http://www.speedrun.com/mcbe/run/m3281xgy"
+	}, {
+		"run_id":	"zq5n56rz",
+		"verified_epoch":	1769839738,
+		"verified_iso":	"2026-01-31T06:08:58Z",
+		"game":	"Streets of Rage 2 : New Era",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pxkj46/cover.png?v=522a9eb",
+		"category":	"2 Players",
+		"level":	"",
+		"subcats":	"Difficulty: Very Easy, P1: Max, P2: Blaze, Patch: V3.1.x",
+		"primary_t":	768.35,
+		"players":	"Smeggedhead, annanokeiji",
+		"players_data":	[{
+				"name":	"Smeggedhead",
+				"weblink":	"http://www.speedrun.com/user/Smeggedhead",
+				"image":	"https://www.speedrun.com/static/user/j5wwpw6j/image.png?v=3849f89"
+			}, {
+				"name":	"annanokeiji",
+				"weblink":	"http://www.speedrun.com/user/annanokeiji",
+				"image":	"https://www.speedrun.com/static/user/3qjnn4jm/image.png?v=052f33a"
+			}],
+		"weblink":	"http://www.speedrun.com/sor2newera/run/zq5n56rz"
+	}, {
+		"run_id":	"ydopoojz",
+		"verified_epoch":	1769839655,
+		"verified_iso":	"2026-01-31T06:07:35Z",
+		"game":	"Genshin Impact",
+		"game_cover":	"https://www.speedrun.com/static/game/3dx24841/cover.png?v=abb2684",
+		"category":	"Bosses",
+		"level":	"",
+		"subcats":	"Bosses: Nod-Krai, World Level: WL9, Bosses Mode: Solo, Patch: Current Patch",
+		"primary_t":	194.35,
+		"players":	"PurupuruSama",
+		"players_data":	[{
+				"name":	"PurupuruSama",
+				"weblink":	"http://www.speedrun.com/user/PurupuruSama",
+				"image":	"https://www.speedrun.com/static/user/x7gw4lvx/image.png?v=d306d89"
+			}],
+		"weblink":	"http://www.speedrun.com/gi/run/ydopoojz"
+	}, {
+		"run_id":	"ydop2qqz",
+		"verified_epoch":	1769839633,
+		"verified_iso":	"2026-01-31T06:07:13Z",
+		"game":	"Goal Pinball",
+		"game_cover":	"https://www.speedrun.com/static/game/268p3zkd/cover.png?v=4e92e22",
+		"category":	"Any%",
+		"level":	"Level 2",
+		"subcats":	"Game Websites: Culinary Schools, PC or Mobile: PC",
+		"primary_t":	28.033,
+		"players":	"StarryCosmos",
+		"players_data":	[{
+				"name":	"StarryCosmos",
+				"weblink":	"http://www.speedrun.com/user/StarryCosmos",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Goal_Pinball/run/ydop2qqz"
+	}, {
 		"run_id":	"y2r6gw5m",
 		"verified_epoch":	1769839225,
 		"verified_iso":	"2026-01-31T06:00:25Z",
@@ -21035,259 +21616,4 @@
 				"image":	""
 			}],
 		"weblink":	"http://www.speedrun.com/Bo7Zombies/run/zx5pwjem"
-	}, {
-		"run_id":	"m7vj0dwm",
-		"verified_epoch":	1769756362,
-		"verified_iso":	"2026-01-30T06:59:22Z",
-		"game":	"The Escapists",
-		"game_cover":	"https://www.speedrun.com/static/game/m1m3rk62/cover.png?v=29a0b0d",
-		"category":	"PC Any%",
-		"level":	"Shankton State Pen",
-		"subcats":	"Wall Jump: Perimeter Violation",
-		"primary_t":	17.3,
-		"players":	"KoxDC",
-		"players_data":	[{
-				"name":	"KoxDC",
-				"weblink":	"http://www.speedrun.com/user/KoxDC",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/the_escapists/run/m7vj0dwm"
-	}, {
-		"run_id":	"yv5elx6m",
-		"verified_epoch":	1769755987,
-		"verified_iso":	"2026-01-30T06:53:07Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Web/PC)",
-		"level":	"Royal Banquet 15",
-		"subcats":	"",
-		"primary_t":	57.1,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/yv5elx6m"
-	}, {
-		"run_id":	"y2r62w9m",
-		"verified_epoch":	1769755945,
-		"verified_iso":	"2026-01-30T06:52:25Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Mobile)",
-		"level":	"Royal Banquet 15",
-		"subcats":	"",
-		"primary_t":	54.267,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/y2r62w9m"
-	}, {
-		"run_id":	"yv5elv6m",
-		"verified_epoch":	1769755502,
-		"verified_iso":	"2026-01-30T06:45:02Z",
-		"game":	"LittleBigPlanet 2",
-		"game_cover":	"https://www.speedrun.com/static/game/pdvzzk6w/cover.png?v=519e19b",
-		"category":	"1P",
-		"level":	"Introduction",
-		"subcats":	"",
-		"primary_t":	50.2,
-		"players":	"adsffff",
-		"players_data":	[{
-				"name":	"adsffff",
-				"weblink":	"http://www.speedrun.com/user/adsffff",
-				"image":	"https://www.speedrun.com/static/user/qjndp028/image.png?v=55706c7"
-			}],
-		"weblink":	"http://www.speedrun.com/lbp2/run/yv5elv6m"
-	}, {
-		"run_id":	"y68wvvpz",
-		"verified_epoch":	1769754818,
-		"verified_iso":	"2026-01-30T06:33:38Z",
-		"game":	"Luigi And The Forest Ruins: Rebooted",
-		"game_cover":	"https://www.speedrun.com/static/game/o6ggw962/cover.png?v=79ac433",
-		"category":	"Single Stars",
-		"level":	"Frostfire Caverns",
-		"subcats":	"C4 Stars: Run to the Frozen Waterfall",
-		"primary_t":	23.3,
-		"players":	"serpals",
-		"players_data":	[{
-				"name":	"serpals",
-				"weblink":	"http://www.speedrun.com/user/serpals",
-				"image":	"https://www.speedrun.com/static/user/v8lld2l8/image.png?v=5dabea7"
-			}],
-		"weblink":	"http://www.speedrun.com/latfr_rebooted/run/y68wvvpz"
-	}, {
-		"run_id":	"m328ld6y",
-		"verified_epoch":	1769754496,
-		"verified_iso":	"2026-01-30T06:28:16Z",
-		"game":	"Cu-On-Pa",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2enzqd/cover.png?v=9245b14",
-		"category":	"All SP Stages (SNES)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	4007,
-		"players":	"MT_Fiolet",
-		"players_data":	[{
-				"name":	"MT_Fiolet",
-				"weblink":	"http://www.speedrun.com/user/MT_Fiolet",
-				"image":	"https://www.speedrun.com/static/user/86r4l738/image.png?v=89c9410"
-			}],
-		"weblink":	"http://www.speedrun.com/cu_on_pa/run/m328ld6y"
-	}, {
-		"run_id":	"y9wgjjkz",
-		"verified_epoch":	1769754388,
-		"verified_iso":	"2026-01-30T06:26:28Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Web/PC)",
-		"level":	"Royal Banquet 14",
-		"subcats":	"",
-		"primary_t":	24.133,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/y9wgjjkz"
-	}, {
-		"run_id":	"ydopnnjz",
-		"verified_epoch":	1769754296,
-		"verified_iso":	"2026-01-30T06:24:56Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Mobile)",
-		"level":	"Royal Banquet 14",
-		"subcats":	"",
-		"primary_t":	24.267,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/ydopnnjz"
-	}, {
-		"run_id":	"zp5v66gy",
-		"verified_epoch":	1769754190,
-		"verified_iso":	"2026-01-30T06:23:10Z",
-		"game":	"Spider-Man (SNES)",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkvql1m/cover.png?v=3a4bebb",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	970,
-		"players":	"iam3dhomer",
-		"players_data":	[{
-				"name":	"iam3dhomer",
-				"weblink":	"http://www.speedrun.com/user/iam3dhomer",
-				"image":	"https://www.speedrun.com/static/user/zxzy49jq/image.png?v=e1f431d"
-			}],
-		"weblink":	"http://www.speedrun.com/spider-man_snes/run/zp5v66gy"
-	}, {
-		"run_id":	"yo5800dz",
-		"verified_epoch":	1769754150,
-		"verified_iso":	"2026-01-30T06:22:30Z",
-		"game":	"Mr-egg-puzzle-master",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2zv1/cover.png?v=1370673",
-		"category":	"Main Level（主线关卡）",
-		"level":	"Level Complete（通关）",
-		"subcats":	"level: level10",
-		"primary_t":	3.434,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"http://www.speedrun.com/user/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"http://www.speedrun.com/Mr_egg_puzzle_master/run/yo5800dz"
-	}, {
-		"run_id":	"zq5n8dxz",
-		"verified_epoch":	1769753617,
-		"verified_iso":	"2026-01-30T06:13:37Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Web/PC)",
-		"level":	"Royal Banquet 13",
-		"subcats":	"",
-		"primary_t":	40.933,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/zq5n8dxz"
-	}, {
-		"run_id":	"m3280k4y",
-		"verified_epoch":	1769753559,
-		"verified_iso":	"2026-01-30T06:12:39Z",
-		"game":	"Picnic Penguin",
-		"game_cover":	"https://www.speedrun.com/static/game/76r3n0e6/cover.png?v=a2adbad",
-		"category":	"Level Completion (Mobile)",
-		"level":	"Royal Banquet 13",
-		"subcats":	"",
-		"primary_t":	40.533,
-		"players":	"WookiesLA420",
-		"players_data":	[{
-				"name":	"WookiesLA420",
-				"weblink":	"http://www.speedrun.com/user/WookiesLA420",
-				"image":	"https://www.speedrun.com/static/user/86313ep8/image.png?v=2be55d0"
-			}],
-		"weblink":	"http://www.speedrun.com/picnic_penguin/run/m3280k4y"
-	}, {
-		"run_id":	"mepp433y",
-		"verified_epoch":	1769753381,
-		"verified_iso":	"2026-01-30T06:09:41Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Extreme, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Dynamic Spawns: No Dynamic Spawns, Difficulty (No Granny): Easy, Granny's Weapon: With Bat",
-		"primary_t":	215.333,
-		"players":	"Grazebyxz2867",
-		"players_data":	[{
-				"name":	"Grazebyxz2867",
-				"weblink":	"http://www.speedrun.com/user/Grazebyxz2867",
-				"image":	"https://www.speedrun.com/static/user/j0lq1y4j/image.png?v=42854c4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/mepp433y"
-	}, {
-		"run_id":	"yl52lgxz",
-		"verified_epoch":	1769752925,
-		"verified_iso":	"2026-01-30T06:02:05Z",
-		"game":	"The WereCleaner",
-		"game_cover":	"https://www.speedrun.com/static/game/46wrlo71/cover.png?v=657168e",
-		"category":	"Any%",
-		"level":	"Day 5 - Friday",
-		"subcats":	"",
-		"primary_t":	93,
-		"players":	"Gingerbreadman25",
-		"players_data":	[{
-				"name":	"Gingerbreadman25",
-				"weblink":	"http://www.speedrun.com/user/Gingerbreadman25",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/The_WereCleaner/run/yl52lgxz"
-	}, {
-		"run_id":	"m7vj320m",
-		"verified_epoch":	1769752889,
-		"verified_iso":	"2026-01-30T06:01:29Z",
-		"game":	"Outlast",
-		"game_cover":	"https://www.speedrun.com/static/game/76r43l18/cover.png?v=d14116f",
-		"category":	"100%",
-		"level":	"Administration Block",
-		"subcats":	"Platform (IL): PC, Category: Default",
-		"primary_t":	187.007,
-		"players":	"falex",
-		"players_data":	[{
-				"name":	"falex",
-				"weblink":	"http://www.speedrun.com/user/falex",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/outlast/run/m7vj320m"
 	}]
