@@ -1,4 +1,802 @@
 [{
+		"run_id":	"mrwj48dy",
+		"verified_epoch":	1771705787,
+		"verified_iso":	"2026-02-21T20:29:47Z",
+		"game":	"Super Smash Bros. Ultimate",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkzrkxd/cover.png?v=97a21b9",
+		"category":	"Classic All Characters",
+		"level":	"",
+		"subcats":	"Solo/Co-op: Solo, DLC: All DLC, Subcategory: 5.0, Switch Version: Switch 2",
+		"primary_t":	35061,
+		"players":	"GrimmHarvester",
+		"players_data":	[{
+				"name":	"GrimmHarvester",
+				"weblink":	"http://www.speedrun.com/user/GrimmHarvester",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/ssbu/run/mrwj48dy"
+	}, {
+		"run_id":	"z5n5q6nz",
+		"verified_epoch":	1771705745,
+		"verified_iso":	"2026-02-21T20:29:05Z",
+		"game":	"Plants Vs. Zombies Replanted",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xgyr1/cover.png?v=adf8813",
+		"category":	"Any%",
+		"level":	"Zombiquarium",
+		"subcats":	"Speed up used?: Yes, Version Subcategories: PC, Version: 1.5",
+		"primary_t":	48,
+		"players":	"DsLover",
+		"players_data":	[{
+				"name":	"DsLover",
+				"weblink":	"http://www.speedrun.com/user/DsLover",
+				"image":	"https://www.speedrun.com/static/user/8vrvpy5x/image.png?v=20364d9"
+			}],
+		"weblink":	"http://www.speedrun.com/pvzreplanted/run/z5n5q6nz"
+	}, {
+		"run_id":	"mrwjgddy",
+		"verified_epoch":	1771705617,
+		"verified_iso":	"2026-02-21T20:26:57Z",
+		"game":	"Plants Vs. Zombies Replanted",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xgyr1/cover.png?v=adf8813",
+		"category":	"Any%",
+		"level":	"Zombiquarium",
+		"subcats":	"Speed up used?: No, Version Subcategories: PC, Version: 1.5",
+		"primary_t":	117,
+		"players":	"DsLover",
+		"players_data":	[{
+				"name":	"DsLover",
+				"weblink":	"http://www.speedrun.com/user/DsLover",
+				"image":	"https://www.speedrun.com/static/user/8vrvpy5x/image.png?v=20364d9"
+			}],
+		"weblink":	"http://www.speedrun.com/pvzreplanted/run/mrwjgddy"
+	}, {
+		"run_id":	"zn6wd8vy",
+		"verified_epoch":	1771705482,
+		"verified_iso":	"2026-02-21T20:24:42Z",
+		"game":	"STUDIO SCREAM - VERSE ONE",
+		"game_cover":	"https://www.speedrun.com/static/game/j1npewl6/cover.png?v=db75a14",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	1187,
+		"players":	"lollermelon",
+		"players_data":	[{
+				"name":	"lollermelon",
+				"weblink":	"http://www.speedrun.com/user/lollermelon",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/STUDIO_SCREAM__VERSE_ONE/run/zn6wd8vy"
+	}, {
+		"run_id":	"zpvneg8z",
+		"verified_epoch":	1771705450,
+		"verified_iso":	"2026-02-21T20:24:10Z",
+		"game":	"Boxel 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqnlj6/cover.png?v=a9e9123",
+		"category":	"Glitchless",
+		"level":	"Level 40 (Homework)",
+		"subcats":	"",
+		"primary_t":	14.434,
+		"players":	"KWu222",
+		"players_data":	[{
+				"name":	"KWu222",
+				"weblink":	"http://www.speedrun.com/user/KWu222",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/boxel_3d/run/zpvneg8z"
+	}, {
+		"run_id":	"ydokq20z",
+		"verified_epoch":	1771705444,
+		"verified_iso":	"2026-02-21T20:24:04Z",
+		"game":	"Yellow Lines",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqlmed/cover.png?v=192bf9e",
+		"category":	"Any%",
+		"level":	"Level 5",
+		"subcats":	"",
+		"primary_t":	4.45,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"http://www.speedrun.com/user/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"http://www.speedrun.com/Yellow_Lines/run/ydokq20z"
+	}, {
+		"run_id":	"y684qvpz",
+		"verified_epoch":	1771705421,
+		"verified_iso":	"2026-02-21T20:23:41Z",
+		"game":	"Minecraft: Java Edition Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e9erd/cover.png?v=3f5cca3",
+		"category":	"All Wood Logs",
+		"level":	"",
+		"subcats":	"Version: 1.21.5, Difficulty: Easy, F3: F3, Mods: Modded, Seed Type (All Wood Logs): SSG, Version Range (All Wood Logs): 1.21.4+",
+		"primary_t":	98.483,
+		"players":	"AgentWO6",
+		"players_data":	[{
+				"name":	"AgentWO6",
+				"weblink":	"http://www.speedrun.com/user/AgentWO6",
+				"image":	"https://www.speedrun.com/static/user/j5v12kn8/image.png?v=afdab61"
+			}],
+		"weblink":	"http://www.speedrun.com/mcce/run/y684qvpz"
+	}, {
+		"run_id":	"z10d7lgm",
+		"verified_epoch":	1771705416,
+		"verified_iso":	"2026-02-21T20:23:36Z",
+		"game":	"Strawberry Jam Collab",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkmnve1/cover.png?v=dac24e0",
+		"category":	"Beginner",
+		"level":	"",
+		"subcats":	"Game Version: 1.4.0.0, Map Version: 1.0.12",
+		"primary_t":	2833.305,
+		"players":	"Ristor",
+		"players_data":	[{
+				"name":	"Ristor",
+				"weblink":	"http://www.speedrun.com/user/Ristor",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/sj_collab/run/z10d7lgm"
+	}, {
+		"run_id":	"m3892lwy",
+		"verified_epoch":	1771705407,
+		"verified_iso":	"2026-02-21T20:23:27Z",
+		"game":	"Plants Vs. Zombies Replanted",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xgyr1/cover.png?v=adf8813",
+		"category":	"Any%",
+		"level":	"Zombotany 1",
+		"subcats":	"Speed up used?: No, Version Subcategories: Console, Version: 1.5",
+		"primary_t":	349,
+		"players":	"LukeBlondeYT",
+		"players_data":	[{
+				"name":	"LukeBlondeYT",
+				"weblink":	"http://www.speedrun.com/user/LukeBlondeYT",
+				"image":	"https://www.speedrun.com/static/user/xykvm3n8/image.png?v=d0cb123"
+			}],
+		"weblink":	"http://www.speedrun.com/pvzreplanted/run/m3892lwy"
+	}, {
+		"run_id":	"y4v9j7ny",
+		"verified_epoch":	1771705379,
+		"verified_iso":	"2026-02-21T20:22:59Z",
+		"game":	"Portal 2",
+		"game_cover":	"https://www.speedrun.com/static/game/om1mw4d2/cover.png?v=c906112",
+		"category":	"Single Player",
+		"level":	"Chapter 5 - The Escape",
+		"subcats":	"Quicksaves: Yes, Betsrighter: Yes",
+		"primary_t":	459.567,
+		"players":	"Burger40",
+		"players_data":	[{
+				"name":	"Burger40",
+				"weblink":	"http://www.speedrun.com/user/Burger40",
+				"image":	"https://www.speedrun.com/static/user/qjnp65q8/image.png?v=df8a2a1"
+			}],
+		"weblink":	"http://www.speedrun.com/portal_2/run/y4v9j7ny"
+	}, {
+		"run_id":	"yl23prkz",
+		"verified_epoch":	1771705368,
+		"verified_iso":	"2026-02-21T20:22:48Z",
+		"game":	"Portal 2",
+		"game_cover":	"https://www.speedrun.com/static/game/om1mw4d2/cover.png?v=c906112",
+		"category":	"Single Player",
+		"level":	"Chapter 6 - The Fall",
+		"subcats":	"Quicksaves: Yes, Betsrighter: Yes",
+		"primary_t":	347.467,
+		"players":	"Burger40",
+		"players_data":	[{
+				"name":	"Burger40",
+				"weblink":	"http://www.speedrun.com/user/Burger40",
+				"image":	"https://www.speedrun.com/static/user/qjnp65q8/image.png?v=df8a2a1"
+			}],
+		"weblink":	"http://www.speedrun.com/portal_2/run/yl23prkz"
+	}, {
+		"run_id":	"mkrn8kxz",
+		"verified_epoch":	1771705326,
+		"verified_iso":	"2026-02-21T20:22:06Z",
+		"game":	"Deer Hunter (GBC)",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqjvv6/cover.png?v=9309073",
+		"category":	"No items",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	54,
+		"players":	"Crayola_Markers",
+		"players_data":	[{
+				"name":	"Crayola_Markers",
+				"weblink":	"http://www.speedrun.com/user/Crayola_Markers",
+				"image":	"https://www.speedrun.com/static/user/98rw92gx/image.png?v=5130fe0"
+			}],
+		"weblink":	"http://www.speedrun.com/deer_hunter_gbc/run/mkrn8kxz"
+	}, {
+		"run_id":	"zxp91eey",
+		"verified_epoch":	1771705294,
+		"verified_iso":	"2026-02-21T20:21:34Z",
+		"game":	"Gimkit: Fishtopia",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp98zd/cover.png?v=767be58",
+		"category":	"GimFish",
+		"level":	"",
+		"subcats":	"Players: 1 player, System: Chromebook",
+		"primary_t":	286.633,
+		"players":	"youraveragehorse",
+		"players_data":	[{
+				"name":	"youraveragehorse",
+				"weblink":	"http://www.speedrun.com/user/youraveragehorse",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/gimkit_ft/run/zxp91eey"
+	}, {
+		"run_id":	"z02wveom",
+		"verified_epoch":	1771705283,
+		"verified_iso":	"2026-02-21T20:21:23Z",
+		"game":	"Manhunt Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e5xvd/cover.png?v=ae36911",
+		"category":	"Any Rating with OoB (PC)",
+		"level":	"Border Patrol",
+		"subcats":	"",
+		"primary_t":	40,
+		"players":	"Ignas",
+		"players_data":	[{
+				"name":	"Ignas",
+				"weblink":	"http://www.speedrun.com/user/Ignas",
+				"image":	"https://www.speedrun.com/static/user/18v01r2x/image.png?v=e52e8d1"
+			}],
+		"weblink":	"http://www.speedrun.com/manhunt_category_extensions/run/z02wveom"
+	}, {
+		"run_id":	"y269l37m",
+		"verified_epoch":	1771705253,
+		"verified_iso":	"2026-02-21T20:20:53Z",
+		"game":	"Manhunt Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e5xvd/cover.png?v=ae36911",
+		"category":	"Any Rating with OoB (PC)",
+		"level":	"Press Coverage",
+		"subcats":	"",
+		"primary_t":	24,
+		"players":	"Ignas",
+		"players_data":	[{
+				"name":	"Ignas",
+				"weblink":	"http://www.speedrun.com/user/Ignas",
+				"image":	"https://www.speedrun.com/static/user/18v01r2x/image.png?v=e52e8d1"
+			}],
+		"weblink":	"http://www.speedrun.com/manhunt_category_extensions/run/y269l37m"
+	}, {
+		"run_id":	"z02wve9m",
+		"verified_epoch":	1771705210,
+		"verified_iso":	"2026-02-21T20:20:10Z",
+		"game":	"Manhunt Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e5xvd/cover.png?v=ae36911",
+		"category":	"Any Rating with OoB (PC)",
+		"level":	"Divided They Fall",
+		"subcats":	"",
+		"primary_t":	107,
+		"players":	"Ignas",
+		"players_data":	[{
+				"name":	"Ignas",
+				"weblink":	"http://www.speedrun.com/user/Ignas",
+				"image":	"https://www.speedrun.com/static/user/18v01r2x/image.png?v=e52e8d1"
+			}],
+		"weblink":	"http://www.speedrun.com/manhunt_category_extensions/run/z02wve9m"
+	}, {
+		"run_id":	"zqnkx6rz",
+		"verified_epoch":	1771705174,
+		"verified_iso":	"2026-02-21T20:19:34Z",
+		"game":	"Manhunt Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e5xvd/cover.png?v=ae36911",
+		"category":	"Any Rating with OoB (PC)",
+		"level":	"View of Innocence",
+		"subcats":	"",
+		"primary_t":	133,
+		"players":	"Ignas",
+		"players_data":	[{
+				"name":	"Ignas",
+				"weblink":	"http://www.speedrun.com/user/Ignas",
+				"image":	"https://www.speedrun.com/static/user/18v01r2x/image.png?v=e52e8d1"
+			}],
+		"weblink":	"http://www.speedrun.com/manhunt_category_extensions/run/zqnkx6rz"
+	}, {
+		"run_id":	"z5n59o5z",
+		"verified_epoch":	1771705159,
+		"verified_iso":	"2026-02-21T20:19:19Z",
+		"game":	"Age of Mythology: Retold",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zyv3x6/cover.png?v=8741303",
+		"category":	"Titan",
+		"level":	"Fall of the Trident: Watch That First Step",
+		"subcats":	"Patch: 18.65484 (2/10/25)",
+		"primary_t":	147,
+		"players":	"MrEvoQC",
+		"players_data":	[{
+				"name":	"MrEvoQC",
+				"weblink":	"http://www.speedrun.com/user/MrEvoQC",
+				"image":	"https://www.speedrun.com/static/user/8eo663oj/image.png?v=8641dfc"
+			}],
+		"weblink":	"http://www.speedrun.com/aomrt/run/z5n59o5z"
+	}, {
+		"run_id":	"yjrj0rgz",
+		"verified_epoch":	1771705111,
+		"verified_iso":	"2026-02-21T20:18:31Z",
+		"game":	"The Elder Scrolls IV: Oblivion Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/ldew5pjd/cover.png?v=fc9f650",
+		"category":	"All Main Quests",
+		"level":	"",
+		"subcats":	"Platform: PC, Type: Glitched",
+		"primary_t":	1636.98,
+		"players":	"Iluvan",
+		"players_data":	[{
+				"name":	"Iluvan",
+				"weblink":	"http://www.speedrun.com/user/Iluvan",
+				"image":	"https://www.speedrun.com/static/user/xyynl3vx/image.png?v=185a045"
+			}],
+		"weblink":	"http://www.speedrun.com/The_Elder_Scrolls_IV_Oblivion_Remastered/run/yjrj0rgz"
+	}, {
+		"run_id":	"zx5oj25m",
+		"verified_epoch":	1771705110,
+		"verified_iso":	"2026-02-21T20:18:30Z",
+		"game":	"Toon Blast",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0neg31/cover.png?v=baf758f",
+		"category":	"Any%",
+		"level":	"Level 36",
+		"subcats":	"",
+		"primary_t":	45.1,
+		"players":	"RockieSpeedruns",
+		"players_data":	[{
+				"name":	"RockieSpeedruns",
+				"weblink":	"http://www.speedrun.com/user/RockieSpeedruns",
+				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
+			}],
+		"weblink":	"http://www.speedrun.com/Toon_Blast/run/zx5oj25m"
+	}, {
+		"run_id":	"medvk80y",
+		"verified_epoch":	1771705094,
+		"verified_iso":	"2026-02-21T20:18:14Z",
+		"game":	"White Knuckle",
+		"game_cover":	"https://www.speedrun.com/static/game/76r4nee1/cover.png?v=e8a213b",
+		"category":	"Endless Mode [Ascent]",
+		"level":	"",
+		"subcats":	"EM Modes: Endless Silos, EM Difficulty: Hard, Version: - EA | 0.54b -",
+		"primary_t":	0.836,
+		"players":	"Flaming9",
+		"players_data":	[{
+				"name":	"Flaming9",
+				"weblink":	"http://www.speedrun.com/user/Flaming9",
+				"image":	"https://www.speedrun.com/static/user/xznl4ynx/image.png?v=e20d2ba"
+			}],
+		"weblink":	"http://www.speedrun.com/White_Knuckle/run/medvk80y"
+	}, {
+		"run_id":	"z5n5pnjz",
+		"verified_epoch":	1771705058,
+		"verified_iso":	"2026-02-21T20:17:38Z",
+		"game":	"Ninja Gaiden Black",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gvp562/cover.png?v=9bafa00",
+		"category":	"Normal",
+		"level":	"",
+		"subcats":	"Normal subcategory: Any%",
+		"primary_t":	5534,
+		"players":	"Pahlsson",
+		"players_data":	[{
+				"name":	"Pahlsson",
+				"weblink":	"http://www.speedrun.com/user/Pahlsson",
+				"image":	"https://www.speedrun.com/static/user/xz76rmej/image.png?v=fb2db69"
+			}],
+		"weblink":	"http://www.speedrun.com/NGB/run/z5n5pnjz"
+	}, {
+		"run_id":	"zxp9qn5y",
+		"verified_epoch":	1771705056,
+		"verified_iso":	"2026-02-21T20:17:36Z",
+		"game":	"Kill the Ice Age Baby Adventure: The Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27nxe1/cover.png?v=53dba23",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	77.4,
+		"players":	"hocklate",
+		"players_data":	[{
+				"name":	"hocklate",
+				"weblink":	"http://www.speedrun.com/user/hocklate",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Kill_the_Ice_Age_Baby_Adventure_The_Game/run/zxp9qn5y"
+	}, {
+		"run_id":	"y9go4oem",
+		"verified_epoch":	1771705049,
+		"verified_iso":	"2026-02-21T20:17:29Z",
+		"game":	"Retro Lines (Scratch)",
+		"game_cover":	"https://www.speedrun.com/static/game/y65r7m41/cover.png?v=71323b0",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Category (Any%): Any% No Skips, Device: PC",
+		"primary_t":	77,
+		"players":	"redrat006",
+		"players_data":	[{
+				"name":	"redrat006",
+				"weblink":	"http://www.speedrun.com/user/redrat006",
+				"image":	"https://www.speedrun.com/static/user/x7zdo908/image.png?v=dd71523"
+			}],
+		"weblink":	"http://www.speedrun.com/Retro_Lines_reshared_Scratch/run/y9go4oem"
+	}, {
+		"run_id":	"ywoeg60m",
+		"verified_epoch":	1771704926,
+		"verified_iso":	"2026-02-21T20:15:26Z",
+		"game":	"Kill the Ice Age Baby Adventure: The Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27nxe1/cover.png?v=53dba23",
+		"category":	"Main ending Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	62.283,
+		"players":	"hocklate",
+		"players_data":	[{
+				"name":	"hocklate",
+				"weblink":	"http://www.speedrun.com/user/hocklate",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Kill_the_Ice_Age_Baby_Adventure_The_Game/run/ywoeg60m"
+	}, {
+		"run_id":	"z5n5955z",
+		"verified_epoch":	1771704805,
+		"verified_iso":	"2026-02-21T20:13:25Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.1",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Easy, Grandpa: No Grandpa",
+		"primary_t":	47.167,
+		"players":	"p1tesh",
+		"players_data":	[{
+				"name":	"p1tesh",
+				"weblink":	"http://www.speedrun.com/user/p1tesh",
+				"image":	"https://www.speedrun.com/static/user/86k3wywx/image.png?v=1628967"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/z5n5955z"
+	}, {
+		"run_id":	"y4v967ny",
+		"verified_epoch":	1771704805,
+		"verified_iso":	"2026-02-21T20:13:25Z",
+		"game":	"Kill the Ice Age Baby Adventure: The Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27nxe1/cover.png?v=53dba23",
+		"category":	"Softlock%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	3.433,
+		"players":	"hocklate",
+		"players_data":	[{
+				"name":	"hocklate",
+				"weblink":	"http://www.speedrun.com/user/hocklate",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Kill_the_Ice_Age_Baby_Adventure_The_Game/run/y4v967ny"
+	}, {
+		"run_id":	"y400vnnz",
+		"verified_epoch":	1771704775,
+		"verified_iso":	"2026-02-21T20:12:55Z",
+		"game":	"TV Show King",
+		"game_cover":	"https://www.speedrun.com/static/game/nd280g5d/cover.png?v=a4ff091",
+		"category":	"Win%",
+		"level":	"Face Off",
+		"subcats":	"",
+		"primary_t":	45,
+		"players":	"kssoup",
+		"players_data":	[{
+				"name":	"kssoup",
+				"weblink":	"http://www.speedrun.com/user/kssoup",
+				"image":	"https://www.speedrun.com/static/user/x7qommy8/image.png?v=5a1dbb3"
+			}],
+		"weblink":	"http://www.speedrun.com/tv_show_king/run/y400vnnz"
+	}, {
+		"run_id":	"zxp91p5y",
+		"verified_epoch":	1771704685,
+		"verified_iso":	"2026-02-21T20:11:25Z",
+		"game":	"LEGO City Undercover",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7x7317/cover.png?v=09696ba",
+		"category":	"Free Play",
+		"level":	"",
+		"subcats":	"Version: Remaster (All Other Platforms), Solo/Co-Op: Solo, Controllers: Two",
+		"primary_t":	1689,
+		"players":	"WizardPower",
+		"players_data":	[{
+				"name":	"WizardPower",
+				"weblink":	"http://www.speedrun.com/user/WizardPower",
+				"image":	"https://www.speedrun.com/static/user/qjnkpqqj/image.png?v=014f8ce"
+			}],
+		"weblink":	"http://www.speedrun.com/lcu/run/zxp91p5y"
+	}, {
+		"run_id":	"yj77rq3y",
+		"verified_epoch":	1771704655,
+		"verified_iso":	"2026-02-21T20:10:55Z",
+		"game":	"TV Show King",
+		"game_cover":	"https://www.speedrun.com/static/game/nd280g5d/cover.png?v=a4ff091",
+		"category":	"Finish%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	267,
+		"players":	"kssoup",
+		"players_data":	[{
+				"name":	"kssoup",
+				"weblink":	"http://www.speedrun.com/user/kssoup",
+				"image":	"https://www.speedrun.com/static/user/x7qommy8/image.png?v=5a1dbb3"
+			}],
+		"weblink":	"http://www.speedrun.com/tv_show_king/run/yj77rq3y"
+	}, {
+		"run_id":	"mrwjp77y",
+		"verified_epoch":	1771704553,
+		"verified_iso":	"2026-02-21T20:09:13Z",
+		"game":	"Escape the Backrooms",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxkwoy1/cover.png?v=7e01c97",
+		"category":	"Co-op",
+		"level":	"Level Fun",
+		"subcats":	"Category: Any%",
+		"primary_t":	38.72,
+		"players":	"MRDani, achivka",
+		"players_data":	[{
+				"name":	"MRDani",
+				"weblink":	"http://www.speedrun.com/user/MRDani",
+				"image":	"https://www.speedrun.com/static/user/8g51gopj/image.png?v=dc0f06e"
+			}, {
+				"name":	"achivka",
+				"weblink":	"http://www.speedrun.com/user/achivka",
+				"image":	"https://www.speedrun.com/static/user/x3w7gd7j/icon?v=2195098"
+			}],
+		"weblink":	"http://www.speedrun.com/etb/run/mrwjp77y"
+	}, {
+		"run_id":	"zn556g8z",
+		"verified_epoch":	1771704478,
+		"verified_iso":	"2026-02-21T20:07:58Z",
+		"game":	"TV Show King",
+		"game_cover":	"https://www.speedrun.com/static/game/nd280g5d/cover.png?v=a4ff091",
+		"category":	"Win%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	333,
+		"players":	"kssoup",
+		"players_data":	[{
+				"name":	"kssoup",
+				"weblink":	"http://www.speedrun.com/user/kssoup",
+				"image":	"https://www.speedrun.com/static/user/x7qommy8/image.png?v=5a1dbb3"
+			}],
+		"weblink":	"http://www.speedrun.com/tv_show_king/run/zn556g8z"
+	}, {
+		"run_id":	"z02wgv9m",
+		"verified_epoch":	1771704468,
+		"verified_iso":	"2026-02-21T20:07:48Z",
+		"game":	"Battle For Dream Island Again 5b",
+		"game_cover":	"https://www.speedrun.com/static/game/v1p527d8/cover.png?v=dae0309",
+		"category":	"Complete%",
+		"level":	"037. Match filter",
+		"subcats":	"Version: HTML5b",
+		"primary_t":	9.683,
+		"players":	"bluefan77",
+		"players_data":	[{
+				"name":	"bluefan77",
+				"weblink":	"http://www.speedrun.com/user/bluefan77",
+				"image":	"https://www.speedrun.com/static/user/8go2lpyx/image.png?v=03ab213"
+			}],
+		"weblink":	"http://www.speedrun.com/bfdia/run/z02wgv9m"
+	}, {
+		"run_id":	"y6w34p0z",
+		"verified_epoch":	1771704449,
+		"verified_iso":	"2026-02-21T20:07:29Z",
+		"game":	"Escape the Backrooms",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxkwoy1/cover.png?v=7e01c97",
+		"category":	"Co-op",
+		"level":	"The Arcade",
+		"subcats":	"Category: Any%",
+		"primary_t":	24.93,
+		"players":	"yurllka, achivka",
+		"players_data":	[{
+				"name":	"yurllka",
+				"weblink":	"http://www.speedrun.com/user/yurllka",
+				"image":	"https://www.speedrun.com/static/user/8l6rpz28/image.png?v=b0e0b5e"
+			}, {
+				"name":	"achivka",
+				"weblink":	"http://www.speedrun.com/user/achivka",
+				"image":	"https://www.speedrun.com/static/user/x3w7gd7j/icon?v=2195098"
+			}],
+		"weblink":	"http://www.speedrun.com/etb/run/y6w34p0z"
+	}, {
+		"run_id":	"y269og6m",
+		"verified_epoch":	1771704373,
+		"verified_iso":	"2026-02-21T20:06:13Z",
+		"game":	"Escape the Backrooms (Legacy)",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zkg5m1/cover.png?v=813f01d",
+		"category":	"Solo",
+		"level":	"Danger Zone",
+		"subcats":	"Version (Danger Zone): Update 4, Category: Any%",
+		"primary_t":	109.2,
+		"players":	"achivka",
+		"players_data":	[{
+				"name":	"achivka",
+				"weblink":	"http://www.speedrun.com/user/achivka",
+				"image":	"https://www.speedrun.com/static/user/x3w7gd7j/icon?v=2195098"
+			}],
+		"weblink":	"http://www.speedrun.com/etblegacy/run/y269og6m"
+	}, {
+		"run_id":	"y68kx3jz",
+		"verified_epoch":	1771704129,
+		"verified_iso":	"2026-02-21T20:02:09Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending (Extra locks), Robot Granny: No Robot Granny, Extras: No Extras, Difficulty (No Granny): Easy, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	206.067,
+		"players":	"speremoge",
+		"players_data":	[{
+				"name":	"speremoge",
+				"weblink":	"http://www.speedrun.com/user/speremoge",
+				"image":	"https://www.speedrun.com/static/user/8qnronq8/image.png?v=0148468"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/y68kx3jz"
+	}, {
+		"run_id":	"zn5ddg8z",
+		"verified_epoch":	1771704127,
+		"verified_iso":	"2026-02-21T20:02:07Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.1.6-v1.1.7.9, Seed System: Set Seed, Sub-category: Any%, Difficulty: Hard, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Sewer Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	54.833,
+		"players":	"Erokez",
+		"players_data":	[{
+				"name":	"Erokez",
+				"weblink":	"http://www.speedrun.com/user/Erokez",
+				"image":	"https://www.speedrun.com/static/user/8v7edye8/image.png?v=95548cf"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/zn5ddg8z"
+	}, {
+		"run_id":	"mkrjjwvz",
+		"verified_epoch":	1771704125,
+		"verified_iso":	"2026-02-21T20:02:05Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any%, Difficulty: Hollow, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Sewer Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Weapon",
+		"primary_t":	44.233,
+		"players":	"unsalad",
+		"players_data":	[{
+				"name":	"unsalad",
+				"weblink":	"http://www.speedrun.com/user/unsalad",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/mkrjjwvz"
+	}, {
+		"run_id":	"mr53jn8y",
+		"verified_epoch":	1771703969,
+		"verified_iso":	"2026-02-21T19:59:29Z",
+		"game":	"Need for Speed: Most Wanted 5-1-0",
+		"game_cover":	"https://www.speedrun.com/static/game/v1p0qz68/cover.png?v=139c193",
+		"category":	"Career any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	23589.6,
+		"players":	"CorruptedLobster",
+		"players_data":	[{
+				"name":	"CorruptedLobster",
+				"weblink":	"http://www.speedrun.com/user/CorruptedLobster",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/nfsmw510/run/mr53jn8y"
+	}, {
+		"run_id":	"ywoegx3m",
+		"verified_epoch":	1771703935,
+		"verified_iso":	"2026-02-21T19:58:55Z",
+		"game":	"Escape the Backrooms (Legacy)",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zkg5m1/cover.png?v=813f01d",
+		"category":	"No Major Glitches",
+		"level":	"",
+		"subcats":	"Player Count (NMG): 2 Players, Difficulty [NMG]: Nightmare, Version {NMG}: Update 1",
+		"primary_t":	766.28,
+		"players":	"Misterlego, Fishdll",
+		"players_data":	[{
+				"name":	"Misterlego",
+				"weblink":	"http://www.speedrun.com/user/Misterlego",
+				"image":	""
+			}, {
+				"name":	"Fishdll",
+				"weblink":	"http://www.speedrun.com/user/Fishdll",
+				"image":	"https://www.speedrun.com/static/user/xyonmonj/image.png?v=fab2fd4"
+			}],
+		"weblink":	"http://www.speedrun.com/etblegacy/run/ywoegx3m"
+	}, {
+		"run_id":	"medv5l9y",
+		"verified_epoch":	1771703915,
+		"verified_iso":	"2026-02-21T19:58:35Z",
+		"game":	"Astro's Playroom Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zj9om6/cover.png?v=cb52ae1",
+		"category":	"3 Laps",
+		"level":	"",
+		"subcats":	"Levels: Mountain Run",
+		"primary_t":	95.548,
+		"players":	"lingaguliguli0672_28383",
+		"players_data":	[{
+				"name":	"lingaguliguli0672_28383",
+				"weblink":	"http://www.speedrun.com/user/lingaguliguli0672_28383",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/astros_playroom_category_extensions/run/medv5l9y"
+	}, {
+		"run_id":	"z10de69m",
+		"verified_epoch":	1771703699,
+		"verified_iso":	"2026-02-21T19:54:59Z",
+		"game":	"Dead Watch",
+		"game_cover":	"https://www.speedrun.com/static/game/pd05wpw1/cover.png?v=5e60dbe",
+		"category":	"Misc Categories",
+		"level":	"FeedLumi%",
+		"subcats":	"",
+		"primary_t":	91.05,
+		"players":	"Avonorsmth",
+		"players_data":	[{
+				"name":	"Avonorsmth",
+				"weblink":	"http://www.speedrun.com/user/Avonorsmth",
+				"image":	"https://www.speedrun.com/static/user/j9lrn6vj/image.png?v=78dc537"
+			}],
+		"weblink":	"http://www.speedrun.com/DeadWatch/run/z10de69m"
+	}, {
+		"run_id":	"y9wqj8kz",
+		"verified_epoch":	1771703681,
+		"verified_iso":	"2026-02-21T19:54:41Z",
+		"game":	"Heavy Burden",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pl3e76/cover.png?v=0e12190",
+		"category":	"Philosophical Ending",
+		"level":	"",
+		"subcats":	"Difficulty: Only The Story, Language: English",
+		"primary_t":	2975.883,
+		"players":	"DRAGUN_exe",
+		"players_data":	[{
+				"name":	"DRAGUN_exe",
+				"weblink":	"http://www.speedrun.com/user/DRAGUN_exe",
+				"image":	"https://www.speedrun.com/static/user/8vkwm3nj/image.png?v=f47200d"
+			}],
+		"weblink":	"http://www.speedrun.com/Heavy_Burden/run/y9wqj8kz"
+	}, {
+		"run_id":	"z02w4wom",
+		"verified_epoch":	1771703471,
+		"verified_iso":	"2026-02-21T19:51:11Z",
+		"game":	"Escape the Backrooms",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxkwoy1/cover.png?v=7e01c97",
+		"category":	"Co-op",
+		"level":	"Darkened Suburbs",
+		"subcats":	"Part (Darkened Suburbs): Suburbs Exit, Category: Any%",
+		"primary_t":	8.25,
+		"players":	"berka2_0, yurllka",
+		"players_data":	[{
+				"name":	"berka2_0",
+				"weblink":	"http://www.speedrun.com/user/berka2_0",
+				"image":	"https://www.speedrun.com/static/user/jpp9k90j/image.png?v=4a3a811"
+			}, {
+				"name":	"yurllka",
+				"weblink":	"http://www.speedrun.com/user/yurllka",
+				"image":	"https://www.speedrun.com/static/user/8l6rpz28/image.png?v=b0e0b5e"
+			}],
+		"weblink":	"http://www.speedrun.com/etb/run/z02w4wom"
+	}, {
+		"run_id":	"z569vljy",
+		"verified_epoch":	1771703429,
+		"verified_iso":	"2026-02-21T19:50:29Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.0",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Random Seed, Difficulty: Easy, Grandpa: No Grandpa",
+		"primary_t":	35.35,
+		"players":	"Bigstas",
+		"players_data":	[{
+				"name":	"Bigstas",
+				"weblink":	"http://www.speedrun.com/user/Bigstas",
+				"image":	"https://www.speedrun.com/static/user/jn53de4j/image.png?v=4ebdc28"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/z569vljy"
+	}, {
+		"run_id":	"y8l3l5xm",
+		"verified_epoch":	1771703325,
+		"verified_iso":	"2026-02-21T19:48:45Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending (Extra locks), Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	129.333,
+		"players":	"Iulian7",
+		"players_data":	[{
+				"name":	"Iulian7",
+				"weblink":	"http://www.speedrun.com/user/Iulian7",
+				"image":	"https://www.speedrun.com/static/user/j5rzmlzx/image.png?v=f075f01"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/y8l3l5xm"
+	}, {
 		"run_id":	"zg1314jz",
 		"verified_epoch":	1771703235,
 		"verified_iso":	"2026-02-21T19:47:15Z",
@@ -20170,501 +20968,4 @@
 				"image":	"https://www.speedrun.com/static/user/86k3wywx/image.png?v=1628967"
 			}],
 		"weblink":	"http://www.speedrun.com/granny_legacy/run/y6w3jdjz"
-	}, {
-		"run_id":	"yo8ve9jz",
-		"verified_epoch":	1771619401,
-		"verified_iso":	"2026-02-20T20:30:01Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any%, Difficulty: Extreme, Grandpa: No Grandpa, Extra Traps: Old Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	236.362,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/yo8ve9jz"
-	}, {
-		"run_id":	"z17w699z",
-		"verified_epoch":	1771619278,
-		"verified_iso":	"2026-02-20T20:27:58Z",
-		"game":	"Unrailed!",
-		"game_cover":	"https://www.speedrun.com/static/game/j1nevwl1/cover.png?v=b666720",
-		"category":	"Endless Easy",
-		"level":	"",
-		"subcats":	"Random/Set Seed: Set Seed, # of Players: 2 Players, Seed: WFAxOAs",
-		"primary_t":	2746.867,
-		"players":	"potochi, makiko",
-		"players_data":	[{
-				"name":	"potochi",
-				"weblink":	"http://www.speedrun.com/user/potochi",
-				"image":	"https://www.speedrun.com/static/user/8eo2q72j/image.png?v=134324d"
-			}, {
-				"name":	"makiko",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/unrailed/run/z17w699z"
-	}, {
-		"run_id":	"zxp9068y",
-		"verified_epoch":	1771619217,
-		"verified_iso":	"2026-02-20T20:26:57Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any%, Difficulty: Impossible, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: Old Extras, Dynamic Spawns: No Dynamic Spawns, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	231.478,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/zxp9068y"
-	}, {
-		"run_id":	"yl2314kz",
-		"verified_epoch":	1771619128,
-		"verified_iso":	"2026-02-20T20:25:28Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: Old Extra Traps, Ending: Car Ending, Robot Granny: No Robot Granny, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	316.804,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/yl2314kz"
-	}, {
-		"run_id":	"medv489y",
-		"verified_epoch":	1771619111,
-		"verified_iso":	"2026-02-20T20:25:11Z",
-		"game":	"Granny Chapter Two: Enhanced",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy4my6/cover.png?v=3e2b906",
-		"category":	"Hard",
-		"level":	"",
-		"subcats":	"Sub-Category: Any% Glitchless, Seed System: Preset, Granny: No Granny, Grandpa: No Grandpa, Ending: Helicopter",
-		"primary_t":	204.713,
-		"players":	"Im_yozh",
-		"players_data":	[{
-				"name":	"Im_yozh",
-				"weblink":	"http://www.speedrun.com/user/Im_yozh",
-				"image":	"https://www.speedrun.com/static/user/8v71pvn8/image.png?v=71c98f2"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_2_enhanced/run/medv489y"
-	}, {
-		"run_id":	"z10dv77m",
-		"verified_epoch":	1771619035,
-		"verified_iso":	"2026-02-20T20:23:55Z",
-		"game":	"Splatoon 3: Side Order",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp2pmd/cover.png?v=a04cde8",
-		"category":	"NG+",
-		"level":	"",
-		"subcats":	"Palette: Big Man (Slosher), Timing/Platform: Real Time (Switch 2)",
-		"primary_t":	1042,
-		"players":	"tatsu_ya",
-		"players_data":	[{
-				"name":	"tatsu_ya",
-				"weblink":	"http://www.speedrun.com/user/tatsu_ya",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/SideOrder/run/z10dv77m"
-	}, {
-		"run_id":	"y269nr5m",
-		"verified_epoch":	1771619016,
-		"verified_iso":	"2026-02-20T20:23:36Z",
-		"game":	"Splatoon 3: Side Order",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp2pmd/cover.png?v=a04cde8",
-		"category":	"NG+",
-		"level":	"",
-		"subcats":	"Palette: Frye (Splatana), Timing/Platform: Real Time (Switch 2)",
-		"primary_t":	1175,
-		"players":	"tatsu_ya",
-		"players_data":	[{
-				"name":	"tatsu_ya",
-				"weblink":	"http://www.speedrun.com/user/tatsu_ya",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/SideOrder/run/y269nr5m"
-	}, {
-		"run_id":	"zqnkpg8z",
-		"verified_epoch":	1771619001,
-		"verified_iso":	"2026-02-20T20:23:21Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any%, Difficulty: Impossible, Grandpa: No Grandpa, Extra Traps: Old Extra Traps, Ending: Sewer Ending, Robot Granny: Robot Granny, Extras: No Extras, Dynamic Spawns: No Dynamic Spawns, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	225.457,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/zqnkpg8z"
-	}, {
-		"run_id":	"mr52717y",
-		"verified_epoch":	1771618956,
-		"verified_iso":	"2026-02-20T20:22:36Z",
-		"game":	"Real Racing 3",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pxzom6/cover.png?v=c1207e4",
-		"category":	"Pro/Am",
-		"level":	"",
-		"subcats":	"series pro/am: Prime Production Match-Up",
-		"primary_t":	7370.434,
-		"players":	"GeorgeMHall",
-		"players_data":	[{
-				"name":	"GeorgeMHall",
-				"weblink":	"http://www.speedrun.com/user/GeorgeMHall",
-				"image":	"https://www.speedrun.com/static/user/8l09ywr8/image.png?v=4c7ab9e"
-			}],
-		"weblink":	"http://www.speedrun.com/real_racing_3/run/mr52717y"
-	}, {
-		"run_id":	"yjrj1j3z",
-		"verified_epoch":	1771618775,
-		"verified_iso":	"2026-02-20T20:19:35Z",
-		"game":	"Granny Chapter Two: Enhanced",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy4my6/cover.png?v=3e2b906",
-		"category":	"Impossible",
-		"level":	"",
-		"subcats":	"Sub-Category: Any% Glitchless, Seed System: Set Seed, Granny: With Bat, Grandpa: With Cane, Version: 1.1, Ending: Boat",
-		"primary_t":	89.386,
-		"players":	"random_runner",
-		"players_data":	[{
-				"name":	"random_runner",
-				"weblink":	"http://www.speedrun.com/user/random_runner",
-				"image":	"https://www.speedrun.com/static/user/8vykkzv8/image.png?v=26af032"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_2_enhanced/run/yjrj1j3z"
-	}, {
-		"run_id":	"zn6wxd9y",
-		"verified_epoch":	1771618748,
-		"verified_iso":	"2026-02-20T20:19:08Z",
-		"game":	"Super Bear Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
-		"category":	"Single Bears",
-		"level":	"Giant House",
-		"subcats":	"Single Bears: Joseph, Version: 12.1.3",
-		"primary_t":	19.13,
-		"players":	"DineshKumar",
-		"players_data":	[{
-				"name":	"DineshKumar",
-				"weblink":	"http://www.speedrun.com/user/DineshKumar",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sba/run/zn6wxd9y"
-	}, {
-		"run_id":	"z10dg1gm",
-		"verified_epoch":	1771618720,
-		"verified_iso":	"2026-02-20T20:18:40Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: Grandpa, Extra Traps: Old Extra Traps, Ending: Door Ending (Extra locks), Robot Granny: No Robot Granny, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	208.239,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/z10dg1gm"
-	}, {
-		"run_id":	"mkxld9vz",
-		"verified_epoch":	1771618581,
-		"verified_iso":	"2026-02-20T20:16:21Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: Grandpa, Extra Traps: Old Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	169.222,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/mkxld9vz"
-	}, {
-		"run_id":	"y2rlgojm",
-		"verified_epoch":	1771618521,
-		"verified_iso":	"2026-02-20T20:15:21Z",
-		"game":	"Neyasnoe (Неясное)",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j7ze56/cover.png?v=45eae18",
-		"category":	"Tutorial%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	56,
-		"players":	"LukyTemy",
-		"players_data":	[{
-				"name":	"LukyTemy",
-				"weblink":	"http://www.speedrun.com/user/LukyTemy",
-				"image":	"https://www.speedrun.com/static/user/j51gklz8/image.png?v=625a11e"
-			}],
-		"weblink":	"http://www.speedrun.com/neyasnoe/run/y2rlgojm"
-	}, {
-		"run_id":	"y2698dwm",
-		"verified_epoch":	1771618264,
-		"verified_iso":	"2026-02-20T20:11:04Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"Kill Granny%",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.2/v1.3, Seed System: Preset",
-		"primary_t":	26.415,
-		"players":	"Sanes228",
-		"players_data":	[{
-				"name":	"Sanes228",
-				"weblink":	"http://www.speedrun.com/user/Sanes228",
-				"image":	"https://www.speedrun.com/static/user/xznlqq4x/image.png?v=02f4156"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/y2698dwm"
-	}, {
-		"run_id":	"mrwjr82y",
-		"verified_epoch":	1771618157,
-		"verified_iso":	"2026-02-20T20:09:17Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: Grandpa, Extra Traps: Old Extra Traps, Ending: Car Ending, Robot Granny: No Robot Granny, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	430.413,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/mrwjr82y"
-	}, {
-		"run_id":	"y8l3grnm",
-		"verified_epoch":	1771618046,
-		"verified_iso":	"2026-02-20T20:07:26Z",
-		"game":	"Descenders Next",
-		"game_cover":	"https://www.speedrun.com/static/game/9dox9xmd/cover.png?v=dc60b6e",
-		"category":	"No Skips",
-		"level":	"Minirop Slopes",
-		"subcats":	"",
-		"primary_t":	38.843,
-		"players":	"xaert",
-		"players_data":	[{
-				"name":	"xaert",
-				"weblink":	"http://www.speedrun.com/user/xaert",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/DescendersNext/run/y8l3grnm"
-	}, {
-		"run_id":	"z5n5w5jz",
-		"verified_epoch":	1771617989,
-		"verified_iso":	"2026-02-20T20:06:29Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: Old Extra Traps, Ending: Door Ending (Extra locks), Robot Granny: No Robot Granny, Extras: Old Extras, Dynamic Spawns: No Dynamic Spawns, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	292.948,
-		"players":	"Femboyism",
-		"players_data":	[{
-				"name":	"Femboyism",
-				"weblink":	"http://www.speedrun.com/user/Femboyism",
-				"image":	"https://www.speedrun.com/static/user/8q0qlnoj/image.png?v=eb666b4"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/z5n5w5jz"
-	}, {
-		"run_id":	"y8l30gxm",
-		"verified_epoch":	1771617912,
-		"verified_iso":	"2026-02-20T20:05:12Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Solo",
-		"level":	"The Project",
-		"subcats":	"Version: Closure 125+, IL Difficulty : Legend, IL Seed: Random Seed, IL Playstyle: Loud Only, IL Glitches: Glitchless",
-		"primary_t":	175.248,
-		"players":	"NotMrBones",
-		"players_data":	[{
-				"name":	"NotMrBones",
-				"weblink":	"http://www.speedrun.com/user/NotMrBones",
-				"image":	"https://www.speedrun.com/static/user/867m12qj/image.png?v=a4c8820"
-			}],
-		"weblink":	"http://www.speedrun.com/Operators/run/y8l30gxm"
-	}, {
-		"run_id":	"yw5w5v9y",
-		"verified_epoch":	1771617855,
-		"verified_iso":	"2026-02-20T20:04:15Z",
-		"game":	"Real Racing 3",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pxzom6/cover.png?v=c1207e4",
-		"category":	"Pro/Am",
-		"level":	"",
-		"subcats":	"series pro/am: V8 Naturals",
-		"primary_t":	6564.85,
-		"players":	"GeorgeMHall",
-		"players_data":	[{
-				"name":	"GeorgeMHall",
-				"weblink":	"http://www.speedrun.com/user/GeorgeMHall",
-				"image":	"https://www.speedrun.com/static/user/8l09ywr8/image.png?v=4c7ab9e"
-			}],
-		"weblink":	"http://www.speedrun.com/real_racing_3/run/yw5w5v9y"
-	}, {
-		"run_id":	"mkxl101z",
-		"verified_epoch":	1771617762,
-		"verified_iso":	"2026-02-20T20:02:42Z",
-		"game":	"Majora's Mask Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1z98xd0/cover.png?v=dc1ce14",
-		"category":	"Hearts",
-		"level":	"",
-		"subcats":	"Heart Type: 9 Hearts, Hearts Run Type: Glitchless",
-		"primary_t":	4928.067,
-		"players":	"SolalGon",
-		"players_data":	[{
-				"name":	"SolalGon",
-				"weblink":	"http://www.speedrun.com/user/SolalGon",
-				"image":	"https://www.speedrun.com/static/user/j232k9nx/image.png?v=b64cc60"
-			}],
-		"weblink":	"http://www.speedrun.com/mmextras/run/mkxl101z"
-	}, {
-		"run_id":	"y6w3dx0z",
-		"verified_epoch":	1771617715,
-		"verified_iso":	"2026-02-20T20:01:55Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Solo",
-		"level":	"The Brass",
-		"subcats":	"Version: Closure 125+, IL Difficulty : Legend, IL Seed: Random Seed, IL Playstyle: Loud Only, IL Glitches: Glitchless",
-		"primary_t":	191.303,
-		"players":	"NotMrBones",
-		"players_data":	[{
-				"name":	"NotMrBones",
-				"weblink":	"http://www.speedrun.com/user/NotMrBones",
-				"image":	"https://www.speedrun.com/static/user/867m12qj/image.png?v=a4c8820"
-			}],
-		"weblink":	"http://www.speedrun.com/Operators/run/y6w3dx0z"
-	}, {
-		"run_id":	"zg136vnz",
-		"verified_epoch":	1771617607,
-		"verified_iso":	"2026-02-20T20:00:07Z",
-		"game":	"PetardosTeam 1 - Futuro Lejano",
-		"game_cover":	"https://www.speedrun.com/static/game/m1zy7qx6/cover.png?v=ce8204e",
-		"category":	"Any% (SINGLEPLAYER)",
-		"level":	"",
-		"subcats":	"FPS: 60",
-		"primary_t":	397,
-		"players":	"gita_",
-		"players_data":	[{
-				"name":	"gita_",
-				"weblink":	"http://www.speedrun.com/user/gita_",
-				"image":	"https://www.speedrun.com/static/user/jol2wl0j/image.png?v=0272cc5"
-			}],
-		"weblink":	"http://www.speedrun.com/PetardosTeam_1_Futuro_Lejano/run/zg136vnz"
-	}, {
-		"run_id":	"yl23jv3z",
-		"verified_epoch":	1771617516,
-		"verified_iso":	"2026-02-20T19:58:36Z",
-		"game":	"Bloodwings: Pumpkinhead's Revenge",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05wel1/cover.png?v=fa1531b",
-		"category":	"Any% (Fixed Seed)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	2321,
-		"players":	"vjsmyth",
-		"players_data":	[{
-				"name":	"vjsmyth",
-				"weblink":	"http://www.speedrun.com/user/vjsmyth",
-				"image":	"https://www.speedrun.com/static/user/j2qgze6j/image.png?v=f99bc15"
-			}],
-		"weblink":	"http://www.speedrun.com/Bloodwings_Pumpkinheads_Revenge/run/yl23jv3z"
-	}, {
-		"run_id":	"zg1377ez",
-		"verified_epoch":	1771617509,
-		"verified_iso":	"2026-02-20T19:58:29Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Solo",
-		"level":	"The Diplomat",
-		"subcats":	"Version: Closure 125+, IL Difficulty : Legend, IL Seed: Random Seed, IL Playstyle: Loud Only, IL Glitches: Glitchless",
-		"primary_t":	110.717,
-		"players":	"NotMrBones",
-		"players_data":	[{
-				"name":	"NotMrBones",
-				"weblink":	"http://www.speedrun.com/user/NotMrBones",
-				"image":	"https://www.speedrun.com/static/user/867m12qj/image.png?v=a4c8820"
-			}],
-		"weblink":	"http://www.speedrun.com/Operators/run/zg1377ez"
-	}, {
-		"run_id":	"z02wq38m",
-		"verified_epoch":	1771617497,
-		"verified_iso":	"2026-02-20T19:58:17Z",
-		"game":	"Motherload",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9r4dj/cover.png?v=82ecafc",
-		"category":	"Any% (Set Seed)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	648.404,
-		"players":	"Colibolo",
-		"players_data":	[{
-				"name":	"Colibolo",
-				"weblink":	"http://www.speedrun.com/user/Colibolo",
-				"image":	"https://www.speedrun.com/static/user/pj05lq48/image.png?v=b926567"
-			}],
-		"weblink":	"http://www.speedrun.com/motherload/run/z02wq38m"
-	}, {
-		"run_id":	"zn6wgkly",
-		"verified_epoch":	1771617399,
-		"verified_iso":	"2026-02-20T19:56:39Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.5",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending",
-		"primary_t":	27.483,
-		"players":	"42gg",
-		"players_data":	[{
-				"name":	"42gg",
-				"weblink":	"http://www.speedrun.com/user/42gg",
-				"image":	"https://www.speedrun.com/static/user/jng5m3d8/image.png?v=a5d9c66"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/zn6wgkly"
-	}, {
-		"run_id":	"y2roq55m",
-		"verified_epoch":	1771617076,
-		"verified_iso":	"2026-02-20T19:51:16Z",
-		"game":	"Risen",
-		"game_cover":	"https://www.speedrun.com/static/game/j1l2pz6g/cover.png?v=3d53909",
-		"category":	"Damageless",
-		"level":	"",
-		"subcats":	"Patch: New Patch",
-		"primary_t":	9446,
-		"players":	"Rikiel",
-		"players_data":	[{
-				"name":	"Rikiel",
-				"weblink":	"http://www.speedrun.com/user/Rikiel",
-				"image":	"https://www.speedrun.com/static/user/jm76qzoj/image.png?v=609be9b"
-			}],
-		"weblink":	"http://www.speedrun.com/risen/run/y2roq55m"
-	}, {
-		"run_id":	"mrwj2k7y",
-		"verified_epoch":	1771616926,
-		"verified_iso":	"2026-02-20T19:48:46Z",
-		"game":	"Minecraft: Bedrock Edition (Unobtained)",
-		"game_cover":	"https://www.speedrun.com/static/game/v1plq876/cover.png?v=26df7dc",
-		"category":	"Obtain Discontinued Item",
-		"level":	"",
-		"subcats":	"Items: Invalid Snow Layer, Version Path: 1 Version, Duping: No Duping, Difficulty: Easy, Seed: Set Seed, Platform: PC",
-		"primary_t":	1.2,
-		"players":	"H4510",
-		"players_data":	[{
-				"name":	"H4510",
-				"weblink":	"http://www.speedrun.com/user/H4510",
-				"image":	"https://www.speedrun.com/static/user/xk15nw9j/image.png?v=e6d45fd"
-			}],
-		"weblink":	"http://www.speedrun.com/mcbu/run/mrwj2k7y"
 	}]
