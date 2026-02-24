@@ -1,4 +1,912 @@
 [{
+		"run_id":	"yjrkd9oz",
+		"verified_epoch":	1771933505,
+		"verified_iso":	"2026-02-24T11:45:05Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"Kill Granny%",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset",
+		"primary_t":	20.467,
+		"players":	"SlaveFile",
+		"players_data":	[{
+				"name":	"SlaveFile",
+				"weblink":	"http://www.speedrun.com/user/SlaveFile",
+				"image":	"https://www.speedrun.com/static/user/x3rq226x/image.png?v=0173403"
+			}],
+		"weblink":	"http://www.speedrun.com/granny_legacy/run/yjrkd9oz"
+	}, {
+		"run_id":	"z02elo9m",
+		"verified_epoch":	1771932868,
+		"verified_iso":	"2026-02-24T11:34:28Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"Damage",
+		"level":	"",
+		"subcats":	"Cause: Trenchbleeder",
+		"primary_t":	346.683,
+		"players":	"FaRsT_CoDeR",
+		"players_data":	[{
+				"name":	"FaRsT_CoDeR",
+				"weblink":	"http://www.speedrun.com/user/FaRsT_CoDeR",
+				"image":	"https://www.speedrun.com/static/user/j21406p8/image.png?v=0d32555"
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Pressure_CE/run/z02elo9m"
+	}, {
+		"run_id":	"medkog8y",
+		"verified_epoch":	1771932677,
+		"verified_iso":	"2026-02-24T11:31:17Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Iris, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2415150, Character: Iris",
+		"primary_t":	348,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/medkog8y"
+	}, {
+		"run_id":	"ywo18g9m",
+		"verified_epoch":	1771932673,
+		"verified_iso":	"2026-02-24T11:31:13Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Uno, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1899877, Character: Uno",
+		"primary_t":	335,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/ywo18g9m"
+	}, {
+		"run_id":	"y6w75vjz",
+		"verified_epoch":	1771932669,
+		"verified_iso":	"2026-02-24T11:31:09Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Kallia, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1563302, Character: Kallia",
+		"primary_t":	326,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y6w75vjz"
+	}, {
+		"run_id":	"y4v5w6ky",
+		"verified_epoch":	1771932665,
+		"verified_iso":	"2026-02-24T11:31:05Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Ai, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2990378, Character: Ai",
+		"primary_t":	342,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y4v5w6ky"
+	}, {
+		"run_id":	"zn68kely",
+		"verified_epoch":	1771932661,
+		"verified_iso":	"2026-02-24T11:31:01Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Decanee, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1778610, Character: Decanee",
+		"primary_t":	349,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/zn68kely"
+	}, {
+		"run_id":	"y6w75qjz",
+		"verified_epoch":	1771932651,
+		"verified_iso":	"2026-02-24T11:30:51Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Veigas, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1729422, Character: Veigas",
+		"primary_t":	323,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y6w75qjz"
+	}, {
+		"run_id":	"y2635kjm",
+		"verified_epoch":	1771932645,
+		"verified_iso":	"2026-02-24T11:30:45Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Edel, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1887243, Character: Edel",
+		"primary_t":	345,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y2635kjm"
+	}, {
+		"run_id":	"z5nojkdz",
+		"verified_epoch":	1771932641,
+		"verified_iso":	"2026-02-24T11:30:41Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Holy/Lime, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2345829, Character: Holy/Lime",
+		"primary_t":	323,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/z5nojkdz"
+	}, {
+		"run_id":	"medkolqy",
+		"verified_epoch":	1771932637,
+		"verified_iso":	"2026-02-24T11:30:37Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Azin, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1414577, Character: Azin",
+		"primary_t":	344,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/medkolqy"
+	}, {
+		"run_id":	"z02e5jjm",
+		"verified_epoch":	1771932633,
+		"verified_iso":	"2026-02-24T11:30:33Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Lin/Rin, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1616791, Character: Lin/Rin Trevas/Dark",
+		"primary_t":	354,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/z02e5jjm"
+	}, {
+		"run_id":	"ydokv4vz",
+		"verified_epoch":	1771932632,
+		"verified_iso":	"2026-02-24T11:30:32Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Player Count: Solo, Game Version: 4.0-4.4, Map: Low Island",
+		"primary_t":	785,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/ydokv4vz"
+	}, {
+		"run_id":	"y9g7082m",
+		"verified_epoch":	1771932625,
+		"verified_iso":	"2026-02-24T11:30:25Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Lupus/Rufus, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1277591, Character: Lupus/Rufus",
+		"primary_t":	323,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y9g7082m"
+	}, {
+		"run_id":	"zg1nw20z",
+		"verified_epoch":	1771932621,
+		"verified_iso":	"2026-02-24T11:30:21Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Rey/Ley, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2146927, Character: Rey/Ley",
+		"primary_t":	339,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/zg1nw20z"
+	}, {
+		"run_id":	"zn68kj9y",
+		"verified_epoch":	1771932617,
+		"verified_iso":	"2026-02-24T11:30:17Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Zero, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 3481712, Character: Zero",
+		"primary_t":	343,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/zn68kj9y"
+	}, {
+		"run_id":	"z02e5njm",
+		"verified_epoch":	1771932612,
+		"verified_iso":	"2026-02-24T11:30:12Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Dio, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2531581, Character: Dio",
+		"primary_t":	343,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/z02e5njm"
+	}, {
+		"run_id":	"y2635jjm",
+		"verified_epoch":	1771932604,
+		"verified_iso":	"2026-02-24T11:30:04Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Mari, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2326771, Character: Mari",
+		"primary_t":	342,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y2635jjm"
+	}, {
+		"run_id":	"medvl43y",
+		"verified_epoch":	1771932603,
+		"verified_iso":	"2026-02-24T11:30:03Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Solo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Low Island",
+		"primary_t":	288,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/medvl43y"
+	}, {
+		"run_id":	"m38d5l6y",
+		"verified_epoch":	1771932600,
+		"verified_iso":	"2026-02-24T11:30:00Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Sieg, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1407897, Character: Sieghart",
+		"primary_t":	338,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/m38d5l6y"
+	}, {
+		"run_id":	"mkx43v3z",
+		"verified_epoch":	1771932596,
+		"verified_iso":	"2026-02-24T11:29:56Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Jin, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2469010, Character: Jin",
+		"primary_t":	348,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/mkx43v3z"
+	}, {
+		"run_id":	"zpvqrgnz",
+		"verified_epoch":	1771932591,
+		"verified_iso":	"2026-02-24T11:29:51Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Amy, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1475033, Character: Amy",
+		"primary_t":	309,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/zpvqrgnz"
+	}, {
+		"run_id":	"y6w75xqz",
+		"verified_epoch":	1771932587,
+		"verified_iso":	"2026-02-24T11:29:47Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Ronan, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2136693, Character: Ronan",
+		"primary_t":	362,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y6w75xqz"
+	}, {
+		"run_id":	"z5n5jdjz",
+		"verified_epoch":	1771932585,
+		"verified_iso":	"2026-02-24T11:29:45Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Player Count: Solo, Game Version: 4.0-4.4, Map: Forest",
+		"primary_t":	661,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/z5n5jdjz"
+	}, {
+		"run_id":	"ydpq51qy",
+		"verified_epoch":	1771932583,
+		"verified_iso":	"2026-02-24T11:29:43Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Ryan, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2058821, Character: Ryan",
+		"primary_t":	343,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/ydpq51qy"
+	}, {
+		"run_id":	"yo84kp1z",
+		"verified_epoch":	1771932578,
+		"verified_iso":	"2026-02-24T11:29:38Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Lass, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 1325268, Character: Lass",
+		"primary_t":	314,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/yo84kp1z"
+	}, {
+		"run_id":	"y6w3w46z",
+		"verified_epoch":	1771932571,
+		"verified_iso":	"2026-02-24T11:29:31Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Solo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Tower Island",
+		"primary_t":	321,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/y6w3w46z"
+	}, {
+		"run_id":	"yjrj9odz",
+		"verified_epoch":	1771932563,
+		"verified_iso":	"2026-02-24T11:29:23Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Duo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Low Island",
+		"primary_t":	239,
+		"players":	"hagakurasan, Gof_de_Prush",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}, {
+				"name":	"Gof_de_Prush",
+				"weblink":	"http://www.speedrun.com/user/Gof_de_Prush",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/yjrj9odz"
+	}, {
+		"run_id":	"yjrklp7z",
+		"verified_epoch":	1771932551,
+		"verified_iso":	"2026-02-24T11:29:11Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Arme, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 4117131, Character: Arme",
+		"primary_t":	371,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/yjrklp7z"
+	}, {
+		"run_id":	"yveg6rxm",
+		"verified_epoch":	1771932546,
+		"verified_iso":	"2026-02-24T11:29:06Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Lire, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2109508, Character: Lire",
+		"primary_t":	327,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/yveg6rxm"
+	}, {
+		"run_id":	"medk7d8y",
+		"verified_epoch":	1771932545,
+		"verified_iso":	"2026-02-24T11:29:05Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Duo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Tower Island",
+		"primary_t":	245,
+		"players":	"Gof_de_Prush, hagakurasan",
+		"players_data":	[{
+				"name":	"Gof_de_Prush",
+				"weblink":	"http://www.speedrun.com/user/Gof_de_Prush",
+				"image":	""
+			}, {
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/medk7d8y"
+	}, {
+		"run_id":	"y6w7500z",
+		"verified_epoch":	1771932542,
+		"verified_iso":	"2026-02-24T11:29:02Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: Elesis, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 2778809, Character: Elesis",
+		"primary_t":	337,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/y6w7500z"
+	}, {
+		"run_id":	"mkx43klz",
+		"verified_epoch":	1771932537,
+		"verified_iso":	"2026-02-24T11:28:57Z",
+		"game":	"Grand Chase Classic",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lqp476/cover.png?v=58e9443",
+		"category":	"Land Of Judgment High Score",
+		"level":	"",
+		"subcats":	"Characters: ALL, Pot/Quote: No Pot/No Quotes, Stats: Normal, Score: 4117131, Character: Arme",
+		"primary_t":	371,
+		"players":	"GC_Lab",
+		"players_data":	[{
+				"name":	"GC_Lab",
+				"weblink":	"http://www.speedrun.com/user/GC_Lab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/grandchase/run/mkx43klz"
+	}, {
+		"run_id":	"yve4eeom",
+		"verified_epoch":	1771932510,
+		"verified_iso":	"2026-02-24T11:28:30Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Solo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Forest",
+		"primary_t":	234,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/yve4eeom"
+	}, {
+		"run_id":	"y8lqdddm",
+		"verified_epoch":	1771932495,
+		"verified_iso":	"2026-02-24T11:28:15Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player Count: Duo, Material Difficulty: Normal, Game Version: 4.0-4.4, Map: Forest",
+		"primary_t":	200,
+		"players":	"hagakurasan, Gof_de_Prush",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}, {
+				"name":	"Gof_de_Prush",
+				"weblink":	"http://www.speedrun.com/user/Gof_de_Prush",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/y8lqdddm"
+	}, {
+		"run_id":	"z5no29ez",
+		"verified_epoch":	1771932464,
+		"verified_iso":	"2026-02-24T11:27:44Z",
+		"game":	"LEGO Star Wars: The Video Game",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4oog1e/cover.png?v=b971afe",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Platform: GCN, Item Completion: Normal, Solo/Co-op: Solo",
+		"primary_t":	10619,
+		"players":	"coolestto",
+		"players_data":	[{
+				"name":	"coolestto",
+				"weblink":	"http://www.speedrun.com/user/coolestto",
+				"image":	"https://www.speedrun.com/static/user/v81k1wrj/image.png?v=6d7cce7"
+			}],
+		"weblink":	"http://www.speedrun.com/lsw/run/z5no29ez"
+	}, {
+		"run_id":	"yl2916xz",
+		"verified_epoch":	1771932458,
+		"verified_iso":	"2026-02-24T11:27:38Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"Damage",
+		"level":	"",
+		"subcats":	"Cause: Puddles of Void-Mass",
+		"primary_t":	11.85,
+		"players":	"ThatsNotBestPlayer",
+		"players_data":	[{
+				"name":	"ThatsNotBestPlayer",
+				"weblink":	"http://www.speedrun.com/user/ThatsNotBestPlayer",
+				"image":	"https://www.speedrun.com/static/user/8w3p5ylj/image.png?v=d517b40"
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Pressure_CE/run/yl2916xz"
+	}, {
+		"run_id":	"zp5j6nny",
+		"verified_epoch":	1771932434,
+		"verified_iso":	"2026-02-24T11:27:14Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Player Count: Duo, Game Version: 4.0-4.4, Map: Forest",
+		"primary_t":	624,
+		"players":	"hagakurasan, Gof_de_Prush",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}, {
+				"name":	"Gof_de_Prush",
+				"weblink":	"http://www.speedrun.com/user/Gof_de_Prush",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/zp5j6nny"
+	}, {
+		"run_id":	"m7j96rwm",
+		"verified_epoch":	1771932414,
+		"verified_iso":	"2026-02-24T11:26:54Z",
+		"game":	"LEGO Star Wars: The Video Game",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4oog1e/cover.png?v=b971afe",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Platform: GCN, Item Completion: NSR, Solo/Co-op: Solo",
+		"primary_t":	7121,
+		"players":	"coolestto",
+		"players_data":	[{
+				"name":	"coolestto",
+				"weblink":	"http://www.speedrun.com/user/coolestto",
+				"image":	"https://www.speedrun.com/static/user/v81k1wrj/image.png?v=6d7cce7"
+			}],
+		"weblink":	"http://www.speedrun.com/lsw/run/m7j96rwm"
+	}, {
+		"run_id":	"yjrje6nz",
+		"verified_epoch":	1771932285,
+		"verified_iso":	"2026-02-24T11:24:45Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Game Version: 4.0-4.4, Map: Forest",
+		"primary_t":	18,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/yjrje6nz"
+	}, {
+		"run_id":	"ywoewd9m",
+		"verified_epoch":	1771932268,
+		"verified_iso":	"2026-02-24T11:24:28Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Game Version: 4.0-4.4, Map: Low Island",
+		"primary_t":	24,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/ywoewd9m"
+	}, {
+		"run_id":	"y8l3ornm",
+		"verified_epoch":	1771932256,
+		"verified_iso":	"2026-02-24T11:24:16Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Game Version: 4.0-4.4, Map: Tower Island",
+		"primary_t":	24,
+		"players":	"hagakurasan",
+		"players_data":	[{
+				"name":	"hagakurasan",
+				"weblink":	"http://www.speedrun.com/user/hagakurasan",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/y8l3ornm"
+	}, {
+		"run_id":	"zpvq9lgz",
+		"verified_epoch":	1771932219,
+		"verified_iso":	"2026-02-24T11:23:39Z",
+		"game":	"World Driver Championship",
+		"game_cover":	"https://www.speedrun.com/static/game/4d79qlr1/cover.png?v=0f124d3",
+		"category":	"1Lap",
+		"level":	"Rome A",
+		"subcats":	"Platform: N64",
+		"primary_t":	66.99,
+		"players":	"zlb_n64",
+		"players_data":	[{
+				"name":	"zlb_n64",
+				"weblink":	"http://www.speedrun.com/user/zlb_n64",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/wdc/run/zpvq9lgz"
+	}, {
+		"run_id":	"zn68q2vy",
+		"verified_epoch":	1771932201,
+		"verified_iso":	"2026-02-24T11:23:21Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB Special",
+		"level":	"",
+		"subcats":	"SMB Special: Any%",
+		"primary_t":	1083.5,
+		"players":	"wister_",
+		"players_data":	[{
+				"name":	"wister_",
+				"weblink":	"http://www.speedrun.com/user/wister_",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/smb1r/run/zn68q2vy"
+	}, {
+		"run_id":	"zpvqd6vz",
+		"verified_epoch":	1771932198,
+		"verified_iso":	"2026-02-24T11:23:18Z",
+		"game":	"Getaway Shootout ",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pxpr46/cover.png?v=df2866e",
+		"category":	"2 Player Solo",
+		"level":	"Bus",
+		"subcats":	"Pausing?: No Pausing",
+		"primary_t":	8.833,
+		"players":	"Niro69420",
+		"players_data":	[{
+				"name":	"Niro69420",
+				"weblink":	"http://www.speedrun.com/user/Niro69420",
+				"image":	"https://www.speedrun.com/static/user/j06pl5wj/image.png?v=bc1fd0c"
+			}],
+		"weblink":	"http://www.speedrun.com/getaway_shootout/run/zpvqd6vz"
+	}, {
+		"run_id":	"mkx4dqlz",
+		"verified_epoch":	1771932112,
+		"verified_iso":	"2026-02-24T11:21:52Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"All Night Nippon SMB",
+		"level":	"",
+		"subcats":	"All Night Nippon SMB: Any%",
+		"primary_t":	272.833,
+		"players":	"wister_",
+		"players_data":	[{
+				"name":	"wister_",
+				"weblink":	"http://www.speedrun.com/user/wister_",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/smb1r/run/mkx4dqlz"
+	}, {
+		"run_id":	"zp5e108y",
+		"verified_epoch":	1771931641,
+		"verified_iso":	"2026-02-24T11:14:01Z",
+		"game":	"Nuclear Nightmare",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w9re1/cover.png?v=fd82470",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Player Count: Trio, Game Version: 4.0-4.4, Map: Low Island",
+		"primary_t":	724,
+		"players":	"Lemn, DarkoDays, Decyphvr",
+		"players_data":	[{
+				"name":	"Lemn",
+				"weblink":	"http://www.speedrun.com/user/Lemn",
+				"image":	"https://www.speedrun.com/static/user/xz7pmzej/image.png?v=b8da593"
+			}, {
+				"name":	"DarkoDays",
+				"weblink":	"http://www.speedrun.com/user/DarkoDays",
+				"image":	"https://www.speedrun.com/static/user/j20w72px/image.png?v=138727f"
+			}, {
+				"name":	"Decyphvr",
+				"weblink":	"http://www.speedrun.com/user/Decyphvr",
+				"image":	"https://www.speedrun.com/static/user/xyor9nzj/image.png?v=8736720"
+			}],
+		"weblink":	"http://www.speedrun.com/Nuclear_Nightmare/run/zp5e108y"
+	}, {
+		"run_id":	"yveg0p8m",
+		"verified_epoch":	1771931238,
+		"verified_iso":	"2026-02-24T11:07:18Z",
+		"game":	"SnowBot",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkvznl1/cover.png?v=7de30e6",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	985.133,
+		"players":	"Bowbeau",
+		"players_data":	[{
+				"name":	"Bowbeau",
+				"weblink":	"http://www.speedrun.com/user/Bowbeau",
+				"image":	"https://www.speedrun.com/static/user/86vm3r3j/image.png?v=4d63727"
+			}],
+		"weblink":	"http://www.speedrun.com/SnowBot/run/yveg0p8m"
+	}, {
+		"run_id":	"y6w7x26z",
+		"verified_epoch":	1771931153,
+		"verified_iso":	"2026-02-24T11:05:53Z",
+		"game":	"Shadow the Hedgehog: Reloaded",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
+		"category":	"Expert",
+		"level":	"Egg Breaker (Mad Matrix)",
+		"subcats":	"Note: No SG, Character: Cannon Android",
+		"primary_t":	15.37,
+		"players":	"Rawlins",
+		"players_data":	[{
+				"name":	"Rawlins",
+				"weblink":	"http://www.speedrun.com/user/Rawlins",
+				"image":	"https://www.speedrun.com/static/user/8rpwdqqj/image.png?v=235e731"
+			}],
+		"weblink":	"http://www.speedrun.com/shadowreloaded/run/y6w7x26z"
+	}, {
+		"run_id":	"z02elj9m",
+		"verified_epoch":	1771931107,
+		"verified_iso":	"2026-02-24T11:05:07Z",
+		"game":	"Shadow the Hedgehog: Reloaded",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
+		"category":	"Normal",
+		"level":	"Egg Dealer (Lava Shelter)",
+		"subcats":	"Note: No SG, Character: Cannon Android",
+		"primary_t":	10.17,
+		"players":	"Rawlins",
+		"players_data":	[{
+				"name":	"Rawlins",
+				"weblink":	"http://www.speedrun.com/user/Rawlins",
+				"image":	"https://www.speedrun.com/static/user/8rpwdqqj/image.png?v=235e731"
+			}],
+		"weblink":	"http://www.speedrun.com/shadowreloaded/run/z02elj9m"
+	}, {
+		"run_id":	"y263eg5m",
+		"verified_epoch":	1771931036,
+		"verified_iso":	"2026-02-24T11:03:56Z",
+		"game":	"Shadow the Hedgehog: Reloaded",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
+		"category":	"Normal",
+		"level":	"Sky Troops",
+		"subcats":	"Note: No SG, Character: Cannon Android",
+		"primary_t":	146.78,
+		"players":	"Rawlins",
+		"players_data":	[{
+				"name":	"Rawlins",
+				"weblink":	"http://www.speedrun.com/user/Rawlins",
+				"image":	"https://www.speedrun.com/static/user/8rpwdqqj/image.png?v=235e731"
+			}],
+		"weblink":	"http://www.speedrun.com/shadowreloaded/run/y263eg5m"
+	}, {
+		"run_id":	"zqn69jrz",
+		"verified_epoch":	1771930883,
+		"verified_iso":	"2026-02-24T11:01:23Z",
+		"game":	"Shadow the Hedgehog: Reloaded",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
+		"category":	"Hero",
+		"level":	"Iron Jungle",
+		"subcats":	"Note: No SG, Character: Cannon Android",
+		"primary_t":	71.2,
+		"players":	"Rawlins",
+		"players_data":	[{
+				"name":	"Rawlins",
+				"weblink":	"http://www.speedrun.com/user/Rawlins",
+				"image":	"https://www.speedrun.com/static/user/8rpwdqqj/image.png?v=235e731"
+			}],
+		"weblink":	"http://www.speedrun.com/shadowreloaded/run/zqn69jrz"
+	}, {
 		"run_id":	"y8lqx6dm",
 		"verified_epoch":	1771930742,
 		"verified_iso":	"2026-02-24T10:59:02Z",
@@ -21066,301 +21974,4 @@
 				"image":	""
 			}],
 		"weblink":	"http://www.speedrun.com/onlyup_fortnite/run/mr53pddy"
-	}, {
-		"run_id":	"medk7k3y",
-		"verified_epoch":	1771847009,
-		"verified_iso":	"2026-02-23T11:43:29Z",
-		"game":	"Splatoon Series Obscure Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/ldem3yn1/cover.png?v=073e69e",
-		"category":	"NG+",
-		"level":	"CG: (S2 Any%) - (22) Underground Expressway",
-		"subcats":	"",
-		"primary_t":	107,
-		"players":	"Roylouk",
-		"players_data":	[{
-				"name":	"Roylouk",
-				"weblink":	"http://www.speedrun.com/user/Roylouk",
-				"image":	"https://www.speedrun.com/static/user/xk1z069j/image.png?v=eb936c7"
-			}],
-		"weblink":	"http://www.speedrun.com/SplatoonOCE/run/medk7k3y"
-	}, {
-		"run_id":	"z0kvv04m",
-		"verified_epoch":	1771846845,
-		"verified_iso":	"2026-02-23T11:40:45Z",
-		"game":	"Grand Theft Auto Online",
-		"game_cover":	"https://www.speedrun.com/static/game/j1nqoy1p/cover.png?v=10e60c7",
-		"category":	"Beat Mission Solo",
-		"level":	"Base Invaders",
-		"subcats":	"Version: 1.72E",
-		"primary_t":	169,
-		"players":	"The_Blue_Panther",
-		"players_data":	[{
-				"name":	"The_Blue_Panther",
-				"weblink":	"http://www.speedrun.com/user/The_Blue_Panther",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/gtao/run/z0kvv04m"
-	}, {
-		"run_id":	"y2631pjm",
-		"verified_epoch":	1771846599,
-		"verified_iso":	"2026-02-23T11:36:39Z",
-		"game":	"The Impossible Quizmas",
-		"game_cover":	"https://www.speedrun.com/static/game/o6gllq9d/cover.png?v=a1d3b3f",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	28.8,
-		"players":	"jagame",
-		"players_data":	[{
-				"name":	"jagame",
-				"weblink":	"http://www.speedrun.com/user/jagame",
-				"image":	"https://www.speedrun.com/static/user/j26gvenx/image.png?v=feffe4f"
-			}],
-		"weblink":	"http://www.speedrun.com/the_impossible_quizmas/run/y2631pjm"
-	}, {
-		"run_id":	"ydpqr6jy",
-		"verified_epoch":	1771846470,
-		"verified_iso":	"2026-02-23T11:34:30Z",
-		"game":	"Speed Freaks (Speed Punks)",
-		"game_cover":	"https://www.speedrun.com/static/game/9don2k1p/cover.png?v=13b9ca4",
-		"category":	"Lap",
-		"level":	"Moonlight Cove",
-		"subcats":	"Normal/Gold Wheels: Gold Wheels",
-		"primary_t":	30.6,
-		"players":	"pav4032",
-		"players_data":	[{
-				"name":	"pav4032",
-				"weblink":	"http://www.speedrun.com/user/pav4032",
-				"image":	"https://www.speedrun.com/static/user/j21y4lp8/image.png?v=cc4504c"
-			}],
-		"weblink":	"http://www.speedrun.com/speed_freaks/run/ydpqr6jy"
-	}, {
-		"run_id":	"z02wl54m",
-		"verified_epoch":	1771846338,
-		"verified_iso":	"2026-02-23T11:32:18Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Extreme, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Sewer Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	286.4,
-		"players":	"MYSABEEPIIZ",
-		"players_data":	[{
-				"name":	"MYSABEEPIIZ",
-				"weblink":	"http://www.speedrun.com/user/MYSABEEPIIZ",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/z02wl54m"
-	}, {
-		"run_id":	"mrwq18dy",
-		"verified_epoch":	1771846292,
-		"verified_iso":	"2026-02-23T11:31:32Z",
-		"game":	"M.E.G. Endless Reality",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yr9ek6/cover.png?v=237db64",
-		"category":	"Solo",
-		"level":	"Level 8: The Cave System",
-		"subcats":	"Shop: Shopless%",
-		"primary_t":	23.033,
-		"players":	"0_Exzy",
-		"players_data":	[{
-				"name":	"0_Exzy",
-				"weblink":	"http://www.speedrun.com/user/0_Exzy",
-				"image":	"https://www.speedrun.com/static/user/8vr6gmvx/image.png?v=ea265a3"
-			}],
-		"weblink":	"http://www.speedrun.com/meg/run/mrwq18dy"
-	}, {
-		"run_id":	"z5norjnz",
-		"verified_epoch":	1771846140,
-		"verified_iso":	"2026-02-23T11:29:00Z",
-		"game":	"Cartoon Cartoon Summer Resort",
-		"game_cover":	"https://www.speedrun.com/static/game/m1ml4x62/cover.png?v=7262b7e",
-		"category":	"Episode 4 (Disco Dilemma)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	257.89,
-		"players":	"Renozuken",
-		"players_data":	[{
-				"name":	"Renozuken",
-				"weblink":	"http://www.speedrun.com/user/Renozuken",
-				"image":	"https://www.speedrun.com/static/user/x726n1v8/image.png?v=bd3c7d3"
-			}],
-		"weblink":	"http://www.speedrun.com/ccsr/run/z5norjnz"
-	}, {
-		"run_id":	"y6w7dppz",
-		"verified_epoch":	1771845649,
-		"verified_iso":	"2026-02-23T11:20:49Z",
-		"game":	"REANIMAL",
-		"game_cover":	"https://www.speedrun.com/static/game/m1meylxd/cover.png?v=f3d2306",
-		"category":	"Any%",
-		"level":	"Chapter 2",
-		"subcats":	"",
-		"primary_t":	626,
-		"players":	"Ghhhosto",
-		"players_data":	[{
-				"name":	"Ghhhosto",
-				"weblink":	"http://www.speedrun.com/user/Ghhhosto",
-				"image":	"https://www.speedrun.com/static/user/jm7w1poj/image.png?v=d0f58e1"
-			}],
-		"weblink":	"http://www.speedrun.com/REANIMAL/run/y6w7dppz"
-	}, {
-		"run_id":	"yveg208m",
-		"verified_epoch":	1771845483,
-		"verified_iso":	"2026-02-23T11:18:03Z",
-		"game":	"Bloxd Rocket Parkour.",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pl8yp6/cover.png?v=7badb89",
-		"category":	"Glitchless%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	5.708,
-		"players":	"cleversquire",
-		"players_data":	[{
-				"name":	"cleversquire",
-				"weblink":	"http://www.speedrun.com/user/cleversquire",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Bloxd_Rocket_Obby/run/yveg208m"
-	}, {
-		"run_id":	"y6w7dlpz",
-		"verified_epoch":	1771844713,
-		"verified_iso":	"2026-02-23T11:05:13Z",
-		"game":	"UNKO TECHNICA",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv947r1/cover.png?v=19c4f81",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"ver: 1.0.3",
-		"primary_t":	3024.78,
-		"players":	"Nore139",
-		"players_data":	[{
-				"name":	"Nore139",
-				"weblink":	"http://www.speedrun.com/user/Nore139",
-				"image":	"https://www.speedrun.com/static/user/8l41y1vj/image.png?v=eb08dbf"
-			}],
-		"weblink":	"http://www.speedrun.com/UNKO_TECHNICA/run/y6w7dlpz"
-	}, {
-		"run_id":	"y263x19m",
-		"verified_epoch":	1771844685,
-		"verified_iso":	"2026-02-23T11:04:45Z",
-		"game":	"Warhammer 40,000: Dawn of War - Soulstorm",
-		"game_cover":	"https://www.speedrun.com/static/game/j1llzmv1/cover.png?v=e34d522",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"100%: Chaos Space Marines",
-		"primary_t":	13360,
-		"players":	"Mennilenium",
-		"players_data":	[{
-				"name":	"Mennilenium",
-				"weblink":	"http://www.speedrun.com/user/Mennilenium",
-				"image":	"https://www.speedrun.com/static/user/x76z1rqj/image.png?v=e86b5e9"
-			}],
-		"weblink":	"http://www.speedrun.com/warhammer_40000_dawn_of_war_-_soulstorm/run/y263x19m"
-	}, {
-		"run_id":	"y9gov0vm",
-		"verified_epoch":	1771844661,
-		"verified_iso":	"2026-02-23T11:04:21Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.1.6-v1.1.7.9, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Robot Ending, Robot Granny: No Robot Granny, Extras: No Extras, Difficulty (No Granny): Easy, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	381.067,
-		"players":	"The3sparkyyy",
-		"players_data":	[{
-				"name":	"The3sparkyyy",
-				"weblink":	"http://www.speedrun.com/user/The3sparkyyy",
-				"image":	"https://www.speedrun.com/static/user/j47lly5j/image.png?v=fd9469c"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_legacy/run/y9gov0vm"
-	}, {
-		"run_id":	"y4v5r3dy",
-		"verified_epoch":	1771844624,
-		"verified_iso":	"2026-02-23T11:03:44Z",
-		"game":	"Yolanda: The Ultimate Challenge",
-		"game_cover":	"https://www.speedrun.com/static/game/46w2yxn6/cover.png?v=a9bc46d",
-		"category":	"Wimp%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	378,
-		"players":	"Senen",
-		"players_data":	[{
-				"name":	"Senen",
-				"weblink":	"http://www.speedrun.com/user/Senen",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/yolanda_the_ultimate_challenge/run/y4v5r3dy"
-	}, {
-		"run_id":	"y9goglnm",
-		"verified_epoch":	1771844622,
-		"verified_iso":	"2026-02-23T11:03:42Z",
-		"game":	"BOOST VECTOR EX ",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q94001/cover.png?v=fcb76d0",
-		"category":	"Alexandria peintechless%",
-		"level":	"Kopa Shores",
-		"subcats":	"Version : 0.5, Skips: No major skips, Peripherals : Keyboard and mouse",
-		"primary_t":	123.346,
-		"players":	"Busturned",
-		"players_data":	[{
-				"name":	"Busturned",
-				"weblink":	"http://www.speedrun.com/user/Busturned",
-				"image":	"https://www.speedrun.com/static/user/8q5nv478/image.png?v=b70309e"
-			}],
-		"weblink":	"http://www.speedrun.com/BOOST_VECTOR_EX_/run/y9goglnm"
-	}, {
-		"run_id":	"zqnkn18z",
-		"verified_epoch":	1771844616,
-		"verified_iso":	"2026-02-23T11:03:36Z",
-		"game":	"BOOST VECTOR EX ",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q94001/cover.png?v=fcb76d0",
-		"category":	"Alexandria peintechless%",
-		"level":	"Kopa Shores",
-		"subcats":	"Version : 0.5, Skips: Major skips, Peripherals : Keyboard and mouse",
-		"primary_t":	115.613,
-		"players":	"Busturned",
-		"players_data":	[{
-				"name":	"Busturned",
-				"weblink":	"http://www.speedrun.com/user/Busturned",
-				"image":	"https://www.speedrun.com/static/user/8q5nv478/image.png?v=b70309e"
-			}],
-		"weblink":	"http://www.speedrun.com/BOOST_VECTOR_EX_/run/zqnkn18z"
-	}, {
-		"run_id":	"yveg144m",
-		"verified_epoch":	1771844534,
-		"verified_iso":	"2026-02-23T11:02:14Z",
-		"game":	"Momentum Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y3gzo6/cover.png?v=2406326",
-		"category":	"SURF",
-		"level":	"",
-		"subcats":	"Map: SURF_SUMMIT, Start timer abuse: Abuseless, Segment: Single Segment",
-		"primary_t":	47.15,
-		"players":	"shedule",
-		"players_data":	[{
-				"name":	"shedule",
-				"weblink":	"http://www.speedrun.com/user/shedule",
-				"image":	"https://www.speedrun.com/static/user/j47r12wj/image.png?v=302d2f1"
-			}],
-		"weblink":	"http://www.speedrun.com/Momentum_Mod/run/yveg144m"
-	}, {
-		"run_id":	"y9g792km",
-		"verified_epoch":	1771844409,
-		"verified_iso":	"2026-02-23T11:00:09Z",
-		"game":	"ROBLOX: The Mimic",
-		"game_cover":	"https://www.speedrun.com/static/game/o6gnzz81/cover.png?v=bcc6102",
-		"category":	"Normal",
-		"level":	"Nightmare Circus",
-		"subcats":	"Players: Trio, Glitches: Glitchless",
-		"primary_t":	131.083,
-		"players":	"wyqq, anticheat, Glowing",
-		"players_data":	[{
-				"name":	"wyqq",
-				"weblink":	"http://www.speedrun.com/user/wyqq",
-				"image":	"https://www.speedrun.com/static/user/8r6qw4g8/image.png?v=81bcf6c"
-			}, {
-				"name":	"anticheat",
-				"weblink":	"http://www.speedrun.com/user/anticheat",
-				"image":	"https://www.speedrun.com/static/user/8v743re8/image.png?v=fd5a564"
-			}, {
-				"name":	"Glowing",
-				"weblink":	"http://www.speedrun.com/user/Glowing",
-				"image":	"https://www.speedrun.com/static/user/8d0312mx/image.png?v=9002950"
-			}],
-		"weblink":	"http://www.speedrun.com/roblox_the_mimic/run/y9g792km"
 	}]
