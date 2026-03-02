@@ -1,4 +1,994 @@
 [{
+		"run_id":	"zpv0d6vz",
+		"verified_epoch":	1772456966,
+		"verified_iso":	"2026-03-02T13:09:26Z",
+		"game":	"Deltarune Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/y6552z86/cover.png?v=f7a58bd",
+		"category":	"CH1+2 Demo",
+		"level":	"",
+		"subcats":	"CH1+2 Category: All Bosses, Glitches: Glitched, 30 TBPS Mod: 30 TBPS",
+		"primary_t":	4777,
+		"players":	"Jaq",
+		"players_data":	[{
+				"name":	"Jaq",
+				"weblink":	"http://www.speedrun.com/user/Jaq",
+				"image":	"https://www.speedrun.com/static/user/8geq62rj/image.png?v=a4c130e"
+			}],
+		"weblink":	"http://www.speedrun.com/deltarune_category_extensions/run/zpv0d6vz"
+	}, {
+		"run_id":	"z023n0jm",
+		"verified_epoch":	1772456937,
+		"verified_iso":	"2026-03-02T13:08:57Z",
+		"game":	"Moto X3M",
+		"game_cover":	"https://www.speedrun.com/static/game/9do5ym1p/cover.png?v=192d326",
+		"category":	"Poki",
+		"level":	"Level 16",
+		"subcats":	"Waitless: Wait",
+		"primary_t":	18.17,
+		"players":	"Astatine_85",
+		"players_data":	[{
+				"name":	"Astatine_85",
+				"weblink":	"http://www.speedrun.com/user/Astatine_85",
+				"image":	"https://www.speedrun.com/static/user/jn64dgdx/image.png?v=4543810"
+			}],
+		"weblink":	"http://www.speedrun.com/moto_x3m/run/z023n0jm"
+	}, {
+		"run_id":	"yl24n22z",
+		"verified_epoch":	1772456424,
+		"verified_iso":	"2026-03-02T13:00:24Z",
+		"game":	"Granny 2 Reimagined",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr9846/cover.png?v=8257a76",
+		"category":	"Practice",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Seed System: Set Seed, Sub-category: Any%, Ending: Helicopter Ending",
+		"primary_t":	623.365,
+		"players":	"arslanKA04",
+		"players_data":	[{
+				"name":	"arslanKA04",
+				"weblink":	"http://www.speedrun.com/user/arslanKA04",
+				"image":	"https://www.speedrun.com/static/user/8qnrmld8/image.png?v=421b3a8"
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_2_Reimagined/run/yl24n22z"
+	}, {
+		"run_id":	"z101p89m",
+		"verified_epoch":	1772456415,
+		"verified_iso":	"2026-03-02T13:00:15Z",
+		"game":	"Mirror's Edge",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yyr1q/cover.png?v=55163d6",
+		"category":	"Inbounds",
+		"level":	"Chapter 2",
+		"subcats":	"",
+		"primary_t":	256.51,
+		"players":	"oldyxen",
+		"players_data":	[{
+				"name":	"oldyxen",
+				"weblink":	"http://www.speedrun.com/user/oldyxen",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/me/run/z101p89m"
+	}, {
+		"run_id":	"yo82np0z",
+		"verified_epoch":	1772456181,
+		"verified_iso":	"2026-03-02T12:56:21Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Collect Gloom-Infused Oil",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yo82np0z"
+	}, {
+		"run_id":	"med8l30y",
+		"verified_epoch":	1772456166,
+		"verified_iso":	"2026-03-02T12:56:06Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Collect Gloom-Infused Oil",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/med8l30y"
+	}, {
+		"run_id":	"y6wp560z",
+		"verified_epoch":	1772456149,
+		"verified_iso":	"2026-03-02T12:55:49Z",
+		"game":	"Contra Hard Corps",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gnq512/cover.png?v=62f3714",
+		"category":	"Lab/Fight",
+		"level":	"",
+		"subcats":	"Percent: Any%, Game Version: US, Character: Ray",
+		"primary_t":	1454,
+		"players":	"The_OldDrunk1",
+		"players_data":	[{
+				"name":	"The_OldDrunk1",
+				"weblink":	"http://www.speedrun.com/user/The_OldDrunk1",
+				"image":	"https://www.speedrun.com/static/user/8lzno62x/image.png?v=8182cf3"
+			}],
+		"weblink":	"http://www.speedrun.com/contra_hard_corps/run/y6wp560z"
+	}, {
+		"run_id":	"yl2467nz",
+		"verified_epoch":	1772456148,
+		"verified_iso":	"2026-03-02T12:55:48Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Collect Gloom-Infused Oil",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yl2467nz"
+	}, {
+		"run_id":	"yvej8kem",
+		"verified_epoch":	1772456131,
+		"verified_iso":	"2026-03-02T12:55:31Z",
+		"game":	"Granny 2 Reimagined",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr9846/cover.png?v=8257a76",
+		"category":	"Explode Gasoline",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Sub-category: Any%",
+		"primary_t":	27.776,
+		"players":	"arslanKA04",
+		"players_data":	[{
+				"name":	"arslanKA04",
+				"weblink":	"http://www.speedrun.com/user/arslanKA04",
+				"image":	"https://www.speedrun.com/static/user/8qnrmld8/image.png?v=421b3a8"
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_2_Reimagined/run/yvej8kem"
+	}, {
+		"run_id":	"yjr42pdz",
+		"verified_epoch":	1772456122,
+		"verified_iso":	"2026-03-02T12:55:22Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Collect Gloom-Infused Oil",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yjr42pdz"
+	}, {
+		"run_id":	"z023jp9m",
+		"verified_epoch":	1772456061,
+		"verified_iso":	"2026-03-02T12:54:21Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Chart Terminid Tunnels",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/z023jp9m"
+	}, {
+		"run_id":	"y8l9681m",
+		"verified_epoch":	1772456044,
+		"verified_iso":	"2026-03-02T12:54:04Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Chart Terminid Tunnels",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/y8l9681m"
+	}, {
+		"run_id":	"z023jpem",
+		"verified_epoch":	1772456028,
+		"verified_iso":	"2026-03-02T12:53:48Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Chart Terminid Tunnels",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/z023jpem"
+	}, {
+		"run_id":	"y26qgp9m",
+		"verified_epoch":	1772456011,
+		"verified_iso":	"2026-03-02T12:53:31Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Chart Terminid Tunnels",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/y26qgp9m"
+	}, {
+		"run_id":	"zqn3j0xz",
+		"verified_epoch":	1772455938,
+		"verified_iso":	"2026-03-02T12:52:18Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Annex Untapped Mineral Sites",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/zqn3j0xz"
+	}, {
+		"run_id":	"m38oq64y",
+		"verified_epoch":	1772455921,
+		"verified_iso":	"2026-03-02T12:52:01Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Annex Untapped Mineral Sites",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/m38oq64y"
+	}, {
+		"run_id":	"zxp43l5y",
+		"verified_epoch":	1772455901,
+		"verified_iso":	"2026-03-02T12:51:41Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Annex Untapped Mineral Sites",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/zxp43l5y"
+	}, {
+		"run_id":	"mrw8l6dy",
+		"verified_epoch":	1772455878,
+		"verified_iso":	"2026-03-02T12:51:18Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Annex Untapped Mineral Sites",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/mrw8l6dy"
+	}, {
+		"run_id":	"ywopr8pm",
+		"verified_epoch":	1772455863,
+		"verified_iso":	"2026-03-02T12:51:03Z",
+		"game":	"Sunny Milk’s Brain Freeze",
+		"game_cover":	"https://www.speedrun.com/static/game/268905y1/cover.png?v=fcc46ab",
+		"category":	"Level",
+		"level":	"Level 6",
+		"subcats":	"",
+		"primary_t":	1.933,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"http://www.speedrun.com/user/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
+			}],
+		"weblink":	"http://www.speedrun.com/SMsBF/run/ywopr8pm"
+	}, {
+		"run_id":	"yvejp64m",
+		"verified_epoch":	1772455861,
+		"verified_iso":	"2026-03-02T12:51:01Z",
+		"game":	"Sunny Milk’s Brain Freeze",
+		"game_cover":	"https://www.speedrun.com/static/game/268905y1/cover.png?v=fcc46ab",
+		"category":	"Level",
+		"level":	"Level 5",
+		"subcats":	"",
+		"primary_t":	5.867,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"http://www.speedrun.com/user/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
+			}],
+		"weblink":	"http://www.speedrun.com/SMsBF/run/yvejp64m"
+	}, {
+		"run_id":	"y26qg16m",
+		"verified_epoch":	1772455857,
+		"verified_iso":	"2026-03-02T12:50:57Z",
+		"game":	"Sunny Milk’s Brain Freeze",
+		"game_cover":	"https://www.speedrun.com/static/game/268905y1/cover.png?v=fcc46ab",
+		"category":	"Level",
+		"level":	"Level 4",
+		"subcats":	"",
+		"primary_t":	5.6,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"http://www.speedrun.com/user/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
+			}],
+		"weblink":	"http://www.speedrun.com/SMsBF/run/y26qg16m"
+	}, {
+		"run_id":	"zqn3jr5z",
+		"verified_epoch":	1772455854,
+		"verified_iso":	"2026-03-02T12:50:54Z",
+		"game":	"Sunny Milk’s Brain Freeze",
+		"game_cover":	"https://www.speedrun.com/static/game/268905y1/cover.png?v=fcc46ab",
+		"category":	"Level",
+		"level":	"Level 3",
+		"subcats":	"",
+		"primary_t":	5.833,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"http://www.speedrun.com/user/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
+			}],
+		"weblink":	"http://www.speedrun.com/SMsBF/run/zqn3jr5z"
+	}, {
+		"run_id":	"y4v3o1ny",
+		"verified_epoch":	1772455850,
+		"verified_iso":	"2026-03-02T12:50:50Z",
+		"game":	"Sunny Milk’s Brain Freeze",
+		"game_cover":	"https://www.speedrun.com/static/game/268905y1/cover.png?v=fcc46ab",
+		"category":	"Level",
+		"level":	"Level 2",
+		"subcats":	"",
+		"primary_t":	0.733,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"http://www.speedrun.com/user/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
+			}],
+		"weblink":	"http://www.speedrun.com/SMsBF/run/y4v3o1ny"
+	}, {
+		"run_id":	"yl246erz",
+		"verified_epoch":	1772455764,
+		"verified_iso":	"2026-03-02T12:49:24Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yl246erz"
+	}, {
+		"run_id":	"yjr42xgz",
+		"verified_epoch":	1772455747,
+		"verified_iso":	"2026-03-02T12:49:07Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Max Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yjr42xgz"
+	}, {
+		"run_id":	"zn64v73y",
+		"verified_epoch":	1772455728,
+		"verified_iso":	"2026-03-02T12:48:48Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/zn64v73y"
+	}, {
+		"run_id":	"yvejpq6m",
+		"verified_epoch":	1772455710,
+		"verified_iso":	"2026-03-02T12:48:30Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: No Major Glitches, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Max Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/yvejpq6m"
+	}, {
+		"run_id":	"z023joem",
+		"verified_epoch":	1772455687,
+		"verified_iso":	"2026-03-02T12:48:07Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/z023joem"
+	}, {
+		"run_id":	"y26qg09m",
+		"verified_epoch":	1772455669,
+		"verified_iso":	"2026-03-02T12:47:49Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Min Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/y26qg09m"
+	}, {
+		"run_id":	"y4v3o7dy",
+		"verified_epoch":	1772455640,
+		"verified_iso":	"2026-03-02T12:47:20Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Max Difficulty, Player Count: Solo, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/y4v3o7dy"
+	}, {
+		"run_id":	"zxp46j8y",
+		"verified_epoch":	1772455587,
+		"verified_iso":	"2026-03-02T12:46:27Z",
+		"game":	"Buffy the Vampire Slayer: Chaos Bleeds",
+		"game_cover":	"https://www.speedrun.com/static/game/46w3mo31/cover.png?v=e21f601",
+		"category":	"Any%",
+		"level":	"Cemetery",
+		"subcats":	"",
+		"primary_t":	418,
+		"players":	"Dabs_SR",
+		"players_data":	[{
+				"name":	"Dabs_SR",
+				"weblink":	"http://www.speedrun.com/user/Dabs_SR",
+				"image":	"https://www.speedrun.com/static/user/8gm7yn18/image.png?v=f16f7d4"
+			}],
+		"weblink":	"http://www.speedrun.com/buffy_the_vampire_slayer_chaos_bleeds/run/zxp46j8y"
+	}, {
+		"run_id":	"zxp43o5y",
+		"verified_epoch":	1772455574,
+		"verified_iso":	"2026-03-02T12:46:14Z",
+		"game":	"HELLDIVERS 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y30ko6/cover.png?v=60a4a3a",
+		"category":	"Extract%",
+		"level":	"Activate Terminid Control System",
+		"subcats":	"Glitch / Patch Restriction: Unrestricted, Update: 1.006.003, Scouted Seed?: Scouted, Difficulty: Max Difficulty, Player Count: Multiplayer, Game Version: Standard",
+		"primary_t":	0.001,
+		"players":	"Do Not Submit Here",
+		"players_data":	[{
+				"name":	"Do Not Submit Here",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Helldivers2/run/zxp43o5y"
+	}, {
+		"run_id":	"mrw8oogy",
+		"verified_epoch":	1772455436,
+		"verified_iso":	"2026-03-02T12:43:56Z",
+		"game":	"F1 2019",
+		"game_cover":	"https://www.speedrun.com/static/game/v1po7jm6/cover.png?v=8d36b8a",
+		"category":	"25%",
+		"level":	"Great Britain Short",
+		"subcats":	"Car Type: Classic, Team: Ferrari",
+		"primary_t":	619.665,
+		"players":	"Brunorc",
+		"players_data":	[{
+				"name":	"Brunorc",
+				"weblink":	"http://www.speedrun.com/user/Brunorc",
+				"image":	"https://www.speedrun.com/static/user/j0lnz73j/image.png?v=3ef1f67"
+			}],
+		"weblink":	"http://www.speedrun.com/f1_2019/run/mrw8oogy"
+	}, {
+		"run_id":	"zpv0w1gz",
+		"verified_epoch":	1772455401,
+		"verified_iso":	"2026-03-02T12:43:21Z",
+		"game":	"Ride 3",
+		"game_cover":	"https://www.speedrun.com/static/game/268ejzo6/cover.png?v=86cc5a2",
+		"category":	"Sport",
+		"level":	"Autodromo Enzo e Dino Ferrari Imola - Variante Bassa",
+		"subcats":	"",
+		"primary_t":	104.395,
+		"players":	"JTH_SD",
+		"players_data":	[{
+				"name":	"JTH_SD",
+				"weblink":	"http://www.speedrun.com/user/JTH_SD",
+				"image":	"https://www.speedrun.com/static/user/8go3vq1x/image.png?v=92750c8"
+			}],
+		"weblink":	"http://www.speedrun.com/ride_3/run/zpv0w1gz"
+	}, {
+		"run_id":	"mkx9dn5z",
+		"verified_epoch":	1772455389,
+		"verified_iso":	"2026-03-02T12:43:09Z",
+		"game":	"Gran Turismo",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lzmv6g/cover.png?v=f60c8fc",
+		"category":	"IL",
+		"level":	"Time Trial: Test Course",
+		"subcats":	"",
+		"primary_t":	126.227,
+		"players":	"quirble",
+		"players_data":	[{
+				"name":	"quirble",
+				"weblink":	"http://www.speedrun.com/user/quirble",
+				"image":	"https://www.speedrun.com/static/user/jolod07j/image.png?v=0ac63a4"
+			}],
+		"weblink":	"http://www.speedrun.com/gt1/run/mkx9dn5z"
+	}, {
+		"run_id":	"z023l2jm",
+		"verified_epoch":	1772455370,
+		"verified_iso":	"2026-03-02T12:42:50Z",
+		"game":	"Gran Turismo",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lzmv6g/cover.png?v=f60c8fc",
+		"category":	"IL",
+		"level":	"Time Trial: Test Course",
+		"subcats":	"",
+		"primary_t":	128.903,
+		"players":	"S-TWO",
+		"players_data":	[{
+				"name":	"S-TWO",
+				"weblink":	"http://www.speedrun.com/user/S-TWO",
+				"image":	"https://www.speedrun.com/static/user/zx7rq6vj/image.png?v=2e58ce8"
+			}],
+		"weblink":	"http://www.speedrun.com/gt1/run/z023l2jm"
+	}, {
+		"run_id":	"y4v3x0qy",
+		"verified_epoch":	1772455354,
+		"verified_iso":	"2026-03-02T12:42:34Z",
+		"game":	"Gran Turismo",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lzmv6g/cover.png?v=f60c8fc",
+		"category":	"IL",
+		"level":	"Time Trial: Autumn Mini Reverse",
+		"subcats":	"",
+		"primary_t":	81.842,
+		"players":	"quirble",
+		"players_data":	[{
+				"name":	"quirble",
+				"weblink":	"http://www.speedrun.com/user/quirble",
+				"image":	"https://www.speedrun.com/static/user/jolod07j/image.png?v=0ac63a4"
+			}],
+		"weblink":	"http://www.speedrun.com/gt1/run/y4v3x0qy"
+	}, {
+		"run_id":	"zxp47gey",
+		"verified_epoch":	1772455339,
+		"verified_iso":	"2026-03-02T12:42:19Z",
+		"game":	"Screeps: World",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zy3306/cover.png?v=b10e776",
+		"category":	"RCL 5",
+		"level":	"",
+		"subcats":	"Room: W7N3, Build: Any, Invaders: Disabled, Market: Disabled, Automation: Full Auto",
+		"primary_t":	10.458,
+		"players":	"Sneaky_Polar_Bear",
+		"players_data":	[{
+				"name":	"Sneaky_Polar_Bear",
+				"weblink":	"http://www.speedrun.com/user/Sneaky_Polar_Bear",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Screeps_World/run/zxp47gey"
+	}, {
+		"run_id":	"med812qy",
+		"verified_epoch":	1772455175,
+		"verified_iso":	"2026-03-02T12:39:35Z",
+		"game":	"Gran Turismo",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lzmv6g/cover.png?v=f60c8fc",
+		"category":	"IL",
+		"level":	"Time Trial: Autumn Mini",
+		"subcats":	"",
+		"primary_t":	70.87,
+		"players":	"S-TWO",
+		"players_data":	[{
+				"name":	"S-TWO",
+				"weblink":	"http://www.speedrun.com/user/S-TWO",
+				"image":	"https://www.speedrun.com/static/user/zx7rq6vj/image.png?v=2e58ce8"
+			}],
+		"weblink":	"http://www.speedrun.com/gt1/run/med812qy"
+	}, {
+		"run_id":	"zg17qj0z",
+		"verified_epoch":	1772455155,
+		"verified_iso":	"2026-03-02T12:39:15Z",
+		"game":	"Gran Turismo",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lzmv6g/cover.png?v=f60c8fc",
+		"category":	"IL",
+		"level":	"Time Trial: Autumn Mini",
+		"subcats":	"",
+		"primary_t":	81.904,
+		"players":	"quirble",
+		"players_data":	[{
+				"name":	"quirble",
+				"weblink":	"http://www.speedrun.com/user/quirble",
+				"image":	"https://www.speedrun.com/static/user/jolod07j/image.png?v=0ac63a4"
+			}],
+		"weblink":	"http://www.speedrun.com/gt1/run/zg17qj0z"
+	}, {
+		"run_id":	"yjr42ggz",
+		"verified_epoch":	1772454829,
+		"verified_iso":	"2026-03-02T12:33:49Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Car Ending, Robot Granny: No Robot Granny, Extras: No Extras, Difficulty (No Granny): Easy, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	323.967,
+		"players":	"grumm0_",
+		"players_data":	[{
+				"name":	"grumm0_",
+				"weblink":	"http://www.speedrun.com/user/grumm0_",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/yjr42ggz"
+	}, {
+		"run_id":	"yo82ln5z",
+		"verified_epoch":	1772454306,
+		"verified_iso":	"2026-03-02T12:25:06Z",
+		"game":	"Balance",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkql7qd/cover.png?v=bc744e3",
+		"category":	"Any%",
+		"level":	"Level 1-10",
+		"subcats":	"Platform: PC",
+		"primary_t":	61.383,
+		"players":	"shuggy",
+		"players_data":	[{
+				"name":	"shuggy",
+				"weblink":	"http://www.speedrun.com/user/shuggy",
+				"image":	"https://www.speedrun.com/static/user/jn1g5nq8/image.png?v=f044422"
+			}],
+		"weblink":	"http://www.speedrun.com/Balance/run/yo82ln5z"
+	}, {
+		"run_id":	"m38olxdy",
+		"verified_epoch":	1772454238,
+		"verified_iso":	"2026-03-02T12:23:58Z",
+		"game":	"Balance",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkql7qd/cover.png?v=bc744e3",
+		"category":	"Any%",
+		"level":	"Level 1-6",
+		"subcats":	"Platform: PC",
+		"primary_t":	51.11,
+		"players":	"shuggy",
+		"players_data":	[{
+				"name":	"shuggy",
+				"weblink":	"http://www.speedrun.com/user/shuggy",
+				"image":	"https://www.speedrun.com/static/user/jn1g5nq8/image.png?v=f044422"
+			}],
+		"weblink":	"http://www.speedrun.com/Balance/run/m38olxdy"
+	}, {
+		"run_id":	"m38o3owy",
+		"verified_epoch":	1772453504,
+		"verified_iso":	"2026-03-02T12:11:44Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Elimination Maps",
+		"level":	"",
+		"subcats":	"Version: 0.95.5, Level: Bot Bash, Players: +2 Players",
+		"primary_t":	287.967,
+		"players":	"owowowowowowow, Trinityzito",
+		"players_data":	[{
+				"name":	"owowowowowowow",
+				"weblink":	"http://www.speedrun.com/user/owowowowowowow",
+				"image":	"https://www.speedrun.com/static/user/8w5ldmq8/image.png?v=5ab8b9d"
+			}, {
+				"name":	"Trinityzito",
+				"weblink":	"http://www.speedrun.com/user/Trinityzito",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/m38o3owy"
+	}, {
+		"run_id":	"zxp4dpqy",
+		"verified_epoch":	1772453232,
+		"verified_iso":	"2026-03-02T12:07:12Z",
+		"game":	"CubeRunner Maps",
+		"game_cover":	"https://www.speedrun.com/static/game/j1n48ee6/cover.png?v=7e790c7",
+		"category":	"Any%",
+		"level":	"[AL]Pegasus Parkour",
+		"subcats":	"Version: Java 1.21.2+",
+		"primary_t":	283.6,
+		"players":	"1gz2",
+		"players_data":	[{
+				"name":	"1gz2",
+				"weblink":	"http://www.speedrun.com/user/1gz2",
+				"image":	"https://www.speedrun.com/static/user/j01myq4x/image.png?v=d047565"
+			}],
+		"weblink":	"http://www.speedrun.com/CubeRunner_Maps/run/zxp4dpqy"
+	}, {
+		"run_id":	"zpv0w3gz",
+		"verified_epoch":	1772453202,
+		"verified_iso":	"2026-03-02T12:06:42Z",
+		"game":	"Roblox: Dungeon Heroes",
+		"game_cover":	"https://www.speedrun.com/static/game/9dokolm1/cover.png?v=b5c189e",
+		"category":	"Mushroom Forest",
+		"level":	"",
+		"subcats":	"Difficulty: Nightmare",
+		"primary_t":	57,
+		"players":	"herrab",
+		"players_data":	[{
+				"name":	"herrab",
+				"weblink":	"http://www.speedrun.com/user/herrab",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/Roblox_Dungeon_Heroes/run/zpv0w3gz"
+	}, {
+		"run_id":	"z101q1gm",
+		"verified_epoch":	1772453163,
+		"verified_iso":	"2026-03-02T12:06:03Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB1 Remastered Levels",
+		"level":	"4-1",
+		"subcats":	"",
+		"primary_t":	22.39,
+		"players":	"MystykalMystyk",
+		"players_data":	[{
+				"name":	"MystykalMystyk",
+				"weblink":	"http://www.speedrun.com/user/MystykalMystyk",
+				"image":	"https://www.speedrun.com/static/user/8qno2zw8/image.png?v=dfe73d0"
+			}],
+		"weblink":	"http://www.speedrun.com/smb1r/run/z101q1gm"
+	}, {
+		"run_id":	"yo82n9dz",
+		"verified_epoch":	1772453108,
+		"verified_iso":	"2026-03-02T12:05:08Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Hollow, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Weapon",
+		"primary_t":	143.6,
+		"players":	"SlyTherinPlayer",
+		"players_data":	[{
+				"name":	"SlyTherinPlayer",
+				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
+				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/yo82n9dz"
+	}, {
+		"run_id":	"m38oldwy",
+		"verified_epoch":	1772453097,
+		"verified_iso":	"2026-03-02T12:04:57Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB1 Remastered Levels",
+		"level":	"8-1",
+		"subcats":	"",
+		"primary_t":	37.46,
+		"players":	"MystykalMystyk",
+		"players_data":	[{
+				"name":	"MystykalMystyk",
+				"weblink":	"http://www.speedrun.com/user/MystykalMystyk",
+				"image":	"https://www.speedrun.com/static/user/8qno2zw8/image.png?v=dfe73d0"
+			}],
+		"weblink":	"http://www.speedrun.com/smb1r/run/m38oldwy"
+	}, {
+		"run_id":	"y6wpx71z",
+		"verified_epoch":	1772453075,
+		"verified_iso":	"2026-03-02T12:04:35Z",
+		"game":	"Need for Speed: ProStreet",
+		"game_cover":	"https://www.speedrun.com/static/game/ldekjld3/cover.png?v=34eaa63",
+		"category":	"No NOS",
+		"level":	"Tokyo Expressway: Speed Challenge: First Half",
+		"subcats":	"Timebug: Yes",
+		"primary_t":	43.38,
+		"players":	"skill_issue",
+		"players_data":	[{
+				"name":	"skill_issue",
+				"weblink":	"http://www.speedrun.com/user/skill_issue",
+				"image":	"https://www.speedrun.com/static/user/j4rd97m8/image.png?v=34533a2"
+			}],
+		"weblink":	"http://www.speedrun.com/nfsps/run/y6wpx71z"
+	}, {
+		"run_id":	"m38ox26y",
+		"verified_epoch":	1772453074,
+		"verified_iso":	"2026-03-02T12:04:34Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB1 Remastered Levels",
+		"level":	"4-1",
+		"subcats":	"",
+		"primary_t":	22.51,
+		"players":	"MartyURSSAF",
+		"players_data":	[{
+				"name":	"MartyURSSAF",
+				"weblink":	"http://www.speedrun.com/user/MartyURSSAF",
+				"image":	"https://www.speedrun.com/static/user/x36mnv6x/image.png?v=9e90b65"
+			}],
+		"weblink":	"http://www.speedrun.com/smb1r/run/m38ox26y"
+	}, {
+		"run_id":	"ywopr00m",
+		"verified_epoch":	1772452983,
+		"verified_iso":	"2026-03-02T12:03:03Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Hollow, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	196.367,
+		"players":	"SlyTherinPlayer",
+		"players_data":	[{
+				"name":	"SlyTherinPlayer",
+				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
+				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/ywopr00m"
+	}, {
+		"run_id":	"yo82kd1z",
+		"verified_epoch":	1772452951,
+		"verified_iso":	"2026-03-02T12:02:31Z",
+		"game":	"Need for Speed: ProStreet",
+		"game_cover":	"https://www.speedrun.com/static/game/ldekjld3/cover.png?v=34eaa63",
+		"category":	"No NOS",
+		"level":	"Infineon: Grip: Short Circuit",
+		"subcats":	"Timebug: No",
+		"primary_t":	26.87,
+		"players":	"RealPerson",
+		"players_data":	[{
+				"name":	"RealPerson",
+				"weblink":	"http://www.speedrun.com/user/RealPerson",
+				"image":	"https://www.speedrun.com/static/user/86vmorwj/image.png?v=fc80832"
+			}],
+		"weblink":	"http://www.speedrun.com/nfsps/run/yo82kd1z"
+	}, {
+		"run_id":	"y8l9811m",
+		"verified_epoch":	1772452929,
+		"verified_iso":	"2026-03-02T12:02:09Z",
+		"game":	"Super Haste",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27v351/cover.png?v=d3d9d6f",
+		"category":	"Any%",
+		"level":	"Level 2 Park",
+		"subcats":	"Version: v1.3/1.3.1 (Current), Glitches?: Unrestricted, Compatibility Layer?: Doesn't use compatibility layer, Rapid Input: No rapid input",
+		"primary_t":	45.383,
+		"players":	"iiOm",
+		"players_data":	[{
+				"name":	"iiOm",
+				"weblink":	"http://www.speedrun.com/user/iiOm",
+				"image":	"https://www.speedrun.com/static/user/j47vrg5j/image.png?v=19a29f0"
+			}],
+		"weblink":	"http://www.speedrun.com/superhaste/run/y8l9811m"
+	}, {
+		"run_id":	"y8l96r5m",
+		"verified_epoch":	1772452884,
+		"verified_iso":	"2026-03-02T12:01:24Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Hollow, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Bat/No Granny",
+		"primary_t":	300.067,
+		"players":	"SlyTherinPlayer",
+		"players_data":	[{
+				"name":	"SlyTherinPlayer",
+				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
+				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
+			}],
+		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y8l96r5m"
+	}, {
+		"run_id":	"y8l9x95m",
+		"verified_epoch":	1772452844,
+		"verified_iso":	"2026-03-02T12:00:44Z",
+		"game":	"Stumble Guys",
+		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
+		"category":	"Stumble Up 2",
+		"level":	"",
+		"subcats":	"Version: 0.95.5, Mode: Stumble Up 2 EZ",
+		"primary_t":	212,
+		"players":	"ThePuky",
+		"players_data":	[{
+				"name":	"ThePuky",
+				"weblink":	"http://www.speedrun.com/user/ThePuky",
+				"image":	"https://www.speedrun.com/static/user/x36km9ex/image.png?v=42f976e"
+			}],
+		"weblink":	"http://www.speedrun.com/stumbleguys/run/y8l9x95m"
+	}, {
+		"run_id":	"zg17wq0z",
+		"verified_epoch":	1772452633,
+		"verified_iso":	"2026-03-02T11:57:13Z",
+		"game":	"Need for Speed: ProStreet",
+		"game_cover":	"https://www.speedrun.com/static/game/ldekjld3/cover.png?v=34eaa63",
+		"category":	"No NOS",
+		"level":	"Tokyo Expressway: Speed Challenge: First Half",
+		"subcats":	"Timebug: Yes",
+		"primary_t":	43.38,
+		"players":	"RealPerson",
+		"players_data":	[{
+				"name":	"RealPerson",
+				"weblink":	"http://www.speedrun.com/user/RealPerson",
+				"image":	"https://www.speedrun.com/static/user/86vmorwj/image.png?v=fc80832"
+			}],
+		"weblink":	"http://www.speedrun.com/nfsps/run/zg17wq0z"
+	}, {
+		"run_id":	"y6wpo1jz",
+		"verified_epoch":	1772452522,
+		"verified_iso":	"2026-03-02T11:55:22Z",
+		"game":	"Roblox: Grace",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27xpe1/cover.png?v=aeb5cad",
+		"category":	"zen",
+		"level":	"",
+		"subcats":	"Version: Soul Over Body [CURRENT], Rooms/Rank: ++++S",
+		"primary_t":	135.126,
+		"players":	"Scotty_9112",
+		"players_data":	[{
+				"name":	"Scotty_9112",
+				"weblink":	"http://www.speedrun.com/user/Scotty_9112",
+				"image":	"https://www.speedrun.com/static/user/xz5dzn9x/image.png?v=919dc19"
+			}],
+		"weblink":	"http://www.speedrun.com/grace/run/y6wpo1jz"
+	}, {
 		"run_id":	"y4v3g5ny",
 		"verified_epoch":	1772452397,
 		"verified_iso":	"2026-03-02T11:53:17Z",
@@ -17624,1160 +18614,4 @@
 				"image":	"https://www.speedrun.com/static/user/8qrpwmdj/image.png?v=b16b77b"
 			}],
 		"weblink":	"http://www.speedrun.com/brickmania/run/zn55kq7z"
-	}, {
-		"run_id":	"y4v37kqy",
-		"verified_epoch":	1772370528,
-		"verified_iso":	"2026-03-01T13:08:48Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Istanbul Park",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	250.959,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/y4v37kqy"
-	}, {
-		"run_id":	"zpvq50nz",
-		"verified_epoch":	1772370526,
-		"verified_iso":	"2026-03-01T13:08:46Z",
-		"game":	"Ratchet & Clank: Up Your Arsenal",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkm921m/cover.png?v=c2a162f",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"Storage Type: SSD",
-		"primary_t":	9830,
-		"players":	"king_dedede",
-		"players_data":	[{
-				"name":	"king_dedede",
-				"weblink":	"http://www.speedrun.com/user/king_dedede",
-				"image":	"https://www.speedrun.com/static/user/5j5zrmwj/image.png?v=724aa43"
-			}],
-		"weblink":	"http://www.speedrun.com/rac3/run/zpvq50nz"
-	}, {
-		"run_id":	"z10187rm",
-		"verified_epoch":	1772370470,
-		"verified_iso":	"2026-03-01T13:07:50Z",
-		"game":	"Super Bear Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
-		"category":	"Collectibles",
-		"level":	"Beemothep Desert",
-		"subcats":	"Version: 12.1.3, Collectibles: All Stickers",
-		"primary_t":	118.58,
-		"players":	"AzzamSpeedrunner",
-		"players_data":	[{
-				"name":	"AzzamSpeedrunner",
-				"weblink":	"http://www.speedrun.com/user/AzzamSpeedrunner",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sba/run/z10187rm"
-	}, {
-		"run_id":	"m38o7k6y",
-		"verified_epoch":	1772370353,
-		"verified_iso":	"2026-03-01T13:05:53Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Valencia Street Circuit",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	292.054,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/m38o7k6y"
-	}, {
-		"run_id":	"med89p8y",
-		"verified_epoch":	1772370238,
-		"verified_iso":	"2026-03-01T13:03:58Z",
-		"game":	"Super Bear Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
-		"category":	"Collectibles",
-		"level":	"Snow Valley",
-		"subcats":	"Version: 12.1.3, Collectibles: All Stickers",
-		"primary_t":	127.29,
-		"players":	"AzzamSpeedrunner",
-		"players_data":	[{
-				"name":	"AzzamSpeedrunner",
-				"weblink":	"http://www.speedrun.com/user/AzzamSpeedrunner",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sba/run/med89p8y"
-	}, {
-		"run_id":	"z5n1dkdz",
-		"verified_epoch":	1772370124,
-		"verified_iso":	"2026-03-01T13:02:04Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Circuito do Estoril",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	205.916,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/z5n1dkdz"
-	}, {
-		"run_id":	"y4v37jqy",
-		"verified_epoch":	1772370071,
-		"verified_iso":	"2026-03-01T13:01:11Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any%, Difficulty: Extreme, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	76.867,
-		"players":	"japanese_speedrunner",
-		"players_data":	[{
-				"name":	"japanese_speedrunner",
-				"weblink":	"http://www.speedrun.com/user/japanese_speedrunner",
-				"image":	"https://www.speedrun.com/static/user/jm0dgon8/image.png?v=eac48e6"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y4v37jqy"
-	}, {
-		"run_id":	"zxp4owgy",
-		"verified_epoch":	1772370058,
-		"verified_iso":	"2026-03-01T13:00:58Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Circuito de Jerez",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	226.485,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/zxp4owgy"
-	}, {
-		"run_id":	"yjr45enz",
-		"verified_epoch":	1772369968,
-		"verified_iso":	"2026-03-01T12:59:28Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any% Glitchless, Difficulty: Hollow, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Car Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	320.867,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/yjr45enz"
-	}, {
-		"run_id":	"m7jp735m",
-		"verified_epoch":	1772369942,
-		"verified_iso":	"2026-03-01T12:59:02Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Brands Hatch",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	175.081,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/m7jp735m"
-	}, {
-		"run_id":	"mkx99v5z",
-		"verified_epoch":	1772369917,
-		"verified_iso":	"2026-03-01T12:58:37Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.6",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Hollow, Grandpa: No Grandpa, Ending: Door Ending",
-		"primary_t":	198.733,
-		"players":	"Iulian7",
-		"players_data":	[{
-				"name":	"Iulian7",
-				"weblink":	"http://www.speedrun.com/user/Iulian7",
-				"image":	"https://www.speedrun.com/static/user/j5rzmlzx/image.png?v=f075f01"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/mkx99v5z"
-	}, {
-		"run_id":	"z101xkjm",
-		"verified_epoch":	1772369863,
-		"verified_iso":	"2026-03-01T12:57:43Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Hockenheim",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	224.104,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/z101xkjm"
-	}, {
-		"run_id":	"y26q7nwm",
-		"verified_epoch":	1772369821,
-		"verified_iso":	"2026-03-01T12:57:01Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Impossible, Grandpa: Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	196.8,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y26q7nwm"
-	}, {
-		"run_id":	"zpv08pnz",
-		"verified_epoch":	1772369791,
-		"verified_iso":	"2026-03-01T12:56:31Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Sochi Autodrom",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	284.688,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/zpv08pnz"
-	}, {
-		"run_id":	"zqn3v29z",
-		"verified_epoch":	1772369729,
-		"verified_iso":	"2026-03-01T12:55:29Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Impossible, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	140.233,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"http://www.speedrun.com/user/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=aa13cf1"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/zqn3v29z"
-	}, {
-		"run_id":	"z0237lom",
-		"verified_epoch":	1772369679,
-		"verified_iso":	"2026-03-01T12:54:39Z",
-		"game":	"Roblox: Grace Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd47m5pd/cover.png?v=452e98e",
-		"category":	"Modifiers",
-		"level":	"",
-		"subcats":	"Version: Soul Over Body [CURRENT], Player Amount: Solo, Glitches: Unrestricted, Modifier Preset: DOWN DOWN DOWN DOWN",
-		"primary_t":	78.766,
-		"players":	"Noob_DOORS",
-		"players_data":	[{
-				"name":	"Noob_DOORS",
-				"weblink":	"http://www.speedrun.com/user/Noob_DOORS",
-				"image":	"https://www.speedrun.com/static/user/jpz5750x/image.png?v=e2852a8"
-			}],
-		"weblink":	"http://www.speedrun.com/grace_ce/run/z0237lom"
-	}, {
-		"run_id":	"y26q7e7m",
-		"verified_epoch":	1772369671,
-		"verified_iso":	"2026-03-01T12:54:31Z",
-		"game":	"Roblox: Grace Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd47m5pd/cover.png?v=452e98e",
-		"category":	"Modifiers",
-		"level":	"",
-		"subcats":	"Version: Soul Over Body [CURRENT], Player Amount: Solo, Glitches: No Major Glitches, Modifier Preset: DOWN DOWN DOWN DOWN",
-		"primary_t":	78.766,
-		"players":	"Noob_DOORS",
-		"players_data":	[{
-				"name":	"Noob_DOORS",
-				"weblink":	"http://www.speedrun.com/user/Noob_DOORS",
-				"image":	"https://www.speedrun.com/static/user/jpz5750x/image.png?v=e2852a8"
-			}],
-		"weblink":	"http://www.speedrun.com/grace_ce/run/y26q7e7m"
-	}, {
-		"run_id":	"yvejovxm",
-		"verified_epoch":	1772369661,
-		"verified_iso":	"2026-03-01T12:54:21Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Buddh International Circuit",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	252.681,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/yvejovxm"
-	}, {
-		"run_id":	"z5n1dldz",
-		"verified_epoch":	1772369633,
-		"verified_iso":	"2026-03-01T12:53:53Z",
-		"game":	"Hello Neighbor: Vintage",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkvmzx1/cover.png?v=947b27a",
-		"category":	"Obtain item",
-		"level":	"",
-		"subcats":	"Item: Soap",
-		"primary_t":	2.133,
-		"players":	"kupch666",
-		"players_data":	[{
-				"name":	"kupch666",
-				"weblink":	"http://www.speedrun.com/user/kupch666",
-				"image":	"https://www.speedrun.com/static/user/j9ywv6ox/image.png?v=51ada5f"
-			}],
-		"weblink":	"http://www.speedrun.com/Hello_Neighbor_Vintage/run/z5n1dldz"
-	}, {
-		"run_id":	"yvej27em",
-		"verified_epoch":	1772369628,
-		"verified_iso":	"2026-03-01T12:53:48Z",
-		"game":	"Super Bear Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
-		"category":	"Collectibles",
-		"level":	"Turtletown",
-		"subcats":	"Collectibles: All Stickers, Version: 12.1.3",
-		"primary_t":	63.33,
-		"players":	"AzzamSpeedrunner",
-		"players_data":	[{
-				"name":	"AzzamSpeedrunner",
-				"weblink":	"http://www.speedrun.com/user/AzzamSpeedrunner",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sba/run/yvej27em"
-	}, {
-		"run_id":	"z0235q8m",
-		"verified_epoch":	1772369623,
-		"verified_iso":	"2026-03-01T12:53:43Z",
-		"game":	"Pet Racer",
-		"game_cover":	"https://www.speedrun.com/static/game/lde35ze6/cover.png?v=bf72e75",
-		"category":	"5",
-		"level":	"Giraffe's Dry Lands",
-		"subcats":	"Pet: Chicken",
-		"primary_t":	145,
-		"players":	"PolandJan180",
-		"players_data":	[{
-				"name":	"PolandJan180",
-				"weblink":	"http://www.speedrun.com/user/PolandJan180",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/pacer/run/z0235q8m"
-	}, {
-		"run_id":	"mkx9315z",
-		"verified_epoch":	1772369617,
-		"verified_iso":	"2026-03-01T12:53:37Z",
-		"game":	"Pet Racer",
-		"game_cover":	"https://www.speedrun.com/static/game/lde35ze6/cover.png?v=bf72e75",
-		"category":	"4",
-		"level":	"Giraffe's Dry Lands",
-		"subcats":	"Pet: Chicken",
-		"primary_t":	196,
-		"players":	"PolandJan180",
-		"players_data":	[{
-				"name":	"PolandJan180",
-				"weblink":	"http://www.speedrun.com/user/PolandJan180",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/pacer/run/mkx9315z"
-	}, {
-		"run_id":	"y9g20pnm",
-		"verified_epoch":	1772369613,
-		"verified_iso":	"2026-03-01T12:53:33Z",
-		"game":	"Pet Racer",
-		"game_cover":	"https://www.speedrun.com/static/game/lde35ze6/cover.png?v=bf72e75",
-		"category":	"6",
-		"level":	"Giraffe's Dry Lands",
-		"subcats":	"Pet: Chicken",
-		"primary_t":	171,
-		"players":	"PolandJan180",
-		"players_data":	[{
-				"name":	"PolandJan180",
-				"weblink":	"http://www.speedrun.com/user/PolandJan180",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/pacer/run/y9g20pnm"
-	}, {
-		"run_id":	"zg17re0z",
-		"verified_epoch":	1772369580,
-		"verified_iso":	"2026-03-01T12:53:00Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Nurburgring",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	263.373,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/zg17re0z"
-	}, {
-		"run_id":	"med8oq3y",
-		"verified_epoch":	1772369552,
-		"verified_iso":	"2026-03-01T12:52:32Z",
-		"game":	"Shape of Dreams",
-		"game_cover":	"https://www.speedrun.com/static/game/nd27mev1/cover.png?v=b1d31e4",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Difficulty: Nightmare, Character: Bismuth",
-		"primary_t":	297.95,
-		"players":	"Scary_Ange",
-		"players_data":	[{
-				"name":	"Scary_Ange",
-				"weblink":	"http://www.speedrun.com/user/Scary_Ange",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Shape_of_Dreams/run/med8oq3y"
-	}, {
-		"run_id":	"z023924m",
-		"verified_epoch":	1772369548,
-		"verified_iso":	"2026-03-01T12:52:28Z",
-		"game":	"Manhunt Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2e5xvd/cover.png?v=ae36911",
-		"category":	"Max Rating with OoB (PC)",
-		"level":	"Press Coverage",
-		"subcats":	"",
-		"primary_t":	140,
-		"players":	"Bagdasarov",
-		"players_data":	[{
-				"name":	"Bagdasarov",
-				"weblink":	"http://www.speedrun.com/user/Bagdasarov",
-				"image":	"https://www.speedrun.com/static/user/xyrkn7nj/image.png?v=bc9a96e"
-			}],
-		"weblink":	"http://www.speedrun.com/manhunt_category_extensions/run/z023924m"
-	}, {
-		"run_id":	"zqn3gn5z",
-		"verified_epoch":	1772369496,
-		"verified_iso":	"2026-03-01T12:51:36Z",
-		"game":	"Shape of Dreams",
-		"game_cover":	"https://www.speedrun.com/static/game/nd27mev1/cover.png?v=b1d31e4",
-		"category":	"LIMBO 6",
-		"level":	"",
-		"subcats":	"Difficulty: Nightmare, Character: Bismuth",
-		"primary_t":	755.55,
-		"players":	"Scary_Ange",
-		"players_data":	[{
-				"name":	"Scary_Ange",
-				"weblink":	"http://www.speedrun.com/user/Scary_Ange",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Shape_of_Dreams/run/zqn3gn5z"
-	}, {
-		"run_id":	"yjr45w7z",
-		"verified_epoch":	1772369479,
-		"verified_iso":	"2026-03-01T12:51:19Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Autodromo Internacional do Algarve",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	234.17,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/yjr45w7z"
-	}, {
-		"run_id":	"ydp35owy",
-		"verified_epoch":	1772369415,
-		"verified_iso":	"2026-03-01T12:50:15Z",
-		"game":	"Stumble Guys",
-		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
-		"category":	"Any%",
-		"level":	"Super Slide",
-		"subcats":	"Special Emotes: Special/Taunt Emotes, Version: 0.95.5",
-		"primary_t":	33.167,
-		"players":	"Gatti457",
-		"players_data":	[{
-				"name":	"Gatti457",
-				"weblink":	"http://www.speedrun.com/user/Gatti457",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/stumbleguys/run/ydp35owy"
-	}, {
-		"run_id":	"y8l93l1m",
-		"verified_epoch":	1772369411,
-		"verified_iso":	"2026-03-01T12:50:11Z",
-		"game":	"Stumble Guys",
-		"game_cover":	"https://www.speedrun.com/static/game/46wry8q1/cover.png?v=6388d52",
-		"category":	"Any%",
-		"level":	"Super Slide",
-		"subcats":	"Special Emotes: No Emotes, Version: 0.95.5",
-		"primary_t":	34.9,
-		"players":	"ziel_1717",
-		"players_data":	[{
-				"name":	"ziel_1717",
-				"weblink":	"http://www.speedrun.com/user/ziel_1717",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/stumbleguys/run/y8l93l1m"
-	}, {
-		"run_id":	"yl24rl2z",
-		"verified_epoch":	1772369372,
-		"verified_iso":	"2026-03-01T12:49:32Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Circuit Paul Ricard",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	283.33,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/yl24rl2z"
-	}, {
-		"run_id":	"ywopkr2m",
-		"verified_epoch":	1772369299,
-		"verified_iso":	"2026-03-01T12:48:19Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Yas Marina Circuit",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	256.112,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/ywopkr2m"
-	}, {
-		"run_id":	"zqn3vd9z",
-		"verified_epoch":	1772369257,
-		"verified_iso":	"2026-03-01T12:47:37Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Easy, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	169.867,
-		"players":	"Iulian7",
-		"players_data":	[{
-				"name":	"Iulian7",
-				"weblink":	"http://www.speedrun.com/user/Iulian7",
-				"image":	"https://www.speedrun.com/static/user/j5rzmlzx/image.png?v=f075f01"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/zqn3vd9z"
-	}, {
-		"run_id":	"yvejopxm",
-		"verified_epoch":	1772369241,
-		"verified_iso":	"2026-03-01T12:47:21Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Lusail International Circuit",
-		"subcats":	"Constructor: Mercedes, Rules: Realistic",
-		"primary_t":	250.912,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/yvejopxm"
-	}, {
-		"run_id":	"z0237jjm",
-		"verified_epoch":	1772369153,
-		"verified_iso":	"2026-03-01T12:45:53Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"3 Laps",
-		"level":	"Las Vegas Strip Circuit",
-		"subcats":	"Constructor: McLaren, Rules: Realistic",
-		"primary_t":	272.667,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/z0237jjm"
-	}, {
-		"run_id":	"zqn3vj1z",
-		"verified_epoch":	1772369137,
-		"verified_iso":	"2026-03-01T12:45:37Z",
-		"game":	"Super Haste",
-		"game_cover":	"https://www.speedrun.com/static/game/nd27v351/cover.png?v=d3d9d6f",
-		"category":	"Any%",
-		"level":	"Level 7 Cave",
-		"subcats":	"Version: v1.3 (Current), Glitches?: Glitchless, Compatibility Layer?: Doesn't use compatibility layer, Rapid Input: No rapid input",
-		"primary_t":	40.85,
-		"players":	"iiOm",
-		"players_data":	[{
-				"name":	"iiOm",
-				"weblink":	"http://www.speedrun.com/user/iiOm",
-				"image":	"https://www.speedrun.com/static/user/j47vrg5j/image.png?v=19a29f0"
-			}],
-		"weblink":	"http://www.speedrun.com/superhaste/run/zqn3vj1z"
-	}, {
-		"run_id":	"z02373em",
-		"verified_epoch":	1772369063,
-		"verified_iso":	"2026-03-01T12:44:23Z",
-		"game":	"Subway Surfers City",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yrj9v6/cover.png?v=ef1c5eb",
-		"category":	"Coins",
-		"level":	"",
-		"subcats":	"Coins: 500 Coins, Version: Mobile",
-		"primary_t":	162.5,
-		"players":	"Airmo_XD",
-		"players_data":	[{
-				"name":	"Airmo_XD",
-				"weblink":	"http://www.speedrun.com/user/Airmo_XD",
-				"image":	"https://www.speedrun.com/static/user/j5p401q8/image.png?v=dfe37d5"
-			}],
-		"weblink":	"http://www.speedrun.com/Subway_Surfers_City/run/z02373em"
-	}, {
-		"run_id":	"med840qy",
-		"verified_epoch":	1772368979,
-		"verified_iso":	"2026-03-01T12:42:59Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"Time Trial Dry",
-		"level":	"Albert Park Circuit",
-		"subcats":	"Constructor: McLaren, Rules: Realistic",
-		"primary_t":	74.169,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/med840qy"
-	}, {
-		"run_id":	"m7jp114m",
-		"verified_epoch":	1772368941,
-		"verified_iso":	"2026-03-01T12:42:21Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Difficulty (No Granny): Easy",
-		"primary_t":	130.3,
-		"players":	"adanishloser",
-		"players_data":	[{
-				"name":	"adanishloser",
-				"weblink":	"http://www.speedrun.com/user/adanishloser",
-				"image":	"https://www.speedrun.com/static/user/j0vwp94x/image.png?v=86daaee"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/m7jp114m"
-	}, {
-		"run_id":	"zpv086nz",
-		"verified_epoch":	1772368883,
-		"verified_iso":	"2026-03-01T12:41:23Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"Time Trial Dry",
-		"level":	"Shanghai International Circuit",
-		"subcats":	"Constructor: McLaren, Rules: Realistic",
-		"primary_t":	89.943,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/zpv086nz"
-	}, {
-		"run_id":	"y9g23j2m",
-		"verified_epoch":	1772368798,
-		"verified_iso":	"2026-03-01T12:39:58Z",
-		"game":	"F1 2025 Mod for F1 2014",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxz2w51/cover.png?v=2cc68ef",
-		"category":	"Time Trial Dry",
-		"level":	"Suzuka International Racing Course",
-		"subcats":	"Constructor: McLaren, Rules: Realistic",
-		"primary_t":	89.186,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/F1_2025_Mod_for_F1_2014/run/y9g23j2m"
-	}, {
-		"run_id":	"yvejolxm",
-		"verified_epoch":	1772368793,
-		"verified_iso":	"2026-03-01T12:39:53Z",
-		"game":	"Ride",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp44md/cover.png?v=ff82d1d",
-		"category":	"Time Trial",
-		"level":	"Road America",
-		"subcats":	"Road America: ``The Kink´´ Course\t\t\t\t, Bike Type: Naked Under 700cc",
-		"primary_t":	155.373,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/Ride/run/yvejolxm"
-	}, {
-		"run_id":	"m38o706y",
-		"verified_epoch":	1772368733,
-		"verified_iso":	"2026-03-01T12:38:53Z",
-		"game":	"Ride",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp44md/cover.png?v=ff82d1d",
-		"category":	"Time Trial",
-		"level":	"Almeria",
-		"subcats":	"Bike Type: Electric Bikes",
-		"primary_t":	94.489,
-		"players":	"hotmeils",
-		"players_data":	[{
-				"name":	"hotmeils",
-				"weblink":	"http://www.speedrun.com/user/hotmeils",
-				"image":	"https://www.speedrun.com/static/user/j4rdm3l8/image.png?v=a694b5e"
-			}],
-		"weblink":	"http://www.speedrun.com/Ride/run/m38o706y"
-	}, {
-		"run_id":	"zpv04o8z",
-		"verified_epoch":	1772368733,
-		"verified_iso":	"2026-03-01T12:38:53Z",
-		"game":	"Granny 2 Reimagined",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yr9846/cover.png?v=8257a76",
-		"category":	"Game Over%",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Difficulty: Pain",
-		"primary_t":	167.2,
-		"players":	"arslanKA04",
-		"players_data":	[{
-				"name":	"arslanKA04",
-				"weblink":	"http://www.speedrun.com/user/arslanKA04",
-				"image":	"https://www.speedrun.com/static/user/8qnrmld8/image.png?v=421b3a8"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_2_Reimagined/run/zpv04o8z"
-	}, {
-		"run_id":	"z5n17qnz",
-		"verified_epoch":	1772368732,
-		"verified_iso":	"2026-03-01T12:38:52Z",
-		"game":	"LEGO Star Wars: The Video Game Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/j1l7lzed/cover.png?v=115d7a4",
-		"category":	"Minikit Rush",
-		"level":	"",
-		"subcats":	"Platform: GCN, Solo/Co-op: Solo",
-		"primary_t":	3285,
-		"players":	"coolestto",
-		"players_data":	[{
-				"name":	"coolestto",
-				"weblink":	"http://www.speedrun.com/user/coolestto",
-				"image":	"https://www.speedrun.com/static/user/v81k1wrj/image.png?v=6d7cce7"
-			}],
-		"weblink":	"http://www.speedrun.com/lswce/run/z5n17qnz"
-	}, {
-		"run_id":	"yo82770z",
-		"verified_epoch":	1772368607,
-		"verified_iso":	"2026-03-01T12:36:47Z",
-		"game":	"Blast Processed",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3wmww1/cover.png?v=145be3a",
-		"category":	"Any%",
-		"level":	"Paradise",
-		"subcats":	"",
-		"primary_t":	112.66,
-		"players":	"AndrewLaird",
-		"players_data":	[{
-				"name":	"AndrewLaird",
-				"weblink":	"http://www.speedrun.com/user/AndrewLaird",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Blast_Processed/run/yo82770z"
-	}, {
-		"run_id":	"y6wplw1z",
-		"verified_epoch":	1772368445,
-		"verified_iso":	"2026-03-01T12:34:05Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	97.683,
-		"players":	"Landsl1de9091",
-		"players_data":	[{
-				"name":	"Landsl1de9091",
-				"weblink":	"http://www.speedrun.com/user/Landsl1de9091",
-				"image":	"https://www.speedrun.com/static/user/x314ykq8/image.png?v=95da383"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y6wplw1z"
-	}, {
-		"run_id":	"zqn3v6xz",
-		"verified_epoch":	1772368326,
-		"verified_iso":	"2026-03-01T12:32:06Z",
-		"game":	"Subway Surfers City",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yrj9v6/cover.png?v=ef1c5eb",
-		"category":	"Obtain Item",
-		"level":	"",
-		"subcats":	"Item: Coin Sack, Version: Mobile",
-		"primary_t":	22.8,
-		"players":	"Airmo_XD",
-		"players_data":	[{
-				"name":	"Airmo_XD",
-				"weblink":	"http://www.speedrun.com/user/Airmo_XD",
-				"image":	"https://www.speedrun.com/static/user/j5p401q8/image.png?v=dfe37d5"
-			}],
-		"weblink":	"http://www.speedrun.com/Subway_Surfers_City/run/zqn3v6xz"
-	}, {
-		"run_id":	"ydp3egxy",
-		"verified_epoch":	1772368219,
-		"verified_iso":	"2026-03-01T12:30:19Z",
-		"game":	"Overly descriptive title for Super Haste joke game",
-		"game_cover":	"https://www.speedrun.com/static/game/pdvg22od/cover.png?v=b07bd46",
-		"category":	"Full game",
-		"level":	"",
-		"subcats":	"External settings: No",
-		"primary_t":	18,
-		"players":	"APlum",
-		"players_data":	[{
-				"name":	"APlum",
-				"weblink":	"http://www.speedrun.com/user/APlum",
-				"image":	"https://www.speedrun.com/static/user/86p1wopj/image.png?v=6a6dfef"
-			}],
-		"weblink":	"http://www.speedrun.com/Overly_descriptive_title_for_Super_Haste_joke_game/run/ydp3egxy"
-	}, {
-		"run_id":	"z5n1jkez",
-		"verified_epoch":	1772368211,
-		"verified_iso":	"2026-03-01T12:30:11Z",
-		"game":	"Tomb Raider I-III Remastered Starring Lara Croft",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3wkvw1/cover.png?v=0e172cd",
-		"category":	"Individual Levels",
-		"level":	"Aldwych",
-		"subcats":	"Glitches: Glitches, PC/Console: PC, Control Scheme: All, Category (IL): Max%, Control Scheme: Modern, Version: Latest (2025-08-15)",
-		"primary_t":	989.067,
-		"players":	"Danza",
-		"players_data":	[{
-				"name":	"Danza",
-				"weblink":	"http://www.speedrun.com/user/Danza",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/tr123_remastered/run/z5n1jkez"
-	}, {
-		"run_id":	"ywopqg2m",
-		"verified_epoch":	1772368159,
-		"verified_iso":	"2026-03-01T12:29:19Z",
-		"game":	"LEGO City Undercover",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7x7317/cover.png?v=09696ba",
-		"category":	"Free Play",
-		"level":	"Hot Property",
-		"subcats":	"Version: Remaster (All Other Platforms), Solo/Co-Op: Solo, Controllers: Two",
-		"primary_t":	53,
-		"players":	"TrenttheN642",
-		"players_data":	[{
-				"name":	"TrenttheN642",
-				"weblink":	"http://www.speedrun.com/user/TrenttheN642",
-				"image":	"https://www.speedrun.com/static/user/xkoo9n28/image.png?v=ec4be10"
-			}],
-		"weblink":	"http://www.speedrun.com/lcu/run/ywopqg2m"
-	}, {
-		"run_id":	"yl298wnz",
-		"verified_epoch":	1772368096,
-		"verified_iso":	"2026-03-01T12:28:16Z",
-		"game":	"Granny Chapter Two: Enhanced",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy4my6/cover.png?v=3e2b906",
-		"category":	"Easy",
-		"level":	"",
-		"subcats":	"Sub-Category: Any% Glitchless, Seed System: Preset, Granny: No Granny, Grandpa: No Grandpa, Ending: Minecart, Version: 1.1",
-		"primary_t":	242.7,
-		"players":	"v1exxD",
-		"players_data":	[{
-				"name":	"v1exxD",
-				"weblink":	"http://www.speedrun.com/user/v1exxD",
-				"image":	"https://www.speedrun.com/static/user/8g96d1yx/image.png?v=9586e50"
-			}],
-		"weblink":	"http://www.speedrun.com/granny_2_enhanced/run/yl298wnz"
-	}, {
-		"run_id":	"y8l9vwnm",
-		"verified_epoch":	1772368042,
-		"verified_iso":	"2026-03-01T12:27:22Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.0",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Random Seed, Difficulty: No Granny, Grandpa: No Grandpa, Difficulty (No Granny): Hard",
-		"primary_t":	36.117,
-		"players":	"NNEOO826",
-		"players_data":	[{
-				"name":	"NNEOO826",
-				"weblink":	"http://www.speedrun.com/user/NNEOO826",
-				"image":	"https://www.speedrun.com/static/user/jp941428/image.png?v=b6a41a7"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y8l9vwnm"
-	}, {
-		"run_id":	"z101xr7m",
-		"verified_epoch":	1772367876,
-		"verified_iso":	"2026-03-01T12:24:36Z",
-		"game":	"Granny: Mod Pack By Lub",
-		"game_cover":	"https://www.speedrun.com/static/game/v1ppxmz1/cover.png?v=34e43f0",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Difficulty: Cruel, Platform: PC, Glitches: Glitchless, Ending: Door, Anomalies: Anomaly 13, Extra Locks: Extra Locks, Nightmare Walls: Nightmare Walls, Nightmare: Off",
-		"primary_t":	516.667,
-		"players":	"moltron26",
-		"players_data":	[{
-				"name":	"moltron26",
-				"weblink":	"http://www.speedrun.com/user/moltron26",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Mod_Pack_By_Lub/run/z101xr7m"
-	}, {
-		"run_id":	"zn641xly",
-		"verified_epoch":	1772367818,
-		"verified_iso":	"2026-03-01T12:23:38Z",
-		"game":	"Minecraft: NetEase Edition",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pl0246/cover.png?v=ed2f300",
-		"category":	"Set Seed Solo | 单人固定种子",
-		"level":	"Obtain Items | 获得特定物品",
-		"subcats":	"Version | 游戏版本 (for ILs): 3.7+, Items | 物品种类: Diamond | 钻石, Structure / No Structure (O/I) | 有结构 / 无结构: No Structure | 无结构",
-		"primary_t":	156,
-		"players":	"160X",
-		"players_data":	[{
-				"name":	"160X",
-				"weblink":	"http://www.speedrun.com/user/160X",
-				"image":	"https://www.speedrun.com/static/user/jozgek38/image.png?v=3b719e0"
-			}],
-		"weblink":	"http://www.speedrun.com/Minecraft_NetEase_Edition/run/zn641xly"
-	}, {
-		"run_id":	"ywopqn2m",
-		"verified_epoch":	1772367772,
-		"verified_iso":	"2026-03-01T12:22:52Z",
-		"game":	"Minecraft: NetEase Edition",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pl0246/cover.png?v=ed2f300",
-		"category":	"Random Seed Solo | 单人随机种子",
-		"level":	"Obtain Items | 获得特定物品",
-		"subcats":	"Version | 游戏版本 (for ILs): 3.7+, Items | 物品种类: Diamond | 钻石, Structure / No Structure (O/I) | 有结构 / 无结构: No Structure | 无结构",
-		"primary_t":	249,
-		"players":	"160X",
-		"players_data":	[{
-				"name":	"160X",
-				"weblink":	"http://www.speedrun.com/user/160X",
-				"image":	"https://www.speedrun.com/static/user/jozgek38/image.png?v=3b719e0"
-			}],
-		"weblink":	"http://www.speedrun.com/Minecraft_NetEase_Edition/run/ywopqn2m"
-	}, {
-		"run_id":	"mkx9gp3z",
-		"verified_epoch":	1772367676,
-		"verified_iso":	"2026-03-01T12:21:16Z",
-		"game":	"Ninja Gaiden: Ragebound",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv9oqk1/cover.png?v=43f0c45",
-		"category":	"Any%",
-		"level":	"2-1",
-		"subcats":	"Any% IL subcategory: Hard, Hitstop: Off",
-		"primary_t":	214,
-		"players":	"Zaygnor",
-		"players_data":	[{
-				"name":	"Zaygnor",
-				"weblink":	"http://www.speedrun.com/user/Zaygnor",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/NGR/run/mkx9gp3z"
-	}, {
-		"run_id":	"y4v31jny",
-		"verified_epoch":	1772367323,
-		"verified_iso":	"2026-03-01T12:15:23Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any%, Difficulty: Hollow, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	142.933,
-		"players":	"Granny_Kospeedrunner",
-		"players_data":	[{
-				"name":	"Granny_Kospeedrunner",
-				"weblink":	"http://www.speedrun.com/user/Granny_Kospeedrunner",
-				"image":	"https://www.speedrun.com/static/user/j22yy17j/image.png?v=f0af6fa"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/y4v31jny"
-	}, {
-		"run_id":	"z023644m",
-		"verified_epoch":	1772367235,
-		"verified_iso":	"2026-03-01T12:13:55Z",
-		"game":	"HOMURA HIME",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq7gld/cover.png?v=10cbc57",
-		"category":	"Demo",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	557,
-		"players":	"MelonMarblePop",
-		"players_data":	[{
-				"name":	"MelonMarblePop",
-				"weblink":	"http://www.speedrun.com/user/MelonMarblePop",
-				"image":	"https://www.speedrun.com/static/user/j4vy9kvj/image.png?v=a36bcb3"
-			}],
-		"weblink":	"http://www.speedrun.com/HOMURA_HIME/run/z023644m"
-	}, {
-		"run_id":	"zn6407vy",
-		"verified_epoch":	1772367179,
-		"verified_iso":	"2026-03-01T12:12:59Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: New Extras, Difficulty (No Granny): Easy, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	172,
-		"players":	"BobZinPvp",
-		"players_data":	[{
-				"name":	"BobZinPvp",
-				"weblink":	"http://www.speedrun.com/user/BobZinPvp",
-				"image":	"https://www.speedrun.com/static/user/8wgvk5zx/image.png?v=f9b7ed2"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/zn6407vy"
-	}, {
-		"run_id":	"mrw8jpdy",
-		"verified_epoch":	1772366906,
-		"verified_iso":	"2026-03-01T12:08:26Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	134.383,
-		"players":	"Wearzix",
-		"players_data":	[{
-				"name":	"Wearzix",
-				"weblink":	"http://www.speedrun.com/user/Wearzix",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/mrw8jpdy"
-	}, {
-		"run_id":	"z0237oom",
-		"verified_epoch":	1772366829,
-		"verified_iso":	"2026-03-01T12:07:09Z",
-		"game":	"Sonic Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/v1px8p46/cover.png?v=565003f",
-		"category":	"Amy's Story",
-		"level":	"",
-		"subcats":	"Game type: Disc, Route: Linear, Game Type: Hardware",
-		"primary_t":	1698.58,
-		"players":	"Dualkop",
-		"players_data":	[{
-				"name":	"Dualkop",
-				"weblink":	"http://www.speedrun.com/user/Dualkop",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/sa1/run/z0237oom"
-	}, {
-		"run_id":	"ydp3ewxy",
-		"verified_epoch":	1772366641,
-		"verified_iso":	"2026-03-01T12:04:01Z",
-		"game":	"Hello Neighbor: Vintage",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkvmzx1/cover.png?v=947b27a",
-		"category":	"Obtain item",
-		"level":	"",
-		"subcats":	"Item: Shovel",
-		"primary_t":	8.4,
-		"players":	"kupch666",
-		"players_data":	[{
-				"name":	"kupch666",
-				"weblink":	"http://www.speedrun.com/user/kupch666",
-				"image":	"https://www.speedrun.com/static/user/j9ywv6ox/image.png?v=51ada5f"
-			}],
-		"weblink":	"http://www.speedrun.com/Hello_Neighbor_Vintage/run/ydp3ewxy"
-	}, {
-		"run_id":	"zxp4k7gy",
-		"verified_epoch":	1772366626,
-		"verified_iso":	"2026-03-01T12:03:46Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.1.6-v1.1.7.9, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Easy, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: No Extras, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	172.183,
-		"players":	"Lunashes",
-		"players_data":	[{
-				"name":	"Lunashes",
-				"weblink":	"http://www.speedrun.com/user/Lunashes",
-				"image":	"https://www.speedrun.com/static/user/xkgov2kj/image.png?v=6489fcd"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/zxp4k7gy"
-	}, {
-		"run_id":	"zpv082vz",
-		"verified_epoch":	1772366282,
-		"verified_iso":	"2026-03-01T11:58:02Z",
-		"game":	"Diablo II: Lord of Destruction",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4opx1e/cover.png?v=420ba5f",
-		"category":	"Pre-LoD",
-		"level":	"",
-		"subcats":	"Core: SC, Class: Sorceress, Version: 1.00",
-		"primary_t":	7194,
-		"players":	"Indrek",
-		"players_data":	[{
-				"name":	"Indrek",
-				"weblink":	"http://www.speedrun.com/user/Indrek",
-				"image":	"https://www.speedrun.com/static/user/18qmm4qx/image.png?v=be0f9df"
-			}],
-		"weblink":	"http://www.speedrun.com/d2lod/run/zpv082vz"
-	}, {
-		"run_id":	"ydp36dqy",
-		"verified_epoch":	1772366232,
-		"verified_iso":	"2026-03-01T11:57:12Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.3",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa",
-		"primary_t":	147.767,
-		"players":	"Granny_Kospeedrunner",
-		"players_data":	[{
-				"name":	"Granny_Kospeedrunner",
-				"weblink":	"http://www.speedrun.com/user/Granny_Kospeedrunner",
-				"image":	"https://www.speedrun.com/static/user/j22yy17j/image.png?v=f0af6fa"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/ydp36dqy"
-	}, {
-		"run_id":	"zpvq74vz",
-		"verified_epoch":	1772366142,
-		"verified_iso":	"2026-03-01T11:55:42Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any%, Difficulty: No Granny, Grandpa: No Grandpa, Extra Traps: No Extra Traps, Ending: Door Ending, Robot Granny: No Robot Granny, Extras: Old Extras, Difficulty (No Granny): Easy, Granny's Weapon: With Bat/No Granny",
-		"primary_t":	444.867,
-		"players":	"Reyomenplayz",
-		"players_data":	[{
-				"name":	"Reyomenplayz",
-				"weblink":	"http://www.speedrun.com/user/Reyomenplayz",
-				"image":	""
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/zpvq74vz"
-	}, {
-		"run_id":	"mkx98j1z",
-		"verified_epoch":	1772366137,
-		"verified_iso":	"2026-03-01T11:55:37Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.0",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.5, Seed System: Set Seed, Difficulty: Hard, Grandpa: No Grandpa",
-		"primary_t":	26.283,
-		"players":	"JanosikXD",
-		"players_data":	[{
-				"name":	"JanosikXD",
-				"weblink":	"http://www.speedrun.com/user/JanosikXD",
-				"image":	"https://www.speedrun.com/static/user/j22366lj/image.png?v=d6b7ab5"
-			}],
-		"weblink":	"http://www.speedrun.com/Granny_Legacy/run/mkx98j1z"
 	}]
