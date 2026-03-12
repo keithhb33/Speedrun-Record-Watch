@@ -1,4 +1,399 @@
 [{
+		"run_id":	"mrwkvw4y",
+		"verified_epoch":	1773306076,
+		"verified_iso":	"2026-03-12T09:01:16Z",
+		"game":	"REANIMAL",
+		"game_cover":	"https://www.speedrun.com/static/game/m1meylxd/cover.png?v=f3d2306",
+		"category":	"Any%",
+		"level":	"Chapter 7",
+		"subcats":	"Mode: 1P, Player(s): Solo",
+		"primary_t":	232.682,
+		"players":	"JustRezzie",
+		"players_data":	[{
+				"name":	"JustRezzie",
+				"weblink":	"http://www.speedrun.com/user/JustRezzie",
+				"image":	"https://www.speedrun.com/static/user/7j42newx/image.png?v=23e48a6"
+			}],
+		"weblink":	"http://www.speedrun.com/REANIMAL/run/mrwkvw4y"
+	}, {
+		"run_id":	"medolgqy",
+		"verified_epoch":	1773306028,
+		"verified_iso":	"2026-03-12T09:00:28Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice",
+		"level":	"Mirror Death Wind I",
+		"subcats":	"Machine: Fire Stingray, Version: 1.7, Shortcut: No",
+		"primary_t":	100.75,
+		"players":	"Master_A1",
+		"players_data":	[{
+				"name":	"Master_A1",
+				"weblink":	"http://www.speedrun.com/user/Master_A1",
+				"image":	"https://www.speedrun.com/static/user/8vy2z728/image.png?v=ce367cf"
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/medolgqy"
+	}, {
+		"run_id":	"y4vw86qy",
+		"verified_epoch":	1773306021,
+		"verified_iso":	"2026-03-12T09:00:21Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice Fast Lap",
+		"level":	"Classic Mute City I",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	25.13,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/y4vw86qy"
+	}, {
+		"run_id":	"m385614y",
+		"verified_epoch":	1773306015,
+		"verified_iso":	"2026-03-12T09:00:15Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice",
+		"level":	"Classic Death Wind I",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	104.88,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/m385614y"
+	}, {
+		"run_id":	"z105xvrm",
+		"verified_epoch":	1773306010,
+		"verified_iso":	"2026-03-12T09:00:10Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice",
+		"level":	"Classic Death Wind II",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	109.65,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/z105xvrm"
+	}, {
+		"run_id":	"m7jg8owm",
+		"verified_epoch":	1773306006,
+		"verified_iso":	"2026-03-12T09:00:06Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Race",
+		"level":	"Classic Fire Field",
+		"subcats":	"Machine: Blue Falcon, Version: 1.7, Shortcut: No, Skyway: No, Lobby type: Public, KO Count: 0 KOs",
+		"primary_t":	181.88,
+		"players":	"MKDSmaster91",
+		"players_data":	[{
+				"name":	"MKDSmaster91",
+				"weblink":	"http://www.speedrun.com/user/MKDSmaster91",
+				"image":	"https://www.speedrun.com/static/user/qj20opnx/image.png?v=5c1681d"
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/m7jg8owm"
+	}, {
+		"run_id":	"zn6kk79y",
+		"verified_epoch":	1773306000,
+		"verified_iso":	"2026-03-12T09:00:00Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice Fast Lap",
+		"level":	"Classic Sand Storm I",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	22.65,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/zn6kk79y"
+	}, {
+		"run_id":	"zqnww09z",
+		"verified_epoch":	1773305995,
+		"verified_iso":	"2026-03-12T08:59:55Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice Fast Lap",
+		"level":	"Classic Mute City IV",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	23.03,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/zqnww09z"
+	}, {
+		"run_id":	"z5njjvdz",
+		"verified_epoch":	1773305992,
+		"verified_iso":	"2026-03-12T08:59:52Z",
+		"game":	"F-Zero 99",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mengpd/cover.png?v=ae37460",
+		"category":	"Practice Fast Lap",
+		"level":	"Classic Fire Field",
+		"subcats":	"Machine: Wild Goose, Version: 1.7, Shortcut: No",
+		"primary_t":	40.65,
+		"players":	"Dillion",
+		"players_data":	[{
+				"name":	"Dillion",
+				"weblink":	"http://www.speedrun.com/user/Dillion",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/FZero99/run/z5njjvdz"
+	}, {
+		"run_id":	"y9g03rvm",
+		"verified_epoch":	1773305931,
+		"verified_iso":	"2026-03-12T08:58:51Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"Pinball Playfields 4",
+		"subcats":	"",
+		"primary_t":	63.8,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/y9g03rvm"
+	}, {
+		"run_id":	"y4vw74ny",
+		"verified_epoch":	1773305856,
+		"verified_iso":	"2026-03-12T08:57:36Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"Pinball Playfields 3",
+		"subcats":	"",
+		"primary_t":	33.667,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/y4vw74ny"
+	}, {
+		"run_id":	"mrwknp2y",
+		"verified_epoch":	1773305817,
+		"verified_iso":	"2026-03-12T08:56:57Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"Pinball Playfields 1",
+		"subcats":	"",
+		"primary_t":	28.817,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/mrwknp2y"
+	}, {
+		"run_id":	"mkx35nvz",
+		"verified_epoch":	1773305780,
+		"verified_iso":	"2026-03-12T08:56:20Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"The Dark Dungeon 5",
+		"subcats":	"",
+		"primary_t":	108.25,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/mkx35nvz"
+	}, {
+		"run_id":	"z105x4gm",
+		"verified_epoch":	1773305656,
+		"verified_iso":	"2026-03-12T08:54:16Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"The Dark Dungeon 4",
+		"subcats":	"",
+		"primary_t":	117.433,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/z105x4gm"
+	}, {
+		"run_id":	"yo8k6g7z",
+		"verified_epoch":	1773305520,
+		"verified_iso":	"2026-03-12T08:52:00Z",
+		"game":	"Marble's Marbles",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np7wl6/cover.png?v=4b77e18",
+		"category":	"All Hourglasses",
+		"level":	"The Dark Dungeon 3",
+		"subcats":	"",
+		"primary_t":	112.783,
+		"players":	"Yoshimi",
+		"players_data":	[{
+				"name":	"Yoshimi",
+				"weblink":	"http://www.speedrun.com/user/Yoshimi",
+				"image":	"https://www.speedrun.com/static/user/7j49n3v8/image.png?v=761b1ac"
+			}],
+		"weblink":	"http://www.speedrun.com/Marbles_Marbles/run/yo8k6g7z"
+	}, {
+		"run_id":	"zqnwe65z",
+		"verified_epoch":	1773305123,
+		"verified_iso":	"2026-03-12T08:45:23Z",
+		"game":	"Blood",
+		"game_cover":	"https://www.speedrun.com/static/game/nd289ed0/cover.png?v=f70d31f",
+		"category":	"Still Kicking (Skill 1)",
+		"level":	"E6M3: Public Storage",
+		"subcats":	"Individual Level Run: Any%",
+		"primary_t":	5.19,
+		"players":	"deeperjungle",
+		"players_data":	[{
+				"name":	"deeperjungle",
+				"weblink":	"http://www.speedrun.com/user/deeperjungle",
+				"image":	"https://www.speedrun.com/static/user/8gekeryj/image.png?v=66402ce"
+			}],
+		"weblink":	"http://www.speedrun.com/blood/run/zqnwe65z"
+	}, {
+		"run_id":	"z5njx6ez",
+		"verified_epoch":	1773305103,
+		"verified_iso":	"2026-03-12T08:45:03Z",
+		"game":	"Duke Nukem 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjy060/cover.png?v=cb49742",
+		"category":	"Any%",
+		"level":	"E3L1: Raw Meat",
+		"subcats":	"Version: Megaton Edition, Start Category: Clean Start, Difficulty: Piece of Cake",
+		"primary_t":	9.967,
+		"players":	"Fire_tr4il_sn4il",
+		"players_data":	[{
+				"name":	"Fire_tr4il_sn4il",
+				"weblink":	"http://www.speedrun.com/user/Fire_tr4il_sn4il",
+				"image":	"https://www.speedrun.com/static/user/8rl5wn38/image.png?v=19e79a8"
+			}],
+		"weblink":	"http://www.speedrun.com/duke3d/run/z5njx6ez"
+	}, {
+		"run_id":	"medo0pqy",
+		"verified_epoch":	1773304388,
+		"verified_iso":	"2026-03-12T08:33:08Z",
+		"game":	"Spider-Man (2000)",
+		"game_cover":	"https://www.speedrun.com/static/game/y654y0de/cover.png?v=3f19828",
+		"category":	"Skips",
+		"level":	"The Lizard's Maze",
+		"subcats":	"Platform: PS, Version: Emulator",
+		"primary_t":	35,
+		"players":	"Sapy",
+		"players_data":	[{
+				"name":	"Sapy",
+				"weblink":	"http://www.speedrun.com/user/Sapy",
+				"image":	"https://www.speedrun.com/static/user/j92wp7v8/image.png?v=d915faa"
+			}],
+		"weblink":	"http://www.speedrun.com/sm2000/run/medo0pqy"
+	}, {
+		"run_id":	"yve6lv8m",
+		"verified_epoch":	1773304337,
+		"verified_iso":	"2026-03-12T08:32:17Z",
+		"game":	"Siren",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3kk01l/cover.png?v=fc51895",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Toilet 1: Harumi, Toilet 2: Shibito, Nurse's Shoe: Near Sniper, Tape Recorder: 0362",
+		"primary_t":	5659,
+		"players":	"ammari_oisiknai",
+		"players_data":	[{
+				"name":	"ammari_oisiknai",
+				"weblink":	"http://www.speedrun.com/user/ammari_oisiknai",
+				"image":	"https://www.speedrun.com/static/user/8165v65x/image.png?v=3e02fb3"
+			}],
+		"weblink":	"http://www.speedrun.com/siren/run/yve6lv8m"
+	}, {
+		"run_id":	"yjrl87nz",
+		"verified_epoch":	1773304111,
+		"verified_iso":	"2026-03-12T08:28:31Z",
+		"game":	"REANIMAL",
+		"game_cover":	"https://www.speedrun.com/static/game/m1meylxd/cover.png?v=f3d2306",
+		"category":	"Any％",
+		"level":	"",
+		"subcats":	"Played On (Any%): Console, Subcategory (Any%): Restricted, Mode: 1P, Player(s): Solo",
+		"primary_t":	6796,
+		"players":	"bitrot",
+		"players_data":	[{
+				"name":	"bitrot",
+				"weblink":	"http://www.speedrun.com/user/bitrot",
+				"image":	"https://www.speedrun.com/static/user/x3py2g28/image.png?v=439d987"
+			}],
+		"weblink":	"http://www.speedrun.com/REANIMAL/run/yjrl87nz"
+	}, {
+		"run_id":	"m7jgne9m",
+		"verified_epoch":	1773303653,
+		"verified_iso":	"2026-03-12T08:20:53Z",
+		"game":	"rulost",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rm231/cover.png?v=c2edfba",
+		"category":	"Labyrinth",
+		"level":	"",
+		"subcats":	"Glider: NG",
+		"primary_t":	374.517,
+		"players":	"CarlosisST",
+		"players_data":	[{
+				"name":	"CarlosisST",
+				"weblink":	"http://www.speedrun.com/user/CarlosisST",
+				"image":	"https://www.speedrun.com/static/user/x77wvlvx/image.png?v=987dea8"
+			}],
+		"weblink":	"http://www.speedrun.com/rulost/run/m7jgne9m"
+	}, {
+		"run_id":	"z5njk3nz",
+		"verified_epoch":	1773302854,
+		"verified_iso":	"2026-03-12T08:07:34Z",
+		"game":	"REANIMAL",
+		"game_cover":	"https://www.speedrun.com/static/game/m1meylxd/cover.png?v=f3d2306",
+		"category":	"Any%",
+		"level":	"Chapter 8",
+		"subcats":	"Mode: 1P, Player(s): Solo",
+		"primary_t":	287.017,
+		"players":	"JustRezzie",
+		"players_data":	[{
+				"name":	"JustRezzie",
+				"weblink":	"http://www.speedrun.com/user/JustRezzie",
+				"image":	"https://www.speedrun.com/static/user/7j42newx/image.png?v=23e48a6"
+			}],
+		"weblink":	"http://www.speedrun.com/REANIMAL/run/z5njk3nz"
+	}, {
+		"run_id":	"ywo8gq0m",
+		"verified_epoch":	1773302627,
+		"verified_iso":	"2026-03-12T08:03:47Z",
+		"game":	"Roblox: Isle 10",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gk45o1/cover.png?v=e84c663",
+		"category":	"Plane",
+		"level":	"",
+		"subcats":	"Player Count: 2P, Portals: No Portals, Speedrun Mode: Speedrun Mode, Modifiers: No Modifiers, Version: Isle 10.3",
+		"primary_t":	161.05,
+		"players":	"rakidov, Brxah_Rxn",
+		"players_data":	[{
+				"name":	"rakidov",
+				"weblink":	"http://www.speedrun.com/user/rakidov",
+				"image":	"https://www.speedrun.com/static/user/xy9lpryj/image.png?v=d093730"
+			}, {
+				"name":	"Brxah_Rxn",
+				"weblink":	"http://www.speedrun.com/user/Brxah_Rxn",
+				"image":	""
+			}],
+		"weblink":	"http://www.speedrun.com/roblox_isle_10/run/ywo8gq0m"
+	}, {
 		"run_id":	"y4vw67dy",
 		"verified_epoch":	1773301583,
 		"verified_iso":	"2026-03-12T07:46:23Z",
@@ -13027,42 +13422,4 @@
 				"image":	"https://www.speedrun.com/static/user/5j5qyowj/image.png?v=04a1dc0"
 			}],
 		"weblink":	"http://www.speedrun.com/sbk/run/y8l28xxm"
-	}, {
-		"run_id":	"m7jg6qem",
-		"verified_epoch":	1773217485,
-		"verified_iso":	"2026-03-11T08:24:45Z",
-		"game":	"REANIMAL",
-		"game_cover":	"https://www.speedrun.com/static/game/m1meylxd/cover.png?v=f3d2306",
-		"category":	"Any%",
-		"level":	"Chapter 4",
-		"subcats":	"Mode: 1P, Player(s): Solo",
-		"primary_t":	144,
-		"players":	"JustRezzie",
-		"players_data":	[{
-				"name":	"JustRezzie",
-				"weblink":	"http://www.speedrun.com/user/JustRezzie",
-				"image":	"https://www.speedrun.com/static/user/7j42newx/image.png?v=23e48a6"
-			}],
-		"weblink":	"http://www.speedrun.com/REANIMAL/run/m7jg6qem"
-	}, {
-		"run_id":	"mrwe6ngy",
-		"verified_epoch":	1773216339,
-		"verified_iso":	"2026-03-11T08:05:39Z",
-		"game":	"Nuclear Throne",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0lq2de/cover.png?v=21aff82",
-		"category":	"Co-Op NTT",
-		"level":	"",
-		"subcats":	"# of players: 2 players, P1 Character: Steroids, P2 Character: Plant",
-		"primary_t":	193,
-		"players":	"Bobotroi, kairyu25",
-		"players_data":	[{
-				"name":	"Bobotroi",
-				"weblink":	"http://www.speedrun.com/user/Bobotroi",
-				"image":	"https://www.speedrun.com/static/user/j0w1pw98/image.png?v=045accf"
-			}, {
-				"name":	"kairyu25",
-				"weblink":	"http://www.speedrun.com/user/kairyu25",
-				"image":	"https://www.speedrun.com/static/user/x7z4vr68/image.png?v=3c10f63"
-			}],
-		"weblink":	"http://www.speedrun.com/nuclear_throne/run/mrwe6ngy"
 	}]
