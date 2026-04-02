@@ -1,4 +1,950 @@
 [{
+		"run_id":	"z5nd4oez",
+		"verified_epoch":	1775157989,
+		"verified_iso":	"2026-04-02T19:26:29Z",
+		"game":	"Super Jump Friends Xtreme",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9w7x1/cover.png?v=a18a008",
+		"category":	"Any%",
+		"level":	"Static Man's Field Day",
+		"subcats":	"Version: 0.1.1",
+		"primary_t":	28.916,
+		"players":	"Mojojojo9001",
+		"players_data":	[{
+				"name":	"Mojojojo9001",
+				"weblink":	"https://www.speedrun.com/user/Mojojojo9001",
+				"image":	"https://www.speedrun.com/static/user/8l4dddlj/image.png?v=d79fa9e"
+			}],
+		"weblink":	"https://www.speedrun.com/SJFX/run/z5nd4oez"
+	}, {
+		"run_id":	"z5nd45ez",
+		"verified_epoch":	1775157869,
+		"verified_iso":	"2026-04-02T19:24:29Z",
+		"game":	"War of Dots",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"Beat the hard ai",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	57,
+		"players":	"sir_yusblack",
+		"players_data":	[{
+				"name":	"sir_yusblack",
+				"weblink":	"https://www.speedrun.com/user/sir_yusblack",
+				"image":	"https://www.speedrun.com/static/user/819pyn5x/image.png?v=f36c83d"
+			}],
+		"weblink":	"https://www.speedrun.com/War_of_dots/run/z5nd45ez"
+	}, {
+		"run_id":	"zpv8enrz",
+		"verified_epoch":	1775157820,
+		"verified_iso":	"2026-04-02T19:23:40Z",
+		"game":	"War of Dots",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"Beat easy ai",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	49,
+		"players":	"sir_yusblack",
+		"players_data":	[{
+				"name":	"sir_yusblack",
+				"weblink":	"https://www.speedrun.com/user/sir_yusblack",
+				"image":	"https://www.speedrun.com/static/user/819pyn5x/image.png?v=f36c83d"
+			}],
+		"weblink":	"https://www.speedrun.com/War_of_dots/run/zpv8enrz"
+	}, {
+		"run_id":	"med45k8y",
+		"verified_epoch":	1775157553,
+		"verified_iso":	"2026-04-02T19:19:13Z",
+		"game":	"Pico 2",
+		"game_cover":	"https://www.speedrun.com/static/game/9dok8mo1/cover.png?v=75c5b6b",
+		"category":	"Clatform Fangame",
+		"level":	"",
+		"subcats":	"Skips: Skips",
+		"primary_t":	7.9,
+		"players":	"VibriLover69",
+		"players_data":	[{
+				"name":	"VibriLover69",
+				"weblink":	"https://www.speedrun.com/user/VibriLover69",
+				"image":	"https://www.speedrun.com/static/user/8wlry3zj/image.png?v=b7245a3"
+			}],
+		"weblink":	"https://www.speedrun.com/Pico_2/run/med45k8y"
+	}, {
+		"run_id":	"z0272gjm",
+		"verified_epoch":	1775157397,
+		"verified_iso":	"2026-04-02T19:16:37Z",
+		"game":	"Rocket Racing",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
+		"category":	"Speed Run",
+		"level":	"Anarchy Arches",
+		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
+		"primary_t":	65.571,
+		"players":	"Btw_skull",
+		"players_data":	[{
+				"name":	"Btw_skull",
+				"weblink":	"https://www.speedrun.com/user/Btw_skull",
+				"image":	"https://www.speedrun.com/static/user/8eorr06j/image.png?v=6471acb"
+			}],
+		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/z0272gjm"
+	}, {
+		"run_id":	"mrwnwg4y",
+		"verified_epoch":	1775157395,
+		"verified_iso":	"2026-04-02T19:16:35Z",
+		"game":	"Rocket Racing",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
+		"category":	"Speed Run",
+		"level":	"K2 Raceway",
+		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
+		"primary_t":	36.221,
+		"players":	"Th0mas0",
+		"players_data":	[{
+				"name":	"Th0mas0",
+				"weblink":	"https://www.speedrun.com/user/Th0mas0",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/mrwnwg4y"
+	}, {
+		"run_id":	"yl2r222z",
+		"verified_epoch":	1775157393,
+		"verified_iso":	"2026-04-02T19:16:33Z",
+		"game":	"Rocket Racing",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
+		"category":	"Speed Run",
+		"level":	"Obsidian",
+		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
+		"primary_t":	70.515,
+		"players":	"Btw_skull",
+		"players_data":	[{
+				"name":	"Btw_skull",
+				"weblink":	"https://www.speedrun.com/user/Btw_skull",
+				"image":	"https://www.speedrun.com/static/user/8eorr06j/image.png?v=6471acb"
+			}],
+		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/yl2r222z"
+	}, {
+		"run_id":	"mrwnww4y",
+		"verified_epoch":	1775157391,
+		"verified_iso":	"2026-04-02T19:16:31Z",
+		"game":	"Rocket Racing",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
+		"category":	"Speed Run",
+		"level":	"Day Drifting",
+		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
+		"primary_t":	29.341,
+		"players":	"Th0mas0",
+		"players_data":	[{
+				"name":	"Th0mas0",
+				"weblink":	"https://www.speedrun.com/user/Th0mas0",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/mrwnww4y"
+	}, {
+		"run_id":	"zpv8vvnz",
+		"verified_epoch":	1775157389,
+		"verified_iso":	"2026-04-02T19:16:29Z",
+		"game":	"Rocket Racing",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
+		"category":	"Speed Run",
+		"level":	"Airborne",
+		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
+		"primary_t":	36.456,
+		"players":	"Th0mas0",
+		"players_data":	[{
+				"name":	"Th0mas0",
+				"weblink":	"https://www.speedrun.com/user/Th0mas0",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/zpv8vvnz"
+	}, {
+		"run_id":	"y4v749ky",
+		"verified_epoch":	1775157251,
+		"verified_iso":	"2026-04-02T19:14:11Z",
+		"game":	"Pico 2",
+		"game_cover":	"https://www.speedrun.com/static/game/9dok8mo1/cover.png?v=75c5b6b",
+		"category":	"Mindchamber Demo",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	114,
+		"players":	"VibriLover69",
+		"players_data":	[{
+				"name":	"VibriLover69",
+				"weblink":	"https://www.speedrun.com/user/VibriLover69",
+				"image":	"https://www.speedrun.com/static/user/8wlry3zj/image.png?v=b7245a3"
+			}],
+		"weblink":	"https://www.speedrun.com/Pico_2/run/y4v749ky"
+	}, {
+		"run_id":	"ywokol9m",
+		"verified_epoch":	1775156933,
+		"verified_iso":	"2026-04-02T19:08:53Z",
+		"game":	"Xermax's Old Games Place",
+		"game_cover":	"https://www.speedrun.com/static/game/j1np8996/cover.png?v=5f171e8",
+		"category":	"Any%",
+		"level":	"Max Adventure 2",
+		"subcats":	"MBlock?: Hub: The Abandoned House",
+		"primary_t":	31.966,
+		"players":	"Skewerai",
+		"players_data":	[{
+				"name":	"Skewerai",
+				"weblink":	"https://www.speedrun.com/user/Skewerai",
+				"image":	"https://www.speedrun.com/static/user/j0e56ym8/image.png?v=4b625e2"
+			}],
+		"weblink":	"https://www.speedrun.com/Xermaxs_Old_Games_Place/run/ywokol9m"
+	}, {
+		"run_id":	"zqnvnx9z",
+		"verified_epoch":	1775156889,
+		"verified_iso":	"2026-04-02T19:08:09Z",
+		"game":	"Yoshi: A Platformer (Scratch)",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qppwmd/cover.png?v=98171d4",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Device: PC, Speed-Boosts: Yes, Device: PC",
+		"primary_t":	33.8,
+		"players":	"BLGHAReal",
+		"players_data":	[{
+				"name":	"BLGHAReal",
+				"weblink":	"https://www.speedrun.com/user/BLGHAReal",
+				"image":	"https://www.speedrun.com/static/user/8rl4rp38/image.png?v=1d7d03f"
+			}],
+		"weblink":	"https://www.speedrun.com/Yoshi_A_Platformer/run/zqnvnx9z"
+	}, {
+		"run_id":	"zxpgr9gy",
+		"verified_epoch":	1775156878,
+		"verified_iso":	"2026-04-02T19:07:58Z",
+		"game":	"Dead by Daylight",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4o0z51/cover.png?v=2670e9b",
+		"category":	"Killer",
+		"level":	"",
+		"subcats":	"killer: Blight, Mode: Load Out",
+		"primary_t":	309.2,
+		"players":	"kwiltyx",
+		"players_data":	[{
+				"name":	"kwiltyx",
+				"weblink":	"https://www.speedrun.com/user/kwiltyx",
+				"image":	"https://www.speedrun.com/static/user/81v2p438/image.png?v=55d1d8f"
+			}],
+		"weblink":	"https://www.speedrun.com/dead_by_daylight/run/zxpgr9gy"
+	}, {
+		"run_id":	"yjr5763z",
+		"verified_epoch":	1775156641,
+		"verified_iso":	"2026-04-02T19:04:01Z",
+		"game":	"Hex Bots",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxmw7d/cover.png?v=35037fc",
+		"category":	"Solo",
+		"level":	"The Science",
+		"subcats":	"Bots: Ounce, Completion: Any%",
+		"primary_t":	432.515,
+		"players":	"metpyllshat",
+		"players_data":	[{
+				"name":	"metpyllshat",
+				"weblink":	"https://www.speedrun.com/user/metpyllshat",
+				"image":	"https://www.speedrun.com/static/user/j5weowwj/image.png?v=dd653f2"
+			}],
+		"weblink":	"https://www.speedrun.com/Hex_Bots/run/yjr5763z"
+	}, {
+		"run_id":	"med4p69y",
+		"verified_epoch":	1775156459,
+		"verified_iso":	"2026-04-02T19:00:59Z",
+		"game":	"Chrono Gear: Warden of Time",
+		"game_cover":	"https://www.speedrun.com/static/game/46wr03n1/cover.png?v=fb47e2d",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Version: 1.0.23+, Difficulty: Proud, Subcategory: Inbounds",
+		"primary_t":	6848.66,
+		"players":	"Supersonic6427",
+		"players_data":	[{
+				"name":	"Supersonic6427",
+				"weblink":	"https://www.speedrun.com/user/Supersonic6427",
+				"image":	"https://www.speedrun.com/static/user/jop5ygex/image.png?v=71421f0"
+			}],
+		"weblink":	"https://www.speedrun.com/Chrono_Gear_Warden_of_Time/run/med4p69y"
+	}, {
+		"run_id":	"zxpop0ky",
+		"verified_epoch":	1775156249,
+		"verified_iso":	"2026-04-02T18:57:29Z",
+		"game":	"Marathon (2026)",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwkod/cover.png?v=12b4391",
+		"category":	"Tox Warden",
+		"level":	"Levels",
+		"subcats":	"Player Count: Rook",
+		"primary_t":	520,
+		"players":	"re6i",
+		"players_data":	[{
+				"name":	"re6i",
+				"weblink":	"https://www.speedrun.com/user/re6i",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Marathon_2026/run/zxpop0ky"
+	}, {
+		"run_id":	"yl2rnknz",
+		"verified_epoch":	1775155980,
+		"verified_iso":	"2026-04-02T18:53:00Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Solo",
+		"level":	"Maple Lodge Campsite",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Apocalypse 3, Mode: Perfect%",
+		"primary_t":	449.2,
+		"players":	"Qvark",
+		"players_data":	[{
+				"name":	"Qvark",
+				"weblink":	"https://www.speedrun.com/user/Qvark",
+				"image":	"https://www.speedrun.com/static/user/8l063mr8/image.png?v=750247e"
+			}],
+		"weblink":	"https://www.speedrun.com/phasmophobia/run/yl2rnknz"
+	}, {
+		"run_id":	"y9g380em",
+		"verified_epoch":	1775155953,
+		"verified_iso":	"2026-04-02T18:52:33Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Solo",
+		"level":	"Brownstone High School",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Custom (No Evidence), Mode: Perfect%",
+		"primary_t":	257.933,
+		"players":	"Qvark",
+		"players_data":	[{
+				"name":	"Qvark",
+				"weblink":	"https://www.speedrun.com/user/Qvark",
+				"image":	"https://www.speedrun.com/static/user/8l063mr8/image.png?v=750247e"
+			}],
+		"weblink":	"https://www.speedrun.com/phasmophobia/run/y9g380em"
+	}, {
+		"run_id":	"zqnvj6xz",
+		"verified_epoch":	1775155944,
+		"verified_iso":	"2026-04-02T18:52:24Z",
+		"game":	"Phasmophobia",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
+		"category":	"Solo",
+		"level":	"Maple Lodge Campsite",
+		"subcats":	"Server version: 0.13+, Desktop/Console or VR: Desktop/Console, Difficulty: Custom (No Evidence), Mode: Perfect%",
+		"primary_t":	192.5,
+		"players":	"Qvark",
+		"players_data":	[{
+				"name":	"Qvark",
+				"weblink":	"https://www.speedrun.com/user/Qvark",
+				"image":	"https://www.speedrun.com/static/user/8l063mr8/image.png?v=750247e"
+			}],
+		"weblink":	"https://www.speedrun.com/phasmophobia/run/zqnvj6xz"
+	}, {
+		"run_id":	"y8lel7wm",
+		"verified_epoch":	1775155928,
+		"verified_iso":	"2026-04-02T18:52:08Z",
+		"game":	"1348 Ex Voto",
+		"game_cover":	"https://www.speedrun.com/static/game/ldem37j1/cover.png?v=65aef21",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	4498,
+		"players":	"Hellgirl",
+		"players_data":	[{
+				"name":	"Hellgirl",
+				"weblink":	"https://www.speedrun.com/user/Hellgirl",
+				"image":	"https://www.speedrun.com/static/user/8lov5q48/image.png?v=7324734"
+			}],
+		"weblink":	"https://www.speedrun.com/1348_Ex_Voto/run/y8lel7wm"
+	}, {
+		"run_id":	"y4v7vdqy",
+		"verified_epoch":	1775155800,
+		"verified_iso":	"2026-04-02T18:50:00Z",
+		"game":	"Garudius 95",
+		"game_cover":	"https://www.speedrun.com/static/game/yd47k9kd/cover.png?v=42034ea",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Weapon Equip: EDIT",
+		"primary_t":	2443,
+		"players":	"Palefox_Hakurei",
+		"players_data":	[{
+				"name":	"Palefox_Hakurei",
+				"weblink":	"https://www.speedrun.com/user/Palefox_Hakurei",
+				"image":	"https://www.speedrun.com/static/user/jmzgowex/image.png?v=58c4c58"
+			}],
+		"weblink":	"https://www.speedrun.com/Garudius_95/run/y4v7vdqy"
+	}, {
+		"run_id":	"zqnv2j1z",
+		"verified_epoch":	1775155696,
+		"verified_iso":	"2026-04-02T18:48:16Z",
+		"game":	"Mario's New Earth",
+		"game_cover":	"https://www.speedrun.com/static/game/ldejz751/cover.png?v=70103a6",
+		"category":	"70 Star",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	2261,
+		"players":	"julien_",
+		"players_data":	[{
+				"name":	"julien_",
+				"weblink":	"https://www.speedrun.com/user/julien_",
+				"image":	"https://www.speedrun.com/static/user/x72km4y8/image.png?v=e76d5f2"
+			}],
+		"weblink":	"https://www.speedrun.com/marios_new_earth/run/zqnv2j1z"
+	}, {
+		"run_id":	"mrwe042y",
+		"verified_epoch":	1775155564,
+		"verified_iso":	"2026-04-02T18:46:04Z",
+		"game":	"Ravenfield",
+		"game_cover":	"https://www.speedrun.com/static/game/pd00xvde/cover.png?v=6736a89",
+		"category":	"Haunted",
+		"level":	"Tunnel",
+		"subcats":	"Version: EA 34, Version: EA 32+",
+		"primary_t":	1367,
+		"players":	"Luminous2212",
+		"players_data":	[{
+				"name":	"Luminous2212",
+				"weblink":	"https://www.speedrun.com/user/Luminous2212",
+				"image":	"https://www.speedrun.com/static/user/j47026dj/image.png?v=4b207e9"
+			}],
+		"weblink":	"https://www.speedrun.com/ravenfield/run/mrwe042y"
+	}, {
+		"run_id":	"y9g3gr2m",
+		"verified_epoch":	1775155540,
+		"verified_iso":	"2026-04-02T18:45:40Z",
+		"game":	"FISH (2025)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2wk8vd/cover.png?v=b677757",
+		"category":	"Spookland% (Major Glitches)",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	68,
+		"players":	"oop3000",
+		"players_data":	[{
+				"name":	"oop3000",
+				"weblink":	"https://www.speedrun.com/user/oop3000",
+				"image":	"https://www.speedrun.com/static/user/8ewz33d8/image.png?v=db8a418"
+			}],
+		"weblink":	"https://www.speedrun.com/FISH_2025/run/y9g3gr2m"
+	}, {
+		"run_id":	"med4d10y",
+		"verified_epoch":	1775155494,
+		"verified_iso":	"2026-04-02T18:44:54Z",
+		"game":	"Corebound",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
+		"category":	"Equal%",
+		"level":	"",
+		"subcats":	"Boosted: None, OneLevel: LS%, Version: 1.1.2",
+		"primary_t":	83.14,
+		"players":	"Polinium",
+		"players_data":	[{
+				"name":	"Polinium",
+				"weblink":	"https://www.speedrun.com/user/Polinium",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Corebound/run/med4d10y"
+	}, {
+		"run_id":	"yjr5rv7z",
+		"verified_epoch":	1775155350,
+		"verified_iso":	"2026-04-02T18:42:30Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Mission 4 - Vinland",
+		"subcats":	"",
+		"primary_t":	2426,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/yjr5rv7z"
+	}, {
+		"run_id":	"zn606e7y",
+		"verified_epoch":	1775155285,
+		"verified_iso":	"2026-04-02T18:41:25Z",
+		"game":	"Skylanders: Trap Team",
+		"game_cover":	"https://www.speedrun.com/static/game/j1l754dg/cover.png?v=c494187",
+		"category":	"Any%",
+		"level":	"1. Soda Springs",
+		"subcats":	"Timing: IGT, Solo or co-op?: Solo",
+		"primary_t":	52,
+		"players":	"Arkeyaner",
+		"players_data":	[{
+				"name":	"Arkeyaner",
+				"weblink":	"https://www.speedrun.com/user/Arkeyaner",
+				"image":	"https://www.speedrun.com/static/user/8eezeq78/icon?v=d8e29e0"
+			}],
+		"weblink":	"https://www.speedrun.com/skylanders_trap_team/run/zn606e7y"
+	}, {
+		"run_id":	"ywoko72m",
+		"verified_epoch":	1775155277,
+		"verified_iso":	"2026-04-02T18:41:17Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Mission 5 - Mississippi",
+		"subcats":	"",
+		"primary_t":	4420,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/ywoko72m"
+	}, {
+		"run_id":	"y4vedody",
+		"verified_epoch":	1775155208,
+		"verified_iso":	"2026-04-02T18:40:08Z",
+		"game":	"Skylanders: Trap Team",
+		"game_cover":	"https://www.speedrun.com/static/game/j1l754dg/cover.png?v=c494187",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Solo or co-op?: Solo, File amount: Multiple Files",
+		"primary_t":	2796,
+		"players":	"ExtraHotCheeto",
+		"players_data":	[{
+				"name":	"ExtraHotCheeto",
+				"weblink":	"https://www.speedrun.com/user/ExtraHotCheeto",
+				"image":	"https://www.speedrun.com/static/user/j423g4dx/image.png?v=b547cdc"
+			}],
+		"weblink":	"https://www.speedrun.com/skylanders_trap_team/run/y4vedody"
+	}, {
+		"run_id":	"z02766jm",
+		"verified_epoch":	1775155073,
+		"verified_iso":	"2026-04-02T18:37:53Z",
+		"game":	"The Ninja Warriors Once Again",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y977v6/cover.png?v=13dbdff",
+		"category":	"Raiden",
+		"level":	"",
+		"subcats":	"Difficulty: Hard",
+		"primary_t":	1980.79,
+		"players":	"GSLL",
+		"players_data":	[{
+				"name":	"GSLL",
+				"weblink":	"https://www.speedrun.com/user/GSLL",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/tnwoa/run/z02766jm"
+	}, {
+		"run_id":	"z5ndnrnz",
+		"verified_epoch":	1775155039,
+		"verified_iso":	"2026-04-02T18:37:19Z",
+		"game":	"Taiko no Tatsujin:Nijiiro ver.",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qpoyxd/cover.png?v=672c49d",
+		"category":	"1 Credit%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	22,
+		"players":	"taikosoup",
+		"players_data":	[{
+				"name":	"taikosoup",
+				"weblink":	"https://www.speedrun.com/user/taikosoup",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Taiko_no_TatsujinNijiiro_ver/run/z5ndnrnz"
+	}, {
+		"run_id":	"z02724jm",
+		"verified_epoch":	1775154978,
+		"verified_iso":	"2026-04-02T18:36:18Z",
+		"game":	"Scratchnapped",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mxwlj6/cover.png?v=54749e3",
+		"category":	"Any%",
+		"level":	"Level 4",
+		"subcats":	"",
+		"primary_t":	49.133,
+		"players":	"KingYeti15",
+		"players_data":	[{
+				"name":	"KingYeti15",
+				"weblink":	"https://www.speedrun.com/user/KingYeti15",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/scratchnapped/run/z02724jm"
+	}, {
+		"run_id":	"z0272j9m",
+		"verified_epoch":	1775154955,
+		"verified_iso":	"2026-04-02T18:35:55Z",
+		"game":	"Call of Duty: Modern Warfare 3",
+		"game_cover":	"https://www.speedrun.com/static/game/9dow271p/cover.png?v=123b04e",
+		"category":	"Recruit",
+		"level":	"Iron Clad*",
+		"subcats":	"",
+		"primary_t":	180.3,
+		"players":	"Banana-Protocol",
+		"players_data":	[{
+				"name":	"Banana-Protocol",
+				"weblink":	"https://www.speedrun.com/user/Banana-Protocol",
+				"image":	"https://www.speedrun.com/static/user/kj9z5gr8/image.png?v=23f2a7f"
+			}],
+		"weblink":	"https://www.speedrun.com/mw3/run/z0272j9m"
+	}, {
+		"run_id":	"z5nr63gz",
+		"verified_epoch":	1775154927,
+		"verified_iso":	"2026-04-02T18:35:27Z",
+		"game":	"The Ninja Warriors Once Again",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y977v6/cover.png?v=13dbdff",
+		"category":	"Multiplayer mode",
+		"level":	"",
+		"subcats":	"P1 character: Ninja, P2 character: Yaksha",
+		"primary_t":	1526.03,
+		"players":	"KefreyX6, sorp",
+		"players_data":	[{
+				"name":	"KefreyX6",
+				"weblink":	"https://www.speedrun.com/user/KefreyX6",
+				"image":	"https://www.speedrun.com/static/user/8w579lv8/image.png?v=be2cec1"
+			}, {
+				"name":	"sorp",
+				"weblink":	"https://www.speedrun.com/user/sorp",
+				"image":	"https://www.speedrun.com/static/user/zx72y4y8/image.png?v=432d17f"
+			}],
+		"weblink":	"https://www.speedrun.com/tnwoa/run/z5nr63gz"
+	}, {
+		"run_id":	"ydp5x6qy",
+		"verified_epoch":	1775154920,
+		"verified_iso":	"2026-04-02T18:35:20Z",
+		"game":	"Teen Titans Battle Blitz",
+		"game_cover":	"https://www.speedrun.com/static/game/j1ne0yy1/cover.png?v=7788e53",
+		"category":	"AnyVillain%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	189,
+		"players":	"ImmaGetDown",
+		"players_data":	[{
+				"name":	"ImmaGetDown",
+				"weblink":	"https://www.speedrun.com/user/ImmaGetDown",
+				"image":	"https://www.speedrun.com/static/user/jokr1wn8/image.png?v=0577923"
+			}],
+		"weblink":	"https://www.speedrun.com/teen_titans_battle_blitz/run/ydp5x6qy"
+	}, {
+		"run_id":	"ywoqnn2m",
+		"verified_epoch":	1775154825,
+		"verified_iso":	"2026-04-02T18:33:45Z",
+		"game":	"Tomb Raider I-VI Remastered Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/268957o1/cover.png?v=c07bf1c",
+		"category":	"Deathrun",
+		"level":	"Atlantean Stronghold",
+		"subcats":	"Control Scheme: Modern, Version: I-III Patch 7 (2026-03-12), NG+: No, Glitches: No Glitches",
+		"primary_t":	9.6,
+		"players":	"Radgryd",
+		"players_data":	[{
+				"name":	"Radgryd",
+				"weblink":	"https://www.speedrun.com/user/Radgryd",
+				"image":	"https://www.speedrun.com/static/user/j0nw6yw8/image.png?v=93d0192"
+			}],
+		"weblink":	"https://www.speedrun.com/tr123456_remastered_ce/run/ywoqnn2m"
+	}, {
+		"run_id":	"m387846y",
+		"verified_epoch":	1775154823,
+		"verified_iso":	"2026-04-02T18:33:43Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Mission 2 - Helluland",
+		"subcats":	"",
+		"primary_t":	2916,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/m387846y"
+	}, {
+		"run_id":	"m7j7j45m",
+		"verified_epoch":	1775154756,
+		"verified_iso":	"2026-04-02T18:32:36Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Mission 1 - Greenland",
+		"subcats":	"",
+		"primary_t":	391,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/m7j7j45m"
+	}, {
+		"run_id":	"zn60g69y",
+		"verified_epoch":	1775154726,
+		"verified_iso":	"2026-04-02T18:32:06Z",
+		"game":	"Streets of Rage 2 : New Era",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pxkj46/cover.png?v=522a9eb",
+		"category":	"NKB",
+		"level":	"",
+		"subcats":	"Difficulty: Very Easy, NKB Character: Blaze, Patch: V3.x",
+		"primary_t":	1504.06,
+		"players":	"DimDimych",
+		"players_data":	[{
+				"name":	"DimDimych",
+				"weblink":	"https://www.speedrun.com/user/DimDimych",
+				"image":	"https://www.speedrun.com/static/user/xkz7rvmx/image.png?v=98f64ae"
+			}],
+		"weblink":	"https://www.speedrun.com/sor2newera/run/zn60g69y"
+	}, {
+		"run_id":	"zg1r1jjz",
+		"verified_epoch":	1775154722,
+		"verified_iso":	"2026-04-02T18:32:02Z",
+		"game":	"Tomb Raider IV-VI Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/ldewppjd/cover.png?v=648ed0a",
+		"category":	"Individual Levels",
+		"level":	"Tomb of Ancients",
+		"subcats":	"Glitches: No glitches, Platform: PC, Control Scheme: All, Category (IL): Any%, Control Scheme: Modern, Version: IV-VI Patch 2 (2025-08-14)",
+		"primary_t":	78.233,
+		"players":	"Tequila",
+		"players_data":	[{
+				"name":	"Tequila",
+				"weblink":	"https://www.speedrun.com/user/Tequila",
+				"image":	"https://www.speedrun.com/static/user/mkj9dnx4/image.png?v=7c1cb59"
+			}],
+		"weblink":	"https://www.speedrun.com/tr456_remastered/run/zg1r1jjz"
+	}, {
+		"run_id":	"yl2rdw3z",
+		"verified_epoch":	1775154609,
+		"verified_iso":	"2026-04-02T18:30:09Z",
+		"game":	"IronMario 64",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3wnky1/cover.png?v=d3a1c48",
+		"category":	"Lite (Hardcore)",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	2580,
+		"players":	"BigfootTouchedMe",
+		"players_data":	[{
+				"name":	"BigfootTouchedMe",
+				"weblink":	"https://www.speedrun.com/user/BigfootTouchedMe",
+				"image":	"https://www.speedrun.com/static/user/18q5www8/image.png?v=8d8a77e"
+			}],
+		"weblink":	"https://www.speedrun.com/IronMario_64/run/yl2rdw3z"
+	}, {
+		"run_id":	"zxpv6k5y",
+		"verified_epoch":	1775154543,
+		"verified_iso":	"2026-04-02T18:29:03Z",
+		"game":	"The Ninja Warriors Once Again",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y977v6/cover.png?v=13dbdff",
+		"category":	"Ninja",
+		"level":	"Stage Final",
+		"subcats":	"Difficulty: Hard",
+		"primary_t":	284.06,
+		"players":	"Zzz-ZO",
+		"players_data":	[{
+				"name":	"Zzz-ZO",
+				"weblink":	"https://www.speedrun.com/user/Zzz-ZO",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/tnwoa/run/zxpv6k5y"
+	}, {
+		"run_id":	"ydpq96jy",
+		"verified_epoch":	1775154496,
+		"verified_iso":	"2026-04-02T18:28:16Z",
+		"game":	"The Ninja Warriors Once Again",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y977v6/cover.png?v=13dbdff",
+		"category":	"Ninja",
+		"level":	"Stage 1",
+		"subcats":	"Difficulty: Normal",
+		"primary_t":	69.67,
+		"players":	"Zzz-ZO",
+		"players_data":	[{
+				"name":	"Zzz-ZO",
+				"weblink":	"https://www.speedrun.com/user/Zzz-ZO",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/tnwoa/run/ydpq96jy"
+	}, {
+		"run_id":	"y8lellwm",
+		"verified_epoch":	1775154478,
+		"verified_iso":	"2026-04-02T18:27:58Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Tutorial 4",
+		"subcats":	"",
+		"primary_t":	218,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/y8lellwm"
+	}, {
+		"run_id":	"ydpeovxy",
+		"verified_epoch":	1775154351,
+		"verified_iso":	"2026-04-02T18:25:51Z",
+		"game":	"Backrooms: Escape Together",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj8n41/cover.png?v=61f0fac",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Player count (Any%): 1, Version: v0.13.4+",
+		"primary_t":	1494.24,
+		"players":	"panyeluo",
+		"players_data":	[{
+				"name":	"panyeluo",
+				"weblink":	"https://www.speedrun.com/user/panyeluo",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/bet/run/ydpeovxy"
+	}, {
+		"run_id":	"mr9jpngm",
+		"verified_epoch":	1775154320,
+		"verified_iso":	"2026-04-02T18:25:20Z",
+		"game":	"League of Legends",
+		"game_cover":	"https://www.speedrun.com/static/game/268xm51p/cover.png?v=6dbedca",
+		"category":	"5v5",
+		"level":	"",
+		"subcats":	"Patch: 10.18, Season: Season 10, Mode: Custom",
+		"primary_t":	325.95,
+		"players":	"UranyumEnes, bury, OrospuKarıcı, OrusBurak, Şişman Ouz",
+		"players_data":	[{
+				"name":	"UranyumEnes",
+				"weblink":	"https://www.speedrun.com/user/UranyumEnes",
+				"image":	"https://www.speedrun.com/static/user/j4rnwmw8/image.png?v=4dd5ee0"
+			}, {
+				"name":	"bury",
+				"weblink":	"https://www.speedrun.com/user/bury",
+				"image":	""
+			}, {
+				"name":	"OrospuKarıcı",
+				"weblink":	"",
+				"image":	""
+			}, {
+				"name":	"OrusBurak",
+				"weblink":	"",
+				"image":	""
+			}, {
+				"name":	"Şişman Ouz",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/lol/run/mr9jpngm"
+	}, {
+		"run_id":	"m7jgowem",
+		"verified_epoch":	1775154318,
+		"verified_iso":	"2026-04-02T18:25:18Z",
+		"game":	"Teen Titans Battle Blitz",
+		"game_cover":	"https://www.speedrun.com/static/game/j1ne0yy1/cover.png?v=7788e53",
+		"category":	"AnyHero%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	199,
+		"players":	"ImmaGetDown",
+		"players_data":	[{
+				"name":	"ImmaGetDown",
+				"weblink":	"https://www.speedrun.com/user/ImmaGetDown",
+				"image":	"https://www.speedrun.com/static/user/jokr1wn8/image.png?v=0577923"
+			}],
+		"weblink":	"https://www.speedrun.com/teen_titans_battle_blitz/run/m7jgowem"
+	}, {
+		"run_id":	"yo86851z",
+		"verified_epoch":	1775154107,
+		"verified_iso":	"2026-04-02T18:21:47Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Tutorial 3",
+		"subcats":	"",
+		"primary_t":	186,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/yo86851z"
+	}, {
+		"run_id":	"ywoko52m",
+		"verified_epoch":	1775154016,
+		"verified_iso":	"2026-04-02T18:20:16Z",
+		"game":	"Tigerball ",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkq0ned/cover.png?v=8a987b2",
+		"category":	"Free Throws",
+		"level":	"world 17",
+		"subcats":	"",
+		"primary_t":	25.96,
+		"players":	"HYPERL1NK",
+		"players_data":	[{
+				"name":	"HYPERL1NK",
+				"weblink":	"https://www.speedrun.com/user/HYPERL1NK",
+				"image":	"https://www.speedrun.com/static/user/joodvzej/image.png?v=b25e574"
+			}],
+		"weblink":	"https://www.speedrun.com/tigerball/run/ywoko52m"
+	}, {
+		"run_id":	"y8lenxdm",
+		"verified_epoch":	1775153899,
+		"verified_iso":	"2026-04-02T18:18:19Z",
+		"game":	"Granny 2 Reimagined",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr9846/cover.png?v=8257a76",
+		"category":	"Game Over%",
+		"level":	"",
+		"subcats":	"Platform Sub-category: Mobile, Difficulty: Extreme",
+		"primary_t":	111.033,
+		"players":	"qwaisy",
+		"players_data":	[{
+				"name":	"qwaisy",
+				"weblink":	"https://www.speedrun.com/user/qwaisy",
+				"image":	"https://www.speedrun.com/static/user/jm0wn7z8/image.png?v=89ca9df"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_2_Reimagined/run/y8lenxdm"
+	}, {
+		"run_id":	"y2676rjm",
+		"verified_epoch":	1775153858,
+		"verified_iso":	"2026-04-02T18:17:38Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Tutorial 2",
+		"subcats":	"",
+		"primary_t":	420,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/y2676rjm"
+	}, {
+		"run_id":	"mkx5xrlz",
+		"verified_epoch":	1775153657,
+		"verified_iso":	"2026-04-02T18:14:17Z",
+		"game":	"New Super Mario Bros. Versus Frosted",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxyo5g6/cover.png?v=ac5e9dc",
+		"category":	"Multiplayer",
+		"level":	"Bricks",
+		"subcats":	"Stars [MP]: 1 Star, Players [MP]: 2P",
+		"primary_t":	1.433,
+		"players":	"RockieSpeedruns, k0fu",
+		"players_data":	[{
+				"name":	"RockieSpeedruns",
+				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
+				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
+			}, {
+				"name":	"k0fu",
+				"weblink":	"https://www.speedrun.com/user/k0fu",
+				"image":	"https://www.speedrun.com/static/user/x3pk7pk8/image.png?v=446d6b2"
+			}],
+		"weblink":	"https://www.speedrun.com/nsmbvs_frosted/run/mkx5xrlz"
+	}, {
+		"run_id":	"m7j7jv9m",
+		"verified_epoch":	1775153595,
+		"verified_iso":	"2026-04-02T18:13:15Z",
+		"game":	"Cultures: Discovery of Vinland",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9woo1/cover.png?v=4403c9d",
+		"category":	"Any%",
+		"level":	"Tutorial 1",
+		"subcats":	"",
+		"primary_t":	244,
+		"players":	"AlenorEmblem",
+		"players_data":	[{
+				"name":	"AlenorEmblem",
+				"weblink":	"https://www.speedrun.com/user/AlenorEmblem",
+				"image":	"https://www.speedrun.com/static/user/xyo5nyyj/image.png?v=dd47fb6"
+			}],
+		"weblink":	"https://www.speedrun.com/Cultures_Discovery_of_Vinland/run/m7j7jv9m"
+	}, {
+		"run_id":	"ydpep4xy",
+		"verified_epoch":	1775153541,
+		"verified_iso":	"2026-04-02T18:12:21Z",
+		"game":	"Rabbit & Steel",
+		"game_cover":	"https://www.speedrun.com/static/game/j1n4yqe6/cover.png?v=c303c0c",
+		"category":	"Two Player",
+		"level":	"",
+		"subcats":	"Difficulty: Cute, Player 1 Rabbit: Grenadier, Player 2 Rabbit: Dancer, Destination: Extra",
+		"primary_t":	872.417,
+		"players":	"dosufura, Luik",
+		"players_data":	[{
+				"name":	"dosufura",
+				"weblink":	"https://www.speedrun.com/user/dosufura",
+				"image":	"https://www.speedrun.com/static/user/jmpov2ej/image.png?v=30da432"
+			}, {
+				"name":	"Luik",
+				"weblink":	"https://www.speedrun.com/user/Luik",
+				"image":	"https://www.speedrun.com/static/user/8lped97j/image.png?v=52be11d"
+			}],
+		"weblink":	"https://www.speedrun.com/Rabbit__Steel/run/ydpep4xy"
+	}, {
 		"run_id":	"med4d22y",
 		"verified_epoch":	1775153363,
 		"verified_iso":	"2026-04-02T18:09:23Z",
@@ -15333,2685 +16279,4 @@
 				"image":	"https://www.speedrun.com/static/user/86r4rrw8/image.png?v=0371ac1"
 			}],
 		"weblink":	"https://www.speedrun.com/xmen_1992/run/y2677r6m"
-	}, {
-		"run_id":	"zxpoxoey",
-		"verified_epoch":	1775071622,
-		"verified_iso":	"2026-04-01T19:27:02Z",
-		"game":	"DEADLINE DELIVERY",
-		"game_cover":	"https://www.speedrun.com/static/game/y65z5476/cover.png?v=486e4ec",
-		"category":	"Full Game",
-		"level":	"Postal",
-		"subcats":	"Garage: Camper Van",
-		"primary_t":	16.4,
-		"players":	"BigBenner",
-		"players_data":	[{
-				"name":	"BigBenner",
-				"weblink":	"https://www.speedrun.com/user/BigBenner",
-				"image":	"https://www.speedrun.com/static/user/xkz5l17x/image.png?v=da22f03"
-			}],
-		"weblink":	"https://www.speedrun.com/DEADLINE_DELIVERY/run/zxpoxoey"
-	}, {
-		"run_id":	"med4n89y",
-		"verified_epoch":	1775071599,
-		"verified_iso":	"2026-04-01T19:26:39Z",
-		"game":	"Slender: The Arrival",
-		"game_cover":	"https://www.speedrun.com/static/game/76rlz568/cover.png?v=9afa389",
-		"category":	"Normal",
-		"level":	"Chapter 1: Prologue",
-		"subcats":	"",
-		"primary_t":	147.317,
-		"players":	"Marcieloxxx",
-		"players_data":	[{
-				"name":	"Marcieloxxx",
-				"weblink":	"https://www.speedrun.com/user/Marcieloxxx",
-				"image":	"https://www.speedrun.com/static/user/joke3rl8/image.png?v=7cf3bdc"
-			}],
-		"weblink":	"https://www.speedrun.com/slender_the_arrival/run/med4n89y"
-	}, {
-		"run_id":	"y6wdoppz",
-		"verified_epoch":	1775071319,
-		"verified_iso":	"2026-04-01T19:21:59Z",
-		"game":	"The Legend of Zelda: Tears of the Kingdom",
-		"game_cover":	"https://www.speedrun.com/static/game/v1px9276/cover.png?v=9488997",
-		"category":	"Glitchless",
-		"level":	"",
-		"subcats":	"Patch: 1.4.3, Amiibo: No Amiibo, Platform: Digital, Sub Category: Any%, Version - Glitchless: Switch 2 Edition",
-		"primary_t":	3555,
-		"players":	"MrKorok",
-		"players_data":	[{
-				"name":	"MrKorok",
-				"weblink":	"https://www.speedrun.com/user/MrKorok",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/totk/run/y6wdoppz"
-	}, {
-		"run_id":	"yveo174m",
-		"verified_epoch":	1775071300,
-		"verified_iso":	"2026-04-01T19:21:40Z",
-		"game":	"Hogwarts Legacy Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lqeej6/cover.png?v=8ffa0cc",
-		"category":	"First Day",
-		"level":	"",
-		"subcats":	"First Day - Intro: Intro, Difficulty: Story, Platform: PC, House: Ravenclaw, Downpatched: Yes",
-		"primary_t":	2120,
-		"players":	"awehero",
-		"players_data":	[{
-				"name":	"awehero",
-				"weblink":	"https://www.speedrun.com/user/awehero",
-				"image":	"https://www.speedrun.com/static/user/x3pg39e8/image.png?v=26fdf98"
-			}],
-		"weblink":	"https://www.speedrun.com/legacy_ce/run/yveo174m"
-	}, {
-		"run_id":	"z10rqljm",
-		"verified_epoch":	1775071009,
-		"verified_iso":	"2026-04-01T19:16:49Z",
-		"game":	"ULTRAKILL",
-		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
-		"category":	"No Monsters",
-		"level":	"8-4: Final Flight",
-		"subcats":	"Patch: -- EA 17b2 (3/4/26) --, Revamp Split: Post-Revamp, Extra Subcategory: Inbounds Weaponless",
-		"primary_t":	22.552,
-		"players":	"JayTsu6",
-		"players_data":	[{
-				"name":	"JayTsu6",
-				"weblink":	"https://www.speedrun.com/user/JayTsu6",
-				"image":	"https://www.speedrun.com/static/user/jm629wo8/image.png?v=2cd3de2"
-			}],
-		"weblink":	"https://www.speedrun.com/ultrakill/run/z10rqljm"
-	}, {
-		"run_id":	"yo86q47z",
-		"verified_epoch":	1775070714,
-		"verified_iso":	"2026-04-01T19:11:54Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"(1-1) – Welcome to Scrambled!",
-		"subcats":	"",
-		"primary_t":	87.42,
-		"players":	"Xanz",
-		"players_data":	[{
-				"name":	"Xanz",
-				"weblink":	"https://www.speedrun.com/user/Xanz",
-				"image":	"https://www.speedrun.com/static/user/68wq42v8/image.png?v=2000729"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/yo86q47z"
-	}, {
-		"run_id":	"yjr540oz",
-		"verified_epoch":	1775070538,
-		"verified_iso":	"2026-04-01T19:08:58Z",
-		"game":	"Star Wars: Battlefront II",
-		"game_cover":	"https://www.speedrun.com/static/game/j1neg91p/cover.png?v=cbfde33",
-		"category":	"Kamino",
-		"level":	"Search All IL Times Here",
-		"subcats":	"Kamino: Conquest [CW], Version: 1.1",
-		"primary_t":	103.783,
-		"players":	"Starfy_99",
-		"players_data":	[{
-				"name":	"Starfy_99",
-				"weblink":	"https://www.speedrun.com/user/Starfy_99",
-				"image":	"https://www.speedrun.com/static/user/qjo70vex/image.png?v=fb1d321"
-			}],
-		"weblink":	"https://www.speedrun.com/swbf2/run/yjr540oz"
-	}, {
-		"run_id":	"y6w9g31z",
-		"verified_epoch":	1775070487,
-		"verified_iso":	"2026-04-01T19:08:07Z",
-		"game":	"Mario & Sonic at the Olympic Winter Games (DS) Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxyx246/cover.png?v=9ab825b",
-		"category":	"Rocket Ski Jumping (fly as far away as possible)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	262929.78,
-		"players":	"The_Challenger99",
-		"players_data":	[{
-				"name":	"The_Challenger99",
-				"weblink":	"https://www.speedrun.com/user/The_Challenger99",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/CE/run/y6w9g31z"
-	}, {
-		"run_id":	"y4v7j9ny",
-		"verified_epoch":	1775070389,
-		"verified_iso":	"2026-04-01T19:06:29Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"(3-8) – Boosting Bonanza!",
-		"subcats":	"",
-		"primary_t":	24.12,
-		"players":	"RealMim",
-		"players_data":	[{
-				"name":	"RealMim",
-				"weblink":	"https://www.speedrun.com/user/RealMim",
-				"image":	"https://www.speedrun.com/static/user/j03gl33j/image.png?v=8d34059"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/y4v7j9ny"
-	}, {
-		"run_id":	"yjr54qdz",
-		"verified_epoch":	1775070359,
-		"verified_iso":	"2026-04-01T19:05:59Z",
-		"game":	"Star Wars: Battlefront II",
-		"game_cover":	"https://www.speedrun.com/static/game/j1neg91p/cover.png?v=cbfde33",
-		"category":	"Kamino",
-		"level":	"Search All IL Times Here",
-		"subcats":	"Kamino: Conquest [GCW], Version: 1.1",
-		"primary_t":	105.117,
-		"players":	"Starfy_99",
-		"players_data":	[{
-				"name":	"Starfy_99",
-				"weblink":	"https://www.speedrun.com/user/Starfy_99",
-				"image":	"https://www.speedrun.com/static/user/qjo70vex/image.png?v=fb1d321"
-			}],
-		"weblink":	"https://www.speedrun.com/swbf2/run/yjr54qdz"
-	}, {
-		"run_id":	"y4v733qy",
-		"verified_epoch":	1775070247,
-		"verified_iso":	"2026-04-01T19:04:07Z",
-		"game":	"Star Wars: Battlefront II",
-		"game_cover":	"https://www.speedrun.com/static/game/j1neg91p/cover.png?v=cbfde33",
-		"category":	"Kamino",
-		"level":	"Search All IL Times Here",
-		"subcats":	"Kamino: Conquest [GCW], Version: 1.2",
-		"primary_t":	105.117,
-		"players":	"Maddirisa",
-		"players_data":	[{
-				"name":	"Maddirisa",
-				"weblink":	"https://www.speedrun.com/user/Maddirisa",
-				"image":	"https://www.speedrun.com/static/user/zx7dy5rx/image.png?v=7428db2"
-			}],
-		"weblink":	"https://www.speedrun.com/swbf2/run/y4v733qy"
-	}, {
-		"run_id":	"mrwn2edy",
-		"verified_epoch":	1775070195,
-		"verified_iso":	"2026-04-01T19:03:15Z",
-		"game":	"Sonic Mania",
-		"game_cover":	"https://www.speedrun.com/static/game/268yw5dp/cover.png?v=d3ada84",
-		"category":	"Sonic",
-		"level":	"Stardust Speedway 1",
-		"subcats":	"Mode: Mania Mode, Patch version: Plus",
-		"primary_t":	45.37,
-		"players":	"Xandre_",
-		"players_data":	[{
-				"name":	"Xandre_",
-				"weblink":	"https://www.speedrun.com/user/Xandre_",
-				"image":	"https://www.speedrun.com/static/user/zx7gvpyx/image.png?v=a2dacc4"
-			}],
-		"weblink":	"https://www.speedrun.com/sonic_mania/run/mrwn2edy"
-	}, {
-		"run_id":	"y9g3povm",
-		"verified_epoch":	1775070167,
-		"verified_iso":	"2026-04-01T19:02:47Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"(1-3) – Secret of the Abandoned Forest!",
-		"subcats":	"",
-		"primary_t":	70.8,
-		"players":	"Xanz",
-		"players_data":	[{
-				"name":	"Xanz",
-				"weblink":	"https://www.speedrun.com/user/Xanz",
-				"image":	"https://www.speedrun.com/static/user/68wq42v8/image.png?v=2000729"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/y9g3povm"
-	}, {
-		"run_id":	"zqnvqj1z",
-		"verified_epoch":	1775070164,
-		"verified_iso":	"2026-04-01T19:02:44Z",
-		"game":	"ROBLOX: Flee The Facility",
-		"game_cover":	"https://www.speedrun.com/static/game/46wpg3dr/cover.png?v=8756144",
-		"category":	"Beast",
-		"level":	"",
-		"subcats":	"Beast - Map: Nuclear Power Plant, Survivors Captured: Two Captures, Perk: Runner",
-		"primary_t":	60,
-		"players":	"xp34rix",
-		"players_data":	[{
-				"name":	"xp34rix",
-				"weblink":	"https://www.speedrun.com/user/xp34rix",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/roblox_ftf/run/zqnvqj1z"
-	}, {
-		"run_id":	"yo86qv7z",
-		"verified_epoch":	1775070077,
-		"verified_iso":	"2026-04-01T19:01:17Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"(1-2) – Morning Land Rail Replacement Service!",
-		"subcats":	"",
-		"primary_t":	113.71,
-		"players":	"RealMim",
-		"players_data":	[{
-				"name":	"RealMim",
-				"weblink":	"https://www.speedrun.com/user/RealMim",
-				"image":	"https://www.speedrun.com/static/user/j03gl33j/image.png?v=8d34059"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/yo86qv7z"
-	}, {
-		"run_id":	"zn609w8y",
-		"verified_epoch":	1775069941,
-		"verified_iso":	"2026-04-01T18:59:01Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"(6-3) – The Ultimate Test of Courage!",
-		"subcats":	"",
-		"primary_t":	103.24,
-		"players":	"RealMim",
-		"players_data":	[{
-				"name":	"RealMim",
-				"weblink":	"https://www.speedrun.com/user/RealMim",
-				"image":	"https://www.speedrun.com/static/user/j03gl33j/image.png?v=8d34059"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/zn609w8y"
-	}, {
-		"run_id":	"y261dr6m",
-		"verified_epoch":	1775069861,
-		"verified_iso":	"2026-04-01T18:57:41Z",
-		"game":	"Mario Kart 8 Deluxe",
-		"game_cover":	"https://www.speedrun.com/static/game/46w0n91r/cover.png?v=264b144",
-		"category":	"Retro Tracks",
-		"level":	"",
-		"subcats":	"cc: 200cc, Version: Cartridge, Patch Number: 2.3.0+, Items: No Items, Platform: Nintendo Switch 2",
-		"primary_t":	2113,
-		"players":	"Milescolin",
-		"players_data":	[{
-				"name":	"Milescolin",
-				"weblink":	"https://www.speedrun.com/user/Milescolin",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mk8dx/run/y261dr6m"
-	}, {
-		"run_id":	"yve6wkom",
-		"verified_epoch":	1775069729,
-		"verified_iso":	"2026-04-01T18:55:29Z",
-		"game":	"Super Mario Galaxy Series Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/y654je8d/cover.png?v=682c935",
-		"category":	"484 Stars",
-		"level":	"",
-		"subcats":	"Mode: 2P, Run Type: Relay, Release: Remaster",
-		"primary_t":	80087,
-		"players":	"Cheesy, PlayerGameSK",
-		"players_data":	[{
-				"name":	"Cheesy",
-				"weblink":	"https://www.speedrun.com/user/Cheesy",
-				"image":	"https://www.speedrun.com/static/user/e8e2gw68/image.png?v=6406b69"
-			}, {
-				"name":	"PlayerGameSK",
-				"weblink":	"https://www.speedrun.com/user/PlayerGameSK",
-				"image":	"https://www.speedrun.com/static/user/qj2m9kn8/image.png?v=01c42e5"
-			}],
-		"weblink":	"https://www.speedrun.com/smgce/run/yve6wkom"
-	}, {
-		"run_id":	"mr53llgy",
-		"verified_epoch":	1775069722,
-		"verified_iso":	"2026-04-01T18:55:22Z",
-		"game":	"Super Mario Galaxy Series Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/y654je8d/cover.png?v=682c935",
-		"category":	"132 Stars",
-		"level":	"",
-		"subcats":	"Mode: 1P, Release: 3DAS",
-		"primary_t":	22281,
-		"players":	"calumj28",
-		"players_data":	[{
-				"name":	"calumj28",
-				"weblink":	"https://www.speedrun.com/user/calumj28",
-				"image":	"https://www.speedrun.com/static/user/86rd5958/image.png?v=5c98121"
-			}],
-		"weblink":	"https://www.speedrun.com/smgce/run/mr53llgy"
-	}, {
-		"run_id":	"y9g3d4nm",
-		"verified_epoch":	1775069686,
-		"verified_iso":	"2026-04-01T18:54:46Z",
-		"game":	"Billy Hatcher Scrambled!",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Timing Method: New File",
-		"primary_t":	6449,
-		"players":	"Kyrrone",
-		"players_data":	[{
-				"name":	"Kyrrone",
-				"weblink":	"https://www.speedrun.com/user/Kyrrone",
-				"image":	"https://www.speedrun.com/static/user/v8le3qrx/image.png?v=65de9a8"
-			}],
-		"weblink":	"https://www.speedrun.com/Billy_Hatcher_Scrambled/run/y9g3d4nm"
-	}, {
-		"run_id":	"mkx51plz",
-		"verified_epoch":	1775069672,
-		"verified_iso":	"2026-04-01T18:54:32Z",
-		"game":	"Burglin' Gnomes",
-		"game_cover":	"https://www.speedrun.com/static/game/9dokw7e1/cover.png?v=325c3b1",
-		"category":	"All Tasks Tutorial",
-		"level":	"",
-		"subcats":	"Player Count: Duo",
-		"primary_t":	128,
-		"players":	"RubyBlock, TheP8",
-		"players_data":	[{
-				"name":	"RubyBlock",
-				"weblink":	"https://www.speedrun.com/user/RubyBlock",
-				"image":	"https://www.speedrun.com/static/user/8q54oyq8/image.png?v=5a7ee29"
-			}, {
-				"name":	"TheP8",
-				"weblink":	"https://www.speedrun.com/user/TheP8",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Burglin_Gnomes/run/mkx51plz"
-	}, {
-		"run_id":	"yo86o2dz",
-		"verified_epoch":	1775069620,
-		"verified_iso":	"2026-04-01T18:53:40Z",
-		"game":	"Hollow Knight: Silksong Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4r2x51/cover.png?v=42d3f70",
-		"category":	"All Bellways",
-		"level":	"",
-		"subcats":	"Patch: 1.0.30000, All Bellways Subcategory: No Major Glitches",
-		"primary_t":	2633,
-		"players":	"8Biggy",
-		"players_data":	[{
-				"name":	"8Biggy",
-				"weblink":	"https://www.speedrun.com/user/8Biggy",
-				"image":	"https://www.speedrun.com/static/user/8wgr55lx/image.png?v=3652c99"
-			}],
-		"weblink":	"https://www.speedrun.com/silksongmemes/run/yo86o2dz"
-	}, {
-		"run_id":	"mkx51j5z",
-		"verified_epoch":	1775069604,
-		"verified_iso":	"2026-04-01T18:53:24Z",
-		"game":	"ROBLOX: Speed Run 4 Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/j1llvy71/cover.png?v=5d9da48",
-		"category":	"Skips",
-		"level":	"Donut Goldmines (Level 7)",
-		"subcats":	"Game Version: Current",
-		"primary_t":	1.97,
-		"players":	"AngelWings",
-		"players_data":	[{
-				"name":	"AngelWings",
-				"weblink":	"https://www.speedrun.com/user/AngelWings",
-				"image":	"https://www.speedrun.com/static/user/xk1o4y7j/image.png?v=5eaa968"
-			}],
-		"weblink":	"https://www.speedrun.com/robloxsr4ce/run/mkx51j5z"
-	}, {
-		"run_id":	"zxpo81qy",
-		"verified_epoch":	1775069581,
-		"verified_iso":	"2026-04-01T18:53:01Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"All Maps",
-		"level":	"",
-		"subcats":	"Custom Powers: With, Number of Players: 4P, Stars to Collect: 1 Star",
-		"primary_t":	441.183,
-		"players":	"kayli, Gaming_64, VANCANTORUS, Nype",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"Gaming_64",
-				"weblink":	"https://www.speedrun.com/user/Gaming_64",
-				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
-			}, {
-				"name":	"VANCANTORUS",
-				"weblink":	"https://www.speedrun.com/user/VANCANTORUS",
-				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=daa6414"
-			}, {
-				"name":	"Nype",
-				"weblink":	"https://www.speedrun.com/user/Nype",
-				"image":	"https://www.speedrun.com/static/user/x3wyvw2j/image.png?v=6c09e62"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/zxpo81qy"
-	}, {
-		"run_id":	"m387xpwy",
-		"verified_epoch":	1775069566,
-		"verified_iso":	"2026-04-01T18:52:46Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"All Maps",
-		"level":	"",
-		"subcats":	"Custom Powers: With, Number of Players: 2P, Stars to Collect: 1 Star",
-		"primary_t":	387.667,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/m387xpwy"
-	}, {
-		"run_id":	"yo86x1jz",
-		"verified_epoch":	1775069523,
-		"verified_iso":	"2026-04-01T18:52:03Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Undersea",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.833,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yo86x1jz"
-	}, {
-		"run_id":	"med4gr8y",
-		"verified_epoch":	1775069520,
-		"verified_iso":	"2026-04-01T18:52:00Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shifting Labyrinth",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	58.783,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/med4gr8y"
-	}, {
-		"run_id":	"yl2rxg3z",
-		"verified_epoch":	1775069518,
-		"verified_iso":	"2026-04-01T18:51:58Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Tiny Huge Island",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.933,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yl2rxg3z"
-	}, {
-		"run_id":	"yjr590nz",
-		"verified_epoch":	1775069516,
-		"verified_iso":	"2026-04-01T18:51:56Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Spooky Mansion",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.033,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yjr590nz"
-	}, {
-		"run_id":	"ywokx99m",
-		"verified_epoch":	1775069513,
-		"verified_iso":	"2026-04-01T18:51:53Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"The Closet In The Garage",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	68.533,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ywokx99m"
-	}, {
-		"run_id":	"zn60xnly",
-		"verified_epoch":	1775069511,
-		"verified_iso":	"2026-04-01T18:51:51Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Zip Block Skyway",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	2.7,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zn60xnly"
-	}, {
-		"run_id":	"yveoxdem",
-		"verified_epoch":	1775069509,
-		"verified_iso":	"2026-04-01T18:51:49Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Donuts",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.917,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yveoxdem"
-	}, {
-		"run_id":	"y8lep7nm",
-		"verified_epoch":	1775069507,
-		"verified_iso":	"2026-04-01T18:51:47Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Campless",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.733,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y8lep7nm"
-	}, {
-		"run_id":	"y6w9e1jz",
-		"verified_epoch":	1775069504,
-		"verified_iso":	"2026-04-01T18:51:44Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Jungle Split",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.65,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y6w9e1jz"
-	}, {
-		"run_id":	"z027qg8m",
-		"verified_epoch":	1775069502,
-		"verified_iso":	"2026-04-01T18:51:42Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Wall Slip",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.45,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z027qg8m"
-	}, {
-		"run_id":	"y267wowm",
-		"verified_epoch":	1775069500,
-		"verified_iso":	"2026-04-01T18:51:40Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Tornado Lift",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.35,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y267wowm"
-	}, {
-		"run_id":	"zqnvql8z",
-		"verified_epoch":	1775069497,
-		"verified_iso":	"2026-04-01T18:51:37Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Final Destination",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	0.75,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zqnvql8z"
-	}, {
-		"run_id":	"y4v7ldky",
-		"verified_epoch":	1775069495,
-		"verified_iso":	"2026-04-01T18:51:35Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"PipeStripe",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	24.55,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y4v7ldky"
-	}, {
-		"run_id":	"m387jpqy",
-		"verified_epoch":	1775069493,
-		"verified_iso":	"2026-04-01T18:51:33Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"RandomRace",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	19.733,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m387jpqy"
-	}, {
-		"run_id":	"z5ndgqez",
-		"verified_epoch":	1775069490,
-		"verified_iso":	"2026-04-01T18:51:30Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Blizzardus Eruption",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	45.717,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z5ndgqez"
-	}, {
-		"run_id":	"zxpox18y",
-		"verified_epoch":	1775069488,
-		"verified_iso":	"2026-04-01T18:51:28Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Scripulous Mansion",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.833,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zxpox18y"
-	}, {
-		"run_id":	"mrwnxg7y",
-		"verified_epoch":	1775069486,
-		"verified_iso":	"2026-04-01T18:51:26Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Golden Cove",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	6.7,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mrwnxg7y"
-	}, {
-		"run_id":	"m7j7okwm",
-		"verified_epoch":	1775069484,
-		"verified_iso":	"2026-04-01T18:51:24Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Poisonous Fields",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.833,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m7j7okwm"
-	}, {
-		"run_id":	"mkx5165z",
-		"verified_epoch":	1775069481,
-		"verified_iso":	"2026-04-01T18:51:21Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Spleef Beat",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	2.317,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mkx5165z"
-	}, {
-		"run_id":	"z10xnerm",
-		"verified_epoch":	1775069479,
-		"verified_iso":	"2026-04-01T18:51:19Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Beat Block Skyway",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z10xnerm"
-	}, {
-		"run_id":	"ydpel70y",
-		"verified_epoch":	1775069476,
-		"verified_iso":	"2026-04-01T18:51:16Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Cloudy Ruins",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.283,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ydpel70y"
-	}, {
-		"run_id":	"yo86xwjz",
-		"verified_epoch":	1775069474,
-		"verified_iso":	"2026-04-01T18:51:14Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Lethal Tides",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.583,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yo86xwjz"
-	}, {
-		"run_id":	"med4gq8y",
-		"verified_epoch":	1775069471,
-		"verified_iso":	"2026-04-01T18:51:11Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"NUKE Factory",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	2.617,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/med4gq8y"
-	}, {
-		"run_id":	"zg1ro5nz",
-		"verified_epoch":	1775069468,
-		"verified_iso":	"2026-04-01T18:51:08Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Water Run Castle",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	2.183,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zg1ro5nz"
-	}, {
-		"run_id":	"yl2rx83z",
-		"verified_epoch":	1775069466,
-		"verified_iso":	"2026-04-01T18:51:06Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Skyward Stalk",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	7.883,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yl2rx83z"
-	}, {
-		"run_id":	"yjr59vnz",
-		"verified_epoch":	1775069463,
-		"verified_iso":	"2026-04-01T18:51:03Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"VB Land",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	6,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yjr59vnz"
-	}, {
-		"run_id":	"ywokx79m",
-		"verified_epoch":	1775069461,
-		"verified_iso":	"2026-04-01T18:51:01Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Cliffside Slide",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	6.333,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ywokx79m"
-	}, {
-		"run_id":	"zn60xlly",
-		"verified_epoch":	1775069458,
-		"verified_iso":	"2026-04-01T18:50:58Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shadow Play",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.667,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zn60xlly"
-	}, {
-		"run_id":	"y8lep4nm",
-		"verified_epoch":	1775069456,
-		"verified_iso":	"2026-04-01T18:50:56Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Frosted Forest",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	9.983,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y8lep4nm"
-	}, {
-		"run_id":	"y6w9e4jz",
-		"verified_epoch":	1775069454,
-		"verified_iso":	"2026-04-01T18:50:54Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Breath Of The Shark Zombie Wild",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	18.333,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y6w9e4jz"
-	}, {
-		"run_id":	"z027q48m",
-		"verified_epoch":	1775069452,
-		"verified_iso":	"2026-04-01T18:50:52Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shark Zombie 3",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.267,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z027q48m"
-	}, {
-		"run_id":	"y267w4wm",
-		"verified_epoch":	1775069449,
-		"verified_iso":	"2026-04-01T18:50:49Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shark Zombie 2",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.067,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y267w4wm"
-	}, {
-		"run_id":	"zqnvqo8z",
-		"verified_epoch":	1775069447,
-		"verified_iso":	"2026-04-01T18:50:47Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shark Zombie",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.617,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zqnvqo8z"
-	}, {
-		"run_id":	"y4v7l4ky",
-		"verified_epoch":	1775069445,
-		"verified_iso":	"2026-04-01T18:50:45Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shark Zombie (Old)",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	6.283,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y4v7l4ky"
-	}, {
-		"run_id":	"m387j4qy",
-		"verified_epoch":	1775069443,
-		"verified_iso":	"2026-04-01T18:50:43Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Sky Limits",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.383,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m387j4qy"
-	}, {
-		"run_id":	"z5ndg4ez",
-		"verified_epoch":	1775069440,
-		"verified_iso":	"2026-04-01T18:50:40Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Sky Spleef",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	0.85,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z5ndg4ez"
-	}, {
-		"run_id":	"zxpoxr8y",
-		"verified_epoch":	1775069438,
-		"verified_iso":	"2026-04-01T18:50:38Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Stellar Spleef",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	0.617,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zxpoxr8y"
-	}, {
-		"run_id":	"mrwnxp7y",
-		"verified_epoch":	1775069436,
-		"verified_iso":	"2026-04-01T18:50:36Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Giddy Sky",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.667,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mrwnxp7y"
-	}, {
-		"run_id":	"m7j7o4wm",
-		"verified_epoch":	1775069433,
-		"verified_iso":	"2026-04-01T18:50:33Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Rainy Sky",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.4,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m7j7o4wm"
-	}, {
-		"run_id":	"mkx51n5z",
-		"verified_epoch":	1775069431,
-		"verified_iso":	"2026-04-01T18:50:31Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Pipe Pond",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.383,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mkx51n5z"
-	}, {
-		"run_id":	"z10xn4rm",
-		"verified_epoch":	1775069429,
-		"verified_iso":	"2026-04-01T18:50:29Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Toxic Plant",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.433,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z10xn4rm"
-	}, {
-		"run_id":	"y9g3dqnm",
-		"verified_epoch":	1775069426,
-		"verified_iso":	"2026-04-01T18:50:26Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Mushroom Valley",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.133,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y9g3dqnm"
-	}, {
-		"run_id":	"ydpelx0y",
-		"verified_epoch":	1775069424,
-		"verified_iso":	"2026-04-01T18:50:24Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Desert Spikes",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.183,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ydpelx0y"
-	}, {
-		"run_id":	"zpv8xerz",
-		"verified_epoch":	1775069422,
-		"verified_iso":	"2026-04-01T18:50:22Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Beach",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.283,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zpv8xerz"
-	}, {
-		"run_id":	"yo86xgjz",
-		"verified_epoch":	1775069420,
-		"verified_iso":	"2026-04-01T18:50:20Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Pillars",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.55,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yo86xgjz"
-	}, {
-		"run_id":	"med4g58y",
-		"verified_epoch":	1775069417,
-		"verified_iso":	"2026-04-01T18:50:17Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Caves",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.35,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/med4g58y"
-	}, {
-		"run_id":	"zg1ro0nz",
-		"verified_epoch":	1775069415,
-		"verified_iso":	"2026-04-01T18:50:15Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Butter Buffles",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	7.867,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zg1ro0nz"
-	}, {
-		"run_id":	"yl2rxw3z",
-		"verified_epoch":	1775069413,
-		"verified_iso":	"2026-04-01T18:50:13Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Yoshi Forest",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.15,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yl2rxw3z"
-	}, {
-		"run_id":	"yjr59rnz",
-		"verified_epoch":	1775069410,
-		"verified_iso":	"2026-04-01T18:50:10Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Warp Run",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.517,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yjr59rnz"
-	}, {
-		"run_id":	"ywokxo9m",
-		"verified_epoch":	1775069408,
-		"verified_iso":	"2026-04-01T18:50:08Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Grieving Gears",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.833,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ywokxo9m"
-	}, {
-		"run_id":	"yveoxeem",
-		"verified_epoch":	1775069406,
-		"verified_iso":	"2026-04-01T18:50:06Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Freezing Pond",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	6.35,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yveoxeem"
-	}, {
-		"run_id":	"y8leplnm",
-		"verified_epoch":	1775069403,
-		"verified_iso":	"2026-04-01T18:50:03Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Bamboozling Jungle",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	2.367,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y8leplnm"
-	}, {
-		"run_id":	"z027q28m",
-		"verified_epoch":	1775069401,
-		"verified_iso":	"2026-04-01T18:50:01Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Autumn Trees",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.183,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z027q28m"
-	}, {
-		"run_id":	"y267w6wm",
-		"verified_epoch":	1775069399,
-		"verified_iso":	"2026-04-01T18:49:59Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Sandy Sewars",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	8.467,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y267w6wm"
-	}, {
-		"run_id":	"zqnvqn8z",
-		"verified_epoch":	1775069396,
-		"verified_iso":	"2026-04-01T18:49:56Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"KKT Pound",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.933,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zqnvqn8z"
-	}, {
-		"run_id":	"y4v7lvky",
-		"verified_epoch":	1775069394,
-		"verified_iso":	"2026-04-01T18:49:54Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Thwomp Volcano",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.667,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y4v7lvky"
-	}, {
-		"run_id":	"m387j8qy",
-		"verified_epoch":	1775069392,
-		"verified_iso":	"2026-04-01T18:49:52Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Shining Falls",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.05,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m387j8qy"
-	}, {
-		"run_id":	"z5ndgnez",
-		"verified_epoch":	1775069389,
-		"verified_iso":	"2026-04-01T18:49:49Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Wubba Ruins",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.417,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z5ndgnez"
-	}, {
-		"run_id":	"zxpoxp8y",
-		"verified_epoch":	1775069387,
-		"verified_iso":	"2026-04-01T18:49:47Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Desert (Old)",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.083,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zxpoxp8y"
-	}, {
-		"run_id":	"mrwnxw7y",
-		"verified_epoch":	1775069384,
-		"verified_iso":	"2026-04-01T18:49:44Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Jungle (Old)",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.883,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mrwnxw7y"
-	}, {
-		"run_id":	"m7j7ojwm",
-		"verified_epoch":	1775069382,
-		"verified_iso":	"2026-04-01T18:49:42Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Bonus (Old)",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	5.6,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/m7j7ojwm"
-	}, {
-		"run_id":	"mkx51x5z",
-		"verified_epoch":	1775069380,
-		"verified_iso":	"2026-04-01T18:49:40Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Volcano (Old)",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.133,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/mkx51x5z"
-	}, {
-		"run_id":	"z10xn0rm",
-		"verified_epoch":	1775069378,
-		"verified_iso":	"2026-04-01T18:49:38Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Level Template",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.8,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/z10xn0rm"
-	}, {
-		"run_id":	"y9g3dgnm",
-		"verified_epoch":	1775069375,
-		"verified_iso":	"2026-04-01T18:49:35Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Debug",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.117,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y9g3dgnm"
-	}, {
-		"run_id":	"ydpelp0y",
-		"verified_epoch":	1775069373,
-		"verified_iso":	"2026-04-01T18:49:33Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Chris Level",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.35,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/ydpelp0y"
-	}, {
-		"run_id":	"zpv8xvrz",
-		"verified_epoch":	1775069371,
-		"verified_iso":	"2026-04-01T18:49:31Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Unused Lakitu Desert",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	40.95,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zpv8xvrz"
-	}, {
-		"run_id":	"yo86x8jz",
-		"verified_epoch":	1775069368,
-		"verified_iso":	"2026-04-01T18:49:28Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Unused Bros Desert",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	25.9,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yo86x8jz"
-	}, {
-		"run_id":	"med4gd8y",
-		"verified_epoch":	1775069366,
-		"verified_iso":	"2026-04-01T18:49:26Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Unused Door District",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	4.833,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/med4gd8y"
-	}, {
-		"run_id":	"yl2rx23z",
-		"verified_epoch":	1775069364,
-		"verified_iso":	"2026-04-01T18:49:24Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Unused Circle Fortress",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.917,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yl2rx23z"
-	}, {
-		"run_id":	"yjr597nz",
-		"verified_epoch":	1775069362,
-		"verified_iso":	"2026-04-01T18:49:22Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Unused Grass Graze",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.433,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/yjr597nz"
-	}, {
-		"run_id":	"zn60x5ly",
-		"verified_epoch":	1775069357,
-		"verified_iso":	"2026-04-01T18:49:17Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Remix PIPES!!!",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	3.983,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/zn60x5ly"
-	}, {
-		"run_id":	"y6w9e8jz",
-		"verified_epoch":	1775069348,
-		"verified_iso":	"2026-04-01T18:49:08Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"Multiplayer",
-		"level":	"Volcano",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Stars [MP]: 1 Star, Players [MP]: 2P, Star Frequency [MP]: 10s (default)",
-		"primary_t":	1.617,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y6w9e8jz"
-	}, {
-		"run_id":	"y9g501rm",
-		"verified_epoch":	1775069347,
-		"verified_iso":	"2026-04-01T18:49:07Z",
-		"game":	"Mario Kart 8 Deluxe",
-		"game_cover":	"https://www.speedrun.com/static/game/46w0n91r/cover.png?v=264b144",
-		"category":	"DLC Cups",
-		"level":	"",
-		"subcats":	"Individual Cup: Golden Dash Cup, cc: 150cc, Version: Cartridge, Patch Number: 2.3.0+, Items: No Items, Platform: Nintendo Switch 2",
-		"primary_t":	529,
-		"players":	"cab457",
-		"players_data":	[{
-				"name":	"cab457",
-				"weblink":	"https://www.speedrun.com/user/cab457",
-				"image":	"https://www.speedrun.com/static/user/xyywn6yx/image.png?v=9ba7b7d"
-			}],
-		"weblink":	"https://www.speedrun.com/mk8dx/run/y9g501rm"
-	}, {
-		"run_id":	"yl2r10nz",
-		"verified_epoch":	1775069324,
-		"verified_iso":	"2026-04-01T18:48:44Z",
-		"game":	"Call of Duty: Black Ops 7 Zombies",
-		"game_cover":	"https://www.speedrun.com/static/game/46wrk371/cover.png?v=dbdbdf0",
-		"category":	"Pardox Junction",
-		"level":	"",
-		"subcats":	"Player Count: 2 Players, PD Gobblegum Ruleset: All Gumes, PD Categories: Main Quest, PD Game Mode: Standard Mode, PD Rampage Inducer: RI On, PD Ruleset: No Major Skips",
-		"primary_t":	3518.06,
-		"players":	"RioWright, Patrick_westmore",
-		"players_data":	[{
-				"name":	"RioWright",
-				"weblink":	"https://www.speedrun.com/user/RioWright",
-				"image":	""
-			}, {
-				"name":	"Patrick_westmore",
-				"weblink":	"https://www.speedrun.com/user/Patrick_westmore",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Bo7Zombies/run/yl2r10nz"
-	}, {
-		"run_id":	"y4v7gw3y",
-		"verified_epoch":	1775069296,
-		"verified_iso":	"2026-04-01T18:48:16Z",
-		"game":	"NSMB Mario Vs Luigi - KKT's Gooffy little Mod",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkq49xd/cover.png?v=1c85255",
-		"category":	"All Maps",
-		"level":	"",
-		"subcats":	"Hazards: Enabled, Character Abilities: Enabled, Star Frequency [AM]: 10s (default), Players [AM]: 2P, Stars [AM]: 1 Star",
-		"primary_t":	1834.4,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/kktglm/run/y4v7gw3y"
-	}, {
-		"run_id":	"y6wdp6jz",
-		"verified_epoch":	1775069173,
-		"verified_iso":	"2026-04-01T18:46:13Z",
-		"game":	"The Legend of Zelda: Breath of the Wild",
-		"game_cover":	"https://www.speedrun.com/static/game/76rqjqd8/cover.png?v=4982d54",
-		"category":	"All Main Quests",
-		"level":	"",
-		"subcats":	"DLC Goals (AMQ): Original, amiibo: No amiibo, Patch: 1.9, Restrictions (AMQ): Restricted, Method: RTA, Version: 1.9 Switch 1 Edition",
-		"primary_t":	10779,
-		"players":	"VietnamNoOoh",
-		"players_data":	[{
-				"name":	"VietnamNoOoh",
-				"weblink":	"https://www.speedrun.com/user/VietnamNoOoh",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/botw/run/y6wdp6jz"
-	}, {
-		"run_id":	"yo86xe1z",
-		"verified_epoch":	1775068834,
-		"verified_iso":	"2026-04-01T18:40:34Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Old Jungle",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	1.517,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/yo86xe1z"
-	}, {
-		"run_id":	"med4g2qy",
-		"verified_epoch":	1775068832,
-		"verified_iso":	"2026-04-01T18:40:32Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Battlefield",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	0.767,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/med4g2qy"
-	}, {
-		"run_id":	"z027q0jm",
-		"verified_epoch":	1775068813,
-		"verified_iso":	"2026-04-01T18:40:13Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Beach",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	1.967,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/z027q0jm"
-	}, {
-		"run_id":	"m387jv6y",
-		"verified_epoch":	1775068804,
-		"verified_iso":	"2026-04-01T18:40:04Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Old Volcano",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	2.55,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/m387jv6y"
-	}, {
-		"run_id":	"z5ndgwdz",
-		"verified_epoch":	1775068802,
-		"verified_iso":	"2026-04-01T18:40:02Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Desert",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	1.5,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/z5ndgwdz"
-	}, {
-		"run_id":	"med4gnqy",
-		"verified_epoch":	1775068799,
-		"verified_iso":	"2026-04-01T18:39:59Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-6-2 Taking Back Castle Helmgart",
-		"subcats":	"",
-		"primary_t":	461.75,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/med4gnqy"
-	}, {
-		"run_id":	"mkx51w3z",
-		"verified_epoch":	1775068794,
-		"verified_iso":	"2026-04-01T18:39:54Z",
-		"game":	"Derealization",
-		"game_cover":	"https://www.speedrun.com/static/game/268pwz5d/cover.png?v=fd3d1f5",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Player Count: 1 Player",
-		"primary_t":	1112.467,
-		"players":	"funeral",
-		"players_data":	[{
-				"name":	"funeral",
-				"weblink":	"https://www.speedrun.com/user/funeral",
-				"image":	"https://www.speedrun.com/static/user/819pyypx/image.png?v=3e795fd"
-			}],
-		"weblink":	"https://www.speedrun.com/Derealization/run/mkx51w3z"
-	}, {
-		"run_id":	"zqnvqk5z",
-		"verified_epoch":	1775068794,
-		"verified_iso":	"2026-04-01T18:39:54Z",
-		"game":	"Cruelty Squad",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pxmg86/cover.png?v=de23f0f",
-		"category":	"Cursed Stock Weapons",
-		"level":	"Archon Grid",
-		"subcats":	"",
-		"primary_t":	23.786,
-		"players":	"sim0nn",
-		"players_data":	[{
-				"name":	"sim0nn",
-				"weblink":	"https://www.speedrun.com/user/sim0nn",
-				"image":	"https://www.speedrun.com/static/user/xkpdyo2j/image.png?v=b1a1d88"
-			}],
-		"weblink":	"https://www.speedrun.com/cruelty_squad/run/zqnvqk5z"
-	}, {
-		"run_id":	"ydpel4qy",
-		"verified_epoch":	1775068790,
-		"verified_iso":	"2026-04-01T18:39:50Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Ice",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	2.667,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/ydpel4qy"
-	}, {
-		"run_id":	"zpv8xonz",
-		"verified_epoch":	1775068788,
-		"verified_iso":	"2026-04-01T18:39:48Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Pipes",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	1.25,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/zpv8xonz"
-	}, {
-		"run_id":	"yo86xq1z",
-		"verified_epoch":	1775068786,
-		"verified_iso":	"2026-04-01T18:39:46Z",
-		"game":	"New Super Mario Bros. Versus: Moddimation VS Lust",
-		"game_cover":	"https://www.speedrun.com/static/game/j1ln04e6/cover.png?v=ce7dd0c",
-		"category":	"Multiplayer",
-		"level":	"Fortress",
-		"subcats":	"Number of Players: 2P, Stars to Collect: 1 Star, Custom Powers: With",
-		"primary_t":	3.767,
-		"players":	"kayli, RockieSpeedruns",
-		"players_data":	[{
-				"name":	"kayli",
-				"weblink":	"https://www.speedrun.com/user/kayli",
-				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=85811d2"
-			}, {
-				"name":	"RockieSpeedruns",
-				"weblink":	"https://www.speedrun.com/user/RockieSpeedruns",
-				"image":	"https://www.speedrun.com/static/user/xk6v1v78/image.png?v=e6422aa"
-			}],
-		"weblink":	"https://www.speedrun.com/NSMBVSMVL/run/yo86xq1z"
-	}, {
-		"run_id":	"mkx7nv1z",
-		"verified_epoch":	1775068763,
-		"verified_iso":	"2026-04-01T18:39:23Z",
-		"game":	"Escape the Backrooms",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxkwoy1/cover.png?v=7e01c97",
-		"category":	"Solo",
-		"level":	"Water Damage",
-		"subcats":	"Part (Water Damage): The Manilla Room, Category: Any%",
-		"primary_t":	13.85,
-		"players":	"goo666",
-		"players_data":	[{
-				"name":	"goo666",
-				"weblink":	"https://www.speedrun.com/user/goo666",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/etb/run/mkx7nv1z"
-	}, {
-		"run_id":	"y6w9egqz",
-		"verified_epoch":	1775068693,
-		"verified_iso":	"2026-04-01T18:38:13Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-6-1 Defense of Castle Helmgart",
-		"subcats":	"",
-		"primary_t":	337.875,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/y6w9egqz"
-	}, {
-		"run_id":	"mkx5qr5z",
-		"verified_epoch":	1775068654,
-		"verified_iso":	"2026-04-01T18:37:34Z",
-		"game":	"Super Mario Galaxy 2",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkzlgdm/cover.png?v=5955170",
-		"category":	"Single Star",
-		"level":	"Bowser Jr.'s Fearsome Fleet",
-		"subcats":	"Star: Green Star 1, Character: Mario, Mode: 1P, Modified: Unmodded, Release: Remaster",
-		"primary_t":	15.23,
-		"players":	"syanburu",
-		"players_data":	[{
-				"name":	"syanburu",
-				"weblink":	"https://www.speedrun.com/user/syanburu",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/smg2/run/mkx5qr5z"
-	}, {
-		"run_id":	"y9g3klrm",
-		"verified_epoch":	1775068637,
-		"verified_iso":	"2026-04-01T18:37:17Z",
-		"game":	"Super Mario Galaxy 2",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkzlgdm/cover.png?v=5955170",
-		"category":	"Single Star",
-		"level":	"Flip-Out Galaxy",
-		"subcats":	"Character: Mario, Mode: 1P, Modified: Unmodded, Star: Cosmic Clone Wall Jumpers, Release: Remaster",
-		"primary_t":	80.81,
-		"players":	"syanburu",
-		"players_data":	[{
-				"name":	"syanburu",
-				"weblink":	"https://www.speedrun.com/user/syanburu",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/smg2/run/y9g3klrm"
-	}, {
-		"run_id":	"y267wnjm",
-		"verified_epoch":	1775068620,
-		"verified_iso":	"2026-04-01T18:37:00Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-5 Defense of Bogenhafen",
-		"subcats":	"",
-		"primary_t":	292.75,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/y267wnjm"
-	}, {
-		"run_id":	"z027j88m",
-		"verified_epoch":	1775068551,
-		"verified_iso":	"2026-04-01T18:35:51Z",
-		"game":	"ULTRAKILL",
-		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
-		"category":	"Layer Inbounds",
-		"level":	"",
-		"subcats":	"Patch: -- EA 17b2 (3/4/26) --, Layer Number Inbounds: Gluttony, Revamp Split: Post-Revamp",
-		"primary_t":	68.763,
-		"players":	"wintrylotus",
-		"players_data":	[{
-				"name":	"wintrylotus",
-				"weblink":	"https://www.speedrun.com/user/wintrylotus",
-				"image":	"https://www.speedrun.com/static/user/j5qyvzqj/image.png?v=62e1811"
-			}],
-		"weblink":	"https://www.speedrun.com/ultrakill/run/z027j88m"
-	}, {
-		"run_id":	"zxpoxjgy",
-		"verified_epoch":	1775068530,
-		"verified_iso":	"2026-04-01T18:35:30Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-4 Bandits Attack",
-		"subcats":	"",
-		"primary_t":	177.5,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/zxpoxjgy"
-	}, {
-		"run_id":	"y4v2qoqy",
-		"verified_epoch":	1775068505,
-		"verified_iso":	"2026-04-01T18:35:05Z",
-		"game":	"Tattletail",
-		"game_cover":	"https://www.speedrun.com/static/game/o1ym8k1q/cover.png?v=634e229",
-		"category":	"100%",
-		"level":	"December 22nd (Mama's Boy)",
-		"subcats":	"",
-		"primary_t":	122.76,
-		"players":	"slowstortion",
-		"players_data":	[{
-				"name":	"slowstortion",
-				"weblink":	"https://www.speedrun.com/user/slowstortion",
-				"image":	"https://www.speedrun.com/static/user/8lk03vrx/image.png?v=e37cf35"
-			}],
-		"weblink":	"https://www.speedrun.com/tattletail/run/y4v2qoqy"
-	}, {
-		"run_id":	"ywokxk3m",
-		"verified_epoch":	1775068464,
-		"verified_iso":	"2026-04-01T18:34:24Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.0",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Difficulty: Easy, Grandpa: Grandpa",
-		"primary_t":	25.517,
-		"players":	"kupch666",
-		"players_data":	[{
-				"name":	"kupch666",
-				"weblink":	"https://www.speedrun.com/user/kupch666",
-				"image":	"https://www.speedrun.com/static/user/j9ywv6ox/image.png?v=06e32b7"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/run/ywokxk3m"
-	}, {
-		"run_id":	"z5ndgx5z",
-		"verified_epoch":	1775068406,
-		"verified_iso":	"2026-04-01T18:33:26Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.7",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Set Seed, Sub-category: Any% Glitched, Difficulty: Easy, Grandpa: No Grandpa, Ending: Door Ending",
-		"primary_t":	47.75,
-		"players":	"kupch666",
-		"players_data":	[{
-				"name":	"kupch666",
-				"weblink":	"https://www.speedrun.com/user/kupch666",
-				"image":	"https://www.speedrun.com/static/user/j9ywv6ox/image.png?v=06e32b7"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/run/z5ndgx5z"
-	}, {
-		"run_id":	"y9g3dp2m",
-		"verified_epoch":	1775068381,
-		"verified_iso":	"2026-04-01T18:33:01Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-3 Grissberg",
-		"subcats":	"",
-		"primary_t":	292.333,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/y9g3dp2m"
-	}, {
-		"run_id":	"y8leppwm",
-		"verified_epoch":	1775068132,
-		"verified_iso":	"2026-04-01T18:28:52Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-2 Border Princes",
-		"subcats":	"",
-		"primary_t":	150.708,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/y8leppwm"
-	}, {
-		"run_id":	"y26vpp7m",
-		"verified_epoch":	1775068129,
-		"verified_iso":	"2026-04-01T18:28:49Z",
-		"game":	"Tattletail",
-		"game_cover":	"https://www.speedrun.com/static/game/o1ym8k1q/cover.png?v=634e229",
-		"category":	"100%",
-		"level":	"December 20th (A Night to Remember)",
-		"subcats":	"",
-		"primary_t":	100.71,
-		"players":	"slowstortion",
-		"players_data":	[{
-				"name":	"slowstortion",
-				"weblink":	"https://www.speedrun.com/user/slowstortion",
-				"image":	"https://www.speedrun.com/static/user/8lk03vrx/image.png?v=e37cf35"
-			}],
-		"weblink":	"https://www.speedrun.com/tattletail/run/y26vpp7m"
-	}, {
-		"run_id":	"zn60xp7y",
-		"verified_epoch":	1775067904,
-		"verified_iso":	"2026-04-01T18:25:04Z",
-		"game":	"Barro GT",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yj4yv1/cover.png?v=688a7f4",
-		"category":	"Time Trial",
-		"level":	"Race Track #19",
-		"subcats":	"",
-		"primary_t":	33.515,
-		"players":	"grzesgaming",
-		"players_data":	[{
-				"name":	"grzesgaming",
-				"weblink":	"https://www.speedrun.com/user/grzesgaming",
-				"image":	"https://www.speedrun.com/static/user/jpy1em0j/image.png?v=0cd7afe"
-			}],
-		"weblink":	"https://www.speedrun.com/barro_gt/run/zn60xp7y"
-	}, {
-		"run_id":	"z5ndggdz",
-		"verified_epoch":	1775067897,
-		"verified_iso":	"2026-04-01T18:24:57Z",
-		"game":	"Warhammer: Dark Omen",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q9w5o1/cover.png?v=6863817",
-		"category":	"Any%",
-		"level":	"1-1 Trading Post",
-		"subcats":	"",
-		"primary_t":	163.317,
-		"players":	"Lovenfloofen",
-		"players_data":	[{
-				"name":	"Lovenfloofen",
-				"weblink":	"https://www.speedrun.com/user/Lovenfloofen",
-				"image":	"https://www.speedrun.com/static/user/jm6nwr48/image.png?v=1087987"
-			}],
-		"weblink":	"https://www.speedrun.com/Warhammer_Dark_Omen/run/z5ndggdz"
-	}, {
-		"run_id":	"zpv8xn8z",
-		"verified_epoch":	1775067831,
-		"verified_iso":	"2026-04-01T18:23:51Z",
-		"game":	"Rocket Racing",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxkvod/cover.png?v=c423bf4",
-		"category":	"Speed Run",
-		"level":	"Anaconda",
-		"subcats":	"Speed Run Level Type: Glitched, Version: 44.00",
-		"primary_t":	21.892,
-		"players":	"Btw_skull",
-		"players_data":	[{
-				"name":	"Btw_skull",
-				"weblink":	"https://www.speedrun.com/user/Btw_skull",
-				"image":	"https://www.speedrun.com/static/user/8eorr06j/image.png?v=6471acb"
-			}],
-		"weblink":	"https://www.speedrun.com/Rocket_Racing/run/zpv8xn8z"
-	}, {
-		"run_id":	"mkx5113z",
-		"verified_epoch":	1775067784,
-		"verified_iso":	"2026-04-01T18:23:04Z",
-		"game":	"Skylanders: Imaginators",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7mnnd7/cover.png?v=5494671",
-		"category":	"Any%",
-		"level":	"Chapter 1: Cradle of Creation",
-		"subcats":	"Character Limits: All Characters, Players: Solo",
-		"primary_t":	165.167,
-		"players":	"MourningBouquet",
-		"players_data":	[{
-				"name":	"MourningBouquet",
-				"weblink":	"https://www.speedrun.com/user/MourningBouquet",
-				"image":	"https://www.speedrun.com/static/user/8rmzlz6j/image.png?v=40dc295"
-			}],
-		"weblink":	"https://www.speedrun.com/skylanders_imaginators/run/mkx5113z"
-	}, {
-		"run_id":	"zxpo308y",
-		"verified_epoch":	1775067694,
-		"verified_iso":	"2026-04-01T18:21:34Z",
-		"game":	"Super Crate Box",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jrn4dj/cover.png?v=7ba0695",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	928.717,
-		"players":	"proackse",
-		"players_data":	[{
-				"name":	"proackse",
-				"weblink":	"https://www.speedrun.com/user/proackse",
-				"image":	"https://www.speedrun.com/static/user/jmyz96ej/image.png?v=d209aa2"
-			}],
-		"weblink":	"https://www.speedrun.com/supercratebox/run/zxpo308y"
-	}, {
-		"run_id":	"zg1rol0z",
-		"verified_epoch":	1775067670,
-		"verified_iso":	"2026-04-01T18:21:10Z",
-		"game":	"Skylanders: Imaginators",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7mnnd7/cover.png?v=5494671",
-		"category":	"Any%",
-		"level":	"Chapter 1: Cradle of Creation",
-		"subcats":	"Character Limits: No Imaginators, Players: Solo",
-		"primary_t":	165.167,
-		"players":	"MourningBouquet",
-		"players_data":	[{
-				"name":	"MourningBouquet",
-				"weblink":	"https://www.speedrun.com/user/MourningBouquet",
-				"image":	"https://www.speedrun.com/static/user/8rmzlz6j/image.png?v=40dc295"
-			}],
-		"weblink":	"https://www.speedrun.com/skylanders_imaginators/run/zg1rol0z"
-	}, {
-		"run_id":	"y68qjkpz",
-		"verified_epoch":	1775067608,
-		"verified_iso":	"2026-04-01T18:20:08Z",
-		"game":	"Rhythm Doctor",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qw4vx6/cover.png?v=9223f06",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Difficulty: Normal, Blindfolded: Unblindfolded, Samurai Mode: No Samurai",
-		"primary_t":	5882.203,
-		"players":	"MineKing1K",
-		"players_data":	[{
-				"name":	"MineKing1K",
-				"weblink":	"https://www.speedrun.com/user/MineKing1K",
-				"image":	"https://www.speedrun.com/static/user/jn23911j/image.png?v=c05dfa7"
-			}],
-		"weblink":	"https://www.speedrun.com/rhythmdr/run/y68qjkpz"
-	}, {
-		"run_id":	"zn637j9y",
-		"verified_epoch":	1775067308,
-		"verified_iso":	"2026-04-01T18:15:08Z",
-		"game":	"Hades 2",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxy5vv6/cover.png?v=ca754c9",
-		"category":	"62 Fear",
-		"level":	"",
-		"subcats":	"Surface/Underworld: Underworld, Game Version: v1.13x, Unseeded/Seeded: Unseeded, Major Patch: Post Release Patch 1, Aspect: Moros Flames",
-		"primary_t":	939.95,
-		"players":	"frankentas",
-		"players_data":	[{
-				"name":	"frankentas",
-				"weblink":	"https://www.speedrun.com/user/frankentas",
-				"image":	"https://www.speedrun.com/static/user/8qn57l08/image.png?v=3592cc3"
-			}],
-		"weblink":	"https://www.speedrun.com/hades2/run/zn637j9y"
-	}, {
-		"run_id":	"zg9e73nm",
-		"verified_epoch":	1775067300,
-		"verified_iso":	"2026-04-01T18:15:00Z",
-		"game":	"Rhythm Doctor",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qw4vx6/cover.png?v=9223f06",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Difficulty: Easy, Blindfolded: Unblindfolded, Samurai Mode: No Samurai",
-		"primary_t":	5357.861,
-		"players":	"tora26",
-		"players_data":	[{
-				"name":	"tora26",
-				"weblink":	"https://www.speedrun.com/user/tora26",
-				"image":	"https://www.speedrun.com/static/user/j4036vl8/icon?v=b2cb4c6"
-			}],
-		"weblink":	"https://www.speedrun.com/rhythmdr/run/zg9e73nm"
-	}, {
-		"run_id":	"zqnvd58z",
-		"verified_epoch":	1775067233,
-		"verified_iso":	"2026-04-01T18:13:53Z",
-		"game":	"ULTRAKILL",
-		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
-		"category":	"No Monsters",
-		"level":	"8-4: Final Flight",
-		"subcats":	"Patch: -- EA 17b2 (3/4/26) --, Revamp Split: Post-Revamp, Extra Subcategory: Inbounds Weaponless",
-		"primary_t":	21.475,
-		"players":	"ghostkurbzzz",
-		"players_data":	[{
-				"name":	"ghostkurbzzz",
-				"weblink":	"https://www.speedrun.com/user/ghostkurbzzz",
-				"image":	"https://www.speedrun.com/static/user/jn14pyq8/image.png?v=3476866"
-			}],
-		"weblink":	"https://www.speedrun.com/ultrakill/run/zqnvd58z"
-	}, {
-		"run_id":	"zxpow6ey",
-		"verified_epoch":	1775067116,
-		"verified_iso":	"2026-04-01T18:11:56Z",
-		"game":	"ULTRAKILL",
-		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
-		"category":	"P Rank",
-		"level":	"1-E: ...Then Fell The Ashes",
-		"subcats":	"Patch: -- EA 17b2 (3/4/26) --, Revamp Split: Post-Revamp, Extra Subcategory: Inbounds",
-		"primary_t":	213.442,
-		"players":	"hakitadrew2",
-		"players_data":	[{
-				"name":	"hakitadrew2",
-				"weblink":	"https://www.speedrun.com/user/hakitadrew2",
-				"image":	"https://www.speedrun.com/static/user/xzy3w40j/image.png?v=951b385"
-			}],
-		"weblink":	"https://www.speedrun.com/ultrakill/run/zxpow6ey"
-	}, {
-		"run_id":	"zxpowwgy",
-		"verified_epoch":	1775067008,
-		"verified_iso":	"2026-04-01T18:10:08Z",
-		"game":	"ULTRAKILL",
-		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
-		"category":	"Any%",
-		"level":	"4-1: Slaves To Power",
-		"subcats":	"Patch: -- EA 17b2 (3/4/26) --, Revamp Split: Post-Revamp, Extra Subcategory: Inbounds",
-		"primary_t":	6.895,
-		"players":	"Bammy16",
-		"players_data":	[{
-				"name":	"Bammy16",
-				"weblink":	"https://www.speedrun.com/user/Bammy16",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ultrakill/run/zxpowwgy"
 	}]
