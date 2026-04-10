@@ -1,4 +1,2553 @@
 [{
+		"run_id":	"m386486y",
+		"verified_epoch":	1775808396,
+		"verified_iso":	"2026-04-10T08:06:36Z",
+		"game":	"Resident Evil 5 (Steam)",
+		"game_cover":	"https://www.speedrun.com/static/game/369po01l/cover.png?v=62aacd3",
+		"category":	"DLC",
+		"level":	"",
+		"subcats":	"DLC Campaign: Lost In Nightmares, Character: Chris, Solo/Co-op: Solo, FPS: Unlocked, Game Version: 1.2.0, Run Type: Glitched, Difficulty: Amateur, Timing Method: LRT",
+		"primary_t":	503.85,
+		"players":	"Lisiastya",
+		"players_data":	[{
+				"name":	"Lisiastya",
+				"weblink":	"https://www.speedrun.com/users/Lisiastya",
+				"image":	"https://www.speedrun.com/static/user/jonqn478/image.png?v=6dd68a0"
+			}],
+		"weblink":	"https://www.speedrun.com/re5steam/runs/m386486y"
+	}, {
+		"run_id":	"z5n2d6nz",
+		"verified_epoch":	1775808003,
+		"verified_iso":	"2026-04-10T08:00:03Z",
+		"game":	"Warcraft II: Tides of Darkness",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yry26q/cover.png?v=dc30d92",
+		"category":	"Missions and Acts",
+		"level":	"Orc 11: The Dead Rise as Quel'Thalas Falls",
+		"subcats":	"Fog of War: Fog Enabled",
+		"primary_t":	415,
+		"players":	"MSerGios",
+		"players_data":	[{
+				"name":	"MSerGios",
+				"weblink":	"https://www.speedrun.com/users/MSerGios",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/wc2/runs/z5n2d6nz"
+	}, {
+		"run_id":	"zxp7o55y",
+		"verified_epoch":	1775807777,
+		"verified_iso":	"2026-04-10T07:56:17Z",
+		"game":	"Warcraft II: Tides of Darkness",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yry26q/cover.png?v=dc30d92",
+		"category":	"Missions and Acts",
+		"level":	"Orc Act 3: Quel'Thalas",
+		"subcats":	"Fog of War: Fog Enabled",
+		"primary_t":	1221,
+		"players":	"MSerGios",
+		"players_data":	[{
+				"name":	"MSerGios",
+				"weblink":	"https://www.speedrun.com/users/MSerGios",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/wc2/runs/zxp7o55y"
+	}, {
+		"run_id":	"z5nd43gz",
+		"verified_epoch":	1775807607,
+		"verified_iso":	"2026-04-10T07:53:27Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 8, Seeds: Non-seeded, Character: Roundrel",
+		"primary_t":	1234,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/z5nd43gz"
+	}, {
+		"run_id":	"mkx5n45z",
+		"verified_epoch":	1775807570,
+		"verified_iso":	"2026-04-10T07:52:50Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 8, Seeds: Non-seeded, Character: Peglin",
+		"primary_t":	738,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/mkx5n45z"
+	}, {
+		"run_id":	"med4dqqy",
+		"verified_epoch":	1775807539,
+		"verified_iso":	"2026-04-10T07:52:19Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 7, Seeds: Non-seeded, Character: Spinventor",
+		"primary_t":	750,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/med4dqqy"
+	}, {
+		"run_id":	"yjr5rqoz",
+		"verified_epoch":	1775807510,
+		"verified_iso":	"2026-04-10T07:51:50Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 7, Seeds: Non-seeded, Character: Roundrel",
+		"primary_t":	907,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/yjr5rqoz"
+	}, {
+		"run_id":	"zqnvnr5z",
+		"verified_epoch":	1775807486,
+		"verified_iso":	"2026-04-10T07:51:26Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 7, Seeds: Non-seeded, Character: Balladin",
+		"primary_t":	818,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/zqnvnr5z"
+	}, {
+		"run_id":	"med34e8y",
+		"verified_epoch":	1775807459,
+		"verified_iso":	"2026-04-10T07:50:59Z",
+		"game":	"eWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pl0gm6/cover.png?v=27cda5a",
+		"category":	"Full Level Run",
+		"level":	"Intel Speedrun",
+		"subcats":	"",
+		"primary_t":	113.43,
+		"players":	"SirFourEyes",
+		"players_data":	[{
+				"name":	"SirFourEyes",
+				"weblink":	"https://www.speedrun.com/users/SirFourEyes",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/eWorlds/runs/med34e8y"
+	}, {
+		"run_id":	"yo8682jz",
+		"verified_epoch":	1775807459,
+		"verified_iso":	"2026-04-10T07:50:59Z",
+		"game":	"Peglin",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
+		"category":	"Cruciball",
+		"level":	"",
+		"subcats":	"Cruciball Number: Cruciball 7, Seeds: Non-seeded, Character: Peglin",
+		"primary_t":	778,
+		"players":	"OLXOLw",
+		"players_data":	[{
+				"name":	"OLXOLw",
+				"weblink":	"https://www.speedrun.com/users/OLXOLw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Peglin/runs/yo8682jz"
+	}, {
+		"run_id":	"mkxk7e5z",
+		"verified_epoch":	1775807098,
+		"verified_iso":	"2026-04-10T07:44:58Z",
+		"game":	"Jackass: The Game",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkzyqgd/cover.png?v=06e7653",
+		"category":	"100% - PS2",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	5178,
+		"players":	"Ecdycis",
+		"players_data":	[{
+				"name":	"Ecdycis",
+				"weblink":	"https://www.speedrun.com/users/Ecdycis",
+				"image":	"https://www.speedrun.com/static/user/qjn2rkwj/image.png?v=f36e456"
+			}],
+		"weblink":	"https://www.speedrun.com/jackass_the_game/runs/mkxk7e5z"
+	}, {
+		"run_id":	"zn6p0g3y",
+		"verified_epoch":	1775806790,
+		"verified_iso":	"2026-04-10T07:39:50Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Waveflow Waters, Machine: Tank, Version: v1.3.2, Type: Restricted",
+		"primary_t":	58.38,
+		"players":	"Sakurakaze",
+		"players_data":	[{
+				"name":	"Sakurakaze",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zn6p0g3y"
+	}, {
+		"run_id":	"yvero76m",
+		"verified_epoch":	1775806749,
+		"verified_iso":	"2026-04-10T07:39:09Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Cappy, Track: Frozen Hillside, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
+		"primary_t":	44.41,
+		"players":	"monono8917",
+		"players_data":	[{
+				"name":	"monono8917",
+				"weblink":	"https://www.speedrun.com/users/monono8917",
+				"image":	"https://www.speedrun.com/static/user/48gk9v7j/image.png?v=be7a693"
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/yvero76m"
+	}, {
+		"run_id":	"y26p789m",
+		"verified_epoch":	1775806587,
+		"verified_iso":	"2026-04-10T07:36:27Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Waddle Dee, Track: Sky Sands, Machine: Bulk, Version: v1.3.2, Type: Restricted",
+		"primary_t":	40.58,
+		"players":	"Kyukyokuhimajin",
+		"players_data":	[{
+				"name":	"Kyukyokuhimajin",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y26p789m"
+	}, {
+		"run_id":	"y6w09g1z",
+		"verified_epoch":	1775806275,
+		"verified_iso":	"2026-04-10T07:31:15Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rocky, Track: Cyberion Highway, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	136.46,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y6w09g1z"
+	}, {
+		"run_id":	"zpv98k8z",
+		"verified_epoch":	1775806232,
+		"verified_iso":	"2026-04-10T07:30:32Z",
+		"game":	"The Outlast Trials",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rol71/cover.png?v=b78c6e8",
+		"category":	"Standard",
+		"level":	"Silence The Idol",
+		"subcats":	"Players: Solo",
+		"primary_t":	806,
+		"players":	"Eun1",
+		"players_data":	[{
+				"name":	"Eun1",
+				"weblink":	"https://www.speedrun.com/users/Eun1",
+				"image":	"https://www.speedrun.com/static/user/j2ppn2p8/image.png?v=4c8d290"
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials/runs/zpv98k8z"
+	}, {
+		"run_id":	"y26p7n6m",
+		"verified_epoch":	1775806230,
+		"verified_iso":	"2026-04-10T07:30:30Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steam, Machine: Transform, Version: v1.3.2, Type: Restricted",
+		"primary_t":	13.15,
+		"players":	"FistyLH",
+		"players_data":	[{
+				"name":	"FistyLH",
+				"weblink":	"https://www.speedrun.com/users/FistyLH",
+				"image":	"https://www.speedrun.com/static/user/1xygoywx/image.png?v=1731303"
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y26p7n6m"
+	}, {
+		"run_id":	"zqn7v25z",
+		"verified_epoch":	1775806176,
+		"verified_iso":	"2026-04-10T07:29:36Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steam, Machine: Transform, Version: v1.3.2, Type: Restricted",
+		"primary_t":	54.83,
+		"players":	"FistyLH",
+		"players_data":	[{
+				"name":	"FistyLH",
+				"weblink":	"https://www.speedrun.com/users/FistyLH",
+				"image":	"https://www.speedrun.com/static/user/1xygoywx/image.png?v=1731303"
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zqn7v25z"
+	}, {
+		"run_id":	"y4vq7jny",
+		"verified_epoch":	1775806131,
+		"verified_iso":	"2026-04-10T07:28:51Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Flower, Machine: Swerve, Version: v1.3.2, Type: Restricted",
+		"primary_t":	32.63,
+		"players":	"monono8917",
+		"players_data":	[{
+				"name":	"monono8917",
+				"weblink":	"https://www.speedrun.com/users/monono8917",
+				"image":	"https://www.speedrun.com/static/user/48gk9v7j/image.png?v=be7a693"
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y4vq7jny"
+	}, {
+		"run_id":	"m3837wwy",
+		"verified_epoch":	1775806093,
+		"verified_iso":	"2026-04-10T07:28:13Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Lololo & Lalala, Track: Flow, Machine: Bulk, Version: v1.3.2, Type: Restricted",
+		"primary_t":	45.7,
+		"players":	"tokotouyoko",
+		"players_data":	[{
+				"name":	"tokotouyoko",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/m3837wwy"
+	}, {
+		"run_id":	"z5n2dlgz",
+		"verified_epoch":	1775806048,
+		"verified_iso":	"2026-04-10T07:27:28Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Fantasy Meadows, Machine: Swerve, Version: v1.3.2, Type: Restricted",
+		"primary_t":	17.35,
+		"players":	"togekiss31",
+		"players_data":	[{
+				"name":	"togekiss31",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/z5n2dlgz"
+	}, {
+		"run_id":	"zxp7ojqy",
+		"verified_epoch":	1775805998,
+		"verified_iso":	"2026-04-10T07:26:38Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Lololo & Lalala, Track: Waveflow Waters, Machine: Bull Tank, Version: v1.3.2, Type: Restricted",
+		"primary_t":	116.41,
+		"players":	"koinu",
+		"players_data":	[{
+				"name":	"koinu",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zxp7ojqy"
+	}, {
+		"run_id":	"z10pxvgm",
+		"verified_epoch":	1775805951,
+		"verified_iso":	"2026-04-10T07:25:51Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Meta Knight, Track: Crystalline Fissure, Machine: Winged, Version: v1.3.2, Type: Restricted",
+		"primary_t":	68.46,
+		"players":	"Mutama",
+		"players_data":	[{
+				"name":	"Mutama",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/z10pxvgm"
+	}, {
+		"run_id":	"y9gv3pvm",
+		"verified_epoch":	1775805920,
+		"verified_iso":	"2026-04-10T07:25:20Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: King Dedede, Track: Cavernous Corners, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
+		"primary_t":	71.83,
+		"players":	"watari0907",
+		"players_data":	[{
+				"name":	"watari0907",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y9gv3pvm"
+	}, {
+		"run_id":	"y6w092jz",
+		"verified_epoch":	1775805888,
+		"verified_iso":	"2026-04-10T07:24:48Z",
+		"game":	"Minecraft: Bedrock Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4ovvg1/cover.png?v=5891d21",
+		"category":	"Random Seed Solo",
+		"level":	"Obtain Item",
+		"subcats":	"Platform (RS ILs): Console, Item (Obtain Item): Diamond, Version: 26.13, Structures / No Structures (Obtain Item): Structures, World Difficulty: Easy",
+		"primary_t":	14.4,
+		"players":	"Madders_2020",
+		"players_data":	[{
+				"name":	"Madders_2020",
+				"weblink":	"https://www.speedrun.com/users/Madders_2020",
+				"image":	"https://www.speedrun.com/static/user/8d32gnox/image.png?v=6cd7d12"
+			}],
+		"weblink":	"https://www.speedrun.com/mcbe/runs/y6w092jz"
+	}, {
+		"run_id":	"ydpdevwy",
+		"verified_epoch":	1775805879,
+		"verified_iso":	"2026-04-10T07:24:39Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Meta Knight, Track: Machine Passage, Machine: Winged, Version: v1.3.2, Type: Restricted",
+		"primary_t":	43.7,
+		"players":	"Mutama",
+		"players_data":	[{
+				"name":	"Mutama",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/ydpdevwy"
+	}, {
+		"run_id":	"yo8p6q7z",
+		"verified_epoch":	1775805815,
+		"verified_iso":	"2026-04-10T07:23:35Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Meta Knight, Track: Frozen Hillside, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	44.28,
+		"players":	"per",
+		"players_data":	[{
+				"name":	"per",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/yo8p6q7z"
+	}, {
+		"run_id":	"zg1prjvz",
+		"verified_epoch":	1775805778,
+		"verified_iso":	"2026-04-10T07:22:58Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rick, Track: Frozen Hillside, Machine: Slick, Version: v1.3.2, Type: Restricted",
+		"primary_t":	42.03,
+		"players":	"Kins0",
+		"players_data":	[{
+				"name":	"Kins0",
+				"weblink":	"https://www.speedrun.com/users/Kins0",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zg1prjvz"
+	}, {
+		"run_id":	"m387qlgy",
+		"verified_epoch":	1775805669,
+		"verified_iso":	"2026-04-10T07:21:09Z",
+		"game":	"Mario Party",
+		"game_cover":	"https://www.speedrun.com/static/game/76r3q468/cover.png?v=52a7666",
+		"category":	"Yoshi's Tropical Island",
+		"level":	"",
+		"subcats":	"Confirm Platform(sorry its twice): Emulator, Difficulty: Easy",
+		"primary_t":	3321,
+		"players":	"infamousRedYoshi",
+		"players_data":	[{
+				"name":	"infamousRedYoshi",
+				"weblink":	"https://www.speedrun.com/users/infamousRedYoshi",
+				"image":	"https://www.speedrun.com/static/user/1xy7wmxr/image.png?v=9503bf9"
+			}],
+		"weblink":	"https://www.speedrun.com/marioparty1/runs/m387qlgy"
+	}, {
+		"run_id":	"mkx50vlz",
+		"verified_epoch":	1775805662,
+		"verified_iso":	"2026-04-10T07:21:02Z",
+		"game":	"Mario Party",
+		"game_cover":	"https://www.speedrun.com/static/game/76r3q468/cover.png?v=52a7666",
+		"category":	"Wario's Battle Canyon",
+		"level":	"",
+		"subcats":	"Confirm Platform(sorry its twice): Emulator, Difficulty: Easy",
+		"primary_t":	3374,
+		"players":	"infamousRedYoshi",
+		"players_data":	[{
+				"name":	"infamousRedYoshi",
+				"weblink":	"https://www.speedrun.com/users/infamousRedYoshi",
+				"image":	"https://www.speedrun.com/static/user/1xy7wmxr/image.png?v=9503bf9"
+			}],
+		"weblink":	"https://www.speedrun.com/marioparty1/runs/mkx50vlz"
+	}, {
+		"run_id":	"yo86nd5z",
+		"verified_epoch":	1775805658,
+		"verified_iso":	"2026-04-10T07:20:58Z",
+		"game":	"Mario Party",
+		"game_cover":	"https://www.speedrun.com/static/game/76r3q468/cover.png?v=52a7666",
+		"category":	"Luigi's Engine Room",
+		"level":	"",
+		"subcats":	"Confirm Platform(sorry its twice): Emulator, Difficulty: Easy",
+		"primary_t":	2700,
+		"players":	"infamousRedYoshi",
+		"players_data":	[{
+				"name":	"infamousRedYoshi",
+				"weblink":	"https://www.speedrun.com/users/infamousRedYoshi",
+				"image":	"https://www.speedrun.com/static/user/1xy7wmxr/image.png?v=9503bf9"
+			}],
+		"weblink":	"https://www.speedrun.com/marioparty1/runs/yo86nd5z"
+	}, {
+		"run_id":	"med4l12y",
+		"verified_epoch":	1775805644,
+		"verified_iso":	"2026-04-10T07:20:44Z",
+		"game":	"Mario Party",
+		"game_cover":	"https://www.speedrun.com/static/game/76r3q468/cover.png?v=52a7666",
+		"category":	"Mario's Rainbow Castle",
+		"level":	"",
+		"subcats":	"Confirm Platform(sorry its twice): Emulator, Difficulty: Easy",
+		"primary_t":	3001,
+		"players":	"infamousRedYoshi",
+		"players_data":	[{
+				"name":	"infamousRedYoshi",
+				"weblink":	"https://www.speedrun.com/users/infamousRedYoshi",
+				"image":	"https://www.speedrun.com/static/user/1xy7wmxr/image.png?v=9503bf9"
+			}],
+		"weblink":	"https://www.speedrun.com/marioparty1/runs/med4l12y"
+	}, {
+		"run_id":	"y6w09e1z",
+		"verified_epoch":	1775805599,
+		"verified_iso":	"2026-04-10T07:19:59Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"10",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y6w09e1z"
+	}, {
+		"run_id":	"zn67q58y",
+		"verified_epoch":	1775805596,
+		"verified_iso":	"2026-04-10T07:19:56Z",
+		"game":	"Mario Party",
+		"game_cover":	"https://www.speedrun.com/static/game/76r3q468/cover.png?v=52a7666",
+		"category":	"Bowser's Magma Mountain",
+		"level":	"",
+		"subcats":	"Confirm Platform(sorry its twice): Switch, Difficulty: Easy",
+		"primary_t":	2265,
+		"players":	"CEColon",
+		"players_data":	[{
+				"name":	"CEColon",
+				"weblink":	"https://www.speedrun.com/users/CEColon",
+				"image":	"https://www.speedrun.com/static/user/86p4ywpj/image.png?v=7665a18"
+			}],
+		"weblink":	"https://www.speedrun.com/marioparty1/runs/zn67q58y"
+	}, {
+		"run_id":	"z02p7q4m",
+		"verified_epoch":	1775805591,
+		"verified_iso":	"2026-04-10T07:19:51Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"9",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z02p7q4m"
+	}, {
+		"run_id":	"y4vq7lny",
+		"verified_epoch":	1775805577,
+		"verified_iso":	"2026-04-10T07:19:37Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"8",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y4vq7lny"
+	}, {
+		"run_id":	"z5n2dggz",
+		"verified_epoch":	1775805569,
+		"verified_iso":	"2026-04-10T07:19:29Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"7",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z5n2dggz"
+	}, {
+		"run_id":	"zxp7oxqy",
+		"verified_epoch":	1775805562,
+		"verified_iso":	"2026-04-10T07:19:22Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"6",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zxp7oxqy"
+	}, {
+		"run_id":	"mrw7nx2y",
+		"verified_epoch":	1775805554,
+		"verified_iso":	"2026-04-10T07:19:14Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"5",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/mrw7nx2y"
+	}, {
+		"run_id":	"m7j67o0m",
+		"verified_epoch":	1775805547,
+		"verified_iso":	"2026-04-10T07:19:07Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"4",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/m7j67o0m"
+	}, {
+		"run_id":	"mkxk51vz",
+		"verified_epoch":	1775805540,
+		"verified_iso":	"2026-04-10T07:19:00Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"3",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/mkxk51vz"
+	}, {
+		"run_id":	"z10pxngm",
+		"verified_epoch":	1775805532,
+		"verified_iso":	"2026-04-10T07:18:52Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"2",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z10pxngm"
+	}, {
+		"run_id":	"y9gv3dvm",
+		"verified_epoch":	1775805525,
+		"verified_iso":	"2026-04-10T07:18:45Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"1",
+		"level":	"91-100",
+		"subcats":	"",
+		"primary_t":	1,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y9gv3dvm"
+	}, {
+		"run_id":	"ydpdelwy",
+		"verified_epoch":	1775805517,
+		"verified_iso":	"2026-04-10T07:18:37Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Marx, Track: Flower, Machine: Leo, Version: v1.3.2, Type: Legendaries",
+		"primary_t":	4.9,
+		"players":	"feketerigo",
+		"players_data":	[{
+				"name":	"feketerigo",
+				"weblink":	"https://www.speedrun.com/users/feketerigo",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/ydpdelwy"
+	}, {
+		"run_id":	"zpv98x8z",
+		"verified_epoch":	1775805500,
+		"verified_iso":	"2026-04-10T07:18:20Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"1",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zpv98x8z"
+	}, {
+		"run_id":	"yo8p6x7z",
+		"verified_epoch":	1775805491,
+		"verified_iso":	"2026-04-10T07:18:11Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"2",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/yo8p6x7z"
+	}, {
+		"run_id":	"zg1provz",
+		"verified_epoch":	1775805483,
+		"verified_iso":	"2026-04-10T07:18:03Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"3",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zg1provz"
+	}, {
+		"run_id":	"yl27rxkz",
+		"verified_epoch":	1775805475,
+		"verified_iso":	"2026-04-10T07:17:55Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"4",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/yl27rxkz"
+	}, {
+		"run_id":	"yjrp593z",
+		"verified_epoch":	1775805468,
+		"verified_iso":	"2026-04-10T07:17:48Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"5",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/yjrp593z"
+	}, {
+		"run_id":	"y6wn1pjz",
+		"verified_epoch":	1775805466,
+		"verified_iso":	"2026-04-10T07:17:46Z",
+		"game":	"Evil Nun: The Broken Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/v1px4g46/cover.png?v=452bc70",
+		"category":	"Main Door",
+		"level":	"",
+		"subcats":	"Difficulty: Extreme",
+		"primary_t":	97,
+		"players":	"Ketchupowsky",
+		"players_data":	[{
+				"name":	"Ketchupowsky",
+				"weblink":	"https://www.speedrun.com/users/Ketchupowsky",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/evil_nun_the_broken_mask/runs/y6wn1pjz"
+	}, {
+		"run_id":	"ywo3kxpm",
+		"verified_epoch":	1775805450,
+		"verified_iso":	"2026-04-10T07:17:30Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"6",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/ywo3kxpm"
+	}, {
+		"run_id":	"m7j6730m",
+		"verified_epoch":	1775805444,
+		"verified_iso":	"2026-04-10T07:17:24Z",
+		"game":	"Super Meat Boy 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp3emd/cover.png?v=5ffb805",
+		"category":	"Light Wastes",
+		"level":	"7",
+		"subcats":	"Character: Skeleton Boy",
+		"primary_t":	15.74,
+		"players":	"Madmanpotato",
+		"players_data":	[{
+				"name":	"Madmanpotato",
+				"weblink":	"https://www.speedrun.com/users/Madmanpotato",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/SMB_3D/runs/m7j6730m"
+	}, {
+		"run_id":	"zn6p0x8y",
+		"verified_epoch":	1775805441,
+		"verified_iso":	"2026-04-10T07:17:21Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"7",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zn6p0x8y"
+	}, {
+		"run_id":	"medjr99y",
+		"verified_epoch":	1775805435,
+		"verified_iso":	"2026-04-10T07:17:15Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Daisy Hills",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	82.995,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/medjr99y"
+	}, {
+		"run_id":	"yverox4m",
+		"verified_epoch":	1775805432,
+		"verified_iso":	"2026-04-10T07:17:12Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"8",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/yverox4m"
+	}, {
+		"run_id":	"y260lv6m",
+		"verified_epoch":	1775805431,
+		"verified_iso":	"2026-04-10T07:17:11Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Mario Circuit",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	128.204,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/y260lv6m"
+	}, {
+		"run_id":	"medjr79y",
+		"verified_epoch":	1775805426,
+		"verified_iso":	"2026-04-10T07:17:06Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Music Park",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	141.213,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/medjr79y"
+	}, {
+		"run_id":	"y8l8ew5m",
+		"verified_epoch":	1775805423,
+		"verified_iso":	"2026-04-10T07:17:03Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"9",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y8l8ew5m"
+	}, {
+		"run_id":	"mkxej7vz",
+		"verified_epoch":	1775805416,
+		"verified_iso":	"2026-04-10T07:16:56Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Maka Wuhu",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	91.838,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/mkxej7vz"
+	}, {
+		"run_id":	"y6w09v1z",
+		"verified_epoch":	1775805412,
+		"verified_iso":	"2026-04-10T07:16:52Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"10",
+		"level":	"81-90",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y6w09v1z"
+	}, {
+		"run_id":	"ydpwk9wy",
+		"verified_epoch":	1775805411,
+		"verified_iso":	"2026-04-10T07:16:51Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS DK Jungle",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	143.949,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/ydpwk9wy"
+	}, {
+		"run_id":	"y4v8pwky",
+		"verified_epoch":	1775805405,
+		"verified_iso":	"2026-04-10T07:16:45Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Cheep Cheep Lagoon",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike, 3DS Cheep Cheep Lagoon: v2.0+",
+		"primary_t":	99.153,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/y4v8pwky"
+	}, {
+		"run_id":	"z02p7d4m",
+		"verified_epoch":	1775805403,
+		"verified_iso":	"2026-04-10T07:16:43Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"10",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z02p7d4m"
+	}, {
+		"run_id":	"zxple28y",
+		"verified_epoch":	1775805392,
+		"verified_iso":	"2026-04-10T07:16:32Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Bowser's Castle",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	147.366,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/zxple28y"
+	}, {
+		"run_id":	"zqn7v85z",
+		"verified_epoch":	1775805386,
+		"verified_iso":	"2026-04-10T07:16:26Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"9",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zqn7v85z"
+	}, {
+		"run_id":	"y4vq76ny",
+		"verified_epoch":	1775805378,
+		"verified_iso":	"2026-04-10T07:16:18Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"8",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y4vq76ny"
+	}, {
+		"run_id":	"yo8r177z",
+		"verified_epoch":	1775805376,
+		"verified_iso":	"2026-04-10T07:16:16Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Neo Bowser City",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	125.296,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/yo8r177z"
+	}, {
+		"run_id":	"mkxejgvz",
+		"verified_epoch":	1775805371,
+		"verified_iso":	"2026-04-10T07:16:11Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Piranha Plant Slide",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	125.987,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/mkxejgvz"
+	}, {
+		"run_id":	"z5n2d8gz",
+		"verified_epoch":	1775805370,
+		"verified_iso":	"2026-04-10T07:16:10Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"7",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z5n2d8gz"
+	}, {
+		"run_id":	"zqn0x15z",
+		"verified_epoch":	1775805364,
+		"verified_iso":	"2026-04-10T07:16:04Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Rainbow Road",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	127.076,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/zqn0x15z"
+	}, {
+		"run_id":	"zxp7oqqy",
+		"verified_epoch":	1775805362,
+		"verified_iso":	"2026-04-10T07:16:02Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"6",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/zxp7oqqy"
+	}, {
+		"run_id":	"y6wnkd1z",
+		"verified_epoch":	1775805356,
+		"verified_iso":	"2026-04-10T07:15:56Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Rock Rock Mountain",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	133.961,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/y6wnkd1z"
+	}, {
+		"run_id":	"mrw7nv2y",
+		"verified_epoch":	1775805353,
+		"verified_iso":	"2026-04-10T07:15:53Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"5",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/mrw7nv2y"
+	}, {
+		"run_id":	"zn67d08y",
+		"verified_epoch":	1775805348,
+		"verified_iso":	"2026-04-10T07:15:48Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Rosalina's Ice World",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	127.222,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/zn67d08y"
+	}, {
+		"run_id":	"m7j67n0m",
+		"verified_epoch":	1775805346,
+		"verified_iso":	"2026-04-10T07:15:46Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"4",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/m7j67n0m"
+	}, {
+		"run_id":	"mkxk5pvz",
+		"verified_epoch":	1775805339,
+		"verified_iso":	"2026-04-10T07:15:39Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"3",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	3,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/mkxk5pvz"
+	}, {
+		"run_id":	"ywojlkpm",
+		"verified_epoch":	1775805337,
+		"verified_iso":	"2026-04-10T07:15:37Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Shy Guy Bazaar",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	123.05,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/ywojlkpm"
+	}, {
+		"run_id":	"z10px9gm",
+		"verified_epoch":	1775805332,
+		"verified_iso":	"2026-04-10T07:15:32Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"2",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/z10px9gm"
+	}, {
+		"run_id":	"y9gv3jvm",
+		"verified_epoch":	1775805324,
+		"verified_iso":	"2026-04-10T07:15:24Z",
+		"game":	"Old egg man",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"1",
+		"level":	"71-80",
+		"subcats":	"",
+		"primary_t":	2,
+		"players":	"lv114514",
+		"players_data":	[{
+				"name":	"lv114514",
+				"weblink":	"https://www.speedrun.com/users/lv114514",
+				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=6f30b76"
+			}],
+		"weblink":	"https://www.speedrun.com/Old_egg_man/runs/y9gv3jvm"
+	}, {
+		"run_id":	"ydpwkewy",
+		"verified_epoch":	1775805316,
+		"verified_iso":	"2026-04-10T07:15:16Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Wario Shipyard",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	141.533,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/ydpwkewy"
+	}, {
+		"run_id":	"z5nv9dgz",
+		"verified_epoch":	1775805307,
+		"verified_iso":	"2026-04-10T07:15:07Z",
+		"game":	"Mario Kart Fusion",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj2po1/cover.png?v=e577de1",
+		"category":	"Time Trials",
+		"level":	"3DS Wuhu Loop",
+		"subcats":	"Game Version: v4.0, Kart/Bike: Bike",
+		"primary_t":	104.138,
+		"players":	"vinnypix",
+		"players_data":	[{
+				"name":	"vinnypix",
+				"weblink":	"https://www.speedrun.com/users/vinnypix",
+				"image":	"https://www.speedrun.com/static/user/j5pd5zg8/image.png?v=0b353f9"
+			}],
+		"weblink":	"https://www.speedrun.com/mkfusion/runs/z5nv9dgz"
+	}, {
+		"run_id":	"yl27rdkz",
+		"verified_epoch":	1775805160,
+		"verified_iso":	"2026-04-10T07:12:40Z",
+		"game":	"Climbing Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27mx51/cover.png?v=b9bd367",
+		"category":	"Glitchless",
+		"level":	"Forsaken Crypt",
+		"subcats":	"",
+		"primary_t":	148.13,
+		"players":	"Voppo",
+		"players_data":	[{
+				"name":	"Voppo",
+				"weblink":	"https://www.speedrun.com/users/Voppo",
+				"image":	"https://www.speedrun.com/static/user/8gz3ve7j/image.png?v=98297c5"
+			}],
+		"weblink":	"https://www.speedrun.com/Climbing_Game/runs/yl27rdkz"
+	}, {
+		"run_id":	"yverol4m",
+		"verified_epoch":	1775804910,
+		"verified_iso":	"2026-04-10T07:08:30Z",
+		"game":	"Papa Louie 2: When Burgers Attack!",
+		"game_cover":	"https://www.speedrun.com/static/game/j1nv5e6p/cover.png?v=f210014",
+		"category":	"Warp Key 5",
+		"level":	"Lettuce Lane",
+		"subcats":	"Character: Big Pauly",
+		"primary_t":	124.77,
+		"players":	"ZeroGrave",
+		"players_data":	[{
+				"name":	"ZeroGrave",
+				"weblink":	"https://www.speedrun.com/users/ZeroGrave",
+				"image":	"https://www.speedrun.com/static/user/8wky0g48/image.png?v=4f1012c"
+			}],
+		"weblink":	"https://www.speedrun.com/pl2/runs/yverol4m"
+	}, {
+		"run_id":	"m3868n4y",
+		"verified_epoch":	1775804703,
+		"verified_iso":	"2026-04-10T07:05:03Z",
+		"game":	"Hitman: World of Assassination",
+		"game_cover":	"https://www.speedrun.com/static/game/j1ne5891/cover.png?v=1f5eb0c",
+		"category":	"Season 1",
+		"level":	"",
+		"subcats":	"Rating: SA, Difficulty: Master, Server: Peacock, Game Version (Full Game): Standard",
+		"primary_t":	231,
+		"players":	"Fam1ppy",
+		"players_data":	[{
+				"name":	"Fam1ppy",
+				"weblink":	"https://www.speedrun.com/users/Fam1ppy",
+				"image":	"https://www.speedrun.com/static/user/j9y9krvx/image.png?v=cca87d5"
+			}],
+		"weblink":	"https://www.speedrun.com/hitman_woa/runs/m3868n4y"
+	}, {
+		"run_id":	"y26p7k6m",
+		"verified_epoch":	1775804689,
+		"verified_iso":	"2026-04-10T07:04:49Z",
+		"game":	"Door Kickers",
+		"game_cover":	"https://www.speedrun.com/static/game/9do92odp/cover.png?v=c6c9c92",
+		"category":	"Any%",
+		"level":	"Single Mission 41",
+		"subcats":	"",
+		"primary_t":	13,
+		"players":	"Primacius",
+		"players_data":	[{
+				"name":	"Primacius",
+				"weblink":	"https://www.speedrun.com/users/Primacius",
+				"image":	"https://www.speedrun.com/static/user/8d9y419x/image.png?v=340b686"
+			}],
+		"weblink":	"https://www.speedrun.com/door_kickers/runs/y26p7k6m"
+	}, {
+		"run_id":	"zqn7vd5z",
+		"verified_epoch":	1775804622,
+		"verified_iso":	"2026-04-10T07:03:42Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steam, Machine: Hop, Version: v1.3.2, Type: Restricted",
+		"primary_t":	51.5,
+		"players":	"Brobe",
+		"players_data":	[{
+				"name":	"Brobe",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zqn7vd5z"
+	}, {
+		"run_id":	"ydpde10y",
+		"verified_epoch":	1775804619,
+		"verified_iso":	"2026-04-10T07:03:39Z",
+		"game":	"Hades 2",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxy5vv6/cover.png?v=ca754c9",
+		"category":	"62 Fear",
+		"level":	"",
+		"subcats":	"Surface/Underworld: Underworld, Game Version: v1.13x, Unseeded/Seeded: Unseeded, Major Patch: Post Release Patch 1, Aspect: Nergal Axe",
+		"primary_t":	537.62,
+		"players":	"raijy",
+		"players_data":	[{
+				"name":	"raijy",
+				"weblink":	"https://www.speedrun.com/users/raijy",
+				"image":	"https://www.speedrun.com/static/user/j5grr5n8/image.png?v=87c9cc8"
+			}],
+		"weblink":	"https://www.speedrun.com/hades2/runs/ydpde10y"
+	}, {
+		"run_id":	"y9glgnkm",
+		"verified_epoch":	1775804601,
+		"verified_iso":	"2026-04-10T07:03:21Z",
+		"game":	"Hitman: World of Assassination",
+		"game_cover":	"https://www.speedrun.com/static/game/j1ne5891/cover.png?v=1f5eb0c",
+		"category":	"Season 1",
+		"level":	"",
+		"subcats":	"Rating: SA/SO, Difficulty: Master, Server: Peacock, Game Version (Full Game): Standard",
+		"primary_t":	231,
+		"players":	"Fam1ppy",
+		"players_data":	[{
+				"name":	"Fam1ppy",
+				"weblink":	"https://www.speedrun.com/users/Fam1ppy",
+				"image":	"https://www.speedrun.com/static/user/j9y9krvx/image.png?v=cca87d5"
+			}],
+		"weblink":	"https://www.speedrun.com/hitman_woa/runs/y9glgnkm"
+	}, {
+		"run_id":	"y4vq7kny",
+		"verified_epoch":	1775804594,
+		"verified_iso":	"2026-04-10T07:03:14Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steam, Machine: Hop, Version: v1.3.2, Type: Restricted",
+		"primary_t":	11.83,
+		"players":	"Brobe",
+		"players_data":	[{
+				"name":	"Brobe",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y4vq7kny"
+	}, {
+		"run_id":	"m3837kwy",
+		"verified_epoch":	1775804545,
+		"verified_iso":	"2026-04-10T07:02:25Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Top Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Gooey, Track: Mountain, Machine: Swerve, Version: v1.3.2, Type: Restricted",
+		"primary_t":	20.55,
+		"players":	"kido_str",
+		"players_data":	[{
+				"name":	"kido_str",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/m3837kwy"
+	}, {
+		"run_id":	"zxp7gj5y",
+		"verified_epoch":	1775804540,
+		"verified_iso":	"2026-04-10T07:02:20Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"US: 13 Colonies",
+		"subcats":	"Platform: Website",
+		"primary_t":	14.841,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zxp7gj5y"
+	}, {
+		"run_id":	"z02prj4m",
+		"verified_epoch":	1775804534,
+		"verified_iso":	"2026-04-10T07:02:14Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"US: States East Of The Mississippi River",
+		"subcats":	"Platform: Website",
+		"primary_t":	36.036,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z02prj4m"
+	}, {
+		"run_id":	"yjrp1rdz",
+		"verified_epoch":	1775804517,
+		"verified_iso":	"2026-04-10T07:01:57Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"US: States In The Midwest",
+		"subcats":	"Platform: Website",
+		"primary_t":	10.625,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/yjrp1rdz"
+	}, {
+		"run_id":	"mrw7n22y",
+		"verified_epoch":	1775804504,
+		"verified_iso":	"2026-04-10T07:01:44Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rick, Track: Mount Amberfalls, Machine: Rocket, Version: v1.3.2, Type: Restricted",
+		"primary_t":	74.31,
+		"players":	"EcMove",
+		"players_data":	[{
+				"name":	"EcMove",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/mrw7n22y"
+	}, {
+		"run_id":	"m7j68vem",
+		"verified_epoch":	1775804503,
+		"verified_iso":	"2026-04-10T07:01:43Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"US: States In The Midwest",
+		"subcats":	"Platform: Website",
+		"primary_t":	16.332,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/m7j68vem"
+	}, {
+		"run_id":	"y6w068pz",
+		"verified_epoch":	1775804490,
+		"verified_iso":	"2026-04-10T07:01:30Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Delaware: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.13,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y6w068pz"
+	}, {
+		"run_id":	"z5n20wnz",
+		"verified_epoch":	1775804482,
+		"verified_iso":	"2026-04-10T07:01:22Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"Delaware: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.132,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5n20wnz"
+	}, {
+		"run_id":	"zpv93kgz",
+		"verified_epoch":	1775804477,
+		"verified_iso":	"2026-04-10T07:01:17Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Type Random",
+		"level":	"Prince Edward Island: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.719,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zpv93kgz"
+	}, {
+		"run_id":	"med39n3y",
+		"verified_epoch":	1775804475,
+		"verified_iso":	"2026-04-10T07:01:15Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Type",
+		"level":	"Prince Edward Island: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.942,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/med39n3y"
+	}, {
+		"run_id":	"mkxk5qvz",
+		"verified_epoch":	1775804466,
+		"verified_iso":	"2026-04-10T07:01:06Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Cappy, Track: Mount Amberfalls, Machine: Formula, Version: v1.3.2, Type: Restricted",
+		"primary_t":	77.75,
+		"players":	"HLP",
+		"players_data":	[{
+				"name":	"HLP",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/mkxk5qvz"
+	}, {
+		"run_id":	"z02p6d4m",
+		"verified_epoch":	1775804460,
+		"verified_iso":	"2026-04-10T07:01:00Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Prince Edward Island: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.275,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z02p6d4m"
+	}, {
+		"run_id":	"mrw74v2y",
+		"verified_epoch":	1775804454,
+		"verified_iso":	"2026-04-10T07:00:54Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"Prince Edward Island: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.274,
+		"players":	"kayli",
+		"players_data":	[{
+				"name":	"kayli",
+				"weblink":	"https://www.speedrun.com/users/kayli",
+				"image":	"https://www.speedrun.com/static/user/xy57n7v8/image.png?v=4bbd472"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/mrw74v2y"
+	}, {
+		"run_id":	"z02p98em",
+		"verified_epoch":	1775804448,
+		"verified_iso":	"2026-04-10T07:00:48Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"Estonia: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	5.348,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z02p98em"
+	}, {
+		"run_id":	"zn6p3x3y",
+		"verified_epoch":	1775804445,
+		"verified_iso":	"2026-04-10T07:00:45Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"Czech Republic: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	4.518,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zn6p3x3y"
+	}, {
+		"run_id":	"zg1pvevz",
+		"verified_epoch":	1775804443,
+		"verified_iso":	"2026-04-10T07:00:43Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"Belgium: Province Capitals",
+		"subcats":	"Platform: Website",
+		"primary_t":	3.266,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zg1pvevz"
+	}, {
+		"run_id":	"m383glwy",
+		"verified_epoch":	1775804441,
+		"verified_iso":	"2026-04-10T07:00:41Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"The Nordic Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.219,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/m383glwy"
+	}, {
+		"run_id":	"mrw79o2y",
+		"verified_epoch":	1775804438,
+		"verified_iso":	"2026-04-10T07:00:38Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"Western Europe: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	17.557,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/mrw79o2y"
+	}, {
+		"run_id":	"y9gv16vm",
+		"verified_epoch":	1775804432,
+		"verified_iso":	"2026-04-10T07:00:32Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"The Baltic Sea",
+		"subcats":	"Platform: Website",
+		"primary_t":	10.726,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y9gv16vm"
+	}, {
+		"run_id":	"med36e9y",
+		"verified_epoch":	1775804429,
+		"verified_iso":	"2026-04-10T07:00:29Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Place the Labels",
+		"level":	"Former Soviet Union: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	8.429,
+		"players":	"afdusrt",
+		"players_data":	[{
+				"name":	"afdusrt",
+				"weblink":	"https://www.speedrun.com/users/afdusrt",
+				"image":	"https://www.speedrun.com/static/user/8r27kvgx/image.png?v=b29f073"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/med36e9y"
+	}, {
+		"run_id":	"z10pxkgm",
+		"verified_epoch":	1775804428,
+		"verified_iso":	"2026-04-10T07:00:28Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steamgust Forge, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	68.91,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/z10pxkgm"
+	}, {
+		"run_id":	"z5n23rez",
+		"verified_epoch":	1775804424,
+		"verified_iso":	"2026-04-10T07:00:24Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Memory",
+		"level":	"文 Colors in German",
+		"subcats":	"Platform: Website",
+		"primary_t":	45.702,
+		"players":	"VANCANTORUS",
+		"players_data":	[{
+				"name":	"VANCANTORUS",
+				"weblink":	"https://www.speedrun.com/users/VANCANTORUS",
+				"image":	"https://www.speedrun.com/static/user/8w12903x/image.png?v=e33b256"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5n23rez"
+	}, {
+		"run_id":	"y9gv3kvm",
+		"verified_epoch":	1775804393,
+		"verified_iso":	"2026-04-10T06:59:53Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rick, Track: Machine Passage, Machine: Wheelie Bike, Version: v1.3.2, Type: Restricted",
+		"primary_t":	44.8,
+		"players":	"Cursedbike",
+		"players_data":	[{
+				"name":	"Cursedbike",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y9gv3kvm"
+	}, {
+		"run_id":	"m38371gy",
+		"verified_epoch":	1775804384,
+		"verified_iso":	"2026-04-10T06:59:44Z",
+		"game":	"Kamla Mobile",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qpo79d/cover.png?v=ff32923",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Difficulty : Noob",
+		"primary_t":	329,
+		"players":	"Rounak69",
+		"players_data":	[{
+				"name":	"Rounak69",
+				"weblink":	"https://www.speedrun.com/users/Rounak69",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Kamla_Mobile/runs/m38371gy"
+	}, {
+		"run_id":	"zpv98p8z",
+		"verified_epoch":	1775804347,
+		"verified_iso":	"2026-04-10T06:59:07Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Scarfy, Track: Crystalline Fissure, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
+		"primary_t":	147.35,
+		"players":	"chuchumaru",
+		"players_data":	[{
+				"name":	"chuchumaru",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zpv98p8z"
+	}, {
+		"run_id":	"med3409y",
+		"verified_epoch":	1775804304,
+		"verified_iso":	"2026-04-10T06:58:24Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Cappy, Track: Crystalline Fissure, Machine: Rocket, Version: v1.3.2, Type: Restricted",
+		"primary_t":	71.8,
+		"players":	"Sakurakaze",
+		"players_data":	[{
+				"name":	"Sakurakaze",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/med3409y"
+	}, {
+		"run_id":	"yjrp5w3z",
+		"verified_epoch":	1775804239,
+		"verified_iso":	"2026-04-10T06:57:19Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Daroach, Track: Airtopia Ruins, Machine: Bulk, Version: v1.3.2, Type: Restricted",
+		"primary_t":	60.85,
+		"players":	"Gromell0116",
+		"players_data":	[{
+				"name":	"Gromell0116",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/yjrp5w3z"
+	}, {
+		"run_id":	"ywo3knpm",
+		"verified_epoch":	1775804191,
+		"verified_iso":	"2026-04-10T06:56:31Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rocky, Track: Galactic Nova, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
+		"primary_t":	116.31,
+		"players":	"watari0907",
+		"players_data":	[{
+				"name":	"watari0907",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/ywo3knpm"
+	}, {
+		"run_id":	"yverov4m",
+		"verified_epoch":	1775804155,
+		"verified_iso":	"2026-04-10T06:55:55Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: King Dedede, Track: Frozen Hillside, Machine: Turbo, Version: v1.3.2, Type: Restricted",
+		"primary_t":	49.71,
+		"players":	"rice-air",
+		"players_data":	[{
+				"name":	"rice-air",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/yverov4m"
+	}, {
+		"run_id":	"y8l8e65m",
+		"verified_epoch":	1775804118,
+		"verified_iso":	"2026-04-10T06:55:18Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Steamgust Forge, Machine: Tank, Version: v1.3.2, Type: Restricted",
+		"primary_t":	72.3,
+		"players":	"OrioTimes24",
+		"players_data":	[{
+				"name":	"OrioTimes24",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y8l8e65m"
+	}, {
+		"run_id":	"y6w0921z",
+		"verified_epoch":	1775804113,
+		"verified_iso":	"2026-04-10T06:55:13Z",
+		"game":	"ROBLOX: Speed Run 4",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0py36e/cover.png?v=96bc1ee",
+		"category":	"Skips",
+		"level":	"Level 35",
+		"subcats":	"Game Version: Current",
+		"primary_t":	17.42,
+		"players":	"AngelWings",
+		"players_data":	[{
+				"name":	"AngelWings",
+				"weblink":	"https://www.speedrun.com/users/AngelWings",
+				"image":	"https://www.speedrun.com/static/user/xk1o4y7j/image.png?v=5eaa968"
+			}],
+		"weblink":	"https://www.speedrun.com/robloxsr4/runs/y6w0921z"
+	}, {
+		"run_id":	"yveq3r4m",
+		"verified_epoch":	1775803500,
+		"verified_iso":	"2026-04-10T06:45:00Z",
+		"game":	"Minecraft: Java Edition Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e9erd/cover.png?v=3f5cca3",
+		"category":	"Full Iron Armor and 15 Levels",
+		"level":	"",
+		"subcats":	"Version: 1.21.10, Difficulty: Easy, F3: F3, Mods: Modded, Seed Type (Full Iron Armor and 15 Levels): RSG, Structures (Full Iron Armor and 15 Levels): No Structures",
+		"primary_t":	289.901,
+		"players":	"CannonTheRyan",
+		"players_data":	[{
+				"name":	"CannonTheRyan",
+				"weblink":	"https://www.speedrun.com/users/CannonTheRyan",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/mcce/runs/yveq3r4m"
+	}, {
+		"run_id":	"z5n2dpez",
+		"verified_epoch":	1775803442,
+		"verified_iso":	"2026-04-10T06:44:02Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: King Dedede, Track: Floria Fields, Machine: Transform, Version: v1.3.2, Type: Restricted",
+		"primary_t":	25.66,
+		"players":	"WhiteHummer",
+		"players_data":	[{
+				"name":	"WhiteHummer",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/z5n2dpez"
+	}, {
+		"run_id":	"zxp7o38y",
+		"verified_epoch":	1775803401,
+		"verified_iso":	"2026-04-10T06:43:21Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: King Dedede, Track: Fantasy Meadows, Machine: Transform, Version: v1.3.2, Type: Restricted",
+		"primary_t":	16.46,
+		"players":	"WhiteHummer",
+		"players_data":	[{
+				"name":	"WhiteHummer",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zxp7o38y"
+	}, {
+		"run_id":	"m7j670wm",
+		"verified_epoch":	1775803322,
+		"verified_iso":	"2026-04-10T06:42:02Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Meta Knight, Track: Cavernous Corners, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	147.11,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/m7j670wm"
+	}, {
+		"run_id":	"z10pxlrm",
+		"verified_epoch":	1775803284,
+		"verified_iso":	"2026-04-10T06:41:24Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Chef Kawasaki, Track: Steamgust Forge, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	142.2,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/z10pxlrm"
+	}, {
+		"run_id":	"m386eoqy",
+		"verified_epoch":	1775803250,
+		"verified_iso":	"2026-04-10T06:40:50Z",
+		"game":	"Eternal Towers of Hell",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pozgp6/cover.png?v=7256bfa",
+		"category":	"Glitchless",
+		"level":	"Tower of Nerves of Steel",
+		"subcats":	"FPS: 144",
+		"primary_t":	851.76,
+		"players":	"Mr_Roblox3456",
+		"players_data":	[{
+				"name":	"Mr_Roblox3456",
+				"weblink":	"https://www.speedrun.com/users/Mr_Roblox3456",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/etoh/runs/m386eoqy"
+	}, {
+		"run_id":	"ydpdej0y",
+		"verified_epoch":	1775803234,
+		"verified_iso":	"2026-04-10T06:40:34Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rocky, Track: Crystalline Fissure, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	139.43,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/ydpdej0y"
+	}, {
+		"run_id":	"zpv98wrz",
+		"verified_epoch":	1775803203,
+		"verified_iso":	"2026-04-10T06:40:03Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Meta Knight, Track: Waveflow Waters, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	119.63,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zpv98wrz"
+	}, {
+		"run_id":	"med34l8y",
+		"verified_epoch":	1775803166,
+		"verified_iso":	"2026-04-10T06:39:26Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rocky, Track: Floria Fields, Machine: Paper, Version: v1.3.2, Type: Restricted",
+		"primary_t":	81.88,
+		"players":	"eaglenebula",
+		"players_data":	[{
+				"name":	"eaglenebula",
+				"weblink":	"https://www.speedrun.com/users/eaglenebula",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/med34l8y"
+	}, {
+		"run_id":	"zg1prenz",
+		"verified_epoch":	1775803131,
+		"verified_iso":	"2026-04-10T06:38:51Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Taranza, Track: Checker Knights, Machine: Tank, Version: v1.3.2, Type: Restricted",
+		"primary_t":	59.76,
+		"players":	"Sakurakaze",
+		"players_data":	[{
+				"name":	"Sakurakaze",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/zg1prenz"
+	}, {
+		"run_id":	"m7j6p2em",
+		"verified_epoch":	1775803093,
+		"verified_iso":	"2026-04-10T06:38:13Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Solo Any%",
+		"level":	"The Capital of the Dead",
+		"subcats":	"Difficulty: Abyss",
+		"primary_t":	31.04,
+		"players":	"ivaous",
+		"players_data":	[{
+				"name":	"ivaous",
+				"weblink":	"https://www.speedrun.com/users/ivaous",
+				"image":	"https://www.speedrun.com/static/user/x7ygmmvx/image.png?v=52821a7"
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/m7j6p2em"
+	}, {
+		"run_id":	"yl27r63z",
+		"verified_epoch":	1775803067,
+		"verified_iso":	"2026-04-10T06:37:47Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Free Run",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Starman, Track: Floria Fields, Machine: Winged, Version: v1.3.2, Type: Restricted",
+		"primary_t":	25.26,
+		"players":	"Alcamp",
+		"players_data":	[{
+				"name":	"Alcamp",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/yl27r63z"
+	}, {
+		"run_id":	"ydpd52jy",
+		"verified_epoch":	1775803042,
+		"verified_iso":	"2026-04-10T06:37:22Z",
+		"game":	"Minecraft: Java Edition Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e9erd/cover.png?v=3f5cca3",
+		"category":	"Obtain Item",
+		"level":	"",
+		"subcats":	"Item (Obtain Item): Diamond, Version: 1.16.1, Seed Type (Obtain Item): SSG, Difficulty: Hardcore, Structures (Obtain Item): Structures, F3: F3, Mods: Modded",
+		"primary_t":	0.1,
+		"players":	"Palumn",
+		"players_data":	[{
+				"name":	"Palumn",
+				"weblink":	"https://www.speedrun.com/users/Palumn",
+				"image":	"https://www.speedrun.com/static/user/jpoqo648/image.png?v=9a576e4"
+			}],
+		"weblink":	"https://www.speedrun.com/mcce/runs/ydpd52jy"
+	}, {
+		"run_id":	"zn6p0jly",
+		"verified_epoch":	1775803034,
+		"verified_iso":	"2026-04-10T06:37:14Z",
+		"game":	"Super Meat Boy 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp3emd/cover.png?v=5ffb805",
+		"category":	"Light Forest",
+		"level":	"2",
+		"subcats":	"Character: Bridge Constructor Truck",
+		"primary_t":	4.68,
+		"players":	"LucasDiasC",
+		"players_data":	[{
+				"name":	"LucasDiasC",
+				"weblink":	"https://www.speedrun.com/users/LucasDiasC",
+				"image":	"https://www.speedrun.com/static/user/qjn1g0w8/image.png?v=a54c8b6"
+			}],
+		"weblink":	"https://www.speedrun.com/SMB_3D/runs/zn6p0jly"
+	}, {
+		"run_id":	"mkxk5v5z",
+		"verified_epoch":	1775802884,
+		"verified_iso":	"2026-04-10T06:34:44Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Duo Any%",
+		"level":	"Ferzen Mines",
+		"subcats":	"Difficulty: Hard",
+		"primary_t":	38.92,
+		"players":	"Costs, F2Lose",
+		"players_data":	[{
+				"name":	"Costs",
+				"weblink":	"https://www.speedrun.com/users/Costs",
+				"image":	"https://www.speedrun.com/static/user/jmy0orej/image.png?v=6736f45"
+			}, {
+				"name":	"F2Lose",
+				"weblink":	"https://www.speedrun.com/users/F2Lose",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/mkxk5v5z"
+	}, {
+		"run_id":	"zqn7ve8z",
+		"verified_epoch":	1775802863,
+		"verified_iso":	"2026-04-10T06:34:23Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Duo Any%",
+		"level":	"Deep Spider Nest",
+		"subcats":	"Difficulty: Hell",
+		"primary_t":	140.34,
+		"players":	"Costs, F2Lose",
+		"players_data":	[{
+				"name":	"Costs",
+				"weblink":	"https://www.speedrun.com/users/Costs",
+				"image":	"https://www.speedrun.com/static/user/jmy0orej/image.png?v=6736f45"
+			}, {
+				"name":	"F2Lose",
+				"weblink":	"https://www.speedrun.com/users/F2Lose",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/zqn7ve8z"
+	}, {
+		"run_id":	"y6w09ojz",
+		"verified_epoch":	1775802860,
+		"verified_iso":	"2026-04-10T06:34:20Z",
+		"game":	"Chain-Chillas",
+		"game_cover":	"https://www.speedrun.com/static/game/ldemj8l1/cover.png?v=220fd24",
+		"category":	"Demo Levels",
+		"level":	"Demo 12",
+		"subcats":	"Version: 0.01, Number of players: 1 Player",
+		"primary_t":	9.349,
+		"players":	"picklejuicepingpong",
+		"players_data":	[{
+				"name":	"picklejuicepingpong",
+				"weblink":	"https://www.speedrun.com/users/picklejuicepingpong",
+				"image":	"https://www.speedrun.com/static/user/819v01lx/image.png?v=f11fd8e"
+			}],
+		"weblink":	"https://www.speedrun.com/ChainChillas/runs/y6w09ojz"
+	}, {
+		"run_id":	"y9gv36nm",
+		"verified_epoch":	1775802829,
+		"verified_iso":	"2026-04-10T06:33:49Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Duo Any%",
+		"level":	"Albion Mutant",
+		"subcats":	"Difficulty: Hard",
+		"primary_t":	29.55,
+		"players":	"Costs, F2Lose",
+		"players_data":	[{
+				"name":	"Costs",
+				"weblink":	"https://www.speedrun.com/users/Costs",
+				"image":	"https://www.speedrun.com/static/user/jmy0orej/image.png?v=6736f45"
+			}, {
+				"name":	"F2Lose",
+				"weblink":	"https://www.speedrun.com/users/F2Lose",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/y9gv36nm"
+	}, {
+		"run_id":	"zpv98grz",
+		"verified_epoch":	1775802776,
+		"verified_iso":	"2026-04-10T06:32:56Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Solo Any%",
+		"level":	"The Capital of the Dead",
+		"subcats":	"Difficulty: Abyss",
+		"primary_t":	32.34,
+		"players":	"Costs",
+		"players_data":	[{
+				"name":	"Costs",
+				"weblink":	"https://www.speedrun.com/users/Costs",
+				"image":	"https://www.speedrun.com/static/user/jmy0orej/image.png?v=6736f45"
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/zpv98grz"
+	}, {
+		"run_id":	"y4vq7gky",
+		"verified_epoch":	1775802082,
+		"verified_iso":	"2026-04-10T06:21:22Z",
+		"game":	"Kirby Air Riders",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
+		"category":	"Air Ride Time Attack",
+		"level":	"Records (top 3, click here to see all and submit runs)",
+		"subcats":	"Rider: Rocky, Track: Fantasy Meadows, Machine: Slick, Version: v1.3.2, Type: Restricted",
+		"primary_t":	41.98,
+		"players":	"Kins0",
+		"players_data":	[{
+				"name":	"Kins0",
+				"weblink":	"https://www.speedrun.com/users/Kins0",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kars/runs/y4vq7gky"
+	}, {
+		"run_id":	"z10px3wm",
+		"verified_epoch":	1775802056,
+		"verified_iso":	"2026-04-10T06:20:56Z",
+		"game":	"Hades 2",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxy5vv6/cover.png?v=ca754c9",
+		"category":	"62 Fear",
+		"level":	"",
+		"subcats":	"Surface/Underworld: Surface, Game Version: v1.13x, Unseeded/Seeded: Unseeded, Major Patch: Post Release Patch 1, Aspect: Melinoe Skull",
+		"primary_t":	641.54,
+		"players":	"hookiedookie",
+		"players_data":	[{
+				"name":	"hookiedookie",
+				"weblink":	"https://www.speedrun.com/users/hookiedookie",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/hades2/runs/z10px3wm"
+	}, {
+		"run_id":	"z10pxqrm",
+		"verified_epoch":	1775801817,
+		"verified_iso":	"2026-04-10T06:16:57Z",
+		"game":	"Army Men: Green Rogue",
+		"game_cover":	"https://www.speedrun.com/static/game/9dokxok1/cover.png?v=66638f0",
+		"category":	"PS2",
+		"level":	"",
+		"subcats":	"Category: Any%, Difficulty: Easy",
+		"primary_t":	6906,
+		"players":	"Archy",
+		"players_data":	[{
+				"name":	"Archy",
+				"weblink":	"https://www.speedrun.com/users/Archy",
+				"image":	"https://www.speedrun.com/static/user/8vke3eyj/image.png?v=93bc112"
+			}],
+		"weblink":	"https://www.speedrun.com/Army_Men_Green_Rogue/runs/z10pxqrm"
+	}, {
+		"run_id":	"yo8p671z",
+		"verified_epoch":	1775801710,
+		"verified_iso":	"2026-04-10T06:15:10Z",
+		"game":	"Minecraft: Java Edition",
+		"game_cover":	"https://www.speedrun.com/static/game/j1npme6p/cover.png?v=9d1e2ca",
+		"category":	"Any% Glitchless Co-op",
+		"level":	"",
+		"subcats":	"Version: 1.16, Difficulty: Easy, Seed Type (Any% Glitchless Co-op): Random Seed, Version Range (Any% Glitchless Co-op): 1.16+, Player Count (Any% Glitchless Co-op): 2 Players, F3: F3, Mods: Modded",
+		"primary_t":	2648.51,
+		"players":	"nnayR, Secoh",
+		"players_data":	[{
+				"name":	"nnayR",
+				"weblink":	"https://www.speedrun.com/users/nnayR",
+				"image":	""
+			}, {
+				"name":	"Secoh",
+				"weblink":	"https://www.speedrun.com/users/Secoh",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/mc/runs/yo8p671z"
+	}, {
+		"run_id":	"ydpdeg0y",
+		"verified_epoch":	1775801578,
+		"verified_iso":	"2026-04-10T06:12:58Z",
+		"game":	"Climbing Game",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27mx51/cover.png?v=b9bd367",
+		"category":	"Glitchless",
+		"level":	"Lone Rock",
+		"subcats":	"",
+		"primary_t":	24.36,
+		"players":	"Voppo",
+		"players_data":	[{
+				"name":	"Voppo",
+				"weblink":	"https://www.speedrun.com/users/Voppo",
+				"image":	"https://www.speedrun.com/static/user/8gz3ve7j/image.png?v=98297c5"
+			}],
+		"weblink":	"https://www.speedrun.com/Climbing_Game/runs/ydpdeg0y"
+	}, {
+		"run_id":	"yl2evo2z",
+		"verified_epoch":	1775801403,
+		"verified_iso":	"2026-04-10T06:10:03Z",
+		"game":	"simpel fist person game",
+		"game_cover":	"https://www.speedrun.com/static/game/y655pz06/cover.png?v=eeeb94b",
+		"category":	"level complete",
+		"level":	"level 2",
+		"subcats":	"",
+		"primary_t":	5.933,
+		"players":	"JacefromanotherBase",
+		"players_data":	[{
+				"name":	"JacefromanotherBase",
+				"weblink":	"https://www.speedrun.com/users/JacefromanotherBase",
+				"image":	"https://www.speedrun.com/static/user/8wkopkv8/image.png?v=fe602fe"
+			}],
+		"weblink":	"https://www.speedrun.com/simpel_fist_person_game/runs/yl2evo2z"
+	}, {
+		"run_id":	"yverooxm",
+		"verified_epoch":	1775801317,
+		"verified_iso":	"2026-04-10T06:08:37Z",
+		"game":	"Cuphead",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jmm26j/cover.png?v=45862cd",
+		"category":	"Any% - No DLC",
+		"level":	"The Devil",
+		"subcats":	"ILs - Players: Solo, Devil - Difficulty: Regular, Devil - Version: 1.1",
+		"primary_t":	42,
+		"players":	"myekul",
+		"players_data":	[{
+				"name":	"myekul",
+				"weblink":	"https://www.speedrun.com/users/myekul",
+				"image":	"https://www.speedrun.com/static/user/zx7zpor8/image.png?v=6c90a75"
+			}],
+		"weblink":	"https://www.speedrun.com/cuphead/runs/yverooxm"
+	}, {
+		"run_id":	"med349qy",
+		"verified_epoch":	1775801307,
+		"verified_iso":	"2026-04-10T06:08:27Z",
+		"game":	"NASCAR Thunder 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zklo21/cover.png?v=7fff03e",
+		"category":	"Fastest Lap",
+		"level":	"Daytona (Day)",
+		"subcats":	"",
+		"primary_t":	45.397,
+		"players":	"MangoVanGogh",
+		"players_data":	[{
+				"name":	"MangoVanGogh",
+				"weblink":	"https://www.speedrun.com/users/MangoVanGogh",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/nascar_thunder_2002/runs/med349qy"
+	}, {
+		"run_id":	"zxpl9rky",
+		"verified_epoch":	1775801233,
+		"verified_iso":	"2026-04-10T06:07:13Z",
+		"game":	"Eternal Towers of Hell",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pozgp6/cover.png?v=7256bfa",
+		"category":	"Glitches",
+		"level":	"Tower of Keys To Success",
+		"subcats":	"Patched? (Glitches): Unpatched Glitches, FPS: 60",
+		"primary_t":	774.22,
+		"players":	"Speedrunisfun",
+		"players_data":	[{
+				"name":	"Speedrunisfun",
+				"weblink":	"https://www.speedrun.com/users/Speedrunisfun",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/etoh/runs/zxpl9rky"
+	}, {
+		"run_id":	"ydpwjdxy",
+		"verified_epoch":	1775801167,
+		"verified_iso":	"2026-04-10T06:06:07Z",
+		"game":	"Persona 4 Golden",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y0946q/cover.png?v=c70c668",
+		"category":	"Hard, Golden Ending NMG",
+		"level":	"",
+		"subcats":	"Version: PC, Turbo: No Turbo",
+		"primary_t":	23540,
+		"players":	"fujikura123",
+		"players_data":	[{
+				"name":	"fujikura123",
+				"weblink":	"https://www.speedrun.com/users/fujikura123",
+				"image":	"https://www.speedrun.com/static/user/8dep7l9j/image.png?v=65e8757"
+			}],
+		"weblink":	"https://www.speedrun.com/p4g/runs/ydpwjdxy"
+	}, {
 		"run_id":	"z02p7l8m",
 		"verified_epoch":	1775800691,
 		"verified_iso":	"2026-04-10T05:58:11Z",
@@ -13117,6 +15666,23 @@
 			}],
 		"weblink":	"https://www.speedrun.com/Balatro/runs/y8l918wm"
 	}, {
+		"run_id":	"med396qy",
+		"verified_epoch":	1775759215,
+		"verified_iso":	"2026-04-09T18:26:55Z",
+		"game":	"The Seven Deadly Sins: Origin",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwqyd/cover.png?v=498ef24",
+		"category":	"Solo Any%",
+		"level":	"The Capital of the Dead",
+		"subcats":	"Difficulty: Abyss",
+		"primary_t":	34.99,
+		"players":	"Reroro0725",
+		"players_data":	[{
+				"name":	"Reroro0725",
+				"weblink":	"https://www.speedrun.com/users/Reroro0725",
+				"image":	"https://www.speedrun.com/static/user/8e5zkk28/image.png?v=eef7750"
+			}],
+		"weblink":	"https://www.speedrun.com/The_Seven_Deadly_Sins_Origin/runs/med396qy"
+	}, {
 		"run_id":	"ydpd0kxy",
 		"verified_epoch":	1775759205,
 		"verified_iso":	"2026-04-09T18:26:45Z",
@@ -21049,1529 +23615,4 @@
 				"image":	"https://www.speedrun.com/static/user/8ez5d028/image.png?v=6cae8db"
 			}],
 		"weblink":	"https://www.speedrun.com/Roblox_Pressure/runs/y260rnjm"
-	}, {
-		"run_id":	"mrw7qe7y",
-		"verified_epoch":	1775721834,
-		"verified_iso":	"2026-04-09T08:03:54Z",
-		"game":	"Chain-Chillas",
-		"game_cover":	"https://www.speedrun.com/static/game/ldemj8l1/cover.png?v=220fd24",
-		"category":	"Demo",
-		"level":	"",
-		"subcats":	"Version: 0.01, Game mode: Challenge, Number of players: 1 Player",
-		"primary_t":	211.299,
-		"players":	"RastoMast",
-		"players_data":	[{
-				"name":	"RastoMast",
-				"weblink":	"https://www.speedrun.com/users/RastoMast",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ChainChillas/runs/mrw7qe7y"
-	}, {
-		"run_id":	"yo8668dz",
-		"verified_epoch":	1775721619,
-		"verified_iso":	"2026-04-09T08:00:19Z",
-		"game":	"Poppy Playtime: Chapter 5",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9lr5d/cover.png?v=6f63246",
-		"category":	"PC",
-		"level":	"Research",
-		"subcats":	"Route [IL]: NMG",
-		"primary_t":	579.2,
-		"players":	"ChillyCalentorro_2",
-		"players_data":	[{
-				"name":	"ChillyCalentorro_2",
-				"weblink":	"https://www.speedrun.com/users/ChillyCalentorro_2",
-				"image":	"https://www.speedrun.com/static/user/x3pl19q8/image.png?v=5b4d23b"
-			}],
-		"weblink":	"https://www.speedrun.com/ppt_c5/runs/yo8668dz"
-	}, {
-		"run_id":	"y267717m",
-		"verified_epoch":	1775721305,
-		"verified_iso":	"2026-04-09T07:55:05Z",
-		"game":	"Poppy Playtime: Chapter 5",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9lr5d/cover.png?v=6f63246",
-		"category":	"PC",
-		"level":	"End of the Line",
-		"subcats":	"Route [IL]: NMG",
-		"primary_t":	456.367,
-		"players":	"Mynz",
-		"players_data":	[{
-				"name":	"Mynz",
-				"weblink":	"https://www.speedrun.com/users/Mynz",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ppt_c5/runs/y267717m"
-	}, {
-		"run_id":	"z0250e8m",
-		"verified_epoch":	1775721204,
-		"verified_iso":	"2026-04-09T07:53:24Z",
-		"game":	"3D Parkour (Scratch)",
-		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
-		"category":	"Any%",
-		"level":	"Hard",
-		"subcats":	"",
-		"primary_t":	16.25,
-		"players":	"MakZez",
-		"players_data":	[{
-				"name":	"MakZez",
-				"weblink":	"https://www.speedrun.com/users/MakZez",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/3D_Parkour_Scratch/runs/z0250e8m"
-	}, {
-		"run_id":	"mkx5xl5z",
-		"verified_epoch":	1775720320,
-		"verified_iso":	"2026-04-09T07:38:40Z",
-		"game":	"Peglin",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
-		"category":	"Cruciball",
-		"level":	"",
-		"subcats":	"Cruciball Number: Cruciball 6, Seeds: Non-seeded, Character: Spinventor",
-		"primary_t":	745,
-		"players":	"OLXOLw",
-		"players_data":	[{
-				"name":	"OLXOLw",
-				"weblink":	"https://www.speedrun.com/users/OLXOLw",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Peglin/runs/mkx5xl5z"
-	}, {
-		"run_id":	"ywok533m",
-		"verified_epoch":	1775720202,
-		"verified_iso":	"2026-04-09T07:36:42Z",
-		"game":	"Peglin",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkqoz2d/cover.png?v=1950671",
-		"category":	"Cruciball",
-		"level":	"",
-		"subcats":	"Cruciball Number: Cruciball 6, Seeds: Non-seeded, Character: Roundrel",
-		"primary_t":	980,
-		"players":	"OLXOLw",
-		"players_data":	[{
-				"name":	"OLXOLw",
-				"weblink":	"https://www.speedrun.com/users/OLXOLw",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Peglin/runs/ywok533m"
-	}, {
-		"run_id":	"yl27kr3z",
-		"verified_epoch":	1775719605,
-		"verified_iso":	"2026-04-09T07:26:45Z",
-		"game":	"Super Meat Boy 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp3emd/cover.png?v=5ffb805",
-		"category":	"Light Wastes",
-		"level":	"2",
-		"subcats":	"Character: Skeleton Boy",
-		"primary_t":	7.68,
-		"players":	"DamonGM",
-		"players_data":	[{
-				"name":	"DamonGM",
-				"weblink":	"https://www.speedrun.com/users/DamonGM",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/SMB_3D/runs/yl27kr3z"
-	}, {
-		"run_id":	"mrw78xgy",
-		"verified_epoch":	1775719577,
-		"verified_iso":	"2026-04-09T07:26:17Z",
-		"game":	"Tasty Planet: Final Bite",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9lg7d/cover.png?v=ca5fb1f",
-		"category":	"100%",
-		"level":	"1-2",
-		"subcats":	"Platform: PC",
-		"primary_t":	45,
-		"players":	"Nessmaster_GD",
-		"players_data":	[{
-				"name":	"Nessmaster_GD",
-				"weblink":	"https://www.speedrun.com/users/Nessmaster_GD",
-				"image":	"https://www.speedrun.com/static/user/8g0q60px/image.png?v=157b3ef"
-			}],
-		"weblink":	"https://www.speedrun.com/Tasty_Planet_Final_Bite/runs/mrw78xgy"
-	}, {
-		"run_id":	"ydpd3lvy",
-		"verified_epoch":	1775719520,
-		"verified_iso":	"2026-04-09T07:25:20Z",
-		"game":	"Tasty Planet: Final Bite",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9lg7d/cover.png?v=ca5fb1f",
-		"category":	"Any%",
-		"level":	"1-2",
-		"subcats":	"Platform: PC",
-		"primary_t":	45,
-		"players":	"Nessmaster_GD",
-		"players_data":	[{
-				"name":	"Nessmaster_GD",
-				"weblink":	"https://www.speedrun.com/users/Nessmaster_GD",
-				"image":	"https://www.speedrun.com/static/user/8g0q60px/image.png?v=157b3ef"
-			}],
-		"weblink":	"https://www.speedrun.com/Tasty_Planet_Final_Bite/runs/ydpd3lvy"
-	}, {
-		"run_id":	"yl273okz",
-		"verified_epoch":	1775718899,
-		"verified_iso":	"2026-04-09T07:14:59Z",
-		"game":	"Snowboard Kids",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv25o6w/cover.png?v=1ddeabe",
-		"category":	"Copper Pass, NG+",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1951,
-		"players":	"McGyna",
-		"players_data":	[{
-				"name":	"McGyna",
-				"weblink":	"https://www.speedrun.com/users/McGyna",
-				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
-			}],
-		"weblink":	"https://www.speedrun.com/sbk/runs/yl273okz"
-	}, {
-		"run_id":	"zpv9n38z",
-		"verified_epoch":	1775718894,
-		"verified_iso":	"2026-04-09T07:14:54Z",
-		"game":	"Snowboard Kids",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv25o6w/cover.png?v=1ddeabe",
-		"category":	"All Races, NG+",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	3084,
-		"players":	"McGyna",
-		"players_data":	[{
-				"name":	"McGyna",
-				"weblink":	"https://www.speedrun.com/users/McGyna",
-				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
-			}],
-		"weblink":	"https://www.speedrun.com/sbk/runs/zpv9n38z"
-	}, {
-		"run_id":	"z02p3o4m",
-		"verified_epoch":	1775718883,
-		"verified_iso":	"2026-04-09T07:14:43Z",
-		"game":	"Snowboard Kids",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv25o6w/cover.png?v=1ddeabe",
-		"category":	"Battle Race NG+",
-		"level":	"Big Snowman",
-		"subcats":	"",
-		"primary_t":	249.61,
-		"players":	"McGyna",
-		"players_data":	[{
-				"name":	"McGyna",
-				"weblink":	"https://www.speedrun.com/users/McGyna",
-				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
-			}],
-		"weblink":	"https://www.speedrun.com/sbk/runs/z02p3o4m"
-	}, {
-		"run_id":	"z02ped9m",
-		"verified_epoch":	1775718775,
-		"verified_iso":	"2026-04-09T07:12:55Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Time Trials - Gridmap V2",
-		"subcats":	"Time Trials - Gridmap V2: Highspeed Ring - Perimeter, Levels: Success",
-		"primary_t":	82.509,
-		"players":	"MarsThePlanet",
-		"players_data":	[{
-				"name":	"MarsThePlanet",
-				"weblink":	"https://www.speedrun.com/users/MarsThePlanet",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/z02ped9m"
-	}, {
-		"run_id":	"y8l82dnm",
-		"verified_epoch":	1775718700,
-		"verified_iso":	"2026-04-09T07:11:40Z",
-		"game":	"LEGO Star Wars: The Complete Saga (PC/Console)",
-		"game_cover":	"https://www.speedrun.com/static/game/46w33l1r/cover.png?v=19285e8",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Console: PC, Solo or Co-op?: Solo, Timing Method: LRT",
-		"primary_t":	8221,
-		"players":	"Zacc",
-		"players_data":	[{
-				"name":	"Zacc",
-				"weblink":	"https://www.speedrun.com/users/Zacc",
-				"image":	"https://www.speedrun.com/static/user/e8emr06x/image.png?v=b7c3f74"
-			}],
-		"weblink":	"https://www.speedrun.com/lswtcs/runs/y8l82dnm"
-	}, {
-		"run_id":	"y4vq1ldy",
-		"verified_epoch":	1775718623,
-		"verified_iso":	"2026-04-09T07:10:23Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Time Trial",
-		"subcats":	"Levels: Success, Missions - Time Trial: Toughmans Trail - Gambler 500",
-		"primary_t":	282.292,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y4vq1ldy"
-	}, {
-		"run_id":	"mrw7e5gy",
-		"verified_epoch":	1775718458,
-		"verified_iso":	"2026-04-09T07:07:38Z",
-		"game":	"Battle For Dream Island Again 5b",
-		"game_cover":	"https://www.speedrun.com/static/game/v1p527d8/cover.png?v=dae0309",
-		"category":	"Finish%",
-		"level":	"047. Heading out",
-		"subcats":	"Version: HTML5blazit",
-		"primary_t":	15.867,
-		"players":	"Numbly",
-		"players_data":	[{
-				"name":	"Numbly",
-				"weblink":	"https://www.speedrun.com/users/Numbly",
-				"image":	"https://www.speedrun.com/static/user/jm7y6enj/image.png?v=ba24493"
-			}],
-		"weblink":	"https://www.speedrun.com/bfdia/runs/mrw7e5gy"
-	}, {
-		"run_id":	"m7j6g55m",
-		"verified_epoch":	1775718454,
-		"verified_iso":	"2026-04-09T07:07:34Z",
-		"game":	"Battle For Dream Island Again 5b",
-		"game_cover":	"https://www.speedrun.com/static/game/v1p527d8/cover.png?v=dae0309",
-		"category":	"Finish%",
-		"level":	"049. Take the plunge",
-		"subcats":	"Version: HTML5blazit",
-		"primary_t":	8.967,
-		"players":	"Numbly",
-		"players_data":	[{
-				"name":	"Numbly",
-				"weblink":	"https://www.speedrun.com/users/Numbly",
-				"image":	"https://www.speedrun.com/static/user/jm7y6enj/image.png?v=ba24493"
-			}],
-		"weblink":	"https://www.speedrun.com/bfdia/runs/m7j6g55m"
-	}, {
-		"run_id":	"z10pj77m",
-		"verified_epoch":	1775718332,
-		"verified_iso":	"2026-04-09T07:05:32Z",
-		"game":	"Radium ",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7pk5zd/cover.png?v=f33badc",
-		"category":	"Golden Trophy",
-		"level":	"",
-		"subcats":	"Players (gt): Solo, Run Type (gt): Any%, Play mode : VR",
-		"primary_t":	277,
-		"players":	"TaxFraudRR",
-		"players_data":	[{
-				"name":	"TaxFraudRR",
-				"weblink":	"https://www.speedrun.com/users/TaxFraudRR",
-				"image":	"https://www.speedrun.com/static/user/8lrpr648/image.png?v=7ee8a7d"
-			}],
-		"weblink":	"https://www.speedrun.com/Radium_/runs/z10pj77m"
-	}, {
-		"run_id":	"yveq2qem",
-		"verified_epoch":	1775718181,
-		"verified_iso":	"2026-04-09T07:03:01Z",
-		"game":	"Roblox: Pressure Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
-		"category":	"Bad Ending",
-		"level":	"",
-		"subcats":	"Version: Half A Slice Of Cake, Players: Squad, Shop: No Shop",
-		"primary_t":	1293.933,
-		"players":	"Cheesethecake, Dylan_2228, Luminosa_, DrippyNanami",
-		"players_data":	[{
-				"name":	"Cheesethecake",
-				"weblink":	"https://www.speedrun.com/users/Cheesethecake",
-				"image":	"https://www.speedrun.com/static/user/jpp0n42j/image.png?v=67e0085"
-			}, {
-				"name":	"Dylan_2228",
-				"weblink":	"https://www.speedrun.com/users/Dylan_2228",
-				"image":	"https://www.speedrun.com/static/user/jnzvnddj/image.png?v=bcf8401"
-			}, {
-				"name":	"Luminosa_",
-				"weblink":	"https://www.speedrun.com/users/Luminosa_",
-				"image":	"https://www.speedrun.com/static/user/8e94ym7j/image.png?v=3eb9c4c"
-			}, {
-				"name":	"DrippyNanami",
-				"weblink":	"https://www.speedrun.com/users/DrippyNanami",
-				"image":	"https://www.speedrun.com/static/user/8r6l2y38/image.png?v=783c7c9"
-			}],
-		"weblink":	"https://www.speedrun.com/Roblox_Pressure_CE/runs/yveq2qem"
-	}, {
-		"run_id":	"y26p5vwm",
-		"verified_epoch":	1775717903,
-		"verified_iso":	"2026-04-09T06:58:23Z",
-		"game":	"Hopping girl KOHANE Jumping Kingdom: Princess of the Black Rabbit",
-		"game_cover":	"https://www.speedrun.com/static/game/y654nm0d/cover.png?v=6528b8f",
-		"category":	"Championship",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	766,
-		"players":	"mkr1000",
-		"players_data":	[{
-				"name":	"mkr1000",
-				"weblink":	"https://www.speedrun.com/users/mkr1000",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/hopping_girl_kohane_jumping_kingdom_princess_of_the_black_rabbit/runs/y26p5vwm"
-	}, {
-		"run_id":	"zg1pnlez",
-		"verified_epoch":	1775717824,
-		"verified_iso":	"2026-04-09T06:57:04Z",
-		"game":	"Minecraft Hielke Maps",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0wpq21/cover.png?v=8c1390f",
-		"category":	"Any%",
-		"level":	"Parkour Paradise 3",
-		"subcats":	"Edition (Any%): Java, Version: 1.21.2+",
-		"primary_t":	2620,
-		"players":	"Apolion_",
-		"players_data":	[{
-				"name":	"Apolion_",
-				"weblink":	"https://www.speedrun.com/users/Apolion_",
-				"image":	"https://www.speedrun.com/static/user/jm0wl7n8/image.png?v=d5e5b66"
-			}],
-		"weblink":	"https://www.speedrun.com/mcm_hielke_maps/runs/zg1pnlez"
-	}, {
-		"run_id":	"zpv9r8rz",
-		"verified_epoch":	1775717816,
-		"verified_iso":	"2026-04-09T06:56:56Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Lololo & Lalala, Track: Mountain, Machine: Formula, Version: v1.3.2, Type: Restricted",
-		"primary_t":	41.18,
-		"players":	"tokotouyoko",
-		"players_data":	[{
-				"name":	"tokotouyoko",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zpv9r8rz"
-	}, {
-		"run_id":	"zxp7935y",
-		"verified_epoch":	1775717797,
-		"verified_iso":	"2026-04-09T06:56:37Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - AI-Race",
-		"subcats":	"Levels: Success, Missions - AI-Race: Jungle Rumble - Gambler 500",
-		"primary_t":	50.714,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/zxp7935y"
-	}, {
-		"run_id":	"yo8pk6jz",
-		"verified_epoch":	1775717787,
-		"verified_iso":	"2026-04-09T06:56:27Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Lololo & Lalala, Track: Cyber, Machine: Formula, Version: v1.3.2, Type: Restricted",
-		"primary_t":	57.4,
-		"players":	"tokotouyoko",
-		"players_data":	[{
-				"name":	"tokotouyoko",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yo8pk6jz"
-	}, {
-		"run_id":	"m386k14y",
-		"verified_epoch":	1775717755,
-		"verified_iso":	"2026-04-09T06:55:55Z",
-		"game":	"Ballance",
-		"game_cover":	"https://www.speedrun.com/static/game/4d795n17/cover.png?v=7eab8ae",
-		"category":	"Regular SR",
-		"level":	"Level 13 (Twilight Zone)",
-		"subcats":	"",
-		"primary_t":	311.367,
-		"players":	"DRHBF",
-		"players_data":	[{
-				"name":	"DRHBF",
-				"weblink":	"https://www.speedrun.com/users/DRHBF",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ballance/runs/m386k14y"
-	}, {
-		"run_id":	"med3o48y",
-		"verified_epoch":	1775717754,
-		"verified_iso":	"2026-04-09T06:55:54Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Celestial Valley, Machine: Transform, Version: v1.3.2, Type: Restricted",
-		"primary_t":	46.28,
-		"players":	"mihan",
-		"players_data":	[{
-				"name":	"mihan",
-				"weblink":	"https://www.speedrun.com/users/mihan",
-				"image":	"https://www.speedrun.com/static/user/xyk37pv8/image.png?v=db36b16"
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/med3o48y"
-	}, {
-		"run_id":	"yver4o4m",
-		"verified_epoch":	1775717721,
-		"verified_iso":	"2026-04-09T06:55:21Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Trash Grab",
-		"subcats":	"Levels: Success, Missions - Trash Grab: Field Cleanup - Gambler 500",
-		"primary_t":	175.137,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/yver4o4m"
-	}, {
-		"run_id":	"yjrplgnz",
-		"verified_epoch":	1775717715,
-		"verified_iso":	"2026-04-09T06:55:15Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Waddle Dee, Track: Checker Knights, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	127.7,
-		"players":	"ShadoChimera",
-		"players_data":	[{
-				"name":	"ShadoChimera",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yjrplgnz"
-	}, {
-		"run_id":	"z02p1vom",
-		"verified_epoch":	1775717711,
-		"verified_iso":	"2026-04-09T06:55:11Z",
-		"game":	"Ratchet & Clank",
-		"game_cover":	"https://www.speedrun.com/static/game/y655j36e/cover.png?v=8928a16",
-		"category":	"All Missions",
-		"level":	"",
-		"subcats":	"Storage: Disc",
-		"primary_t":	3938,
-		"players":	"CptGallant",
-		"players_data":	[{
-				"name":	"CptGallant",
-				"weblink":	"https://www.speedrun.com/users/CptGallant",
-				"image":	"https://www.speedrun.com/static/user/81m24eq8/image.png?v=80cc753"
-			}],
-		"weblink":	"https://www.speedrun.com/rac1/runs/z02p1vom"
-	}, {
-		"run_id":	"zn6pk1ly",
-		"verified_epoch":	1775717622,
-		"verified_iso":	"2026-04-09T06:53:42Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Daroach, Track: Sky Sands, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	82.66,
-		"players":	"haruto30",
-		"players_data":	[{
-				"name":	"haruto30",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zn6pk1ly"
-	}, {
-		"run_id":	"yver61em",
-		"verified_epoch":	1775717534,
-		"verified_iso":	"2026-04-09T06:52:14Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Lololo & Lalala, Track: Flower, Machine: Jet, Version: v1.3.2, Type: Restricted",
-		"primary_t":	7.83,
-		"players":	"syao",
-		"players_data":	[{
-				"name":	"syao",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yver61em"
-	}, {
-		"run_id":	"z02p5r8m",
-		"verified_epoch":	1775717494,
-		"verified_iso":	"2026-04-09T06:51:34Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Lololo & Lalala, Track: Airtopia Ruins, Machine: Bull Tank, Version: v1.3.2, Type: Restricted",
-		"primary_t":	123.93,
-		"players":	"koinu",
-		"players_data":	[{
-				"name":	"koinu",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/z02p5r8m"
-	}, {
-		"run_id":	"mrw7j97y",
-		"verified_epoch":	1775717479,
-		"verified_iso":	"2026-04-09T06:51:19Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Time Trials - Italy",
-		"subcats":	"Time Trials - Italy: Island Tour, Levels: Success",
-		"primary_t":	271.409,
-		"players":	"syvhhhh",
-		"players_data":	[{
-				"name":	"syvhhhh",
-				"weblink":	"https://www.speedrun.com/users/syvhhhh",
-				"image":	"https://www.speedrun.com/static/user/j5pe90z8/icon?v=2e4f87a"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/mrw7j97y"
-	}, {
-		"run_id":	"zqn7w18z",
-		"verified_epoch":	1775717445,
-		"verified_iso":	"2026-04-09T06:50:45Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Knuckle Joe, Track: Airtopia Ruins, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
-		"primary_t":	56.91,
-		"players":	"ZonBee",
-		"players_data":	[{
-				"name":	"ZonBee",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zqn7w18z"
-	}, {
-		"run_id":	"y4vqwrky",
-		"verified_epoch":	1775717378,
-		"verified_iso":	"2026-04-09T06:49:38Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Rocky, Track: Fantasy Meadows, Machine: Shadow, Version: v1.3.2, Type: Restricted",
-		"primary_t":	45.3,
-		"players":	"yukiyoutube",
-		"players_data":	[{
-				"name":	"yukiyoutube",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y4vqwrky"
-	}, {
-		"run_id":	"m3835rqy",
-		"verified_epoch":	1775717338,
-		"verified_iso":	"2026-04-09T06:48:58Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Meta Knight, Track: Frozen Hillside, Machine: Shadow, Version: v1.3.2, Type: Restricted",
-		"primary_t":	43.36,
-		"players":	"yukiyoutube",
-		"players_data":	[{
-				"name":	"yukiyoutube",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/m3835rqy"
-	}, {
-		"run_id":	"zxp72g8y",
-		"verified_epoch":	1775717278,
-		"verified_iso":	"2026-04-09T06:47:58Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Floria Fields, Machine: Transform, Version: v1.3.2, Type: Restricted",
-		"primary_t":	26.91,
-		"players":	"Sdoll",
-		"players_data":	[{
-				"name":	"Sdoll",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zxp72g8y"
-	}, {
-		"run_id":	"zg1rp9vz",
-		"verified_epoch":	1775717260,
-		"verified_iso":	"2026-04-09T06:47:40Z",
-		"game":	"Banjo-Kazooie",
-		"game_cover":	"https://www.speedrun.com/static/game/9dokge1p/cover.png?v=be253ba",
-		"category":	"Nintendo 64",
-		"level":	"",
-		"subcats":	"Category (N64): Any%, Version: Official, Furnace Fun Moves: No FFM",
-		"primary_t":	3742,
-		"players":	"TSRStormed",
-		"players_data":	[{
-				"name":	"TSRStormed",
-				"weblink":	"https://www.speedrun.com/users/TSRStormed",
-				"image":	"https://www.speedrun.com/static/user/xkmmm22j/image.png?v=90f4f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/bk/runs/zg1rp9vz"
-	}, {
-		"run_id":	"m7j6gdwm",
-		"verified_epoch":	1775717227,
-		"verified_iso":	"2026-04-09T06:47:07Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Machine Passage, Machine: Chariot, Version: v1.3.2, Type: Restricted",
-		"primary_t":	41.3,
-		"players":	"tomato-d2n",
-		"players_data":	[{
-				"name":	"tomato-d2n",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/m7j6gdwm"
-	}, {
-		"run_id":	"mkxk3g5z",
-		"verified_epoch":	1775717191,
-		"verified_iso":	"2026-04-09T06:46:31Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Rick, Track: Mount Amberfalls, Machine: Slick, Version: v1.3.2, Type: Restricted",
-		"primary_t":	85.78,
-		"players":	"null-l2c",
-		"players_data":	[{
-				"name":	"null-l2c",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/mkxk3g5z"
-	}, {
-		"run_id":	"y260lw5m",
-		"verified_epoch":	1775717161,
-		"verified_iso":	"2026-04-09T06:46:01Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Crawl",
-		"subcats":	"Levels: Success, Missions - Crawl: Trail Glacier",
-		"primary_t":	66.564,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y260lw5m"
-	}, {
-		"run_id":	"y6w0lvpz",
-		"verified_epoch":	1775717125,
-		"verified_iso":	"2026-04-09T06:45:25Z",
-		"game":	"Subliminal",
-		"game_cover":	"https://www.speedrun.com/static/game/268w7my6/cover.png?v=16d7ab5",
-		"category":	"Erased",
-		"level":	"",
-		"subcats":	"Version (Erased): v1.0.0+, Category [Erased]: Any%",
-		"primary_t":	861.64,
-		"players":	"okia",
-		"players_data":	[{
-				"name":	"okia",
-				"weblink":	"https://www.speedrun.com/users/okia",
-				"image":	"https://www.speedrun.com/static/user/18q4epwx/image.png?v=a7449ca"
-			}],
-		"weblink":	"https://www.speedrun.com/subliminal/runs/y6w0lvpz"
-	}, {
-		"run_id":	"zpv9r1rz",
-		"verified_epoch":	1775717099,
-		"verified_iso":	"2026-04-09T06:44:59Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Lololo & Lalala, Track: Crystal, Machine: Formula, Version: v1.3.2, Type: Restricted",
-		"primary_t":	44.96,
-		"players":	"tokotouyoko",
-		"players_data":	[{
-				"name":	"tokotouyoko",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zpv9r1rz"
-	}, {
-		"run_id":	"y8ljor1m",
-		"verified_epoch":	1775717073,
-		"verified_iso":	"2026-04-09T06:44:33Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Time Trials - Gridmap V2",
-		"subcats":	"Time Trials - Gridmap V2: Highspeed Ring - Perimeter, Levels: Success",
-		"primary_t":	82.539,
-		"players":	"MarsThePlanet",
-		"players_data":	[{
-				"name":	"MarsThePlanet",
-				"weblink":	"https://www.speedrun.com/users/MarsThePlanet",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y8ljor1m"
-	}, {
-		"run_id":	"yo8pk7jz",
-		"verified_epoch":	1775717062,
-		"verified_iso":	"2026-04-09T06:44:22Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Waveflow Waters, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
-		"primary_t":	56.35,
-		"players":	"watari0907",
-		"players_data":	[{
-				"name":	"watari0907",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yo8pk7jz"
-	}, {
-		"run_id":	"med3o78y",
-		"verified_epoch":	1775717027,
-		"verified_iso":	"2026-04-09T06:43:47Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Cyber, Machine: Battle Chariot, Version: v1.3.2, Type: Restricted",
-		"primary_t":	12.58,
-		"players":	"Brobe",
-		"players_data":	[{
-				"name":	"Brobe",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/med3o78y"
-	}, {
-		"run_id":	"zg1pwgnz",
-		"verified_epoch":	1775716990,
-		"verified_iso":	"2026-04-09T06:43:10Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Rocky, Track: Fantasy Meadows, Machine: Chariot, Version: v1.3.2, Type: Restricted",
-		"primary_t":	46.63,
-		"players":	"EdamameTanpo",
-		"players_data":	[{
-				"name":	"EdamameTanpo",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zg1pwgnz"
-	}, {
-		"run_id":	"yl27kq3z",
-		"verified_epoch":	1775716923,
-		"verified_iso":	"2026-04-09T06:42:03Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Knuckle Joe, Track: Checker Knights, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	64,
-		"players":	"ShadoChimera",
-		"players_data":	[{
-				"name":	"ShadoChimera",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yl27kq3z"
-	}, {
-		"run_id":	"y6wnnl0z",
-		"verified_epoch":	1775716912,
-		"verified_iso":	"2026-04-09T06:41:52Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Time Trials - Industrial Site",
-		"subcats":	"Time Trials - Industrial Site: Warehouse Run, Levels: Success",
-		"primary_t":	33.473,
-		"players":	"PotHat",
-		"players_data":	[{
-				"name":	"PotHat",
-				"weblink":	"https://www.speedrun.com/users/PotHat",
-				"image":	"https://www.speedrun.com/static/user/j95kkgn8/image.png?v=cfc3592"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y6wnnl0z"
-	}, {
-		"run_id":	"yjrpl1nz",
-		"verified_epoch":	1775716883,
-		"verified_iso":	"2026-04-09T06:41:23Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Waveflow Waters, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
-		"primary_t":	56.51,
-		"players":	"SaltyDoge",
-		"players_data":	[{
-				"name":	"SaltyDoge",
-				"weblink":	"https://www.speedrun.com/users/SaltyDoge",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yjrpl1nz"
-	}, {
-		"run_id":	"zn6pkoly",
-		"verified_epoch":	1775716854,
-		"verified_iso":	"2026-04-09T06:40:54Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Starman, Track: Floria Fields, Machine: Winged, Version: v1.3.2, Type: Restricted",
-		"primary_t":	25.33,
-		"players":	"Alcamp",
-		"players_data":	[{
-				"name":	"Alcamp",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zn6pkoly"
-	}, {
-		"run_id":	"y8l82vnm",
-		"verified_epoch":	1775716817,
-		"verified_iso":	"2026-04-09T06:40:17Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Starman, Track: Frozen Hillside, Machine: Winged, Version: v1.3.2, Type: Restricted",
-		"primary_t":	44.68,
-		"players":	"per",
-		"players_data":	[{
-				"name":	"per",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y8l82vnm"
-	}, {
-		"run_id":	"z02o77jm",
-		"verified_epoch":	1775716814,
-		"verified_iso":	"2026-04-09T06:40:14Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Time Trial",
-		"subcats":	"Levels: Success, Missions - Time Trial: Calamity Peak Sprint",
-		"primary_t":	273.92,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/z02o77jm"
-	}, {
-		"run_id":	"z02p568m",
-		"verified_epoch":	1775716782,
-		"verified_iso":	"2026-04-09T06:39:42Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Mount Amberfalls, Machine: Turbo, Version: v1.3.2, Type: Restricted",
-		"primary_t":	84.41,
-		"players":	"tokumei0380",
-		"players_data":	[{
-				"name":	"tokumei0380",
-				"weblink":	"https://www.speedrun.com/users/tokumei0380",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/z02p568m"
-	}, {
-		"run_id":	"y2607d7m",
-		"verified_epoch":	1775716515,
-		"verified_iso":	"2026-04-09T06:35:15Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: TastiCola Restock",
-		"primary_t":	396.964,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y2607d7m"
-	}, {
-		"run_id":	"z5n2j0ez",
-		"verified_epoch":	1775716501,
-		"verified_iso":	"2026-04-09T06:35:01Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Meta Knight, Track: Celestial Valley, Machine: Winged, Version: v1.3.2, Type: Restricted",
-		"primary_t":	44.46,
-		"players":	"Mutama",
-		"players_data":	[{
-				"name":	"Mutama",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/z5n2j0ez"
-	}, {
-		"run_id":	"zxp7268y",
-		"verified_epoch":	1775716493,
-		"verified_iso":	"2026-04-09T06:34:53Z",
-		"game":	"Virtual Boy Wario Land",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0q531e/cover.png?v=d42af3d",
-		"category":	"All Diamonds",
-		"level":	"",
-		"subcats":	"Difficulty: Normal, Run Type: 100%",
-		"primary_t":	1784,
-		"players":	"Dip92",
-		"players_data":	[{
-				"name":	"Dip92",
-				"weblink":	"https://www.speedrun.com/users/Dip92",
-				"image":	"https://www.speedrun.com/static/user/xkpwy47j/image.png?v=265682b"
-			}],
-		"weblink":	"https://www.speedrun.com/vbwl/runs/zxp7268y"
-	}, {
-		"run_id":	"mrw7k47y",
-		"verified_epoch":	1775716455,
-		"verified_iso":	"2026-04-09T06:34:15Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Waddle Doo, Track: Floria Fields, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	29.05,
-		"players":	"Renkawara",
-		"players_data":	[{
-				"name":	"Renkawara",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/mrw7k47y"
-	}, {
-		"run_id":	"zg1pk8dz",
-		"verified_epoch":	1775716438,
-		"verified_iso":	"2026-04-09T06:33:58Z",
-		"game":	"Don't Starve Together",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yp7k1q/cover.png?v=72440ca",
-		"category":	"Extended Boss Kills",
-		"level":	"",
-		"subcats":	"Character/Player Count: Woodie, Extended Bosses: Treeguard, Seeded?: Seeded, Players: Solo",
-		"primary_t":	18.667,
-		"players":	"KoolKid123",
-		"players_data":	[{
-				"name":	"KoolKid123",
-				"weblink":	"https://www.speedrun.com/users/KoolKid123",
-				"image":	"https://www.speedrun.com/static/user/8675oewj/image.png?v=860bbf9"
-			}],
-		"weblink":	"https://www.speedrun.com/do_not_starve_together/runs/zg1pk8dz"
-	}, {
-		"run_id":	"mkxk375z",
-		"verified_epoch":	1775716422,
-		"verified_iso":	"2026-04-09T06:33:42Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Beanstalk Park, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	95.13,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/mkxk375z"
-	}, {
-		"run_id":	"ydpd590y",
-		"verified_epoch":	1775716397,
-		"verified_iso":	"2026-04-09T06:33:17Z",
-		"game":	"Virtual Boy Wario Land",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0q531e/cover.png?v=d42af3d",
-		"category":	"All Diamonds",
-		"level":	"",
-		"subcats":	"Difficulty: Normal, Run Type: Any%",
-		"primary_t":	1567,
-		"players":	"Dip92",
-		"players_data":	[{
-				"name":	"Dip92",
-				"weblink":	"https://www.speedrun.com/users/Dip92",
-				"image":	"https://www.speedrun.com/static/user/xkpwy47j/image.png?v=265682b"
-			}],
-		"weblink":	"https://www.speedrun.com/vbwl/runs/ydpd590y"
-	}, {
-		"run_id":	"yo8pk9jz",
-		"verified_epoch":	1775716385,
-		"verified_iso":	"2026-04-09T06:33:05Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Daroach, Track: Frozen Hillside, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	96.46,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yo8pk9jz"
-	}, {
-		"run_id":	"zg1pwxnz",
-		"verified_epoch":	1775716264,
-		"verified_iso":	"2026-04-09T06:31:04Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Daroach, Track: Sky Sands, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	82.96,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zg1pwxnz"
-	}, {
-		"run_id":	"ywo38d9m",
-		"verified_epoch":	1775716234,
-		"verified_iso":	"2026-04-09T06:30:34Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Fantasy Meadows, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	46.81,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/ywo38d9m"
-	}, {
-		"run_id":	"zn6pk3ly",
-		"verified_epoch":	1775716210,
-		"verified_iso":	"2026-04-09T06:30:10Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Cyberion Highway, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	137.5,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zn6pk3ly"
-	}, {
-		"run_id":	"yver69em",
-		"verified_epoch":	1775716183,
-		"verified_iso":	"2026-04-09T06:29:43Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Waveflow Waters, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	118.31,
-		"players":	"20yen",
-		"players_data":	[{
-				"name":	"20yen",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/yver69em"
-	}, {
-		"run_id":	"y8l82rnm",
-		"verified_epoch":	1775716147,
-		"verified_iso":	"2026-04-09T06:29:07Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Airtopia Ruins, Machine: Wheelie Scooter, Version: v1.3.2, Type: Restricted",
-		"primary_t":	122.38,
-		"players":	"Taranza",
-		"players_data":	[{
-				"name":	"Taranza",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y8l82rnm"
-	}, {
-		"run_id":	"y6w05rjz",
-		"verified_epoch":	1775716114,
-		"verified_iso":	"2026-04-09T06:28:34Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Celestial Valley, Machine: Rex Wheelie, Version: v1.3.2, Type: Restricted",
-		"primary_t":	46.65,
-		"players":	"monono8917",
-		"players_data":	[{
-				"name":	"monono8917",
-				"weblink":	"https://www.speedrun.com/users/monono8917",
-				"image":	"https://www.speedrun.com/static/user/48gk9v7j/image.png?v=be7a693"
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y6w05rjz"
-	}, {
-		"run_id":	"zg1drwjz",
-		"verified_epoch":	1775716101,
-		"verified_iso":	"2026-04-09T06:28:21Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: TastiCola Restock 1",
-		"primary_t":	79.27,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/zg1drwjz"
-	}, {
-		"run_id":	"z02p598m",
-		"verified_epoch":	1775716059,
-		"verified_iso":	"2026-04-09T06:27:39Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Nova, Machine: Swerve, Version: v1.3.2, Type: Restricted",
-		"primary_t":	20.41,
-		"players":	"Tantensan",
-		"players_data":	[{
-				"name":	"Tantensan",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/z02p598m"
-	}, {
-		"run_id":	"y26p5dwm",
-		"verified_epoch":	1775716018,
-		"verified_iso":	"2026-04-09T06:26:58Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Floria Fields, Machine: Wheelie Bike, Version: v1.3.2, Type: Restricted",
-		"primary_t":	81.11,
-		"players":	"86Rue",
-		"players_data":	[{
-				"name":	"86Rue",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y26p5dwm"
-	}, {
-		"run_id":	"y8l82rwm",
-		"verified_epoch":	1775715944,
-		"verified_iso":	"2026-04-09T06:25:44Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Top Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Crystal, Machine: Swerve, Version: v1.3.2, Type: Restricted",
-		"primary_t":	10.36,
-		"players":	"kido_str",
-		"players_data":	[{
-				"name":	"kido_str",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y8l82rwm"
-	}, {
-		"run_id":	"zn670kvy",
-		"verified_epoch":	1775715939,
-		"verified_iso":	"2026-04-09T06:25:39Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: TastiCola Restock 2",
-		"primary_t":	90.701,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/zn670kvy"
-	}, {
-		"run_id":	"y6w05rqz",
-		"verified_epoch":	1775715903,
-		"verified_iso":	"2026-04-09T06:25:03Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Cyberion Highway, Machine: Rocket, Version: v1.3.2, Type: Restricted",
-		"primary_t":	109.86,
-		"players":	"Luka",
-		"players_data":	[{
-				"name":	"Luka",
-				"weblink":	"https://www.speedrun.com/users/Luka",
-				"image":	"https://www.speedrun.com/static/user/v8lr1wl8/image.png?v=c9b2107"
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y6w05rqz"
-	}, {
-		"run_id":	"z02p59jm",
-		"verified_epoch":	1775715854,
-		"verified_iso":	"2026-04-09T06:24:14Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Floria Fields, Machine: Shadow, Version: v1.3.2, Type: Restricted",
-		"primary_t":	26.51,
-		"players":	"Lokilla",
-		"players_data":	[{
-				"name":	"Lokilla",
-				"weblink":	"https://www.speedrun.com/users/Lokilla",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/z02p59jm"
-	}, {
-		"run_id":	"y26p5djm",
-		"verified_epoch":	1775715823,
-		"verified_iso":	"2026-04-09T06:23:43Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Steamgust Forge, Machine: Rocket, Version: v1.3.2, Type: Restricted",
-		"primary_t":	112.06,
-		"players":	"yokaze",
-		"players_data":	[{
-				"name":	"yokaze",
-				"weblink":	"https://www.speedrun.com/users/yokaze",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y26p5djm"
-	}, {
-		"run_id":	"y4vqweqy",
-		"verified_epoch":	1775715794,
-		"verified_iso":	"2026-04-09T06:23:14Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Meta Knight, Track: Cyberion Highway, Machine: Winged, Version: v1.3.2, Type: Restricted",
-		"primary_t":	68.91,
-		"players":	"Josyu",
-		"players_data":	[{
-				"name":	"Josyu",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y4vqweqy"
-	}, {
-		"run_id":	"m3835g6y",
-		"verified_epoch":	1775715757,
-		"verified_iso":	"2026-04-09T06:22:37Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Rick, Track: Mount Amberfalls, Machine: Bulk, Version: v1.3.2, Type: Restricted",
-		"primary_t":	86.88,
-		"players":	"Asan-ar",
-		"players_data":	[{
-				"name":	"Asan-ar",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/m3835g6y"
-	}, {
-		"run_id":	"medj4v0y",
-		"verified_epoch":	1775715694,
-		"verified_iso":	"2026-04-09T06:21:34Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: Truck Introduction",
-		"primary_t":	33.488,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/medj4v0y"
-	}, {
-		"run_id":	"yl2er3nz",
-		"verified_epoch":	1775715601,
-		"verified_iso":	"2026-04-09T06:20:01Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: Mattress Cleaning",
-		"primary_t":	123.635,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/yl2er3nz"
-	}, {
-		"run_id":	"mrw7k94y",
-		"verified_epoch":	1775715582,
-		"verified_iso":	"2026-04-09T06:19:42Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Free Run",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Susie, Track: Crystalline Fissure, Machine: Paper, Version: v1.3.2, Type: Restricted",
-		"primary_t":	68.9,
-		"players":	"eaglenebula",
-		"players_data":	[{
-				"name":	"eaglenebula",
-				"weblink":	"https://www.speedrun.com/users/eaglenebula",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/mrw7k94y"
-	}, {
-		"run_id":	"mkxk383z",
-		"verified_epoch":	1775715546,
-		"verified_iso":	"2026-04-09T06:19:06Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Taranza, Track: Fantasy Meadows, Machine: Wheelie Scooter, Version: v1.3.2, Type: Restricted",
-		"primary_t":	51.93,
-		"players":	"Taranza",
-		"players_data":	[{
-				"name":	"Taranza",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/mkxk383z"
-	}, {
-		"run_id":	"z10p5ojm",
-		"verified_epoch":	1775715536,
-		"verified_iso":	"2026-04-09T06:18:56Z",
-		"game":	"My friend, Oren!",
-		"game_cover":	"https://www.speedrun.com/static/game/369wm88d/cover.png?v=5dee99c",
-		"category":	"Bad Ending",
-		"level":	"",
-		"subcats":	"Device: Mobile",
-		"primary_t":	107.767,
-		"players":	"GoofyAhhAgu2",
-		"players_data":	[{
-				"name":	"GoofyAhhAgu2",
-				"weblink":	"https://www.speedrun.com/users/GoofyAhhAgu2",
-				"image":	"https://www.speedrun.com/static/user/86r57mp8/image.png?v=2701220"
-			}],
-		"weblink":	"https://www.speedrun.com/My_friend_Oren/runs/z10p5ojm"
-	}, {
-		"run_id":	"y9gv012m",
-		"verified_epoch":	1775715514,
-		"verified_iso":	"2026-04-09T06:18:34Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Steamgust Forge, Machine: Wheelie Bike, Version: v1.3.2, Type: Restricted",
-		"primary_t":	131.46,
-		"players":	"678ddd",
-		"players_data":	[{
-				"name":	"678ddd",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/y9gv012m"
-	}, {
-		"run_id":	"zpv9rlnz",
-		"verified_epoch":	1775715483,
-		"verified_iso":	"2026-04-09T06:18:03Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Cyberion Highway, Machine: Wheelie Bike, Version: v1.3.2, Type: Restricted",
-		"primary_t":	135.01,
-		"players":	"Jwm",
-		"players_data":	[{
-				"name":	"Jwm",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/zpv9rlnz"
-	}, {
-		"run_id":	"zn670w7y",
-		"verified_epoch":	1775715461,
-		"verified_iso":	"2026-04-09T06:17:41Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: Throwing out the Trash 2",
-		"primary_t":	64.12,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/zn670w7y"
-	}, {
-		"run_id":	"med3ooqy",
-		"verified_epoch":	1775715456,
-		"verified_iso":	"2026-04-09T06:17:36Z",
-		"game":	"Kirby Air Riders",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgm776/cover.png?v=a977ffb",
-		"category":	"Air Ride Time Attack",
-		"level":	"Records (top 3, click here to see all and submit runs)",
-		"subcats":	"Rider: Chef Kawasaki, Track: Cavernous Corners, Machine: Wheelie Bike, Version: v1.3.2, Type: Restricted",
-		"primary_t":	144.86,
-		"players":	"Jwm",
-		"players_data":	[{
-				"name":	"Jwm",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/kars/runs/med3ooqy"
-	}, {
-		"run_id":	"y6wn936z",
-		"verified_epoch":	1775715379,
-		"verified_iso":	"2026-04-09T06:16:19Z",
-		"game":	"BeamNG.drive",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk5medm/cover.png?v=d0fb673",
-		"category":	"Success",
-		"level":	"Missions - Delivery",
-		"subcats":	"Levels: Success, Missions - Delivery: Throwing out the Trash 1",
-		"primary_t":	64.587,
-		"players":	"Serzari",
-		"players_data":	[{
-				"name":	"Serzari",
-				"weblink":	"https://www.speedrun.com/users/Serzari",
-				"image":	"https://www.speedrun.com/static/user/y8d5k5gj/image.png?v=d160a9d"
-			}],
-		"weblink":	"https://www.speedrun.com/beamngdrive/runs/y6wn936z"
-	}, {
-		"run_id":	"ywo3812m",
-		"verified_epoch":	1775714584,
-		"verified_iso":	"2026-04-09T06:03:04Z",
-		"game":	"Chain-Chillas",
-		"game_cover":	"https://www.speedrun.com/static/game/ldemj8l1/cover.png?v=220fd24",
-		"category":	"Demo Levels",
-		"level":	"Demo 12",
-		"subcats":	"Version: 0.01, Number of players: 1 Player",
-		"primary_t":	8.791,
-		"players":	"picklejuicepingpong",
-		"players_data":	[{
-				"name":	"picklejuicepingpong",
-				"weblink":	"https://www.speedrun.com/users/picklejuicepingpong",
-				"image":	"https://www.speedrun.com/static/user/819v01lx/image.png?v=f11fd8e"
-			}],
-		"weblink":	"https://www.speedrun.com/ChainChillas/runs/ywo3812m"
 	}]
