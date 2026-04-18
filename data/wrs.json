@@ -1,4 +1,926 @@
 [{
+		"run_id":	"ywo67nnm",
+		"verified_epoch":	1776518186,
+		"verified_iso":	"2026-04-18T13:16:26Z",
+		"game":	"Yoiko no Otsukai",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mejexd/cover.png?v=ac8b2b3",
+		"category":	"GAMEOVER％",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	38,
+		"players":	"dkco4",
+		"players_data":	[{
+				"name":	"dkco4",
+				"weblink":	"https://www.speedrun.com/users/dkco4",
+				"image":	"https://www.speedrun.com/static/user/xz5kk5rx/image.png?v=50e3c2a"
+			}],
+		"weblink":	"https://www.speedrun.com/Yoiko_no_Otsukai/runs/ywo67nnm"
+	}, {
+		"run_id":	"zxp818ey",
+		"verified_epoch":	1776518114,
+		"verified_iso":	"2026-04-18T13:15:14Z",
+		"game":	"Peaks of Yore",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rz341/cover.png?v=8beaa70",
+		"category":	"Pocketwatch% No hold (1.9.5+)",
+		"level":	"St. Haelga",
+		"subcats":	"",
+		"primary_t":	70.93,
+		"players":	"Xearo",
+		"players_data":	[{
+				"name":	"Xearo",
+				"weblink":	"https://www.speedrun.com/users/Xearo",
+				"image":	"https://www.speedrun.com/static/user/j59ooegx/image.png?v=bb102bb"
+			}],
+		"weblink":	"https://www.speedrun.com/Peaks_of_Yore/runs/zxp818ey"
+	}, {
+		"run_id":	"yo8dw05z",
+		"verified_epoch":	1776518029,
+		"verified_iso":	"2026-04-18T13:13:49Z",
+		"game":	"Peaks of Yore",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rz341/cover.png?v=8beaa70",
+		"category":	"Pocketwatch% No hold (1.9.5+)",
+		"level":	"Mhòr Druim",
+		"subcats":	"",
+		"primary_t":	75.86,
+		"players":	"Xearo",
+		"players_data":	[{
+				"name":	"Xearo",
+				"weblink":	"https://www.speedrun.com/users/Xearo",
+				"image":	"https://www.speedrun.com/static/user/j59ooegx/image.png?v=bb102bb"
+			}],
+		"weblink":	"https://www.speedrun.com/Peaks_of_Yore/runs/yo8dw05z"
+	}, {
+		"run_id":	"zpvdj6vz",
+		"verified_epoch":	1776517938,
+		"verified_iso":	"2026-04-18T13:12:18Z",
+		"game":	"Peaks of Yore",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rz341/cover.png?v=8beaa70",
+		"category":	"Pocketwatch% (1.9.5+)",
+		"level":	"Stougr Boulder",
+		"subcats":	"",
+		"primary_t":	3.31,
+		"players":	"Xearo",
+		"players_data":	[{
+				"name":	"Xearo",
+				"weblink":	"https://www.speedrun.com/users/Xearo",
+				"image":	"https://www.speedrun.com/static/user/j59ooegx/image.png?v=bb102bb"
+			}],
+		"weblink":	"https://www.speedrun.com/Peaks_of_Yore/runs/zpvdj6vz"
+	}, {
+		"run_id":	"zpvdjjnz",
+		"verified_epoch":	1776517660,
+		"verified_iso":	"2026-04-18T13:07:40Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Eliminate the Legacy",
+		"subcats":	"Players: Solo",
+		"primary_t":	54,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/zpvdjjnz"
+	}, {
+		"run_id":	"zg1q500z",
+		"verified_epoch":	1776517582,
+		"verified_iso":	"2026-04-18T13:06:22Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Fabricate the Scandal",
+		"subcats":	"Players: Solo",
+		"primary_t":	42,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/zg1q500z"
+	}, {
+		"run_id":	"ywo6972m",
+		"verified_epoch":	1776517521,
+		"verified_iso":	"2026-04-18T13:05:21Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Investigate the Minotaur",
+		"subcats":	"Players: Solo",
+		"primary_t":	25,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/ywo6972m"
+	}, {
+		"run_id":	"ydp177qy",
+		"verified_epoch":	1776517511,
+		"verified_iso":	"2026-04-18T13:05:11Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"Bad Ending",
+		"level":	"",
+		"subcats":	"Version: Half A Slice Of Cake, Players: Solo, Shop: No Shop",
+		"primary_t":	1361.2,
+		"players":	"FaRsT_CoDeR",
+		"players_data":	[{
+				"name":	"FaRsT_CoDeR",
+				"weblink":	"https://www.speedrun.com/users/FaRsT_CoDeR",
+				"image":	"https://www.speedrun.com/static/user/j21406p8/image.png?v=0d32555"
+			}],
+		"weblink":	"https://www.speedrun.com/Roblox_Pressure_CE/runs/ydp177qy"
+	}, {
+		"run_id":	"z10g6wgm",
+		"verified_epoch":	1776517511,
+		"verified_iso":	"2026-04-18T13:05:11Z",
+		"game":	"Grand Theft Auto: San Andreas",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yv1q5/cover.png?v=2c7ae3d",
+		"category":	"Finish",
+		"level":	"Drive-Thru",
+		"subcats":	"3rd-party FPS caps: Without 3rd-party caps",
+		"primary_t":	53.783,
+		"players":	"FelipeSan",
+		"players_data":	[{
+				"name":	"FelipeSan",
+				"weblink":	"https://www.speedrun.com/users/FelipeSan",
+				"image":	"https://www.speedrun.com/static/user/xy55mmm8/image.png?v=6754d43"
+			}],
+		"weblink":	"https://www.speedrun.com/gtasa/runs/z10g6wgm"
+	}, {
+		"run_id":	"y4vxd4qy",
+		"verified_epoch":	1776517477,
+		"verified_iso":	"2026-04-18T13:04:37Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Get Out the Vote",
+		"subcats":	"Players: Solo",
+		"primary_t":	19,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/y4vxd4qy"
+	}, {
+		"run_id":	"yl218rrz",
+		"verified_epoch":	1776517465,
+		"verified_iso":	"2026-04-18T13:04:25Z",
+		"game":	"Fowl Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3xz46/cover.png?v=09e2a06",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	1070.39,
+		"players":	"Krameht",
+		"players_data":	[{
+				"name":	"Krameht",
+				"weblink":	"https://www.speedrun.com/users/Krameht",
+				"image":	"https://www.speedrun.com/static/user/qjn522dj/image.png?v=4457d1d"
+			}],
+		"weblink":	"https://www.speedrun.com/Fowl_Legacy/runs/yl218rrz"
+	}, {
+		"run_id":	"m38xp46y",
+		"verified_epoch":	1776517438,
+		"verified_iso":	"2026-04-18T13:03:58Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Traffick the Product",
+		"subcats":	"Players: Solo",
+		"primary_t":	23,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/m38xp46y"
+	}, {
+		"run_id":	"yo8dw81z",
+		"verified_epoch":	1776517392,
+		"verified_iso":	"2026-04-18T13:03:12Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Kill the Politician",
+		"subcats":	"Players: Solo",
+		"primary_t":	26,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/yo8dw81z"
+	}, {
+		"run_id":	"zxp80eqy",
+		"verified_epoch":	1776517384,
+		"verified_iso":	"2026-04-18T13:03:04Z",
+		"game":	"Grand Theft Auto: San Andreas",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yv1q5/cover.png?v=2c7ae3d",
+		"category":	"Finish",
+		"level":	"Drive-Thru",
+		"subcats":	"3rd-party FPS caps: With 3rd-party caps",
+		"primary_t":	54.266,
+		"players":	"FelipeSan",
+		"players_data":	[{
+				"name":	"FelipeSan",
+				"weblink":	"https://www.speedrun.com/users/FelipeSan",
+				"image":	"https://www.speedrun.com/static/user/xy55mmm8/image.png?v=6754d43"
+			}],
+		"weblink":	"https://www.speedrun.com/gtasa/runs/zxp80eqy"
+	}, {
+		"run_id":	"y6wx14qz",
+		"verified_epoch":	1776517342,
+		"verified_iso":	"2026-04-18T13:02:22Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Disrupt the Neighbourhood",
+		"subcats":	"Players: Solo",
+		"primary_t":	23,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/y6wx14qz"
+	}, {
+		"run_id":	"zn6qn69y",
+		"verified_epoch":	1776517292,
+		"verified_iso":	"2026-04-18T13:01:32Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Cook the Informant ",
+		"subcats":	"Players: Solo",
+		"primary_t":	20,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/zn6qn69y"
+	}, {
+		"run_id":	"zxp81rgy",
+		"verified_epoch":	1776517239,
+		"verified_iso":	"2026-04-18T13:00:39Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Spread the Disease",
+		"subcats":	"Players: Solo",
+		"primary_t":	21,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/zxp81rgy"
+	}, {
+		"run_id":	"ydp17xqy",
+		"verified_epoch":	1776517143,
+		"verified_iso":	"2026-04-18T12:59:03Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Kidnap the Mistress",
+		"subcats":	"Players: Solo",
+		"primary_t":	22,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/ydp17xqy"
+	}, {
+		"run_id":	"z5nx6wdz",
+		"verified_epoch":	1776517136,
+		"verified_iso":	"2026-04-18T12:58:56Z",
+		"game":	"Doraemon: Minna de Asobou! Minidorando",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkvm7l1/cover.png?v=621d9d6",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Players: Solo",
+		"primary_t":	2252,
+		"players":	"Cyanidegunner",
+		"players_data":	[{
+				"name":	"Cyanidegunner",
+				"weblink":	"https://www.speedrun.com/users/Cyanidegunner",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Doraemon_GC/runs/z5nx6wdz"
+	}, {
+		"run_id":	"yjrd0r7z",
+		"verified_epoch":	1776517088,
+		"verified_iso":	"2026-04-18T12:58:08Z",
+		"game":	"The Outlast Trials Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qp9q0d/cover.png?v=67138b1",
+		"category":	"Death%",
+		"level":	"Pleasure The Prosecutor",
+		"subcats":	"Players: Solo",
+		"primary_t":	29,
+		"players":	"SamCTell",
+		"players_data":	[{
+				"name":	"SamCTell",
+				"weblink":	"https://www.speedrun.com/users/SamCTell",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials_CE/runs/yjrd0r7z"
+	}, {
+		"run_id":	"y9gxrq2m",
+		"verified_epoch":	1776517069,
+		"verified_iso":	"2026-04-18T12:57:49Z",
+		"game":	"Token Traveller: Corrupted Entity",
+		"game_cover":	"https://www.speedrun.com/static/game/pdv9jlr1/cover.png?v=e587603",
+		"category":	"Glitchless",
+		"level":	"Ember Courtyard",
+		"subcats":	"",
+		"primary_t":	300.567,
+		"players":	"Jobor2",
+		"players_data":	[{
+				"name":	"Jobor2",
+				"weblink":	"https://www.speedrun.com/users/Jobor2",
+				"image":	"https://www.speedrun.com/static/user/8w0n5k3j/image.png?v=9fa4837"
+			}],
+		"weblink":	"https://www.speedrun.com/Token_Traveller/runs/y9gxrq2m"
+	}, {
+		"run_id":	"mrwrp4dy",
+		"verified_epoch":	1776516852,
+		"verified_iso":	"2026-04-18T12:54:12Z",
+		"game":	"Hollow Knight: Silksong Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4r2x51/cover.png?v=42d3f70",
+		"category":	"Awoo%",
+		"level":	"",
+		"subcats":	"Patch: 1.0.28891, Awoo% Subcategory: No Major Glitches",
+		"primary_t":	4463,
+		"players":	"8Biggy",
+		"players_data":	[{
+				"name":	"8Biggy",
+				"weblink":	"https://www.speedrun.com/users/8Biggy",
+				"image":	"https://www.speedrun.com/static/user/8wgr55lx/image.png?v=3652c99"
+			}],
+		"weblink":	"https://www.speedrun.com/silksongmemes/runs/mrwrp4dy"
+	}, {
+		"run_id":	"m38xp86y",
+		"verified_epoch":	1776516702,
+		"verified_iso":	"2026-04-18T12:51:42Z",
+		"game":	"Token Traveller: Corrupted Entity",
+		"game_cover":	"https://www.speedrun.com/static/game/pdv9jlr1/cover.png?v=e587603",
+		"category":	"Fallen Kingdom",
+		"level":	"",
+		"subcats":	"Methods: Glitchless",
+		"primary_t":	2790.783,
+		"players":	"Jobor2",
+		"players_data":	[{
+				"name":	"Jobor2",
+				"weblink":	"https://www.speedrun.com/users/Jobor2",
+				"image":	"https://www.speedrun.com/static/user/8w0n5k3j/image.png?v=9fa4837"
+			}],
+		"weblink":	"https://www.speedrun.com/Token_Traveller/runs/m38xp86y"
+	}, {
+		"run_id":	"zxp81pgy",
+		"verified_epoch":	1776516692,
+		"verified_iso":	"2026-04-18T12:51:32Z",
+		"game":	"Cryomancer ",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pxjop6/cover.png?v=fc00158",
+		"category":	"Itch.io",
+		"level":	"7",
+		"subcats":	"Category: Any%",
+		"primary_t":	7.203,
+		"players":	"CryomancerDude",
+		"players_data":	[{
+				"name":	"CryomancerDude",
+				"weblink":	"https://www.speedrun.com/users/CryomancerDude",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/cryomancer_/runs/zxp81pgy"
+	}, {
+		"run_id":	"zxp85qky",
+		"verified_epoch":	1776516568,
+		"verified_iso":	"2026-04-18T12:49:28Z",
+		"game":	"Grand Theft Auto: San Andreas",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yv1q5/cover.png?v=2c7ae3d",
+		"category":	"Finish",
+		"level":	"Ran Fa Li",
+		"subcats":	"3rd-party FPS caps: With 3rd-party caps",
+		"primary_t":	146.15,
+		"players":	"BAPYC",
+		"players_data":	[{
+				"name":	"BAPYC",
+				"weblink":	"https://www.speedrun.com/users/BAPYC",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/gtasa/runs/zxp85qky"
+	}, {
+		"run_id":	"yve0d5xm",
+		"verified_epoch":	1776516470,
+		"verified_iso":	"2026-04-18T12:47:50Z",
+		"game":	"Ready or Not",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3w3r91/cover.png?v=4aa2f33",
+		"category":	"Current Board",
+		"level":	"213 Park Homes",
+		"subcats":	"[IL] Player Count: True Solo, [IL] Run Type: 100%, Difficulty: Standard, System Version: PC",
+		"primary_t":	302.03,
+		"players":	"Jurra",
+		"players_data":	[{
+				"name":	"Jurra",
+				"weblink":	"https://www.speedrun.com/users/Jurra",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/ready_or_not/runs/yve0d5xm"
+	}, {
+		"run_id":	"zg1q590z",
+		"verified_epoch":	1776516311,
+		"verified_iso":	"2026-04-18T12:45:11Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.0",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Set Seed, Difficulty: No Granny, Grandpa: No Grandpa",
+		"primary_t":	18.7,
+		"players":	"rvth",
+		"players_data":	[{
+				"name":	"rvth",
+				"weblink":	"https://www.speedrun.com/users/rvth",
+				"image":	"https://www.speedrun.com/static/user/8wgwnqvx/image.png?v=ac4870e"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/zg1q590z"
+	}, {
+		"run_id":	"zqn9581z",
+		"verified_epoch":	1776516247,
+		"verified_iso":	"2026-04-18T12:44:07Z",
+		"game":	"Grand Theft Auto: San Andreas",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yv1q5/cover.png?v=2c7ae3d",
+		"category":	"Finish",
+		"level":	"Madd Dogg's Rhymes",
+		"subcats":	"3rd-party FPS caps: With 3rd-party caps",
+		"primary_t":	114.35,
+		"players":	"BAPYC",
+		"players_data":	[{
+				"name":	"BAPYC",
+				"weblink":	"https://www.speedrun.com/users/BAPYC",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/gtasa/runs/zqn9581z"
+	}, {
+		"run_id":	"y6wx1r1z",
+		"verified_epoch":	1776516191,
+		"verified_iso":	"2026-04-18T12:43:11Z",
+		"game":	"Command & Conquer: Red Alert 3 - Uprising",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lkgv6g/cover.png?v=ac2012d",
+		"category":	"Normal",
+		"level":	"CC 11: Double-Barreled",
+		"subcats":	"",
+		"primary_t":	153,
+		"players":	"abqpnills",
+		"players_data":	[{
+				"name":	"abqpnills",
+				"weblink":	"https://www.speedrun.com/users/abqpnills",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/cncra3u/runs/y6wx1r1z"
+	}, {
+		"run_id":	"zg1qkrvz",
+		"verified_epoch":	1776516096,
+		"verified_iso":	"2026-04-18T12:41:36Z",
+		"game":	"LittleBigPlanet Karting",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0n531e/cover.png?v=21285c4",
+		"category":	"No Lap Skip",
+		"level":	"Mine The Gap",
+		"subcats":	"",
+		"primary_t":	167.213,
+		"players":	"potatoboii",
+		"players_data":	[{
+				"name":	"potatoboii",
+				"weblink":	"https://www.speedrun.com/users/potatoboii",
+				"image":	"https://www.speedrun.com/static/user/xyr905nj/image.png?v=bb10850"
+			}],
+		"weblink":	"https://www.speedrun.com/lbpk/runs/zg1qkrvz"
+	}, {
+		"run_id":	"med4w12y",
+		"verified_epoch":	1776516053,
+		"verified_iso":	"2026-04-18T12:40:53Z",
+		"game":	"Subway Surfers",
+		"game_cover":	"https://www.speedrun.com/static/game/y65797de/cover.png?v=1fbce28",
+		"category":	"Score (x38-)",
+		"level":	"",
+		"subcats":	"Score: 5M, Boosts: No Boosts, Double Coins: Double Coins, Platform: Emulator",
+		"primary_t":	1715.367,
+		"players":	"LiYueee",
+		"players_data":	[{
+				"name":	"LiYueee",
+				"weblink":	"https://www.speedrun.com/users/LiYueee",
+				"image":	"https://www.speedrun.com/static/user/j060qn3j/image.png?v=7db1ff2"
+			}],
+		"weblink":	"https://www.speedrun.com/subsurf/runs/med4w12y"
+	}, {
+		"run_id":	"y8lewxxm",
+		"verified_epoch":	1776516027,
+		"verified_iso":	"2026-04-18T12:40:27Z",
+		"game":	"Subway Surfers",
+		"game_cover":	"https://www.speedrun.com/static/game/y65797de/cover.png?v=1fbce28",
+		"category":	"Score (x38-)",
+		"level":	"",
+		"subcats":	"Score: 1M, Boosts: No Boosts, Double Coins: Double Coins, Platform: Emulator",
+		"primary_t":	387.467,
+		"players":	"LiYueee",
+		"players_data":	[{
+				"name":	"LiYueee",
+				"weblink":	"https://www.speedrun.com/users/LiYueee",
+				"image":	"https://www.speedrun.com/static/user/j060qn3j/image.png?v=7db1ff2"
+			}],
+		"weblink":	"https://www.speedrun.com/subsurf/runs/y8lewxxm"
+	}, {
+		"run_id":	"zn6qn59y",
+		"verified_epoch":	1776515993,
+		"verified_iso":	"2026-04-18T12:39:53Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.1",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Set Seed, Sub-category: Any% Glitched, Difficulty: No Granny, Grandpa: No Grandpa",
+		"primary_t":	33.917,
+		"players":	"rvth",
+		"players_data":	[{
+				"name":	"rvth",
+				"weblink":	"https://www.speedrun.com/users/rvth",
+				"image":	"https://www.speedrun.com/static/user/8wgwnqvx/image.png?v=ac4870e"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/zn6qn59y"
+	}, {
+		"run_id":	"zqnv891z",
+		"verified_epoch":	1776515778,
+		"verified_iso":	"2026-04-18T12:36:18Z",
+		"game":	"Subway Surfers",
+		"game_cover":	"https://www.speedrun.com/static/game/y65797de/cover.png?v=1fbce28",
+		"category":	"Score (x38-)",
+		"level":	"",
+		"subcats":	"Score: 500K, Boosts: No Boosts, Double Coins: Double Coins, Platform: Emulator",
+		"primary_t":	202.434,
+		"players":	"LiYueee",
+		"players_data":	[{
+				"name":	"LiYueee",
+				"weblink":	"https://www.speedrun.com/users/LiYueee",
+				"image":	"https://www.speedrun.com/static/user/j060qn3j/image.png?v=7db1ff2"
+			}],
+		"weblink":	"https://www.speedrun.com/subsurf/runs/zqnv891z"
+	}, {
+		"run_id":	"yo8dg6dz",
+		"verified_epoch":	1776515716,
+		"verified_iso":	"2026-04-18T12:35:16Z",
+		"game":	"DreamWorks Super Star Kartz",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rkr9d/cover.png?v=229a348",
+		"category":	"Time Trial 50CC",
+		"level":	"Island of Berk- Track 1 (DS)",
+		"subcats":	"",
+		"primary_t":	82.8,
+		"players":	"YeetyDeletey",
+		"players_data":	[{
+				"name":	"YeetyDeletey",
+				"weblink":	"https://www.speedrun.com/users/YeetyDeletey",
+				"image":	"https://www.speedrun.com/static/user/j21w62n8/image.png?v=472d845"
+			}],
+		"weblink":	"https://www.speedrun.com/dreamworks_super_star_kartz/runs/yo8dg6dz"
+	}, {
+		"run_id":	"yve0kx8m",
+		"verified_epoch":	1776515689,
+		"verified_iso":	"2026-04-18T12:34:49Z",
+		"game":	"Radium ",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7pk5zd/cover.png?v=f33badc",
+		"category":	"Golden Trophy",
+		"level":	"",
+		"subcats":	"Players (gt): Solo, Run Type (gt): Any%, Play mode : VR",
+		"primary_t":	266,
+		"players":	"TaxFraudRR",
+		"players_data":	[{
+				"name":	"TaxFraudRR",
+				"weblink":	"https://www.speedrun.com/users/TaxFraudRR",
+				"image":	"https://www.speedrun.com/static/user/8lrpr648/image.png?v=7ee8a7d"
+			}],
+		"weblink":	"https://www.speedrun.com/Radium_/runs/yve0kx8m"
+	}, {
+		"run_id":	"zxp85xgy",
+		"verified_epoch":	1776515663,
+		"verified_iso":	"2026-04-18T12:34:23Z",
+		"game":	"Grand Theft Auto: San Andreas",
+		"game_cover":	"https://www.speedrun.com/static/game/yo1yv1q5/cover.png?v=2c7ae3d",
+		"category":	"Finish",
+		"level":	"Running Dog",
+		"subcats":	"3rd-party FPS caps: With 3rd-party caps",
+		"primary_t":	34.65,
+		"players":	"BAPYC",
+		"players_data":	[{
+				"name":	"BAPYC",
+				"weblink":	"https://www.speedrun.com/users/BAPYC",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/gtasa/runs/zxp85xgy"
+	}, {
+		"run_id":	"yve0kj4m",
+		"verified_epoch":	1776515640,
+		"verified_iso":	"2026-04-18T12:34:00Z",
+		"game":	"DreamWorks Super Star Kartz",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rkr9d/cover.png?v=229a348",
+		"category":	"Time Trial 50CC",
+		"level":	"Shrek's Swamp- Night (DS)",
+		"subcats":	"",
+		"primary_t":	85.89,
+		"players":	"JohnKivett",
+		"players_data":	[{
+				"name":	"JohnKivett",
+				"weblink":	"https://www.speedrun.com/users/JohnKivett",
+				"image":	"https://www.speedrun.com/static/user/8e59ewo8/image.png?v=622da0e"
+			}],
+		"weblink":	"https://www.speedrun.com/dreamworks_super_star_kartz/runs/yve0kj4m"
+	}, {
+		"run_id":	"y9gxrjrm",
+		"verified_epoch":	1776515571,
+		"verified_iso":	"2026-04-18T12:32:51Z",
+		"game":	"Plants vs. Zombies: Garden Warfare 2",
+		"game_cover":	"https://www.speedrun.com/static/game/9do00kdp/cover.png?v=dbc4052",
+		"category":	"Graveyard Ops Multiplayer",
+		"level":	"",
+		"subcats":	"Players: 2 Players, Difficulty: Normal",
+		"primary_t":	524.6,
+		"players":	"Ninja_Zeleq, Myszka_Gaming",
+		"players_data":	[{
+				"name":	"Ninja_Zeleq",
+				"weblink":	"https://www.speedrun.com/users/Ninja_Zeleq",
+				"image":	"https://www.speedrun.com/static/user/xkmok96j/image.png?v=95e105b"
+			}, {
+				"name":	"Myszka_Gaming",
+				"weblink":	"https://www.speedrun.com/users/Myszka_Gaming",
+				"image":	"https://www.speedrun.com/static/user/j5rkvywx/image.png?v=20a7a49"
+			}],
+		"weblink":	"https://www.speedrun.com/pvzgw2/runs/y9gxrjrm"
+	}, {
+		"run_id":	"z5nd8xjz",
+		"verified_epoch":	1776515510,
+		"verified_iso":	"2026-04-18T12:31:50Z",
+		"game":	"Subway Surfers",
+		"game_cover":	"https://www.speedrun.com/static/game/y65797de/cover.png?v=1fbce28",
+		"category":	"Score (x38-)",
+		"level":	"",
+		"subcats":	"Score: 100K, Boosts: No Boosts, Double Coins: Double Coins, Platform: Emulator",
+		"primary_t":	33.3,
+		"players":	"LiYueee",
+		"players_data":	[{
+				"name":	"LiYueee",
+				"weblink":	"https://www.speedrun.com/users/LiYueee",
+				"image":	"https://www.speedrun.com/static/user/j060qn3j/image.png?v=7db1ff2"
+			}],
+		"weblink":	"https://www.speedrun.com/subsurf/runs/z5nd8xjz"
+	}, {
+		"run_id":	"yjrx71gz",
+		"verified_epoch":	1776515259,
+		"verified_iso":	"2026-04-18T12:27:39Z",
+		"game":	"Pokémon Sword/Shield",
+		"game_cover":	"https://www.speedrun.com/static/game/4d79o2g1/cover.png?v=3704a9e",
+		"category":	"Any% with DLC",
+		"level":	"",
+		"subcats":	"Version: Shield, Turbo Usage: Turbo, Digital/Physical: Digital, Language: JPN, Pokémon: Starmie, Console: Switch 2",
+		"primary_t":	13861,
+		"players":	"GLPhoenix",
+		"players_data":	[{
+				"name":	"GLPhoenix",
+				"weblink":	"https://www.speedrun.com/users/GLPhoenix",
+				"image":	"https://www.speedrun.com/static/user/0jmm0voj/image.png?v=1e12874"
+			}],
+		"weblink":	"https://www.speedrun.com/pkmnswordshield/runs/yjrx71gz"
+	}, {
+		"run_id":	"yjrdv0nz",
+		"verified_epoch":	1776515234,
+		"verified_iso":	"2026-04-18T12:27:14Z",
+		"game":	"The Escapists",
+		"game_cover":	"https://www.speedrun.com/static/game/m1m3rk62/cover.png?v=29a0b0d",
+		"category":	"PC Any%",
+		"level":	"Jungle Compound",
+		"subcats":	"Escape Method: Takeover",
+		"primary_t":	32.317,
+		"players":	"KoxDC",
+		"players_data":	[{
+				"name":	"KoxDC",
+				"weblink":	"https://www.speedrun.com/users/KoxDC",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/the_escapists/runs/yjrdv0nz"
+	}, {
+		"run_id":	"m38x886y",
+		"verified_epoch":	1776514583,
+		"verified_iso":	"2026-04-18T12:16:23Z",
+		"game":	"Warframe",
+		"game_cover":	"https://www.speedrun.com/static/game/v1pgmm18/cover.png?v=dff0985",
+		"category":	"Solo",
+		"level":	"Profit-Taker",
+		"subcats":	"Update: 42.0.7, Profit Taker Patch: Current, Rivenless: No",
+		"primary_t":	54.8,
+		"players":	"Insomnia_fs",
+		"players_data":	[{
+				"name":	"Insomnia_fs",
+				"weblink":	"https://www.speedrun.com/users/Insomnia_fs",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/wf/runs/m38x886y"
+	}, {
+		"run_id":	"ylxe18ny",
+		"verified_epoch":	1776514462,
+		"verified_iso":	"2026-04-18T12:14:22Z",
+		"game":	"Elden Ring",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28z0ed/cover.png?v=8dd4a30",
+		"category":	"Console",
+		"level":	"",
+		"subcats":	"gnxm64pl: 1pyjzpn1, Version: 1.13, Console - Main Categories: Any%, Console - Subcategories: Glitchless, Route: Death's Poker",
+		"primary_t":	3530,
+		"players":	"maruyosan",
+		"players_data":	[{
+				"name":	"maruyosan",
+				"weblink":	"https://www.speedrun.com/users/maruyosan",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/eldenring/runs/ylxe18ny"
+	}, {
+		"run_id":	"zpv1p78z",
+		"verified_epoch":	1776514438,
+		"verified_iso":	"2026-04-18T12:13:58Z",
+		"game":	"Outlast 2",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j0k2dj/cover.png?v=377368f",
+		"category":	"Any%",
+		"level":	"Val's Rebirth",
+		"subcats":	"Platform: PC",
+		"primary_t":	191.2,
+		"players":	"seaagle",
+		"players_data":	[{
+				"name":	"seaagle",
+				"weblink":	"https://www.speedrun.com/users/seaagle",
+				"image":	"https://www.speedrun.com/static/user/8v24py5j/image.png?v=8c22aeb"
+			}],
+		"weblink":	"https://www.speedrun.com/outlast2/runs/zpv1p78z"
+	}, {
+		"run_id":	"ydpdk0wy",
+		"verified_epoch":	1776514039,
+		"verified_iso":	"2026-04-18T12:07:19Z",
+		"game":	"Plants vs. Zombies: Garden Warfare",
+		"game_cover":	"https://www.speedrun.com/static/game/369p7531/cover.png?v=4cedd72",
+		"category":	"Garden Ops",
+		"level":	"",
+		"subcats":	"Map: Jewel Junction, Character: Toxic Pea, Difficulty: Hard",
+		"primary_t":	917.333,
+		"players":	"ApeLeap",
+		"players_data":	[{
+				"name":	"ApeLeap",
+				"weblink":	"https://www.speedrun.com/users/ApeLeap",
+				"image":	"https://www.speedrun.com/static/user/j0eylvr8/image.png?v=13864b5"
+			}],
+		"weblink":	"https://www.speedrun.com/pvz_gw/runs/ydpdk0wy"
+	}, {
+		"run_id":	"yjrd93gz",
+		"verified_epoch":	1776513970,
+		"verified_iso":	"2026-04-18T12:06:10Z",
+		"game":	"Triple Guy",
+		"game_cover":	"https://www.speedrun.com/static/game/ldem3zn1/cover.png?v=6a340da",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Version: Current",
+		"primary_t":	35,
+		"players":	"ZachyPooy",
+		"players_data":	[{
+				"name":	"ZachyPooy",
+				"weblink":	"https://www.speedrun.com/users/ZachyPooy",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Switcher/runs/yjrd93gz"
+	}, {
+		"run_id":	"yo87qj7z",
+		"verified_epoch":	1776513918,
+		"verified_iso":	"2026-04-18T12:05:18Z",
+		"game":	"American Truck Simulator",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mgkj12/cover.png?v=9e8fb4e",
+		"category":	"Point to Point",
+		"level":	"",
+		"subcats":	"Origin-Destination: Roswell-Seattle, Timing Method: IGT, Game Mode: NG+",
+		"primary_t":	57600.45,
+		"players":	"kinkinkijkin",
+		"players_data":	[{
+				"name":	"kinkinkijkin",
+				"weblink":	"https://www.speedrun.com/users/kinkinkijkin",
+				"image":	"https://www.speedrun.com/static/user/kj92mmv8/image.png?v=167d9f5"
+			}],
+		"weblink":	"https://www.speedrun.com/ats/runs/yo87qj7z"
+	}, {
+		"run_id":	"y8lxg91m",
+		"verified_epoch":	1776513844,
+		"verified_iso":	"2026-04-18T12:04:04Z",
+		"game":	"Missing Frog",
+		"game_cover":	"https://www.speedrun.com/static/game/46wjzynd/cover.png?v=52980b6",
+		"category":	"ENDING 1",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	122.3,
+		"players":	"raptor_steak",
+		"players_data":	[{
+				"name":	"raptor_steak",
+				"weblink":	"https://www.speedrun.com/users/raptor_steak",
+				"image":	"https://www.speedrun.com/static/user/j40479w8/image.png?v=bfaa414"
+			}],
+		"weblink":	"https://www.speedrun.com/Missing/runs/y8lxg91m"
+	}, {
+		"run_id":	"m7jxl90m",
+		"verified_epoch":	1776513836,
+		"verified_iso":	"2026-04-18T12:03:56Z",
+		"game":	"Missing Frog",
+		"game_cover":	"https://www.speedrun.com/static/game/46wjzynd/cover.png?v=52980b6",
+		"category":	"ENDING 2",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	141.933,
+		"players":	"raptor_steak",
+		"players_data":	[{
+				"name":	"raptor_steak",
+				"weblink":	"https://www.speedrun.com/users/raptor_steak",
+				"image":	"https://www.speedrun.com/static/user/j40479w8/image.png?v=bfaa414"
+			}],
+		"weblink":	"https://www.speedrun.com/Missing/runs/m7jxl90m"
+	}, {
+		"run_id":	"mkxdwlvz",
+		"verified_epoch":	1776513825,
+		"verified_iso":	"2026-04-18T12:03:45Z",
+		"game":	"Missing Frog",
+		"game_cover":	"https://www.speedrun.com/static/game/46wjzynd/cover.png?v=52980b6",
+		"category":	"ENDING 3",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	32.5,
+		"players":	"raptor_steak",
+		"players_data":	[{
+				"name":	"raptor_steak",
+				"weblink":	"https://www.speedrun.com/users/raptor_steak",
+				"image":	"https://www.speedrun.com/static/user/j40479w8/image.png?v=bfaa414"
+			}],
+		"weblink":	"https://www.speedrun.com/Missing/runs/mkxdwlvz"
+	}, {
+		"run_id":	"m38xjrdy",
+		"verified_epoch":	1776513702,
+		"verified_iso":	"2026-04-18T12:01:42Z",
+		"game":	"Dash Flash",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg4326/cover.png?v=c811498",
+		"category":	"Level",
+		"level":	"Level 4",
+		"subcats":	"",
+		"primary_t":	2.886,
+		"players":	"Jaypin88",
+		"players_data":	[{
+				"name":	"Jaypin88",
+				"weblink":	"https://www.speedrun.com/users/Jaypin88",
+				"image":	"https://www.speedrun.com/static/user/kj9521v8/image.png?v=e1e1fae"
+			}],
+		"weblink":	"https://www.speedrun.com/Dash_Flash/runs/m38xjrdy"
+	}, {
+		"run_id":	"z02l95jm",
+		"verified_epoch":	1776513643,
+		"verified_iso":	"2026-04-18T12:00:43Z",
+		"game":	"Granny Rethought",
+		"game_cover":	"https://www.speedrun.com/static/game/268pwvkd/cover.png?v=fa0d41a",
+		"category":	"Practice",
+		"level":	"",
+		"subcats":	"Spider Mom: No Spider Mom, Platform Sub-category: PC, Ending: Door Ending, Sub-category: Any% Glitchless",
+		"primary_t":	69.267,
+		"players":	"ioda",
+		"players_data":	[{
+				"name":	"ioda",
+				"weblink":	"https://www.speedrun.com/users/ioda",
+				"image":	"https://www.speedrun.com/static/user/8w7plvlx/image.png?v=c59628f"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Rethought/runs/z02l95jm"
+	}, {
+		"run_id":	"yve0dn8m",
+		"verified_epoch":	1776513573,
+		"verified_iso":	"2026-04-18T11:59:33Z",
+		"game":	"MINUS THREE",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9ppm1/cover.png?v=771afca",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Mode: -Story Mode",
+		"primary_t":	6.167,
+		"players":	"Amizur",
+		"players_data":	[{
+				"name":	"Amizur",
+				"weblink":	"https://www.speedrun.com/users/Amizur",
+				"image":	"https://www.speedrun.com/static/user/j59zz5zx/image.png?v=5c623d9"
+			}],
+		"weblink":	"https://www.speedrun.com/MINUS_THREE/runs/yve0dn8m"
+	}, {
 		"run_id":	"yo8dp8dz",
 		"verified_epoch":	1776513522,
 		"verified_iso":	"2026-04-18T11:58:42Z",
@@ -406,6 +1328,23 @@
 				"image":	"https://www.speedrun.com/static/user/jpyrkkkj/image.png?v=82ca75c"
 			}],
 		"weblink":	"https://www.speedrun.com/cyd/runs/yve0dv8m"
+	}, {
+		"run_id":	"y68kkqjz",
+		"verified_epoch":	1776511249,
+		"verified_iso":	"2026-04-18T11:20:49Z",
+		"game":	"Elden Ring",
+		"game_cover":	"https://www.speedrun.com/static/game/nd28z0ed/cover.png?v=8dd4a30",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Version: 1.02, Any% - Subcategories: Restricted, Route: RKR/Hoarfrost Stomp, FPS Patch: Yes",
+		"primary_t":	1508,
+		"players":	"luluqlf",
+		"players_data":	[{
+				"name":	"luluqlf",
+				"weblink":	"https://www.speedrun.com/users/luluqlf",
+				"image":	"https://www.speedrun.com/static/user/86pg065j/image.png?v=48b7215"
+			}],
+		"weblink":	"https://www.speedrun.com/eldenring/runs/y68kkqjz"
 	}, {
 		"run_id":	"z02lgxom",
 		"verified_epoch":	1776511159,
@@ -16536,1129 +17475,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/RE9/runs/yo8d211z"
-	}, {
-		"run_id":	"m7j672wm",
-		"verified_epoch":	1776431962,
-		"verified_iso":	"2026-04-17T13:19:22Z",
-		"game":	"Strike Force Heroes Remake",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lqwp46/cover.png?v=dcd3c25",
-		"category":	"Campaign",
-		"level":	"",
-		"subcats":	"Completion: Any%, Class: Tank",
-		"primary_t":	5249.067,
-		"players":	"lasd",
-		"players_data":	[{
-				"name":	"lasd",
-				"weblink":	"https://www.speedrun.com/users/lasd",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/strike_force_heroes_remake/runs/m7j672wm"
-	}, {
-		"run_id":	"m7jxl09m",
-		"verified_epoch":	1776431871,
-		"verified_iso":	"2026-04-17T13:17:51Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 18",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m7jxl09m"
-	}, {
-		"run_id":	"mkxdw0lz",
-		"verified_epoch":	1776431847,
-		"verified_iso":	"2026-04-17T13:17:27Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 17",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	9,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mkxdw0lz"
-	}, {
-		"run_id":	"y6wxog1z",
-		"verified_epoch":	1776431834,
-		"verified_iso":	"2026-04-17T13:17:14Z",
-		"game":	"PEAK",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkqn3qd/cover.png?v=a261543",
-		"category":	"Peak%",
-		"level":	"",
-		"subcats":	"Number of Players: Duo, Level: Level_10, Map Pool: 1.40.a+, Biome: SRAC, Seed Type: Set Seed, Difficulty: PEAK, Glitch Type: No Major Glitches",
-		"primary_t":	1567.183,
-		"players":	"whitea12, AnzuFutaba",
-		"players_data":	[{
-				"name":	"whitea12",
-				"weblink":	"https://www.speedrun.com/users/whitea12",
-				"image":	"https://www.speedrun.com/static/user/8rr6mgd8/image.png?v=bd417b7"
-			}, {
-				"name":	"AnzuFutaba",
-				"weblink":	"https://www.speedrun.com/users/AnzuFutaba",
-				"image":	"https://www.speedrun.com/static/user/jolzk3nj/image.png?v=81718de"
-			}],
-		"weblink":	"https://www.speedrun.com/PEAK/runs/y6wxog1z"
-	}, {
-		"run_id":	"z10g6qwm",
-		"verified_epoch":	1776431823,
-		"verified_iso":	"2026-04-17T13:17:03Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 16",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z10g6qwm"
-	}, {
-		"run_id":	"yl2145xz",
-		"verified_epoch":	1776431807,
-		"verified_iso":	"2026-04-17T13:16:47Z",
-		"game":	"Resident Evil Requiem",
-		"game_cover":	"https://www.speedrun.com/static/game/9dokwk31/cover.png?v=958387c",
-		"category":	"NG+ (Console)",
-		"level":	"",
-		"subcats":	"Platform: Switch 2, Camera: FP/Both, Difficulty: Casual, Unlocks: All, Format: Full Game",
-		"primary_t":	6732,
-		"players":	"LHOST",
-		"players_data":	[{
-				"name":	"LHOST",
-				"weblink":	"https://www.speedrun.com/users/LHOST",
-				"image":	"https://www.speedrun.com/static/user/8rm20vwj/image.png?v=fedcf73"
-			}],
-		"weblink":	"https://www.speedrun.com/RE9/runs/yl2145xz"
-	}, {
-		"run_id":	"zpvdogvz",
-		"verified_epoch":	1776431798,
-		"verified_iso":	"2026-04-17T13:16:38Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 15",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	10,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zpvdogvz"
-	}, {
-		"run_id":	"yo8del5z",
-		"verified_epoch":	1776431778,
-		"verified_iso":	"2026-04-17T13:16:18Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 14",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yo8del5z"
-	}, {
-		"run_id":	"med12e2y",
-		"verified_epoch":	1776431756,
-		"verified_iso":	"2026-04-17T13:15:56Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 13",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/med12e2y"
-	}, {
-		"run_id":	"yl21jnxz",
-		"verified_epoch":	1776431732,
-		"verified_iso":	"2026-04-17T13:15:32Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 12",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yl21jnxz"
-	}, {
-		"run_id":	"ywo62vnm",
-		"verified_epoch":	1776431701,
-		"verified_iso":	"2026-04-17T13:15:01Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ywo62vnm"
-	}, {
-		"run_id":	"zn6qgjvy",
-		"verified_epoch":	1776431679,
-		"verified_iso":	"2026-04-17T13:14:39Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zn6qgjvy"
-	}, {
-		"run_id":	"ywo6kl3m",
-		"verified_epoch":	1776431668,
-		"verified_iso":	"2026-04-17T13:14:28Z",
-		"game":	"PEAK",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkqn3qd/cover.png?v=a261543",
-		"category":	"Peak%",
-		"level":	"",
-		"subcats":	"Number of Players: Solo, Level: Level_10, Map Pool: 1.40.a+, Biome: SRAC, Seed Type: Set Seed, Difficulty: PEAK, Glitch Type: No Major Glitches",
-		"primary_t":	1435,
-		"players":	"whitea12",
-		"players_data":	[{
-				"name":	"whitea12",
-				"weblink":	"https://www.speedrun.com/users/whitea12",
-				"image":	"https://www.speedrun.com/static/user/8rr6mgd8/image.png?v=bd417b7"
-			}],
-		"weblink":	"https://www.speedrun.com/PEAK/runs/ywo6kl3m"
-	}, {
-		"run_id":	"yve0788m",
-		"verified_epoch":	1776431663,
-		"verified_iso":	"2026-04-17T13:14:23Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yve0788m"
-	}, {
-		"run_id":	"y6wxjo0z",
-		"verified_epoch":	1776431644,
-		"verified_iso":	"2026-04-17T13:14:04Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y6wxjo0z"
-	}, {
-		"run_id":	"z02l0nom",
-		"verified_epoch":	1776431622,
-		"verified_iso":	"2026-04-17T13:13:42Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02l0nom"
-	}, {
-		"run_id":	"y26e8j7m",
-		"verified_epoch":	1776431600,
-		"verified_iso":	"2026-04-17T13:13:20Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26e8j7m"
-	}, {
-		"run_id":	"yo8ded5z",
-		"verified_epoch":	1776431589,
-		"verified_iso":	"2026-04-17T13:13:09Z",
-		"game":	"Seterra (Geoguessr Version)",
-		"game_cover":	"https://www.speedrun.com/static/game/nd28p43d/cover.png?v=8e79e64",
-		"category":	"Pin (Hard)",
-		"level":	"░ The Caribbean: Flags",
-		"subcats":	"Platform: Website, Flag Order: Normal Pin",
-		"primary_t":	7.363,
-		"players":	"TelevangelistRakuun",
-		"players_data":	[{
-				"name":	"TelevangelistRakuun",
-				"weblink":	"https://www.speedrun.com/users/TelevangelistRakuun",
-				"image":	"https://www.speedrun.com/static/user/xyygw5zx/image.png?v=b9413b2"
-			}],
-		"weblink":	"https://www.speedrun.com/seterra/runs/yo8ded5z"
-	}, {
-		"run_id":	"zqn9pe1z",
-		"verified_epoch":	1776431577,
-		"verified_iso":	"2026-04-17T13:12:57Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zqn9pe1z"
-	}, {
-		"run_id":	"y4vxng2y",
-		"verified_epoch":	1776431549,
-		"verified_iso":	"2026-04-17T13:12:29Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vxng2y"
-	}, {
-		"run_id":	"m38xvlgy",
-		"verified_epoch":	1776431526,
-		"verified_iso":	"2026-04-17T13:12:06Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38xvlgy"
-	}, {
-		"run_id":	"zn6qgqvy",
-		"verified_epoch":	1776431523,
-		"verified_iso":	"2026-04-17T13:12:03Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.4",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.8, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: No Grandpa",
-		"primary_t":	116.083,
-		"players":	"ioda",
-		"players_data":	[{
-				"name":	"ioda",
-				"weblink":	"https://www.speedrun.com/users/ioda",
-				"image":	"https://www.speedrun.com/static/user/8w7plvlx/image.png?v=c59628f"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/zn6qgqvy"
-	}, {
-		"run_id":	"zxp80nky",
-		"verified_epoch":	1776431506,
-		"verified_iso":	"2026-04-17T13:11:46Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zxp80nky"
-	}, {
-		"run_id":	"m7jxl29m",
-		"verified_epoch":	1776431486,
-		"verified_iso":	"2026-04-17T13:11:26Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 45s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m7jxl29m"
-	}, {
-		"run_id":	"z10gnr7m",
-		"verified_epoch":	1776431440,
-		"verified_iso":	"2026-04-17T13:10:40Z",
-		"game":	"Minecraft: Bedrock Edition Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/v1po7r76/cover.png?v=0928a36",
-		"category":	"SSP Solo",
-		"level":	"",
-		"subcats":	"Version: 26.13, Glitched / Glitchless (SSP Solo): Glitchless, Seed: -3530410650374409648, Platform (SSP Solo): Mobile",
-		"primary_t":	150.2,
-		"players":	"mizuJP",
-		"players_data":	[{
-				"name":	"mizuJP",
-				"weblink":	"https://www.speedrun.com/users/mizuJP",
-				"image":	"https://www.speedrun.com/static/user/8goo7drx/image.png?v=dbe5fa7"
-			}],
-		"weblink":	"https://www.speedrun.com/mcbece/runs/z10gnr7m"
-	}, {
-		"run_id":	"y4vxnx2y",
-		"verified_epoch":	1776431121,
-		"verified_iso":	"2026-04-17T13:05:21Z",
-		"game":	"100 Stage Project",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pploz1/cover.png?v=c2088d4",
-		"category":	"ALL STAGES",
-		"level":	"STAGE 2",
-		"subcats":	"",
-		"primary_t":	4.633,
-		"players":	"tuOlixx",
-		"players_data":	[{
-				"name":	"tuOlixx",
-				"weblink":	"https://www.speedrun.com/users/tuOlixx",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/100_Stage_Project/runs/y4vxnx2y"
-	}, {
-		"run_id":	"m7jxlx9m",
-		"verified_epoch":	1776431046,
-		"verified_iso":	"2026-04-17T13:04:06Z",
-		"game":	"100 Stage Project",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pploz1/cover.png?v=c2088d4",
-		"category":	"ALL STAGES",
-		"level":	"STAGE 3",
-		"subcats":	"",
-		"primary_t":	4.083,
-		"players":	"tuOlixx",
-		"players_data":	[{
-				"name":	"tuOlixx",
-				"weblink":	"https://www.speedrun.com/users/tuOlixx",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/100_Stage_Project/runs/m7jxlx9m"
-	}, {
-		"run_id":	"yl21j0rz",
-		"verified_epoch":	1776430949,
-		"verified_iso":	"2026-04-17T13:02:29Z",
-		"game":	"Google Snake",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
-		"category":	"All Apples",
-		"level":	"Magnet Mode ",
-		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Slow, Board Size: Small",
-		"primary_t":	15.8,
-		"players":	"Nat_Cat",
-		"players_data":	[{
-				"name":	"Nat_Cat",
-				"weblink":	"https://www.speedrun.com/users/Nat_Cat",
-				"image":	"https://www.speedrun.com/static/user/8greko7x/image.png?v=4079419"
-			}],
-		"weblink":	"https://www.speedrun.com/snake_game/runs/yl21j0rz"
-	}, {
-		"run_id":	"zqn9p91z",
-		"verified_epoch":	1776430849,
-		"verified_iso":	"2026-04-17T13:00:49Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Preset, Sub-category: Any% Glitched, Difficulty: Easy, Grandpa: No Grandpa, Ending: Door Ending",
-		"primary_t":	71.917,
-		"players":	"WePlayGG",
-		"players_data":	[{
-				"name":	"WePlayGG",
-				"weblink":	"https://www.speedrun.com/users/WePlayGG",
-				"image":	"https://www.speedrun.com/static/user/xkgmnk9j/image.png?v=cedeb04"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/zqn9p91z"
-	}, {
-		"run_id":	"y6w043jz",
-		"verified_epoch":	1776430671,
-		"verified_iso":	"2026-04-17T12:57:51Z",
-		"game":	"Naruto Shippuden 3D: The New Era",
-		"game_cover":	"https://www.speedrun.com/static/game/m1z3yj0d/cover.png?v=918e5ea",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Platform: Emulator",
-		"primary_t":	3588,
-		"players":	"MakerMari0",
-		"players_data":	[{
-				"name":	"MakerMari0",
-				"weblink":	"https://www.speedrun.com/users/MakerMari0",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Naruto_Shippuden_3D_The_New_Era/runs/y6w043jz"
-	}, {
-		"run_id":	"y6wxr9jz",
-		"verified_epoch":	1776430619,
-		"verified_iso":	"2026-04-17T12:56:59Z",
-		"game":	"The Lord of the Rings: The Third Age",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jq051j/cover.png?v=1bdcb23",
-		"category":	"Balrog%",
-		"level":	"",
-		"subcats":	"Balrog%: Any% Easy",
-		"primary_t":	2804,
-		"players":	"MillSouche",
-		"players_data":	[{
-				"name":	"MillSouche",
-				"weblink":	"https://www.speedrun.com/users/MillSouche",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/the_lord_of_the_rings_the_third_age/runs/y6wxr9jz"
-	}, {
-		"run_id":	"m38xvxgy",
-		"verified_epoch":	1776430612,
-		"verified_iso":	"2026-04-17T12:56:52Z",
-		"game":	"Naruto Shippuden 3D: The New Era",
-		"game_cover":	"https://www.speedrun.com/static/game/m1z3yj0d/cover.png?v=918e5ea",
-		"category":	"FullStory%",
-		"level":	"",
-		"subcats":	"Platform: Emulator",
-		"primary_t":	4724,
-		"players":	"MakerMari0",
-		"players_data":	[{
-				"name":	"MakerMari0",
-				"weblink":	"https://www.speedrun.com/users/MakerMari0",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Naruto_Shippuden_3D_The_New_Era/runs/m38xvxgy"
-	}, {
-		"run_id":	"y9gxe9em",
-		"verified_epoch":	1776430537,
-		"verified_iso":	"2026-04-17T12:55:37Z",
-		"game":	"FISH (2025)",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2wk8vd/cover.png?v=b677757",
-		"category":	"No Major Glitches",
-		"level":	"Demo",
-		"subcats":	"",
-		"primary_t":	221,
-		"players":	"shmuckwoop",
-		"players_data":	[{
-				"name":	"shmuckwoop",
-				"weblink":	"https://www.speedrun.com/users/shmuckwoop",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/FISH_2025/runs/y9gxe9em"
-	}, {
-		"run_id":	"ydp14wvy",
-		"verified_epoch":	1776430521,
-		"verified_iso":	"2026-04-17T12:55:21Z",
-		"game":	"Poppy Playtime: Chapter 5",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9lr5d/cover.png?v=6f63246",
-		"category":	"PC",
-		"level":	"Tea Time",
-		"subcats":	"Route [IL]: NMG",
-		"primary_t":	96.1,
-		"players":	"xiaomengnb",
-		"players_data":	[{
-				"name":	"xiaomengnb",
-				"weblink":	"https://www.speedrun.com/users/xiaomengnb",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ppt_c5/runs/ydp14wvy"
-	}, {
-		"run_id":	"mkxkjd1z",
-		"verified_epoch":	1776430500,
-		"verified_iso":	"2026-04-17T12:55:00Z",
-		"game":	"Resident Evil Requiem",
-		"game_cover":	"https://www.speedrun.com/static/game/9dokwk31/cover.png?v=958387c",
-		"category":	"Any% (PC)",
-		"level":	"",
-		"subcats":	"Difficulty: Insanity, Camera: TP, Format: No Intro",
-		"primary_t":	7002,
-		"players":	"KanonCY",
-		"players_data":	[{
-				"name":	"KanonCY",
-				"weblink":	"https://www.speedrun.com/users/KanonCY",
-				"image":	"https://www.speedrun.com/static/user/x3qrykkj/image.png?v=90df6a8"
-			}],
-		"weblink":	"https://www.speedrun.com/RE9/runs/mkxkjd1z"
-	}, {
-		"run_id":	"z10g6pwm",
-		"verified_epoch":	1776430235,
-		"verified_iso":	"2026-04-17T12:50:35Z",
-		"game":	"Zekkyosenshi Sakeburein",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7pnm3d/cover.png?v=afa84c2",
-		"category":	"Any% hard (3 players)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	378,
-		"players":	"wchick, LennyTaka, tekimichi",
-		"players_data":	[{
-				"name":	"wchick",
-				"weblink":	"https://www.speedrun.com/users/wchick",
-				"image":	"https://www.speedrun.com/static/user/jp4g6d2j/image.png?v=ae706d8"
-			}, {
-				"name":	"LennyTaka",
-				"weblink":	"https://www.speedrun.com/users/LennyTaka",
-				"image":	""
-			}, {
-				"name":	"tekimichi",
-				"weblink":	"https://www.speedrun.com/users/tekimichi",
-				"image":	"https://www.speedrun.com/static/user/jpoqwyk8/image.png?v=25e83d4"
-			}],
-		"weblink":	"https://www.speedrun.com/Zekkyosenshi_Sakeburein/runs/z10g6pwm"
-	}, {
-		"run_id":	"ydp14dxy",
-		"verified_epoch":	1776430059,
-		"verified_iso":	"2026-04-17T12:47:39Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	9,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ydp14dxy"
-	}, {
-		"run_id":	"med1232y",
-		"verified_epoch":	1776430039,
-		"verified_iso":	"2026-04-17T12:47:19Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/med1232y"
-	}, {
-		"run_id":	"zg1q6pjz",
-		"verified_epoch":	1776430015,
-		"verified_iso":	"2026-04-17T12:46:55Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zg1q6pjz"
-	}, {
-		"run_id":	"yjrdqpoz",
-		"verified_epoch":	1776429931,
-		"verified_iso":	"2026-04-17T12:45:31Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yjrdqpoz"
-	}, {
-		"run_id":	"ywo623nm",
-		"verified_epoch":	1776429910,
-		"verified_iso":	"2026-04-17T12:45:10Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ywo623nm"
-	}, {
-		"run_id":	"y4vxw2ky",
-		"verified_epoch":	1776429889,
-		"verified_iso":	"2026-04-17T12:44:49Z",
-		"game":	"Phasmophobia",
-		"game_cover":	"https://www.speedrun.com/static/game/m1zjpl36/cover.png?v=6664756",
-		"category":	"Solo",
-		"level":	"Edgefield Street House",
-		"subcats":	"Server version: 0.13+, Desktop/Console or VR: VR, Difficulty: Standard, Mode: Evidence%",
-		"primary_t":	179.567,
-		"players":	"ItsFrosti",
-		"players_data":	[{
-				"name":	"ItsFrosti",
-				"weblink":	"https://www.speedrun.com/users/ItsFrosti",
-				"image":	"https://www.speedrun.com/static/user/j464ynl8/image.png?v=59dad3e"
-			}],
-		"weblink":	"https://www.speedrun.com/phasmophobia/runs/y4vxw2ky"
-	}, {
-		"run_id":	"zn6qgpvy",
-		"verified_epoch":	1776429885,
-		"verified_iso":	"2026-04-17T12:44:45Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zn6qgpvy"
-	}, {
-		"run_id":	"m38xvo4y",
-		"verified_epoch":	1776429857,
-		"verified_iso":	"2026-04-17T12:44:17Z",
-		"game":	"100 Stage Project",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pploz1/cover.png?v=c2088d4",
-		"category":	"ALL STAGES",
-		"level":	"STAGE 4",
-		"subcats":	"",
-		"primary_t":	4.333,
-		"players":	"Phantom_Smiler",
-		"players_data":	[{
-				"name":	"Phantom_Smiler",
-				"weblink":	"https://www.speedrun.com/users/Phantom_Smiler",
-				"image":	"https://www.speedrun.com/static/user/8eedn3p8/image.png?v=db4e4f0"
-			}],
-		"weblink":	"https://www.speedrun.com/100_Stage_Project/runs/m38xvo4y"
-	}, {
-		"run_id":	"yve07qom",
-		"verified_epoch":	1776429777,
-		"verified_iso":	"2026-04-17T12:42:57Z",
-		"game":	"Minecraft: Bedrock Edition",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4ovvg1/cover.png?v=5891d21",
-		"category":	"Cooperative Kill Bosses Glitchless",
-		"level":	"",
-		"subcats":	"Seed Type: Set Seed, Bosses (Kill Bosses Glitchless Coop): Elder Guardian, Version: 1.17.34, World Difficulty: Easy",
-		"primary_t":	35.55,
-		"players":	"AhmadEssam, speedrunnur",
-		"players_data":	[{
-				"name":	"AhmadEssam",
-				"weblink":	"https://www.speedrun.com/users/AhmadEssam",
-				"image":	"https://www.speedrun.com/static/user/j9l6qooj/image.png?v=98be4c2"
-			}, {
-				"name":	"speedrunnur",
-				"weblink":	"https://www.speedrun.com/users/speedrunnur",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mcbe/runs/yve07qom"
-	}, {
-		"run_id":	"yveq0qxm",
-		"verified_epoch":	1776429740,
-		"verified_iso":	"2026-04-17T12:42:20Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.3",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Preset, Sub-category: Any% Glitched, Difficulty: No Granny, Grandpa: No Grandpa",
-		"primary_t":	83.483,
-		"players":	"rvth",
-		"players_data":	[{
-				"name":	"rvth",
-				"weblink":	"https://www.speedrun.com/users/rvth",
-				"image":	"https://www.speedrun.com/static/user/8wgwnqvx/image.png?v=326ea8a"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/yveq0qxm"
-	}, {
-		"run_id":	"mkxdw91z",
-		"verified_epoch":	1776429721,
-		"verified_iso":	"2026-04-17T12:42:01Z",
-		"game":	"100 Stage Project",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pploz1/cover.png?v=c2088d4",
-		"category":	"ALL STAGES",
-		"level":	"STAGE 2",
-		"subcats":	"",
-		"primary_t":	4.717,
-		"players":	"Phantom_Smiler",
-		"players_data":	[{
-				"name":	"Phantom_Smiler",
-				"weblink":	"https://www.speedrun.com/users/Phantom_Smiler",
-				"image":	"https://www.speedrun.com/static/user/8eedn3p8/image.png?v=db4e4f0"
-			}],
-		"weblink":	"https://www.speedrun.com/100_Stage_Project/runs/mkxdw91z"
-	}, {
-		"run_id":	"y26e8p7m",
-		"verified_epoch":	1776429681,
-		"verified_iso":	"2026-04-17T12:41:21Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26e8p7m"
-	}, {
-		"run_id":	"z5nxgnez",
-		"verified_epoch":	1776429146,
-		"verified_iso":	"2026-04-17T12:32:26Z",
-		"game":	"Burglin' Gnomes",
-		"game_cover":	"https://www.speedrun.com/static/game/9dokw7e1/cover.png?v=325c3b1",
-		"category":	"Any% Day 5",
-		"level":	"",
-		"subcats":	"Player Count: Solo",
-		"primary_t":	347,
-		"players":	"AdamIsCold",
-		"players_data":	[{
-				"name":	"AdamIsCold",
-				"weblink":	"https://www.speedrun.com/users/AdamIsCold",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Burglin_Gnomes/runs/z5nxgnez"
-	}, {
-		"run_id":	"ydpdv3jy",
-		"verified_epoch":	1776428992,
-		"verified_iso":	"2026-04-17T12:29:52Z",
-		"game":	"Pokémon Ruby/Sapphire",
-		"game_cover":	"https://www.speedrun.com/static/game/9d38801l/cover.png?v=40c4e12",
-		"category":	"Any% No Save Corruption",
-		"level":	"",
-		"subcats":	"Language: ENG, Emulator or Console: Emulator",
-		"primary_t":	1669,
-		"players":	"Ananan",
-		"players_data":	[{
-				"name":	"Ananan",
-				"weblink":	"https://www.speedrun.com/users/Ananan",
-				"image":	"https://www.speedrun.com/static/user/xz937648/image.png?v=21f2564"
-			}],
-		"weblink":	"https://www.speedrun.com/pkmnrubysapphire/runs/ydpdv3jy"
-	}, {
-		"run_id":	"z02l0o9m",
-		"verified_epoch":	1776428962,
-		"verified_iso":	"2026-04-17T12:29:22Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02l0o9m"
-	}, {
-		"run_id":	"y4vxn83y",
-		"verified_epoch":	1776428944,
-		"verified_iso":	"2026-04-17T12:29:04Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vxn83y"
-	}, {
-		"run_id":	"m38xv6dy",
-		"verified_epoch":	1776428916,
-		"verified_iso":	"2026-04-17T12:28:36Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38xv6dy"
-	}, {
-		"run_id":	"zxp80oey",
-		"verified_epoch":	1776428895,
-		"verified_iso":	"2026-04-17T12:28:15Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: double jump, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zxp80oey"
-	}, {
-		"run_id":	"y9gxe3em",
-		"verified_epoch":	1776428791,
-		"verified_iso":	"2026-04-17T12:26:31Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.5",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Random Seed, Sub-category: Any% Glitched, Difficulty: No Granny, Grandpa: No Grandpa, Ending: Door Ending, Difficulty (No Granny): Easy",
-		"primary_t":	51.383,
-		"players":	"kvarrg",
-		"players_data":	[{
-				"name":	"kvarrg",
-				"weblink":	"https://www.speedrun.com/users/kvarrg",
-				"image":	"https://www.speedrun.com/static/user/j4664yv8/image.png?v=b10ccf4"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/y9gxe3em"
-	}, {
-		"run_id":	"y6wxg41z",
-		"verified_epoch":	1776428591,
-		"verified_iso":	"2026-04-17T12:23:11Z",
-		"game":	"Unreal Tournament",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkvkq1m/cover.png?v=0fee783",
-		"category":	"Novice",
-		"level":	"CTF - The Gauntlet",
-		"subcats":	"Platform: PC/Mac/Linux",
-		"primary_t":	43.031,
-		"players":	"MrCodeMUN",
-		"players_data":	[{
-				"name":	"MrCodeMUN",
-				"weblink":	"https://www.speedrun.com/users/MrCodeMUN",
-				"image":	"https://www.speedrun.com/static/user/j9y9o1wx/image.png?v=0129808"
-			}],
-		"weblink":	"https://www.speedrun.com/ut99/runs/y6wxg41z"
-	}, {
-		"run_id":	"yjrdon3z",
-		"verified_epoch":	1776428463,
-		"verified_iso":	"2026-04-17T12:21:03Z",
-		"game":	"The Outlast Trials",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rol71/cover.png?v=b78c6e8",
-		"category":	"Any%",
-		"level":	"Incinerate the Sex Toys",
-		"subcats":	"Players: Duo",
-		"primary_t":	207,
-		"players":	"SamCTell, ZachKhan",
-		"players_data":	[{
-				"name":	"SamCTell",
-				"weblink":	"https://www.speedrun.com/users/SamCTell",
-				"image":	""
-			}, {
-				"name":	"ZachKhan",
-				"weblink":	"https://www.speedrun.com/users/ZachKhan",
-				"image":	"https://www.speedrun.com/static/user/x7ygg2rx/image.png?v=c765082"
-			}],
-		"weblink":	"https://www.speedrun.com/The_Outlast_Trials/runs/yjrdon3z"
-	}, {
-		"run_id":	"med1240y",
-		"verified_epoch":	1776428424,
-		"verified_iso":	"2026-04-17T12:20:24Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.8, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Impossible, Grandpa: No Grandpa, Ending: Car Ending",
-		"primary_t":	324.267,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"https://www.speedrun.com/users/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=1922d43"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/med1240y"
-	}, {
-		"run_id":	"z5nr055z",
-		"verified_epoch":	1776428419,
-		"verified_iso":	"2026-04-17T12:20:19Z",
-		"game":	"Strike Force Heroes Remake",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lqwp46/cover.png?v=dcd3c25",
-		"category":	"Full Game",
-		"level":	"",
-		"subcats":	"Completion: 100%, Class: Medic",
-		"primary_t":	14216.355,
-		"players":	"steamroller",
-		"players_data":	[{
-				"name":	"steamroller",
-				"weblink":	"https://www.speedrun.com/users/steamroller",
-				"image":	"https://www.speedrun.com/static/user/8l663rr8/image.png?v=cbad5b9"
-			}],
-		"weblink":	"https://www.speedrun.com/strike_force_heroes_remake/runs/z5nr055z"
-	}, {
-		"run_id":	"ywo62k3m",
-		"verified_epoch":	1776428299,
-		"verified_iso":	"2026-04-17T12:18:19Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.8, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Hollow, Grandpa: No Grandpa, Ending: Door Ending",
-		"primary_t":	204.533,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"https://www.speedrun.com/users/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=1922d43"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/ywo62k3m"
-	}, {
-		"run_id":	"yve07oom",
-		"verified_epoch":	1776428224,
-		"verified_iso":	"2026-04-17T12:17:04Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.8",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.8, Seed System: Preset, Sub-category: Any% Glitchless, Difficulty: Impossible, Grandpa: No Grandpa, Ending: Door Ending",
-		"primary_t":	204.733,
-		"players":	"SlyTherinPlayer",
-		"players_data":	[{
-				"name":	"SlyTherinPlayer",
-				"weblink":	"https://www.speedrun.com/users/SlyTherinPlayer",
-				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=1922d43"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/yve07oom"
-	}, {
-		"run_id":	"yjrdedoz",
-		"verified_epoch":	1776428185,
-		"verified_iso":	"2026-04-17T12:16:25Z",
-		"game":	"Corebound",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Boosted: Tarnished, OneLevel: LS%, Version: 1.1.3.1, Version Range: 1.1.3+",
-		"primary_t":	9.75,
-		"players":	"Werby",
-		"players_data":	[{
-				"name":	"Werby",
-				"weblink":	"https://www.speedrun.com/users/Werby",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Corebound/runs/yjrdedoz"
-	}, {
-		"run_id":	"m38xwxgy",
-		"verified_epoch":	1776428154,
-		"verified_iso":	"2026-04-17T12:15:54Z",
-		"game":	"Corebound",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Boosted: Geared, OneLevel: DD%, Version: 1.1.3.1, Version Range: 1.1.3+",
-		"primary_t":	75.82,
-		"players":	"Werby",
-		"players_data":	[{
-				"name":	"Werby",
-				"weblink":	"https://www.speedrun.com/users/Werby",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Corebound/runs/m38xwxgy"
-	}, {
-		"run_id":	"mrwrdedy",
-		"verified_epoch":	1776428134,
-		"verified_iso":	"2026-04-17T12:15:34Z",
-		"game":	"Subliminal",
-		"game_cover":	"https://www.speedrun.com/static/game/268w7my6/cover.png?v=16d7ab5",
-		"category":	"Any%",
-		"level":	"Basement",
-		"subcats":	"Version: v1.0.2+",
-		"primary_t":	197.84,
-		"players":	"kirbycoo",
-		"players_data":	[{
-				"name":	"kirbycoo",
-				"weblink":	"https://www.speedrun.com/users/kirbycoo",
-				"image":	"https://www.speedrun.com/static/user/jn1eog48/image.png?v=2e2f19f"
-			}],
-		"weblink":	"https://www.speedrun.com/subliminal/runs/mrwrdedy"
-	}, {
-		"run_id":	"y6wxj31z",
-		"verified_epoch":	1776427661,
-		"verified_iso":	"2026-04-17T12:07:41Z",
-		"game":	"Minecraft: Bedrock Edition",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4ovvg1/cover.png?v=5891d21",
-		"category":	"Any% Glitchless",
-		"level":	"",
-		"subcats":	"Seed Type: Set Seed, Version (Any% Glitchless): 1.18+, Platform (Any% Glitchless): Mobile, Version: 1.21.120, World Difficulty: Easy",
-		"primary_t":	87.467,
-		"players":	"Trindade_runs",
-		"players_data":	[{
-				"name":	"Trindade_runs",
-				"weblink":	"https://www.speedrun.com/users/Trindade_runs",
-				"image":	"https://www.speedrun.com/static/user/xykwd1y8/image.png?v=c76af5f"
-			}],
-		"weblink":	"https://www.speedrun.com/mcbe/runs/y6wxj31z"
 	}]
