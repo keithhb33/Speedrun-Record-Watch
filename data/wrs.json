@@ -1,4 +1,807 @@
 [{
+		"run_id":	"yve6j8em",
+		"verified_epoch":	1777626665,
+		"verified_iso":	"2026-05-01T09:11:05Z",
+		"game":	"Kirby and the Forgotten Land Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/46wrzg31/cover.png?v=4a6dbc2",
+		"category":	"NG+ All Stages",
+		"level":	"",
+		"subcats":	"Version: Digital, Platform: Switch2(S2E)",
+		"primary_t":	8266,
+		"players":	"birupon",
+		"players_data":	[{
+				"name":	"birupon",
+				"weblink":	"https://www.speedrun.com/users/birupon",
+				"image":	"https://www.speedrun.com/static/user/xz293n9x/image.png?v=46fb5ad"
+			}],
+		"weblink":	"https://www.speedrun.com/kflce/runs/yve6j8em"
+	}, {
+		"run_id":	"m38q4eqy",
+		"verified_epoch":	1777626654,
+		"verified_iso":	"2026-05-01T09:10:54Z",
+		"game":	"Super Bear Adventure",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
+		"category":	"Single Bears",
+		"level":	"Snow Valley",
+		"subcats":	"Single Bears: Vladimir, Version: 12.1.5",
+		"primary_t":	15.24,
+		"players":	"Yano_speedruns",
+		"players_data":	[{
+				"name":	"Yano_speedruns",
+				"weblink":	"https://www.speedrun.com/users/Yano_speedruns",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sba/runs/m38q4eqy"
+	}, {
+		"run_id":	"yvev40om",
+		"verified_epoch":	1777626642,
+		"verified_iso":	"2026-05-01T09:10:42Z",
+		"game":	"Chiikawa Pocket",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkq4xed/cover.png?v=857be63",
+		"category":	"Mucha Easy Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	4291,
+		"players":	"alicetsukino",
+		"players_data":	[{
+				"name":	"alicetsukino",
+				"weblink":	"https://www.speedrun.com/users/alicetsukino",
+				"image":	"https://www.speedrun.com/static/user/8eokp76j/image.png?v=ebefdcf"
+			}],
+		"weblink":	"https://www.speedrun.com/Chiikawa_Pocket/runs/yvev40om"
+	}, {
+		"run_id":	"m381ew4y",
+		"verified_epoch":	1777626493,
+		"verified_iso":	"2026-05-01T09:08:13Z",
+		"game":	"Kirby and the Forgotten Land Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/46wrzg31/cover.png?v=4a6dbc2",
+		"category":	"NG+ All SCW Stages",
+		"level":	"",
+		"subcats":	"Version: Physical",
+		"primary_t":	2884,
+		"players":	"MrGamerSir",
+		"players_data":	[{
+				"name":	"MrGamerSir",
+				"weblink":	"https://www.speedrun.com/users/MrGamerSir",
+				"image":	"https://www.speedrun.com/static/user/8ek9nm68/image.png?v=f7e3ece"
+			}],
+		"weblink":	"https://www.speedrun.com/kflce/runs/m381ew4y"
+	}, {
+		"run_id":	"y6w244jz",
+		"verified_epoch":	1777626473,
+		"verified_iso":	"2026-05-01T09:07:53Z",
+		"game":	"Super Bear Adventure",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
+		"category":	"Single Bears",
+		"level":	"Turtletown",
+		"subcats":	"Single Bears: Bob, Version: 12.1.5",
+		"primary_t":	12.76,
+		"players":	"DineshKumar",
+		"players_data":	[{
+				"name":	"DineshKumar",
+				"weblink":	"https://www.speedrun.com/users/DineshKumar",
+				"image":	"https://www.speedrun.com/static/user/8d9odpmx/image.png?v=6d80e02"
+			}],
+		"weblink":	"https://www.speedrun.com/sba/runs/y6w244jz"
+	}, {
+		"run_id":	"zg1e0rez",
+		"verified_epoch":	1777626372,
+		"verified_iso":	"2026-05-01T09:06:12Z",
+		"game":	"Super Bear Adventure",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
+		"category":	"Single Bears",
+		"level":	"Turtletown",
+		"subcats":	"Single Bears: Dr Christopher, Version: 12.1.4",
+		"primary_t":	10.08,
+		"players":	"flakeSBA",
+		"players_data":	[{
+				"name":	"flakeSBA",
+				"weblink":	"https://www.speedrun.com/users/flakeSBA",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sba/runs/zg1e0rez"
+	}, {
+		"run_id":	"y9g8wqnm",
+		"verified_epoch":	1777626291,
+		"verified_iso":	"2026-05-01T09:04:51Z",
+		"game":	"Super Bear Adventure",
+		"game_cover":	"https://www.speedrun.com/static/game/9d3rrxyd/cover.png?v=7dd2eae",
+		"category":	"Single Bears",
+		"level":	"Snow Valley",
+		"subcats":	"Single Bears: Skia, Version: 12.1.4",
+		"primary_t":	12.73,
+		"players":	"IsaacGG",
+		"players_data":	[{
+				"name":	"IsaacGG",
+				"weblink":	"https://www.speedrun.com/users/IsaacGG",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sba/runs/y9g8wqnm"
+	}, {
+		"run_id":	"yjrl1d7z",
+		"verified_epoch":	1777626165,
+		"verified_iso":	"2026-05-01T09:02:45Z",
+		"game":	"Kirby and the Forgotten Land Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/46wrzg31/cover.png?v=4a6dbc2",
+		"category":	"NG+ All SCW Stages",
+		"level":	"",
+		"subcats":	"Version: Digital",
+		"primary_t":	2324,
+		"players":	"birupon",
+		"players_data":	[{
+				"name":	"birupon",
+				"weblink":	"https://www.speedrun.com/users/birupon",
+				"image":	"https://www.speedrun.com/static/user/xz293n9x/image.png?v=46fb5ad"
+			}],
+		"weblink":	"https://www.speedrun.com/kflce/runs/yjrl1d7z"
+	}, {
+		"run_id":	"y6wq3x6z",
+		"verified_epoch":	1777626130,
+		"verified_iso":	"2026-05-01T09:02:10Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Version: 2.0, Mode: Bossfight",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/y6wq3x6z"
+	}, {
+		"run_id":	"z02xwl9m",
+		"verified_epoch":	1777626082,
+		"verified_iso":	"2026-05-01T09:01:22Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Version: 2.0, Mode: Water",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/z02xwl9m"
+	}, {
+		"run_id":	"z5nk5x5z",
+		"verified_epoch":	1777626031,
+		"verified_iso":	"2026-05-01T09:00:31Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Version: 1.0, Mode: Bossfight",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/z5nk5x5z"
+	}, {
+		"run_id":	"mkr6d63z",
+		"verified_epoch":	1777626018,
+		"verified_iso":	"2026-05-01T09:00:18Z",
+		"game":	"Kirby and the Forgotten Land Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/46wrzg31/cover.png?v=4a6dbc2",
+		"category":	"Go Home & Sleep",
+		"level":	"",
+		"subcats":	"Version: Digital, Platform: Switch2(S2E)",
+		"primary_t":	2388,
+		"players":	"PokeBanner1331s",
+		"players_data":	[{
+				"name":	"PokeBanner1331s",
+				"weblink":	"https://www.speedrun.com/users/PokeBanner1331s",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/kflce/runs/mkr6d63z"
+	}, {
+		"run_id":	"mrw2j7gy",
+		"verified_epoch":	1777625985,
+		"verified_iso":	"2026-05-01T08:59:45Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Version: 1.0, Mode: Water",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/mrw2j7gy"
+	}, {
+		"run_id":	"ydp28dvy",
+		"verified_epoch":	1777625824,
+		"verified_iso":	"2026-05-01T08:57:04Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"BossFight%",
+		"level":	"",
+		"subcats":	"Version: 2.0",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/ydp28dvy"
+	}, {
+		"run_id":	"y26g6k7m",
+		"verified_epoch":	1777625666,
+		"verified_iso":	"2026-05-01T08:54:26Z",
+		"game":	"Super Bear Adventure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl2ned/cover.png?v=91b0b69",
+		"category":	"Single Challenge",
+		"level":	"Missions",
+		"subcats":	"Version: 12.1.4, Single Challenge: Floor is lava in Snow Valley",
+		"primary_t":	9.4,
+		"players":	"DineshKumar",
+		"players_data":	[{
+				"name":	"DineshKumar",
+				"weblink":	"https://www.speedrun.com/users/DineshKumar",
+				"image":	"https://www.speedrun.com/static/user/8d9odpmx/image.png?v=6d80e02"
+			}],
+		"weblink":	"https://www.speedrun.com/sbace/runs/y26g6k7m"
+	}, {
+		"run_id":	"y26gkkwm",
+		"verified_epoch":	1777625142,
+		"verified_iso":	"2026-05-01T08:45:42Z",
+		"game":	"Super Bear Adventure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl2ned/cover.png?v=91b0b69",
+		"category":	"Single Challenge",
+		"level":	"Races",
+		"subcats":	"Version: 12.1.3, Single Challenge: Tubes race",
+		"primary_t":	29.97,
+		"players":	"SmanR",
+		"players_data":	[{
+				"name":	"SmanR",
+				"weblink":	"https://www.speedrun.com/users/SmanR",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sbace/runs/y26gkkwm"
+	}, {
+		"run_id":	"mrwo7r7y",
+		"verified_epoch":	1777625063,
+		"verified_iso":	"2026-05-01T08:44:23Z",
+		"game":	"Super Bear Adventure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl2ned/cover.png?v=91b0b69",
+		"category":	"Single Challenge",
+		"level":	"Races",
+		"subcats":	"Version: 12.1.3, Single Challenge: Desert race",
+		"primary_t":	13.52,
+		"players":	"SmanR",
+		"players_data":	[{
+				"name":	"SmanR",
+				"weblink":	"https://www.speedrun.com/users/SmanR",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sbace/runs/mrwo7r7y"
+	}, {
+		"run_id":	"y26jwkjm",
+		"verified_epoch":	1777624997,
+		"verified_iso":	"2026-05-01T08:43:17Z",
+		"game":	"Super Bear Adventure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl2ned/cover.png?v=91b0b69",
+		"category":	"Single Challenge",
+		"level":	"Races",
+		"subcats":	"Version: 12.1.3, Single Challenge: Looping race",
+		"primary_t":	30.69,
+		"players":	"SmanR",
+		"players_data":	[{
+				"name":	"SmanR",
+				"weblink":	"https://www.speedrun.com/users/SmanR",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sbace/runs/y26jwkjm"
+	}, {
+		"run_id":	"zn6jwn9y",
+		"verified_epoch":	1777624918,
+		"verified_iso":	"2026-05-01T08:41:58Z",
+		"game":	"Super Bear Adventure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jl2ned/cover.png?v=91b0b69",
+		"category":	"Single Challenge",
+		"level":	"Races",
+		"subcats":	"Version: 12.1.3, Single Challenge: Classic race",
+		"primary_t":	21.8,
+		"players":	"SmanR",
+		"players_data":	[{
+				"name":	"SmanR",
+				"weblink":	"https://www.speedrun.com/users/SmanR",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/sbace/runs/zn6jwn9y"
+	}, {
+		"run_id":	"y26k909m",
+		"verified_epoch":	1777624744,
+		"verified_iso":	"2026-05-01T08:39:04Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.7",
+		"level":	"",
+		"subcats":	"Platform Sub-category: Mobile, Game Version: v1.1, Seed System: Preset, Sub-category: Any% Glitched, Difficulty: Extreme, Grandpa: No Grandpa, Ending: Door Ending",
+		"primary_t":	159.033,
+		"players":	"FlaviusSPRO",
+		"players_data":	[{
+				"name":	"FlaviusSPRO",
+				"weblink":	"https://www.speedrun.com/users/FlaviusSPRO",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/y26k909m"
+	}, {
+		"run_id":	"yvev44em",
+		"verified_epoch":	1777624632,
+		"verified_iso":	"2026-05-01T08:37:12Z",
+		"game":	"Toree Saturn",
+		"game_cover":	"https://www.speedrun.com/static/game/pd0n0zw1/cover.png?v=00fa51d",
+		"category":	"Beat the Level",
+		"level":	"Inside the Flagship",
+		"subcats":	"",
+		"primary_t":	58.183,
+		"players":	"DreSavvy",
+		"players_data":	[{
+				"name":	"DreSavvy",
+				"weblink":	"https://www.speedrun.com/users/DreSavvy",
+				"image":	"https://www.speedrun.com/static/user/8q09olwj/image.png?v=8bbd1bc"
+			}],
+		"weblink":	"https://www.speedrun.com/Toree_Saturn/runs/yvev44em"
+	}, {
+		"run_id":	"zn6jooly",
+		"verified_epoch":	1777624309,
+		"verified_iso":	"2026-05-01T08:31:49Z",
+		"game":	"Arknights",
+		"game_cover":	"https://www.speedrun.com/static/game/lde387j6/cover.png?v=c14dc3c",
+		"category":	"Side Stories",
+		"level":	"",
+		"subcats":	"Event: Retracing Our Steps",
+		"primary_t":	792.767,
+		"players":	"PronKill",
+		"players_data":	[{
+				"name":	"PronKill",
+				"weblink":	"https://www.speedrun.com/users/PronKill",
+				"image":	"https://www.speedrun.com/static/user/18qmp0ox/image.png?v=6a9187c"
+			}],
+		"weblink":	"https://www.speedrun.com/arknights/runs/zn6jooly"
+	}, {
+		"run_id":	"mrw2j92y",
+		"verified_epoch":	1777623759,
+		"verified_iso":	"2026-05-01T08:22:39Z",
+		"game":	"Plants vs. Zombies",
+		"game_cover":	"https://www.speedrun.com/static/game/yd487k6e/cover.png?v=3edd64e",
+		"category":	"Any%",
+		"level":	"Wall-nut Bowling",
+		"subcats":	"",
+		"primary_t":	186,
+		"players":	"JohnIsAGuy",
+		"players_data":	[{
+				"name":	"JohnIsAGuy",
+				"weblink":	"https://www.speedrun.com/users/JohnIsAGuy",
+				"image":	"https://www.speedrun.com/static/user/qjord3lj/image.png?v=ac34e42"
+			}],
+		"weblink":	"https://www.speedrun.com/pvz/runs/mrw2j92y"
+	}, {
+		"run_id":	"y4vopnqy",
+		"verified_epoch":	1777623611,
+		"verified_iso":	"2026-05-01T08:20:11Z",
+		"game":	"Hell's Kitchen: The Game",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjmp26/cover.png?v=f0c922d",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Platform: PC/Wii/iOS",
+		"primary_t":	15248,
+		"players":	"HazelPietro",
+		"players_data":	[{
+				"name":	"HazelPietro",
+				"weblink":	"https://www.speedrun.com/users/HazelPietro",
+				"image":	"https://www.speedrun.com/static/user/8rlme5d8/image.png?v=51c2f9a"
+			}],
+		"weblink":	"https://www.speedrun.com/hells_kitchen/runs/y4vopnqy"
+	}, {
+		"run_id":	"ydp28wjy",
+		"verified_epoch":	1777623556,
+		"verified_iso":	"2026-05-01T08:19:16Z",
+		"game":	"Risk: Global Domination",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2e3lvd/cover.png?v=d39d06e",
+		"category":	"Beginner",
+		"level":	"Dead End Depot",
+		"subcats":	"Number of bots: 1",
+		"primary_t":	91.1,
+		"players":	"Quarant1ned",
+		"players_data":	[{
+				"name":	"Quarant1ned",
+				"weblink":	"https://www.speedrun.com/users/Quarant1ned",
+				"image":	"https://www.speedrun.com/static/user/8dedr3lj/image.png?v=d137336"
+			}],
+		"weblink":	"https://www.speedrun.com/risk_gd/runs/ydp28wjy"
+	}, {
+		"run_id":	"zpvgxorz",
+		"verified_epoch":	1777623389,
+		"verified_iso":	"2026-05-01T08:16:29Z",
+		"game":	"Ape Escape",
+		"game_cover":	"https://www.speedrun.com/static/game/vo6gr5d2/cover.png?v=25e6d20",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	6444,
+		"players":	"Evertyo",
+		"players_data":	[{
+				"name":	"Evertyo",
+				"weblink":	"https://www.speedrun.com/users/Evertyo",
+				"image":	"https://www.speedrun.com/static/user/v81qyrjp/image.png?v=3b8154c"
+			}],
+		"weblink":	"https://www.speedrun.com/ae1/runs/zpvgxorz"
+	}, {
+		"run_id":	"mkxqlg1z",
+		"verified_epoch":	1777623330,
+		"verified_iso":	"2026-05-01T08:15:30Z",
+		"game":	"Corebound",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Boosted: Geared, OneLevel: LS%, Version: 1.1.3.2, Version Range: 1.1.3+",
+		"primary_t":	19.28,
+		"players":	"Werby",
+		"players_data":	[{
+				"name":	"Werby",
+				"weblink":	"https://www.speedrun.com/users/Werby",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Corebound/runs/mkxqlg1z"
+	}, {
+		"run_id":	"yvev416m",
+		"verified_epoch":	1777623269,
+		"verified_iso":	"2026-05-01T08:14:29Z",
+		"game":	"Corebound",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Boosted: Geared, OneLevel: IH%, Version: 1.1.3.2, Version Range: 1.1.3+",
+		"primary_t":	13.79,
+		"players":	"Werby",
+		"players_data":	[{
+				"name":	"Werby",
+				"weblink":	"https://www.speedrun.com/users/Werby",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Corebound/runs/yvev416m"
+	}, {
+		"run_id":	"mkxql51z",
+		"verified_epoch":	1777623029,
+		"verified_iso":	"2026-05-01T08:10:29Z",
+		"game":	"Kingdom's Return Time Eating Fruit and the Ancient Monster",
+		"game_cover":	"https://www.speedrun.com/static/game/yd47r8wd/cover.png?v=4b3afb0",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	7819,
+		"players":	"megatopo",
+		"players_data":	[{
+				"name":	"megatopo",
+				"weblink":	"https://www.speedrun.com/users/megatopo",
+				"image":	"https://www.speedrun.com/static/user/8d907dlx/image.png?v=4572ec6"
+			}],
+		"weblink":	"https://www.speedrun.com/Kingdoms_Return_Time_Eating_Fruit_and_the_Ancient_Monster/runs/mkxql51z"
+	}, {
+		"run_id":	"mkxvq7lz",
+		"verified_epoch":	1777622918,
+		"verified_iso":	"2026-05-01T08:08:38Z",
+		"game":	"Grand Theft Auto V",
+		"game_cover":	"https://www.speedrun.com/static/game/om1mx362/cover.png?v=1d6e037",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Any% Variant: Classic, om0 or DM: Yes",
+		"primary_t":	17993,
+		"players":	"VIl2486l",
+		"players_data":	[{
+				"name":	"VIl2486l",
+				"weblink":	"https://www.speedrun.com/users/VIl2486l",
+				"image":	"https://www.speedrun.com/static/user/jmok9ye8/image.png?v=c8ce77e"
+			}],
+		"weblink":	"https://www.speedrun.com/gtav/runs/mkxvq7lz"
+	}, {
+		"run_id":	"y8lk3e1m",
+		"verified_epoch":	1777622568,
+		"verified_iso":	"2026-05-01T08:02:48Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.5, Seed System: Set Seed, Sub-category: Any% Glitchless, Difficulty: Hollow, Grandpa: No Grandpa, Ending: Robot Ending",
+		"primary_t":	170.333,
+		"players":	"SlyTherinPlayer",
+		"players_data":	[{
+				"name":	"SlyTherinPlayer",
+				"weblink":	"https://www.speedrun.com/users/SlyTherinPlayer",
+				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=07ae92d"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/y8lk3e1m"
+	}, {
+		"run_id":	"y6wq39pz",
+		"verified_epoch":	1777622491,
+		"verified_iso":	"2026-05-01T08:01:31Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.8",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.5, Seed System: Set Seed, Sub-category: Any% Glitchless, Difficulty: Impossible, Grandpa: No Grandpa, Ending: Robot Ending",
+		"primary_t":	170.3,
+		"players":	"SlyTherinPlayer",
+		"players_data":	[{
+				"name":	"SlyTherinPlayer",
+				"weblink":	"https://www.speedrun.com/users/SlyTherinPlayer",
+				"image":	"https://www.speedrun.com/static/user/867p22wj/image.png?v=07ae92d"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/y6wq39pz"
+	}, {
+		"run_id":	"zg183kvz",
+		"verified_epoch":	1777622100,
+		"verified_iso":	"2026-05-01T07:55:00Z",
+		"game":	"Shadow the Hedgehog SX",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4rwmp1/cover.png?v=4f3d6ca",
+		"category":	"Expert",
+		"level":	"Digital Circuit",
+		"subcats":	"Version: v1.1",
+		"primary_t":	192.1,
+		"players":	"K0MA_SR",
+		"players_data":	[{
+				"name":	"K0MA_SR",
+				"weblink":	"https://www.speedrun.com/users/K0MA_SR",
+				"image":	"https://www.speedrun.com/static/user/8w7m21vx/image.png?v=cb810dc"
+			}],
+		"weblink":	"https://www.speedrun.com/ShadowSX/runs/zg183kvz"
+	}, {
+		"run_id":	"zg1e4ojz",
+		"verified_epoch":	1777621983,
+		"verified_iso":	"2026-05-01T07:53:03Z",
+		"game":	"Shadow the Hedgehog: Reloaded",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
+		"category":	"Story Mode",
+		"level":	"",
+		"subcats":	"Note: No SG, Ending: Punishment, Thy Name is Ruin (001 - DDDDDD), Character: Shadow",
+		"primary_t":	820.46,
+		"players":	"DarkShadow17",
+		"players_data":	[{
+				"name":	"DarkShadow17",
+				"weblink":	"https://www.speedrun.com/users/DarkShadow17",
+				"image":	"https://www.speedrun.com/static/user/j0evppw8/image.png?v=3e53e7e"
+			}],
+		"weblink":	"https://www.speedrun.com/shadowreloaded/runs/zg1e4ojz"
+	}, {
+		"run_id":	"zqndk68z",
+		"verified_epoch":	1777621980,
+		"verified_iso":	"2026-05-01T07:53:00Z",
+		"game":	"Tekken 4",
+		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
+		"category":	"Training",
+		"level":	"Marduk",
+		"subcats":	"",
+		"primary_t":	19.35,
+		"players":	"klumz",
+		"players_data":	[{
+				"name":	"klumz",
+				"weblink":	"https://www.speedrun.com/users/klumz",
+				"image":	"https://www.speedrun.com/static/user/j0e3wom8/image.png?v=02107bf"
+			}],
+		"weblink":	"https://www.speedrun.com/tekken4/runs/zqndk68z"
+	}, {
+		"run_id":	"mrw2j1dy",
+		"verified_epoch":	1777621917,
+		"verified_iso":	"2026-05-01T07:51:57Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"BossFight%",
+		"level":	"",
+		"subcats":	"Version: 1.0",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/mrw2j1dy"
+	}, {
+		"run_id":	"y9gko9km",
+		"verified_epoch":	1777621782,
+		"verified_iso":	"2026-05-01T07:49:42Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Water?%",
+		"level":	"",
+		"subcats":	"Version: 2.0",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/y9gko9km"
+	}, {
+		"run_id":	"ydp28rjy",
+		"verified_epoch":	1777621760,
+		"verified_iso":	"2026-05-01T07:49:20Z",
+		"game":	"HYDROGEN",
+		"game_cover":	"https://www.speedrun.com/static/game/268p98kd/cover.png?v=9cccfb8",
+		"category":	"Water?%",
+		"level":	"",
+		"subcats":	"Version: 1.0",
+		"primary_t":	0.001,
+		"players":	"N/A",
+		"players_data":	[{
+				"name":	"N/A",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/HYDROGEN/runs/ydp28rjy"
+	}, {
+		"run_id":	"zg183gdz",
+		"verified_epoch":	1777621528,
+		"verified_iso":	"2026-05-01T07:45:28Z",
+		"game":	"Return to Castle Wolfenstein",
+		"game_cover":	"https://www.speedrun.com/static/game/pd05zv1e/cover.png?v=c4a6457",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Game Version: 1.45a (Speedrun Patch), Difficulty: Don't hurt me.",
+		"primary_t":	2250,
+		"players":	"Heros5k",
+		"players_data":	[{
+				"name":	"Heros5k",
+				"weblink":	"https://www.speedrun.com/users/Heros5k",
+				"image":	"https://www.speedrun.com/static/user/18vk90nj/image.png?v=f30ed67"
+			}],
+		"weblink":	"https://www.speedrun.com/rtcw/runs/zg183gdz"
+	}, {
+		"run_id":	"ydpjkwvy",
+		"verified_epoch":	1777621421,
+		"verified_iso":	"2026-05-01T07:43:41Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.7",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Sub-category: Any% Glitchless, Difficulty: No Granny, Grandpa: Grandpa, Ending: Door Ending",
+		"primary_t":	44.267,
+		"players":	"hurtzzkkkj",
+		"players_data":	[{
+				"name":	"hurtzzkkkj",
+				"weblink":	"https://www.speedrun.com/users/hurtzzkkkj",
+				"image":	"https://www.speedrun.com/static/user/xz5ey6ex/image.png?v=7381f64"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/ydpjkwvy"
+	}, {
+		"run_id":	"yvepwrom",
+		"verified_epoch":	1777621303,
+		"verified_iso":	"2026-05-01T07:41:43Z",
+		"game":	"Sonic Generations (2024)",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxy7np6/cover.png?v=1440fcd",
+		"category":	"Classic",
+		"level":	"Seaside Hill Challenge 4",
+		"subcats":	"Speed Glitches: No",
+		"primary_t":	37.1,
+		"players":	"bluethunderkeyking",
+		"players_data":	[{
+				"name":	"bluethunderkeyking",
+				"weblink":	"https://www.speedrun.com/users/bluethunderkeyking",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Sonic_Generations_2024/runs/yvepwrom"
+	}, {
+		"run_id":	"z02jv7em",
+		"verified_epoch":	1777621271,
+		"verified_iso":	"2026-05-01T07:41:11Z",
+		"game":	"Sonic Generations (2024)",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxy7np6/cover.png?v=1440fcd",
+		"category":	"Classic",
+		"level":	"Seaside Hill Challenge 1",
+		"subcats":	"Speed Glitches: No",
+		"primary_t":	71.24,
+		"players":	"bluethunderkeyking",
+		"players_data":	[{
+				"name":	"bluethunderkeyking",
+				"weblink":	"https://www.speedrun.com/users/bluethunderkeyking",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Sonic_Generations_2024/runs/z02jv7em"
+	}, {
+		"run_id":	"m7j319wm",
+		"verified_epoch":	1777620350,
+		"verified_iso":	"2026-05-01T07:25:50Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"Lava%",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.8, Seed System: Set Seed, Ending: Sewer Ending, Difficulty: Extreme, Grandpa: No Grandpa",
+		"primary_t":	94,
+		"players":	"adanishloser",
+		"players_data":	[{
+				"name":	"adanishloser",
+				"weblink":	"https://www.speedrun.com/users/adanishloser",
+				"image":	"https://www.speedrun.com/static/user/j0vwp94x/image.png?v=8e02ad5"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/m7j319wm"
+	}, {
+		"run_id":	"y4voppky",
+		"verified_epoch":	1777620151,
+		"verified_iso":	"2026-05-01T07:22:31Z",
+		"game":	"Shady Knight",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rew41/cover.png?v=0dd244b",
+		"category":	"Any%",
+		"level":	"Dead Weight",
+		"subcats":	"Game Version: 1135.010226, Glitches: Current Patch Glitches",
+		"primary_t":	4.25,
+		"players":	"Inezuse4421",
+		"players_data":	[{
+				"name":	"Inezuse4421",
+				"weblink":	"https://www.speedrun.com/users/Inezuse4421",
+				"image":	"https://www.speedrun.com/static/user/xy9l7ewj/image.png?v=41cf492"
+			}],
+		"weblink":	"https://www.speedrun.com/Shady_Knight/runs/y4voppky"
+	}, {
+		"run_id":	"zpvpnqrz",
+		"verified_epoch":	1777620013,
+		"verified_iso":	"2026-05-01T07:20:13Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.0",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.7, Seed System: Set Seed, Difficulty: Extreme, Grandpa: No Grandpa",
+		"primary_t":	22.167,
+		"players":	"Granny_clrunner",
+		"players_data":	[{
+				"name":	"Granny_clrunner",
+				"weblink":	"https://www.speedrun.com/users/Granny_clrunner",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/zpvpnqrz"
+	}, {
+		"run_id":	"zxpw965y",
+		"verified_epoch":	1777619970,
+		"verified_iso":	"2026-05-01T07:19:30Z",
+		"game":	"Surf bhop & Skilltest",
+		"game_cover":	"https://www.speedrun.com/static/game/76r94yq6/cover.png?v=1649aaf",
+		"category":	"Main Any%",
+		"level":	"",
+		"subcats":	"\"Main Any\" map: Map Surf",
+		"primary_t":	29.483,
+		"players":	"Hikitals",
+		"players_data":	[{
+				"name":	"Hikitals",
+				"weblink":	"https://www.speedrun.com/users/Hikitals",
+				"image":	"https://www.speedrun.com/static/user/x77g4l6x/image.png?v=7df2c27"
+			}],
+		"weblink":	"https://www.speedrun.com/Surf_bhop__Skilltest/runs/zxpw965y"
+	}, {
+		"run_id":	"y4vxxxqy",
+		"verified_epoch":	1777619883,
+		"verified_iso":	"2026-05-01T07:18:03Z",
+		"game":	"Resident Evil: Revelations 2",
+		"game_cover":	"https://www.speedrun.com/static/game/y650k41e/cover.png?v=051cf83",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"System: PC, Any% Run Type: New Game, Solo/Co-op: Co-op, FPS: 60 PC, Ending: Bad Ending",
+		"primary_t":	6295,
+		"players":	"KaraSunIce, Darkhooper",
+		"players_data":	[{
+				"name":	"KaraSunIce",
+				"weblink":	"https://www.speedrun.com/users/KaraSunIce",
+				"image":	"https://www.speedrun.com/static/user/8qn0w678/image.png?v=f8e2c40"
+			}, {
+				"name":	"Darkhooper",
+				"weblink":	"https://www.speedrun.com/users/Darkhooper",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/rev2/runs/y4vxxxqy"
+	}, {
 		"run_id":	"y8l050dm",
 		"verified_epoch":	1777619454,
 		"verified_iso":	"2026-05-01T07:10:54Z",
@@ -270,6 +1073,23 @@
 				"image":	"https://www.speedrun.com/static/user/j26gnq7x/image.png?v=04a1bb5"
 			}],
 		"weblink":	"https://www.speedrun.com/hitman_woa_ets/runs/m7j311wm"
+	}, {
+		"run_id":	"zn6vl48y",
+		"verified_epoch":	1777616092,
+		"verified_iso":	"2026-05-01T06:14:52Z",
+		"game":	"Star Wars: Racer Revenge",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q493od/cover.png?v=82b06ad",
+		"category":	"Fast Lap",
+		"level":	"Boonta Eve Classic",
+		"subcats":	"Character Used: Occo Ninebar, Boosting: Boost, Skips - Boonta Eve Classic: Full Track",
+		"primary_t":	80.69,
+		"players":	"McGyna",
+		"players_data":	[{
+				"name":	"McGyna",
+				"weblink":	"https://www.speedrun.com/users/McGyna",
+				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
+			}],
+		"weblink":	"https://www.speedrun.com/star_wars_racer_revenge/runs/zn6vl48y"
 	}, {
 		"run_id":	"y4vov5ny",
 		"verified_epoch":	1777616043,
@@ -14183,2195 +15003,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/SMC3D/runs/zg1e0xdz"
-	}, {
-		"run_id":	"y8l64v1m",
-		"verified_epoch":	1777540484,
-		"verified_iso":	"2026-04-30T09:14:44Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"2",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	5.48,
-		"players":	"GrandMasterMario5000",
-		"players_data":	[{
-				"name":	"GrandMasterMario5000",
-				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/y8l64v1m"
-	}, {
-		"run_id":	"y6w246pz",
-		"verified_epoch":	1777540367,
-		"verified_iso":	"2026-04-30T09:12:47Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.1",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.2/v1.3, Seed System: Random Seed, Sub-category: Any% Glitchless, Difficulty: Normal, Grandpa: No Grandpa",
-		"primary_t":	80.617,
-		"players":	"AverySequence",
-		"players_data":	[{
-				"name":	"AverySequence",
-				"weblink":	"https://www.speedrun.com/users/AverySequence",
-				"image":	"https://www.speedrun.com/static/user/j4w5oyvx/image.png?v=64289dc"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/y6w246pz"
-	}, {
-		"run_id":	"y26g4v9m",
-		"verified_epoch":	1777540141,
-		"verified_iso":	"2026-04-30T09:09:01Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"1",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	3.39,
-		"players":	"GrandMasterMario5000",
-		"players_data":	[{
-				"name":	"GrandMasterMario5000",
-				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/y26g4v9m"
-	}, {
-		"run_id":	"z10l4o9m",
-		"verified_epoch":	1777539501,
-		"verified_iso":	"2026-04-30T08:58:21Z",
-		"game":	"Top Spin 4",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkm57q1/cover.png?v=a871c86",
-		"category":	"Any% Nadal",
-		"level":	"",
-		"subcats":	"Player: Djokovic",
-		"primary_t":	1509,
-		"players":	"nad_chario",
-		"players_data":	[{
-				"name":	"nad_chario",
-				"weblink":	"https://www.speedrun.com/users/nad_chario",
-				"image":	"https://www.speedrun.com/static/user/xy5lqzz8/image.png?v=0222548"
-			}],
-		"weblink":	"https://www.speedrun.com/top_spin_4/runs/z10l4o9m"
-	}, {
-		"run_id":	"zg1ep7jz",
-		"verified_epoch":	1777539390,
-		"verified_iso":	"2026-04-30T08:56:30Z",
-		"game":	"Minecraft: Bedrock Edition Unofficial Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y9glv6/cover.png?v=c572758",
-		"category":	"Set Seed Solo",
-		"level":	"Kill Iron Golem",
-		"subcats":	"Version: 1.21, Structures | No Structures (Iron Golem): Structures",
-		"primary_t":	2.35,
-		"players":	"alimbis",
-		"players_data":	[{
-				"name":	"alimbis",
-				"weblink":	"https://www.speedrun.com/users/alimbis",
-				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
-			}],
-		"weblink":	"https://www.speedrun.com/mcbeuce/runs/zg1ep7jz"
-	}, {
-		"run_id":	"zxp3r25y",
-		"verified_epoch":	1777539333,
-		"verified_iso":	"2026-04-30T08:55:33Z",
-		"game":	"Star Wars: Racer Revenge",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q493od/cover.png?v=82b06ad",
-		"category":	"3 Lap Race",
-		"level":	"Boonta Eve Classic",
-		"subcats":	"Character Used: Occo Ninebar, Boosting: Boost, Skips - Boonta Eve Classic: Full Track",
-		"primary_t":	250.94,
-		"players":	"McGyna",
-		"players_data":	[{
-				"name":	"McGyna",
-				"weblink":	"https://www.speedrun.com/users/McGyna",
-				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
-			}],
-		"weblink":	"https://www.speedrun.com/star_wars_racer_revenge/runs/zxp3r25y"
-	}, {
-		"run_id":	"z02j2k8m",
-		"verified_epoch":	1777539166,
-		"verified_iso":	"2026-04-30T08:52:46Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"14",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	19.31,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/z02j2k8m"
-	}, {
-		"run_id":	"zqnjn58z",
-		"verified_epoch":	1777539146,
-		"verified_iso":	"2026-04-30T08:52:26Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"13",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	14.07,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/zqnjn58z"
-	}, {
-		"run_id":	"y6w2w8jz",
-		"verified_epoch":	1777539127,
-		"verified_iso":	"2026-04-30T08:52:07Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"15",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	35.4,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/y6w2w8jz"
-	}, {
-		"run_id":	"m7j0jr0m",
-		"verified_epoch":	1777539115,
-		"verified_iso":	"2026-04-30T08:51:55Z",
-		"game":	"Dungeon Gals",
-		"game_cover":	"https://www.speedrun.com/static/game/268p9x5d/cover.png?v=065aa30",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	6098,
-		"players":	"cutefangies",
-		"players_data":	[{
-				"name":	"cutefangies",
-				"weblink":	"https://www.speedrun.com/users/cutefangies",
-				"image":	"https://www.speedrun.com/static/user/qjop540x/image.png?v=e0ba6c9"
-			}],
-		"weblink":	"https://www.speedrun.com/Dungeon_Gals/runs/m7j0jr0m"
-	}, {
-		"run_id":	"m38q82qy",
-		"verified_epoch":	1777539101,
-		"verified_iso":	"2026-04-30T08:51:41Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"12",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	11.91,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/m38q82qy"
-	}, {
-		"run_id":	"zn6v65ly",
-		"verified_epoch":	1777539078,
-		"verified_iso":	"2026-04-30T08:51:18Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"17",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	39.85,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/zn6v65ly"
-	}, {
-		"run_id":	"yve2re4m",
-		"verified_epoch":	1777539015,
-		"verified_iso":	"2026-04-30T08:50:15Z",
-		"game":	"Undertale Together",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxkwxg1/cover.png?v=42a5d96",
-		"category":	"Neutral Glitchless",
-		"level":	"",
-		"subcats":	"Next Soul Mode: Next Soul Disabled",
-		"primary_t":	4548,
-		"players":	"oyasumidreamer, buggle",
-		"players_data":	[{
-				"name":	"oyasumidreamer",
-				"weblink":	"https://www.speedrun.com/users/oyasumidreamer",
-				"image":	"https://www.speedrun.com/static/user/xkz7w47x/image.png?v=7a44bc1"
-			}, {
-				"name":	"buggle",
-				"weblink":	"https://www.speedrun.com/users/buggle",
-				"image":	"https://www.speedrun.com/static/user/y8dzl3mj/image.png?v=7c9f740"
-			}],
-		"weblink":	"https://www.speedrun.com/undertale_together/runs/yve2re4m"
-	}, {
-		"run_id":	"yjr2r7nz",
-		"verified_epoch":	1777538985,
-		"verified_iso":	"2026-04-30T08:49:45Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"19",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	71.52,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/yjr2r7nz"
-	}, {
-		"run_id":	"medldd8y",
-		"verified_epoch":	1777538963,
-		"verified_iso":	"2026-04-30T08:49:23Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"20",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	20.02,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/medldd8y"
-	}, {
-		"run_id":	"mrwlw57y",
-		"verified_epoch":	1777538943,
-		"verified_iso":	"2026-04-30T08:49:03Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"11",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	22.22,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/mrwlw57y"
-	}, {
-		"run_id":	"m7j0jvwm",
-		"verified_epoch":	1777538907,
-		"verified_iso":	"2026-04-30T08:48:27Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"10",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	19.06,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/m7j0jvwm"
-	}, {
-		"run_id":	"mkx0xr5z",
-		"verified_epoch":	1777538883,
-		"verified_iso":	"2026-04-30T08:48:03Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"9",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	28.39,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/mkx0xr5z"
-	}, {
-		"run_id":	"yo8n88jz",
-		"verified_epoch":	1777538863,
-		"verified_iso":	"2026-04-30T08:47:43Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"21",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	45.73,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/yo8n88jz"
-	}, {
-		"run_id":	"yl26j3rz",
-		"verified_epoch":	1777538843,
-		"verified_iso":	"2026-04-30T08:47:23Z",
-		"game":	"Minecraft: Java Edition",
-		"game_cover":	"https://www.speedrun.com/static/game/j1npme6p/cover.png?v=9d1e2ca",
-		"category":	"All Advancements",
-		"level":	"",
-		"subcats":	"Version: 1.6.4, Difficulty: Easy, Seed Type (AA): SSG, Version Range (AA): 1.1-1.6, F3: F3, Mods: Modded",
-		"primary_t":	1160.07,
-		"players":	"SuperC",
-		"players_data":	[{
-				"name":	"SuperC",
-				"weblink":	"https://www.speedrun.com/users/SuperC",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mc/runs/yl26j3rz"
-	}, {
-		"run_id":	"mrwlww7y",
-		"verified_epoch":	1777538829,
-		"verified_iso":	"2026-04-30T08:47:09Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"22",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	34.53,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/mrwlww7y"
-	}, {
-		"run_id":	"m38q88qy",
-		"verified_epoch":	1777538785,
-		"verified_iso":	"2026-04-30T08:46:25Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"23",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	37.25,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/m38q88qy"
-	}, {
-		"run_id":	"z10l459m",
-		"verified_epoch":	1777538766,
-		"verified_iso":	"2026-04-30T08:46:06Z",
-		"game":	"Roblox: Pressure",
-		"game_cover":	"https://www.speedrun.com/static/game/j1n42ew6/cover.png?v=18c2747",
-		"category":	"The Hadal Blacksite",
-		"level":	"",
-		"subcats":	"Players : Trio, Shop: Shop, Version: Half A Slice Of Cake, Grand Encounter: Firewall",
-		"primary_t":	1536.45,
-		"players":	"morphling_, Eiron_Kracava, FaRsT_CoDeR",
-		"players_data":	[{
-				"name":	"morphling_",
-				"weblink":	"https://www.speedrun.com/users/morphling_",
-				"image":	"https://www.speedrun.com/static/user/81mz07p8/image.png?v=4aaf13d"
-			}, {
-				"name":	"Eiron_Kracava",
-				"weblink":	"https://www.speedrun.com/users/Eiron_Kracava",
-				"image":	"https://www.speedrun.com/static/user/8gz2pk1j/image.png?v=48aafb4"
-			}, {
-				"name":	"FaRsT_CoDeR",
-				"weblink":	"https://www.speedrun.com/users/FaRsT_CoDeR",
-				"image":	"https://www.speedrun.com/static/user/j21406p8/image.png?v=0d32555"
-			}],
-		"weblink":	"https://www.speedrun.com/Roblox_Pressure/runs/z10l459m"
-	}, {
-		"run_id":	"y4vovvky",
-		"verified_epoch":	1777538746,
-		"verified_iso":	"2026-04-30T08:45:46Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"24",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	7.99,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/y4vovvky"
-	}, {
-		"run_id":	"mkx0p5lz",
-		"verified_epoch":	1777538486,
-		"verified_iso":	"2026-04-30T08:41:26Z",
-		"game":	"Bloodthief",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
-		"category":	"Competitions",
-		"level":	"",
-		"subcats":	"Build: v1.2.2, Sword: Coldbringer, Competition: Short map/sword comp 5",
-		"primary_t":	10.844,
-		"players":	"luckysnipers",
-		"players_data":	[{
-				"name":	"luckysnipers",
-				"weblink":	"https://www.speedrun.com/users/luckysnipers",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Bloodthief/runs/mkx0p5lz"
-	}, {
-		"run_id":	"yjr2rqnz",
-		"verified_epoch":	1777538469,
-		"verified_iso":	"2026-04-30T08:41:09Z",
-		"game":	"STICKMAN CLIMB 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/pd05qnv1/cover.png?v=5acd8bb",
-		"category":	"1P",
-		"level":	"1",
-		"subcats":	"Device: PC/MAC, Version: Poki",
-		"primary_t":	3.41,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/SMC3D/runs/yjr2rqnz"
-	}, {
-		"run_id":	"y8l6k0nm",
-		"verified_epoch":	1777538436,
-		"verified_iso":	"2026-04-30T08:40:36Z",
-		"game":	"Bloodthief",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
-		"category":	"Any%",
-		"level":	"1-3: Varu Castle",
-		"subcats":	"Build: v1.2.2, Sword: Toothpick, Any% special patch: None",
-		"primary_t":	12.35,
-		"players":	"TheTrueMCGamer",
-		"players_data":	[{
-				"name":	"TheTrueMCGamer",
-				"weblink":	"https://www.speedrun.com/users/TheTrueMCGamer",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Bloodthief/runs/y8l6k0nm"
-	}, {
-		"run_id":	"y6w24rpz",
-		"verified_epoch":	1777538371,
-		"verified_iso":	"2026-04-30T08:39:31Z",
-		"game":	"LEGO Star Wars: The Complete Saga (PC/Console)",
-		"game_cover":	"https://www.speedrun.com/static/game/46w33l1r/cover.png?v=19285e8",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Console: PC, Solo or Co-op?: Solo, Timing Method: LRT",
-		"primary_t":	8193,
-		"players":	"Zacc",
-		"players_data":	[{
-				"name":	"Zacc",
-				"weblink":	"https://www.speedrun.com/users/Zacc",
-				"image":	"https://www.speedrun.com/static/user/e8emr06x/image.png?v=b7c3f74"
-			}],
-		"weblink":	"https://www.speedrun.com/lswtcs/runs/y6w24rpz"
-	}, {
-		"run_id":	"y6w2qoqz",
-		"verified_epoch":	1777538367,
-		"verified_iso":	"2026-04-30T08:39:27Z",
-		"game":	"Bloodthief",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
-		"category":	"Any%",
-		"level":	"SR-2: Stone Realm 2",
-		"subcats":	"Build: v1.2.2, Sword: Life Harvester, Any% special patch: None",
-		"primary_t":	21.067,
-		"players":	"TheTrueMCGamer",
-		"players_data":	[{
-				"name":	"TheTrueMCGamer",
-				"weblink":	"https://www.speedrun.com/users/TheTrueMCGamer",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Bloodthief/runs/y6w2qoqz"
-	}, {
-		"run_id":	"zg1e9xez",
-		"verified_epoch":	1777538356,
-		"verified_iso":	"2026-04-30T08:39:16Z",
-		"game":	"Betrayed Heart",
-		"game_cover":	"https://www.speedrun.com/static/game/268pee5d/cover.png?v=6ad5257",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1107,
-		"players":	"owerfloww",
-		"players_data":	[{
-				"name":	"owerfloww",
-				"weblink":	"https://www.speedrun.com/users/owerfloww",
-				"image":	"https://www.speedrun.com/static/user/8e9vl27j/image.png?v=f54e472"
-			}],
-		"weblink":	"https://www.speedrun.com/crazymod/runs/zg1e9xez"
-	}, {
-		"run_id":	"yo8nnojz",
-		"verified_epoch":	1777538323,
-		"verified_iso":	"2026-04-30T08:38:43Z",
-		"game":	"Bloodthief",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
-		"category":	"Competitions",
-		"level":	"",
-		"subcats":	"Build: v1.2.3, Sword: Coldbringer, Competition: Short map/sword comp 5",
-		"primary_t":	9.856,
-		"players":	"28Veli",
-		"players_data":	[{
-				"name":	"28Veli",
-				"weblink":	"https://www.speedrun.com/users/28Veli",
-				"image":	"https://www.speedrun.com/static/user/8e9z9ooj/image.png?v=d556916"
-			}],
-		"weblink":	"https://www.speedrun.com/Bloodthief/runs/yo8nnojz"
-	}, {
-		"run_id":	"m38q4dwy",
-		"verified_epoch":	1777538248,
-		"verified_iso":	"2026-04-30T08:37:28Z",
-		"game":	"Level Devil",
-		"game_cover":	"https://www.speedrun.com/static/game/o6gk3n81/cover.png?v=57c3556",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	3594,
-		"players":	"farisstar45",
-		"players_data":	[{
-				"name":	"farisstar45",
-				"weblink":	"https://www.speedrun.com/users/farisstar45",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Level_Devil/runs/m38q4dwy"
-	}, {
-		"run_id":	"mkx0d53z",
-		"verified_epoch":	1777538245,
-		"verified_iso":	"2026-04-30T08:37:25Z",
-		"game":	"Bloodthief",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxjr3d/cover.png?v=1284955",
-		"category":	"Competitions",
-		"level":	"",
-		"subcats":	"Build: v1.2.3, Sword: Coldbringer, Competition: Short map/sword comp 5",
-		"primary_t":	10.189,
-		"players":	"TemmieKSSJ",
-		"players_data":	[{
-				"name":	"TemmieKSSJ",
-				"weblink":	"https://www.speedrun.com/users/TemmieKSSJ",
-				"image":	"https://www.speedrun.com/static/user/jn1p0l18/image.png?v=83e2a0b"
-			}],
-		"weblink":	"https://www.speedrun.com/Bloodthief/runs/mkx0d53z"
-	}, {
-		"run_id":	"mrwlpkdy",
-		"verified_epoch":	1777537813,
-		"verified_iso":	"2026-04-30T08:30:13Z",
-		"game":	"MotoGP 10/11",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxzy3v1/cover.png?v=7d19a89",
-		"category":	"MotoGP",
-		"level":	"Lusail",
-		"subcats":	"",
-		"primary_t":	119.68,
-		"players":	"AdrianShadow",
-		"players_data":	[{
-				"name":	"AdrianShadow",
-				"weblink":	"https://www.speedrun.com/users/AdrianShadow",
-				"image":	"https://www.speedrun.com/static/user/j0wq9y38/image.png?v=fceefe6"
-			}],
-		"weblink":	"https://www.speedrun.com/MotoGP_1011/runs/mrwlpkdy"
-	}, {
-		"run_id":	"zqng0wrz",
-		"verified_epoch":	1777537784,
-		"verified_iso":	"2026-04-30T08:29:44Z",
-		"game":	"Minecraft: Bedrock Edition Unofficial Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y9glv6/cover.png?v=c572758",
-		"category":	"Mine a Chunk",
-		"level":	"",
-		"subcats":	"Set Seed | Random Seed: Random Seed, Version: 1.21, Pre-1.18 | 1.18+ | Superflat | Nether : Nether",
-		"primary_t":	7179.833,
-		"players":	"Madders_2020",
-		"players_data":	[{
-				"name":	"Madders_2020",
-				"weblink":	"https://www.speedrun.com/users/Madders_2020",
-				"image":	"https://www.speedrun.com/static/user/8d32gnox/image.png?v=6cd7d12"
-			}],
-		"weblink":	"https://www.speedrun.com/mcbeuce/runs/zqng0wrz"
-	}, {
-		"run_id":	"m7j04gem",
-		"verified_epoch":	1777537605,
-		"verified_iso":	"2026-04-30T08:26:45Z",
-		"game":	"MotoGP 10/11",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxzy3v1/cover.png?v=7d19a89",
-		"category":	"MotoGP",
-		"level":	"Jerez",
-		"subcats":	"",
-		"primary_t":	105.53,
-		"players":	"AdrianShadow",
-		"players_data":	[{
-				"name":	"AdrianShadow",
-				"weblink":	"https://www.speedrun.com/users/AdrianShadow",
-				"image":	"https://www.speedrun.com/static/user/j0wq9y38/image.png?v=fceefe6"
-			}],
-		"weblink":	"https://www.speedrun.com/MotoGP_1011/runs/m7j04gem"
-	}, {
-		"run_id":	"mkx0n31z",
-		"verified_epoch":	1777537468,
-		"verified_iso":	"2026-04-30T08:24:28Z",
-		"game":	"MotoGP 10/11",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxzy3v1/cover.png?v=7d19a89",
-		"category":	"MotoGP",
-		"level":	"Le Mans",
-		"subcats":	"",
-		"primary_t":	94.78,
-		"players":	"AdrianShadow",
-		"players_data":	[{
-				"name":	"AdrianShadow",
-				"weblink":	"https://www.speedrun.com/users/AdrianShadow",
-				"image":	"https://www.speedrun.com/static/user/j0wq9y38/image.png?v=fceefe6"
-			}],
-		"weblink":	"https://www.speedrun.com/MotoGP_1011/runs/mkx0n31z"
-	}, {
-		"run_id":	"yo8ngkdz",
-		"verified_epoch":	1777536870,
-		"verified_iso":	"2026-04-30T08:14:30Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 16",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yo8ngkdz"
-	}, {
-		"run_id":	"zg1e0wdz",
-		"verified_epoch":	1777536856,
-		"verified_iso":	"2026-04-30T08:14:16Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 15",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zg1e0wdz"
-	}, {
-		"run_id":	"yl26wkrz",
-		"verified_epoch":	1777536838,
-		"verified_iso":	"2026-04-30T08:13:58Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 14",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yl26wkrz"
-	}, {
-		"run_id":	"yjr2vlgz",
-		"verified_epoch":	1777536831,
-		"verified_iso":	"2026-04-30T08:13:51Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: hell, Map: maze, Enemies: normal, movement ability: double jump, time limit: 30s",
-		"primary_t":	4,
-		"players":	"Speedrun_lv114514",
-		"players_data":	[{
-				"name":	"Speedrun_lv114514",
-				"weblink":	"https://www.speedrun.com/users/Speedrun_lv114514",
-				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=8c0f850"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yjr2vlgz"
-	}, {
-		"run_id":	"zpvw578z",
-		"verified_epoch":	1777536831,
-		"verified_iso":	"2026-04-30T08:13:51Z",
-		"game":	"Quietville",
-		"game_cover":	"https://www.speedrun.com/static/game/3dxzj2v1/cover.png?v=e64807f",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	261,
-		"players":	"BallerIsBetter",
-		"players_data":	[{
-				"name":	"BallerIsBetter",
-				"weblink":	"https://www.speedrun.com/users/BallerIsBetter",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Quietville/runs/zpvw578z"
-	}, {
-		"run_id":	"ywor780m",
-		"verified_epoch":	1777536819,
-		"verified_iso":	"2026-04-30T08:13:39Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: hell, Map: maze, Enemies: normal, movement ability: double jump, time limit: 30s",
-		"primary_t":	4,
-		"players":	"Speedrun_lv114514",
-		"players_data":	[{
-				"name":	"Speedrun_lv114514",
-				"weblink":	"https://www.speedrun.com/users/Speedrun_lv114514",
-				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=8c0f850"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ywor780m"
-	}, {
-		"run_id":	"zn6vlk3y",
-		"verified_epoch":	1777536817,
-		"verified_iso":	"2026-04-30T08:13:37Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 13",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zn6vlk3y"
-	}, {
-		"run_id":	"yvepk66m",
-		"verified_epoch":	1777536807,
-		"verified_iso":	"2026-04-30T08:13:27Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: hell, Map: maze, Enemies: normal, movement ability: double jump, time limit: 30s",
-		"primary_t":	4,
-		"players":	"Speedrun_lv114514",
-		"players_data":	[{
-				"name":	"Speedrun_lv114514",
-				"weblink":	"https://www.speedrun.com/users/Speedrun_lv114514",
-				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=8c0f850"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yvepk66m"
-	}, {
-		"run_id":	"y8l6421m",
-		"verified_epoch":	1777536798,
-		"verified_iso":	"2026-04-30T08:13:18Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 12",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y8l6421m"
-	}, {
-		"run_id":	"y6w245pz",
-		"verified_epoch":	1777536790,
-		"verified_iso":	"2026-04-30T08:13:10Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: hell, Map: maze, Enemies: normal, movement ability: double jump, time limit: 30s",
-		"primary_t":	3,
-		"players":	"Speedrun_lv114514",
-		"players_data":	[{
-				"name":	"Speedrun_lv114514",
-				"weblink":	"https://www.speedrun.com/users/Speedrun_lv114514",
-				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=8c0f850"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y6w245pz"
-	}, {
-		"run_id":	"z02j45em",
-		"verified_epoch":	1777536783,
-		"verified_iso":	"2026-04-30T08:13:03Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02j45em"
-	}, {
-		"run_id":	"y26g459m",
-		"verified_epoch":	1777536773,
-		"verified_iso":	"2026-04-30T08:12:53Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: hell, Map: maze, Enemies: normal, movement ability: double jump, time limit: 30s",
-		"primary_t":	4,
-		"players":	"Speedrun_lv114514",
-		"players_data":	[{
-				"name":	"Speedrun_lv114514",
-				"weblink":	"https://www.speedrun.com/users/Speedrun_lv114514",
-				"image":	"https://www.speedrun.com/static/user/8w0zepqj/image.png?v=8c0f850"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26g459m"
-	}, {
-		"run_id":	"y4vo41dy",
-		"verified_epoch":	1777536768,
-		"verified_iso":	"2026-04-30T08:12:48Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vo41dy"
-	}, {
-		"run_id":	"m38q414y",
-		"verified_epoch":	1777536750,
-		"verified_iso":	"2026-04-30T08:12:30Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38q414y"
-	}, {
-		"run_id":	"z5np47nz",
-		"verified_epoch":	1777536735,
-		"verified_iso":	"2026-04-30T08:12:15Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z5np47nz"
-	}, {
-		"run_id":	"zxp3rk5y",
-		"verified_epoch":	1777536721,
-		"verified_iso":	"2026-04-30T08:12:01Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zxp3rk5y"
-	}, {
-		"run_id":	"z5npk4nz",
-		"verified_epoch":	1777536705,
-		"verified_iso":	"2026-04-30T08:11:45Z",
-		"game":	"Gecko Gods",
-		"game_cover":	"https://www.speedrun.com/static/game/nd27llq1/cover.png?v=148d6ea",
-		"category":	"Glitchless",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	4011.08,
-		"players":	"Woozle",
-		"players_data":	[{
-				"name":	"Woozle",
-				"weblink":	"https://www.speedrun.com/users/Woozle",
-				"image":	"https://www.speedrun.com/static/user/jprl6d58/image.png?v=859e9ee"
-			}],
-		"weblink":	"https://www.speedrun.com/Gecko_Gods/runs/z5npk4nz"
-	}, {
-		"run_id":	"m7j04qem",
-		"verified_epoch":	1777536682,
-		"verified_iso":	"2026-04-30T08:11:22Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m7j04qem"
-	}, {
-		"run_id":	"mkx0n21z",
-		"verified_epoch":	1777536667,
-		"verified_iso":	"2026-04-30T08:11:07Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mkx0n21z"
-	}, {
-		"run_id":	"m7j8wp4m",
-		"verified_epoch":	1777536644,
-		"verified_iso":	"2026-04-30T08:10:44Z",
-		"game":	"Minecraft: Bedrock Edition Unofficial Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y9glv6/cover.png?v=c572758",
-		"category":	"Random Seed Solo",
-		"level":	"Sonic, Tails, and Knuckles",
-		"subcats":	"Version: 1.21",
-		"primary_t":	13.367,
-		"players":	"Madders_2020",
-		"players_data":	[{
-				"name":	"Madders_2020",
-				"weblink":	"https://www.speedrun.com/users/Madders_2020",
-				"image":	"https://www.speedrun.com/static/user/8d32gnox/image.png?v=6cd7d12"
-			}],
-		"weblink":	"https://www.speedrun.com/mcbeuce/runs/m7j8wp4m"
-	}, {
-		"run_id":	"z10l4j9m",
-		"verified_epoch":	1777536617,
-		"verified_iso":	"2026-04-30T08:10:17Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z10l4j9m"
-	}, {
-		"run_id":	"y9g8q5km",
-		"verified_epoch":	1777536603,
-		"verified_iso":	"2026-04-30T08:10:03Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y9g8q5km"
-	}, {
-		"run_id":	"ydpjx6jy",
-		"verified_epoch":	1777536586,
-		"verified_iso":	"2026-04-30T08:09:46Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ydpjx6jy"
-	}, {
-		"run_id":	"medlo68y",
-		"verified_epoch":	1777536570,
-		"verified_iso":	"2026-04-30T08:09:30Z",
-		"game":	"LORT",
-		"game_cover":	"https://www.speedrun.com/static/game/ldemj4l1/cover.png?v=5c57e50",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Solo/Co-Op: Co-Op, Difficulty: Easy, Character: Croaks, Version: 0.7-0.7.2",
-		"primary_t":	3098.14,
-		"players":	"BradSlice, grundle goblin, dj horsegirl",
-		"players_data":	[{
-				"name":	"BradSlice",
-				"weblink":	"https://www.speedrun.com/users/BradSlice",
-				"image":	"https://www.speedrun.com/static/user/j961o1oj/image.png?v=689a430"
-			}, {
-				"name":	"grundle goblin",
-				"weblink":	"",
-				"image":	""
-			}, {
-				"name":	"dj horsegirl",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/LORT/runs/medlo68y"
-	}, {
-		"run_id":	"yo8ngjdz",
-		"verified_epoch":	1777536568,
-		"verified_iso":	"2026-04-30T08:09:28Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: flight, time limit: 60s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yo8ngjdz"
-	}, {
-		"run_id":	"ywor740m",
-		"verified_epoch":	1777536081,
-		"verified_iso":	"2026-04-30T08:01:21Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 15",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ywor740m"
-	}, {
-		"run_id":	"zn6vl48y",
-		"verified_epoch":	1777536074,
-		"verified_iso":	"2026-04-30T08:01:14Z",
-		"game":	"Star Wars: Racer Revenge",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q493od/cover.png?v=82b06ad",
-		"category":	"Fast Lap",
-		"level":	"Boonta Eve Classic",
-		"subcats":	"Character Used: Occo Ninebar, Boosting: Boost, Skips - Boonta Eve Classic: Full Track",
-		"primary_t":	80.69,
-		"players":	"McGyna",
-		"players_data":	[{
-				"name":	"McGyna",
-				"weblink":	"https://www.speedrun.com/users/McGyna",
-				"image":	"https://www.speedrun.com/static/user/jm7l07oj/image.png?v=de3fed8"
-			}],
-		"weblink":	"https://www.speedrun.com/star_wars_racer_revenge/runs/zn6vl48y"
-	}, {
-		"run_id":	"yvepk36m",
-		"verified_epoch":	1777536063,
-		"verified_iso":	"2026-04-30T08:01:03Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 14",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	9,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yvepk36m"
-	}, {
-		"run_id":	"y6w24lpz",
-		"verified_epoch":	1777536049,
-		"verified_iso":	"2026-04-30T08:00:49Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 13",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y6w24lpz"
-	}, {
-		"run_id":	"z02j41em",
-		"verified_epoch":	1777536030,
-		"verified_iso":	"2026-04-30T08:00:30Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 12",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02j41em"
-	}, {
-		"run_id":	"y26g419m",
-		"verified_epoch":	1777536009,
-		"verified_iso":	"2026-04-30T08:00:09Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26g419m"
-	}, {
-		"run_id":	"y8l6495m",
-		"verified_epoch":	1777535993,
-		"verified_iso":	"2026-04-30T07:59:53Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y8l6495m"
-	}, {
-		"run_id":	"z02j434m",
-		"verified_epoch":	1777535971,
-		"verified_iso":	"2026-04-30T07:59:31Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02j434m"
-	}, {
-		"run_id":	"y26g4q6m",
-		"verified_epoch":	1777535955,
-		"verified_iso":	"2026-04-30T07:59:15Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	9,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26g4q6m"
-	}, {
-		"run_id":	"zqnjo35z",
-		"verified_epoch":	1777535941,
-		"verified_iso":	"2026-04-30T07:59:01Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zqnjo35z"
-	}, {
-		"run_id":	"y4vo43ny",
-		"verified_epoch":	1777535928,
-		"verified_iso":	"2026-04-30T07:58:48Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vo43ny"
-	}, {
-		"run_id":	"m38q4owy",
-		"verified_epoch":	1777535916,
-		"verified_iso":	"2026-04-30T07:58:36Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38q4owy"
-	}, {
-		"run_id":	"z5np41gz",
-		"verified_epoch":	1777535903,
-		"verified_iso":	"2026-04-30T07:58:23Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z5np41gz"
-	}, {
-		"run_id":	"y9g8q2vm",
-		"verified_epoch":	1777535715,
-		"verified_iso":	"2026-04-30T07:55:15Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y9g8q2vm"
-	}, {
-		"run_id":	"ydpjx3wy",
-		"verified_epoch":	1777535699,
-		"verified_iso":	"2026-04-30T07:54:59Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ydpjx3wy"
-	}, {
-		"run_id":	"yo8ng27z",
-		"verified_epoch":	1777535681,
-		"verified_iso":	"2026-04-30T07:54:41Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 10s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yo8ng27z"
-	}, {
-		"run_id":	"y26g6rwm",
-		"verified_epoch":	1777534921,
-		"verified_iso":	"2026-04-30T07:42:01Z",
-		"game":	"Tekken 4",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
-		"category":	"Training",
-		"level":	"Lei",
-		"subcats":	"",
-		"primary_t":	21.4,
-		"players":	"klumz",
-		"players_data":	[{
-				"name":	"klumz",
-				"weblink":	"https://www.speedrun.com/users/klumz",
-				"image":	"https://www.speedrun.com/static/user/j0e3wom8/image.png?v=02107bf"
-			}],
-		"weblink":	"https://www.speedrun.com/tekken4/runs/y26g6rwm"
-	}, {
-		"run_id":	"yl262gkz",
-		"verified_epoch":	1777534908,
-		"verified_iso":	"2026-04-30T07:41:48Z",
-		"game":	"Monkey Adventure",
-		"game_cover":	"https://www.speedrun.com/static/game/ldemwjj1/cover.png?v=b961b36",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: calm, jungle: temple ruins, creature threat: peaceful, monkey skill: normal climb, time : no limit",
-		"primary_t":	1,
-		"players":	"Zangoose",
-		"players_data":	[{
-				"name":	"Zangoose",
-				"weblink":	"https://www.speedrun.com/users/Zangoose",
-				"image":	"https://www.speedrun.com/static/user/j921k2w8/image.png?v=d0acdc5"
-			}],
-		"weblink":	"https://www.speedrun.com/monkeyadventuregame/runs/yl262gkz"
-	}, {
-		"run_id":	"ydpjp5jy",
-		"verified_epoch":	1777534881,
-		"verified_iso":	"2026-04-30T07:41:21Z",
-		"game":	"Tekken 4",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
-		"category":	"Training",
-		"level":	"Nina",
-		"subcats":	"",
-		"primary_t":	19.98,
-		"players":	"klumz",
-		"players_data":	[{
-				"name":	"klumz",
-				"weblink":	"https://www.speedrun.com/users/klumz",
-				"image":	"https://www.speedrun.com/static/user/j0e3wom8/image.png?v=02107bf"
-			}],
-		"weblink":	"https://www.speedrun.com/tekken4/runs/ydpjp5jy"
-	}, {
-		"run_id":	"zqn0g2xz",
-		"verified_epoch":	1777534827,
-		"verified_iso":	"2026-04-30T07:40:27Z",
-		"game":	"Call of Duty: Ghosts",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4oyw1e/cover.png?v=ae8c607",
-		"category":	"Extinction",
-		"level":	"",
-		"subcats":	"Map: Exodus, Number of Players: 4 Player Co-op",
-		"primary_t":	2111,
-		"players":	"DaviAlexandre, cafetaoDojob , Neto 8347, Saybergames ",
-		"players_data":	[{
-				"name":	"DaviAlexandre",
-				"weblink":	"https://www.speedrun.com/users/DaviAlexandre",
-				"image":	""
-			}, {
-				"name":	"cafetaoDojob ",
-				"weblink":	"",
-				"image":	""
-			}, {
-				"name":	"Neto 8347",
-				"weblink":	"",
-				"image":	""
-			}, {
-				"name":	"Saybergames ",
-				"weblink":	"",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/codghosts/runs/zqn0g2xz"
-	}, {
-		"run_id":	"y8l6pl5m",
-		"verified_epoch":	1777534411,
-		"verified_iso":	"2026-04-30T07:33:31Z",
-		"game":	"Sniper Elite Resistance ",
-		"game_cover":	"https://www.speedrun.com/static/game/v1plq576/cover.png?v=707a9f4",
-		"category":	"Any% All Objectives",
-		"level":	"Collision Course",
-		"subcats":	"Difficulty: Authentic",
-		"primary_t":	95,
-		"players":	"Johdude",
-		"players_data":	[{
-				"name":	"Johdude",
-				"weblink":	"https://www.speedrun.com/users/Johdude",
-				"image":	"https://www.speedrun.com/static/user/j5v1e168/image.png?v=2cc9bce"
-			}],
-		"weblink":	"https://www.speedrun.com/Sniper_Elite_Resistance_/runs/y8l6pl5m"
-	}, {
-		"run_id":	"zqnjqn5z",
-		"verified_epoch":	1777534407,
-		"verified_iso":	"2026-04-30T07:33:27Z",
-		"game":	"Sniper Elite Resistance ",
-		"game_cover":	"https://www.speedrun.com/static/game/v1plq576/cover.png?v=707a9f4",
-		"category":	"Any% NG+",
-		"level":	"Collision Course",
-		"subcats":	"Difficulty: Authentic",
-		"primary_t":	95,
-		"players":	"Johdude",
-		"players_data":	[{
-				"name":	"Johdude",
-				"weblink":	"https://www.speedrun.com/users/Johdude",
-				"image":	"https://www.speedrun.com/static/user/j5v1e168/image.png?v=2cc9bce"
-			}],
-		"weblink":	"https://www.speedrun.com/Sniper_Elite_Resistance_/runs/zqnjqn5z"
-	}, {
-		"run_id":	"med87d8y",
-		"verified_epoch":	1777534304,
-		"verified_iso":	"2026-04-30T07:31:44Z",
-		"game":	"Resident Evil Remake Trilogy",
-		"game_cover":	"https://www.speedrun.com/static/game/j1neogx1/cover.png?v=f9bb220",
-		"category":	"New Game PC",
-		"level":	"",
-		"subcats":	"New Game PC categories: Slow Boys",
-		"primary_t":	11365,
-		"players":	"AbrilRedfield",
-		"players_data":	[{
-				"name":	"AbrilRedfield",
-				"weblink":	"https://www.speedrun.com/users/AbrilRedfield",
-				"image":	"https://www.speedrun.com/static/user/1xy1zrnx/image.png?v=d9133c6"
-			}],
-		"weblink":	"https://www.speedrun.com/resident_evil_remake_trilogy/runs/med87d8y"
-	}, {
-		"run_id":	"z02740om",
-		"verified_epoch":	1777534138,
-		"verified_iso":	"2026-04-30T07:28:58Z",
-		"game":	"Left 4 Dead 2",
-		"game_cover":	"https://www.speedrun.com/static/game/9dowpe1p/cover.png?v=7b4712e",
-		"category":	"Solo - Expert Realism",
-		"level":	"No Mercy (DLC)",
-		"subcats":	"Version: 2.0.4.5",
-		"primary_t":	611,
-		"players":	"vogeltech",
-		"players_data":	[{
-				"name":	"vogeltech",
-				"weblink":	"https://www.speedrun.com/users/vogeltech",
-				"image":	"https://www.speedrun.com/static/user/zxzevrrx/image.png?v=613a04c"
-			}],
-		"weblink":	"https://www.speedrun.com/l4d2/runs/z02740om"
-	}, {
-		"run_id":	"ydpjxqwy",
-		"verified_epoch":	1777533908,
-		"verified_iso":	"2026-04-30T07:25:08Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 20",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	10,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ydpjxqwy"
-	}, {
-		"run_id":	"zpvweq8z",
-		"verified_epoch":	1777533892,
-		"verified_iso":	"2026-04-30T07:24:52Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 19",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zpvweq8z"
-	}, {
-		"run_id":	"y8l6l4nm",
-		"verified_epoch":	1777533887,
-		"verified_iso":	"2026-04-30T07:24:47Z",
-		"game":	"Neon White",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv27nv6/cover.png?v=fcbf150",
-		"category":	"PC (Steam)",
-		"level":	"The Burn That Cures",
-		"subcats":	"The Burn That Cures: Steps, Run Type: Normal",
-		"primary_t":	10.565,
-		"players":	"coooper",
-		"players_data":	[{
-				"name":	"coooper",
-				"weblink":	"https://www.speedrun.com/users/coooper",
-				"image":	"https://www.speedrun.com/static/user/8w3n1w3j/image.png?v=4070e41"
-			}],
-		"weblink":	"https://www.speedrun.com/neon_white/runs/y8l6l4nm"
-	}, {
-		"run_id":	"medl5k9y",
-		"verified_epoch":	1777533871,
-		"verified_iso":	"2026-04-30T07:24:31Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 18",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/medl5k9y"
-	}, {
-		"run_id":	"zg1e0nvz",
-		"verified_epoch":	1777533857,
-		"verified_iso":	"2026-04-30T07:24:17Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 17",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zg1e0nvz"
-	}, {
-		"run_id":	"yl26w9kz",
-		"verified_epoch":	1777533842,
-		"verified_iso":	"2026-04-30T07:24:02Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 16",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yl26w9kz"
-	}, {
-		"run_id":	"yjr2vk3z",
-		"verified_epoch":	1777533826,
-		"verified_iso":	"2026-04-30T07:23:46Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 15",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yjr2vk3z"
-	}, {
-		"run_id":	"ywor71pm",
-		"verified_epoch":	1777533811,
-		"verified_iso":	"2026-04-30T07:23:31Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 14",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ywor71pm"
-	}, {
-		"run_id":	"zn6vl88y",
-		"verified_epoch":	1777533792,
-		"verified_iso":	"2026-04-30T07:23:12Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 13",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zn6vl88y"
-	}, {
-		"run_id":	"yvepkg4m",
-		"verified_epoch":	1777533762,
-		"verified_iso":	"2026-04-30T07:22:42Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 12",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yvepkg4m"
-	}, {
-		"run_id":	"y8l6435m",
-		"verified_epoch":	1777533749,
-		"verified_iso":	"2026-04-30T07:22:29Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y8l6435m"
-	}, {
-		"run_id":	"y6w2431z",
-		"verified_epoch":	1777533729,
-		"verified_iso":	"2026-04-30T07:22:09Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y6w2431z"
-	}, {
-		"run_id":	"z02j4w4m",
-		"verified_epoch":	1777533710,
-		"verified_iso":	"2026-04-30T07:21:50Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02j4w4m"
-	}, {
-		"run_id":	"y26g496m",
-		"verified_epoch":	1777533694,
-		"verified_iso":	"2026-04-30T07:21:34Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26g496m"
-	}, {
-		"run_id":	"zqnjok5z",
-		"verified_epoch":	1777533677,
-		"verified_iso":	"2026-04-30T07:21:17Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zqnjok5z"
-	}, {
-		"run_id":	"y4vo49ny",
-		"verified_epoch":	1777533651,
-		"verified_iso":	"2026-04-30T07:20:51Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vo49ny"
-	}, {
-		"run_id":	"m38q49wy",
-		"verified_epoch":	1777533633,
-		"verified_iso":	"2026-04-30T07:20:33Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38q49wy"
-	}, {
-		"run_id":	"z5np45gz",
-		"verified_epoch":	1777533616,
-		"verified_iso":	"2026-04-30T07:20:16Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	2,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z5np45gz"
-	}, {
-		"run_id":	"zxp3r9qy",
-		"verified_epoch":	1777533602,
-		"verified_iso":	"2026-04-30T07:20:02Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	3,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zxp3r9qy"
-	}, {
-		"run_id":	"mrwlpj2y",
-		"verified_epoch":	1777533586,
-		"verified_iso":	"2026-04-30T07:19:46Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mrwlpj2y"
-	}, {
-		"run_id":	"mkx0nlvz",
-		"verified_epoch":	1777533572,
-		"verified_iso":	"2026-04-30T07:19:32Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 1",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mkx0nlvz"
-	}, {
-		"run_id":	"z10l4dgm",
-		"verified_epoch":	1777533541,
-		"verified_iso":	"2026-04-30T07:19:01Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 20s",
-		"primary_t":	151,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z10l4dgm"
-	}, {
-		"run_id":	"y9g8qovm",
-		"verified_epoch":	1777533503,
-		"verified_iso":	"2026-04-30T07:18:23Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 20",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y9g8qovm"
-	}, {
-		"run_id":	"ydpjx8wy",
-		"verified_epoch":	1777533490,
-		"verified_iso":	"2026-04-30T07:18:10Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 19",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/ydpjx8wy"
-	}, {
-		"run_id":	"yo8ngv7z",
-		"verified_epoch":	1777533471,
-		"verified_iso":	"2026-04-30T07:17:51Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 18",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yo8ngv7z"
-	}, {
-		"run_id":	"medl5v9y",
-		"verified_epoch":	1777533455,
-		"verified_iso":	"2026-04-30T07:17:35Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 17",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/medl5v9y"
-	}, {
-		"run_id":	"zg1e03vz",
-		"verified_epoch":	1777533439,
-		"verified_iso":	"2026-04-30T07:17:19Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 16",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zg1e03vz"
-	}, {
-		"run_id":	"yl26w3kz",
-		"verified_epoch":	1777533424,
-		"verified_iso":	"2026-04-30T07:17:04Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 15",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	8,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yl26w3kz"
-	}, {
-		"run_id":	"yjr2vj3z",
-		"verified_epoch":	1777533410,
-		"verified_iso":	"2026-04-30T07:16:50Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 14",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	7,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yjr2vj3z"
-	}, {
-		"run_id":	"zn6vlw8y",
-		"verified_epoch":	1777533395,
-		"verified_iso":	"2026-04-30T07:16:35Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 13",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zn6vlw8y"
-	}, {
-		"run_id":	"yvepk44m",
-		"verified_epoch":	1777533380,
-		"verified_iso":	"2026-04-30T07:16:20Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 12",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/yvepk44m"
-	}, {
-		"run_id":	"y8l6l55m",
-		"verified_epoch":	1777533368,
-		"verified_iso":	"2026-04-30T07:16:08Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 11",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y8l6l55m"
-	}, {
-		"run_id":	"z02j2v4m",
-		"verified_epoch":	1777533352,
-		"verified_iso":	"2026-04-30T07:15:52Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 10",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	5,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z02j2v4m"
-	}, {
-		"run_id":	"y26g6l6m",
-		"verified_epoch":	1777533338,
-		"verified_iso":	"2026-04-30T07:15:38Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 9",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y26g6l6m"
-	}, {
-		"run_id":	"zqnjnx5z",
-		"verified_epoch":	1777533322,
-		"verified_iso":	"2026-04-30T07:15:22Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 8",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	9,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zqnjnx5z"
-	}, {
-		"run_id":	"y4vovpny",
-		"verified_epoch":	1777533307,
-		"verified_iso":	"2026-04-30T07:15:07Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 7",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/y4vovpny"
-	}, {
-		"run_id":	"m38q8ewy",
-		"verified_epoch":	1777533288,
-		"verified_iso":	"2026-04-30T07:14:48Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 6",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/m38q8ewy"
-	}, {
-		"run_id":	"z5npn9gz",
-		"verified_epoch":	1777533273,
-		"verified_iso":	"2026-04-30T07:14:33Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 5",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	6,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/z5npn9gz"
-	}, {
-		"run_id":	"zxp3peqy",
-		"verified_epoch":	1777533258,
-		"verified_iso":	"2026-04-30T07:14:18Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 4",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/zxp3peqy"
-	}, {
-		"run_id":	"mrwlw32y",
-		"verified_epoch":	1777533246,
-		"verified_iso":	"2026-04-30T07:14:06Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 3",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mrwlw32y"
-	}, {
-		"run_id":	"mkx0xjvz",
-		"verified_epoch":	1777533227,
-		"verified_iso":	"2026-04-30T07:13:47Z",
-		"game":	"Egg Escape ",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9go2d/cover.png?v=6e4dad6",
-		"category":	"Any%",
-		"level":	"level 2",
-		"subcats":	"difficulty: easy, Map: platformer, Enemies: no, movement ability: wall slide, time limit: 30s",
-		"primary_t":	4,
-		"players":	"moneybox",
-		"players_data":	[{
-				"name":	"moneybox",
-				"weblink":	"https://www.speedrun.com/users/moneybox",
-				"image":	"https://www.speedrun.com/static/user/jozwm538/image.png?v=3f9fc34"
-			}],
-		"weblink":	"https://www.speedrun.com/Egg_Escape_/runs/mkx0xjvz"
 	}]
