@@ -1,4 +1,76 @@
 [{
+		"run_id":	"y24ll57z",
+		"verified_epoch":	1794504390,
+		"verified_iso":	"2026-11-12T17:26:30Z",
+		"game":	"Skylanders: Imaginators",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7mnnd7/cover.png?v=5494671",
+		"category":	"Any%",
+		"level":	"Chapter 2: Mushroom River",
+		"subcats":	"Character Limits: All Characters, Players: Solo",
+		"primary_t":	195.4,
+		"players":	"MourningBouquet",
+		"players_data":	[{
+				"name":	"MourningBouquet",
+				"weblink":	"https://www.speedrun.com/users/MourningBouquet",
+				"image":	"https://www.speedrun.com/static/user/8rmzlz6j/image.png?v=40dc295"
+			}],
+		"weblink":	"https://www.speedrun.com/skylanders_imaginators/runs/y24ll57z"
+	}, {
+		"run_id":	"y845ox5z",
+		"verified_epoch":	1794504140,
+		"verified_iso":	"2026-11-12T17:22:20Z",
+		"game":	"Metro Anomaly Demo",
+		"game_cover":	"https://www.speedrun.com/static/game/m1z3qy0d/cover.png?v=b39b927",
+		"category":	"Full Version",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	63.9,
+		"players":	"Lobotomy_Engi",
+		"players_data":	[{
+				"name":	"Lobotomy_Engi",
+				"weblink":	"https://www.speedrun.com/users/Lobotomy_Engi",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Metro_Anomaly_Demo/runs/y845ox5z"
+	}, {
+		"run_id":	"z14ek1jz",
+		"verified_epoch":	1794503659,
+		"verified_iso":	"2026-11-12T17:14:19Z",
+		"game":	"Pac-Man 256",
+		"game_cover":	"https://www.speedrun.com/static/game/lde3wnx6/cover.png?v=8990db0",
+		"category":	"High Score Co-Op",
+		"level":	"",
+		"subcats":	"High Score Co-Op: 565412",
+		"primary_t":	0.001,
+		"players":	"kloudyky, Insertcatpuns",
+		"players_data":	[{
+				"name":	"kloudyky",
+				"weblink":	"https://www.speedrun.com/users/kloudyky",
+				"image":	"https://www.speedrun.com/static/user/86k1eqpx/image.png?v=3b62478"
+			}, {
+				"name":	"Insertcatpuns",
+				"weblink":	"https://www.speedrun.com/users/Insertcatpuns",
+				"image":	"https://www.speedrun.com/static/user/8egwdyox/image.png?v=a2888cd"
+			}],
+		"weblink":	"https://www.speedrun.com/pac-man_256/runs/z14ek1jz"
+	}, {
+		"run_id":	"m74rl44m",
+		"verified_epoch":	1794503486,
+		"verified_iso":	"2026-11-12T17:11:26Z",
+		"game":	"Ace Combat 8: Wings of Theve",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2wnk3d/cover.png?v=543d734",
+		"category":	"No Major Glitches",
+		"level":	"04 - The Fall of the Numbered Fleets",
+		"subcats":	"Plane Selection: Base Game Aircraft, Restriction: Unrestricted, Rank: Any Rank",
+		"primary_t":	173.93,
+		"players":	"RAILGUN_WARNING",
+		"players_data":	[{
+				"name":	"RAILGUN_WARNING",
+				"weblink":	"https://www.speedrun.com/users/RAILGUN_WARNING",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/acecombat8/runs/m74rl44m"
+	}, {
 		"run_id":	"mknjj9xm",
 		"verified_epoch":	1794503305,
 		"verified_iso":	"2026-11-12T17:08:25Z",
@@ -12791,21 +12863,4 @@
 				"image":	"https://www.speedrun.com/static/user/8rr3rrw8/image.png?v=4179005"
 			}],
 		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/y24lr95z"
-	}, {
-		"run_id":	"znldg1ly",
-		"verified_epoch":	1794417916,
-		"verified_iso":	"2026-11-11T17:25:16Z",
-		"game":	"Hill Climb Racing 2",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2erm5d/cover.png?v=807bb89",
-		"category":	"Time Trial",
-		"level":	"Trial of Balance",
-		"subcats":	"Vehicle: Havoc",
-		"primary_t":	6.729,
-		"players":	"tTvi",
-		"players_data":	[{
-				"name":	"tTvi",
-				"weblink":	"https://www.speedrun.com/users/tTvi",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/hcr2/runs/znldg1ly"
 	}]
