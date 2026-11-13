@@ -1,4 +1,191 @@
 [{
+		"run_id":	"m3p998wz",
+		"verified_epoch":	1794583967,
+		"verified_iso":	"2026-11-13T15:32:47Z",
+		"game":	"Deadly Dice: Menherarium",
+		"game_cover":	"https://www.speedrun.com/static/game/3dxz5z51/cover.png?v=c024d17",
+		"category":	"Story",
+		"level":	"",
+		"subcats":	"Ending: Normal2 End, Platform: Console",
+		"primary_t":	531,
+		"players":	"alicetsukino",
+		"players_data":	[{
+				"name":	"alicetsukino",
+				"weblink":	"https://www.speedrun.com/users/alicetsukino",
+				"image":	"https://www.speedrun.com/static/user/8eokp76j/image.png?v=9e92560"
+			}],
+		"weblink":	"https://www.speedrun.com/Deadly_Dice_Menherarium/runs/m3p998wz"
+	}, {
+		"run_id":	"m7k1p54z",
+		"verified_epoch":	1794583870,
+		"verified_iso":	"2026-11-13T15:31:10Z",
+		"game":	"Alien: Isolation",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqxgdm/cover.png?v=0b72c66",
+		"category":	"No CC",
+		"level":	"IL - M17",
+		"subcats":	"Difficulty: Novice",
+		"primary_t":	332.42,
+		"players":	"Maryx",
+		"players_data":	[{
+				"name":	"Maryx",
+				"weblink":	"https://www.speedrun.com/users/Maryx",
+				"image":	"https://www.speedrun.com/static/user/8q3451wj/image.png?v=265b283"
+			}],
+		"weblink":	"https://www.speedrun.com/ai/runs/m7k1p54z"
+	}, {
+		"run_id":	"zxrewn5z",
+		"verified_epoch":	1794583860,
+		"verified_iso":	"2026-11-13T15:31:00Z",
+		"game":	"Metal Gear Solid",
+		"game_cover":	"https://www.speedrun.com/static/game/46wr4n1r/cover.png?v=88bb237",
+		"category":	"Glitchless",
+		"level":	"",
+		"subcats":	"Played On: PC (2023) & Console, Difficulty: Easy, Round: Standard, Rank: Pigeon, Turbo: Enabled",
+		"primary_t":	5164,
+		"players":	"BlackyY1007",
+		"players_data":	[{
+				"name":	"BlackyY1007",
+				"weblink":	"https://www.speedrun.com/users/BlackyY1007",
+				"image":	"https://www.speedrun.com/static/user/j92dnpr8/image.png?v=431be36"
+			}],
+		"weblink":	"https://www.speedrun.com/mgs1/runs/zxrewn5z"
+	}, {
+		"run_id":	"mk6l98xz",
+		"verified_epoch":	1794583265,
+		"verified_iso":	"2026-11-13T15:21:05Z",
+		"game":	"Final Dribble",
+		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
+		"category":	"Single Zone",
+		"level":	"",
+		"subcats":	"Zone: Easy, Boost: Unlimited, Completion: Any%",
+		"primary_t":	12.708,
+		"players":	"TwiF",
+		"players_data":	[{
+				"name":	"TwiF",
+				"weblink":	"https://www.speedrun.com/users/TwiF",
+				"image":	"https://www.speedrun.com/static/user/j0wnlow8/image.png?v=94dbdd1"
+			}],
+		"weblink":	"https://www.speedrun.com/FinalDribble/runs/mk6l98xz"
+	}, {
+		"run_id":	"z1ed119y",
+		"verified_epoch":	1794583135,
+		"verified_iso":	"2026-11-13T15:18:55Z",
+		"game":	"Surf Pro",
+		"game_cover":	"https://www.speedrun.com/static/game/pd054m01/cover.png?v=5dd0117",
+		"category":	"TAS - Speedrun",
+		"level":	"",
+		"subcats":	"Speedrun Map: Supreme",
+		"primary_t":	23.806,
+		"players":	"Drozza_",
+		"players_data":	[{
+				"name":	"Drozza_",
+				"weblink":	"https://www.speedrun.com/users/Drozza_",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/surf_pro/runs/z1ed119y"
+	}, {
+		"run_id":	"y613p7pm",
+		"verified_epoch":	1794583104,
+		"verified_iso":	"2026-11-13T15:18:24Z",
+		"game":	"Surf Pro",
+		"game_cover":	"https://www.speedrun.com/static/game/pd054m01/cover.png?v=5dd0117",
+		"category":	"TAS - Parkour",
+		"level":	"",
+		"subcats":	"Parkour Map: Alter",
+		"primary_t":	11.617,
+		"players":	"Drozza_",
+		"players_data":	[{
+				"name":	"Drozza_",
+				"weblink":	"https://www.speedrun.com/users/Drozza_",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/surf_pro/runs/y613p7pm"
+	}, {
+		"run_id":	"yd7830vy",
+		"verified_epoch":	1794583074,
+		"verified_iso":	"2026-11-13T15:17:54Z",
+		"game":	"Surf Pro",
+		"game_cover":	"https://www.speedrun.com/static/game/pd054m01/cover.png?v=5dd0117",
+		"category":	"TAS - KZ",
+		"level":	"",
+		"subcats":	"KZ Map: Tower",
+		"primary_t":	8.304,
+		"players":	"w3ntr",
+		"players_data":	[{
+				"name":	"w3ntr",
+				"weblink":	"https://www.speedrun.com/users/w3ntr",
+				"image":	"https://www.speedrun.com/static/user/j5w3rgwj/image.png?v=f3028f9"
+			}],
+		"weblink":	"https://www.speedrun.com/surf_pro/runs/yd7830vy"
+	}, {
+		"run_id":	"y87391dz",
+		"verified_epoch":	1794582848,
+		"verified_iso":	"2026-11-13T15:14:08Z",
+		"game":	"Final Dribble",
+		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
+		"category":	"100%",
+		"level":	"Level 89",
+		"subcats":	"Boost: Limited",
+		"primary_t":	18.519,
+		"players":	"TwiF",
+		"players_data":	[{
+				"name":	"TwiF",
+				"weblink":	"https://www.speedrun.com/users/TwiF",
+				"image":	"https://www.speedrun.com/static/user/j0wnlow8/image.png?v=94dbdd1"
+			}],
+		"weblink":	"https://www.speedrun.com/FinalDribble/runs/y87391dz"
+	}, {
+		"run_id":	"zpjn00gz",
+		"verified_epoch":	1794582778,
+		"verified_iso":	"2026-11-13T15:12:58Z",
+		"game":	"Final Dribble",
+		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
+		"category":	"100%",
+		"level":	"Level 87",
+		"subcats":	"Boost: Limited",
+		"primary_t":	9.512,
+		"players":	"TwiF",
+		"players_data":	[{
+				"name":	"TwiF",
+				"weblink":	"https://www.speedrun.com/users/TwiF",
+				"image":	"https://www.speedrun.com/static/user/j0wnlow8/image.png?v=94dbdd1"
+			}],
+		"weblink":	"https://www.speedrun.com/FinalDribble/runs/zpjn00gz"
+	}, {
+		"run_id":	"yj0j44gz",
+		"verified_epoch":	1794582743,
+		"verified_iso":	"2026-11-13T15:12:23Z",
+		"game":	"Final Dribble",
+		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
+		"category":	"100%",
+		"level":	"Level 95",
+		"subcats":	"Boost: Limited",
+		"primary_t":	19.795,
+		"players":	"TwiF",
+		"players_data":	[{
+				"name":	"TwiF",
+				"weblink":	"https://www.speedrun.com/users/TwiF",
+				"image":	"https://www.speedrun.com/static/user/j0wnlow8/image.png?v=94dbdd1"
+			}],
+		"weblink":	"https://www.speedrun.com/FinalDribble/runs/yj0j44gz"
+	}, {
+		"run_id":	"y9ro27ky",
+		"verified_epoch":	1794582709,
+		"verified_iso":	"2026-11-13T15:11:49Z",
+		"game":	"Final Dribble",
+		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
+		"category":	"100%",
+		"level":	"Level 63",
+		"subcats":	"Boost: Limited",
+		"primary_t":	12.739,
+		"players":	"TwiF",
+		"players_data":	[{
+				"name":	"TwiF",
+				"weblink":	"https://www.speedrun.com/users/TwiF",
+				"image":	"https://www.speedrun.com/static/user/j0wnlow8/image.png?v=94dbdd1"
+			}],
+		"weblink":	"https://www.speedrun.com/FinalDribble/runs/y9ro27ky"
+	}, {
 		"run_id":	"z1ed157y",
 		"verified_epoch":	1794582390,
 		"verified_iso":	"2026-11-13T15:06:30Z",
@@ -13457,820 +13644,4 @@
 				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
 			}],
 		"weblink":	"https://www.speedrun.com/ProjectDream/runs/zxre2qgz"
-	}, {
-		"run_id":	"mrp3kv4z",
-		"verified_epoch":	1794497652,
-		"verified_iso":	"2026-11-12T15:34:12Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 5",
-		"subcats":	"Act: Act 3, Category: Unrestricted",
-		"primary_t":	30.133,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/mrp3kv4z"
-	}, {
-		"run_id":	"z14w59jz",
-		"verified_epoch":	1794497595,
-		"verified_iso":	"2026-11-12T15:33:15Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 4",
-		"subcats":	"Act: Act 3, Category: Unrestricted",
-		"primary_t":	48.516,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/z14w59jz"
-	}, {
-		"run_id":	"y9q40j2z",
-		"verified_epoch":	1794497530,
-		"verified_iso":	"2026-11-12T15:32:10Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 3",
-		"subcats":	"Act: Act 3, Category: Unrestricted",
-		"primary_t":	52.55,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/y9q40j2z"
-	}, {
-		"run_id":	"zpe72r8y",
-		"verified_epoch":	1794497514,
-		"verified_iso":	"2026-11-12T15:31:54Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Manhattan, Traffic: No Traffic",
-		"primary_t":	75.1,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zpe72r8y"
-	}, {
-		"run_id":	"znldnl3y",
-		"verified_epoch":	1794497504,
-		"verified_iso":	"2026-11-12T15:31:44Z",
-		"game":	"ROBLOX: The CrusheR",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2e5yqd/cover.png?v=511a355",
-		"category":	"Speed Round (Glitchless)",
-		"level":	"Cavernous Icebound",
-		"subcats":	"",
-		"primary_t":	20.866,
-		"players":	"ThatsNotBestPlayer",
-		"players_data":	[{
-				"name":	"ThatsNotBestPlayer",
-				"weblink":	"https://www.speedrun.com/users/ThatsNotBestPlayer",
-				"image":	"https://www.speedrun.com/static/user/8w3p5ylj/image.png?v=e84101f"
-			}],
-		"weblink":	"https://www.speedrun.com/tcr/runs/znldnl3y"
-	}, {
-		"run_id":	"zg04dwvm",
-		"verified_epoch":	1794497437,
-		"verified_iso":	"2026-11-12T15:30:37Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD LM Classic, Traffic: No Traffic",
-		"primary_t":	78.8,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zg04dwvm"
-	}, {
-		"run_id":	"ylwgekkz",
-		"verified_epoch":	1794497408,
-		"verified_iso":	"2026-11-12T15:30:08Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD R-Turbo Roadster, Traffic: No Traffic",
-		"primary_t":	81.72,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/ylwgekkz"
-	}, {
-		"run_id":	"ydxk5nqz",
-		"verified_epoch":	1794497400,
-		"verified_iso":	"2026-11-12T15:30:00Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 2",
-		"subcats":	"Act: Act 3, Category: Unrestricted",
-		"primary_t":	38.283,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/ydxk5nqz"
-	}, {
-		"run_id":	"y44pdnny",
-		"verified_epoch":	1794497395,
-		"verified_iso":	"2026-11-12T15:29:55Z",
-		"game":	"Cell to Singularity",
-		"game_cover":	"https://www.speedrun.com/static/game/369w993d/cover.png?v=a9e4bc1",
-		"category":	"First Idea",
-		"level":	"",
-		"subcats":	"Were Nanobots used?: With Bots, Evolution List Presence: Evolution Tree Only, Rebirth presence: Rebirths, Was an autoclicker used?: Autoclicker",
-		"primary_t":	21.267,
-		"players":	"brettb00000",
-		"players_data":	[{
-				"name":	"brettb00000",
-				"weblink":	"https://www.speedrun.com/users/brettb00000",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Cell_to_Singularity/runs/y44pdnny"
-	}, {
-		"run_id":	"yvkwq64m",
-		"verified_epoch":	1794497390,
-		"verified_iso":	"2026-11-12T15:29:50Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Reliable Custom, Traffic: No Traffic",
-		"primary_t":	81.8,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/yvkwq64m"
-	}, {
-		"run_id":	"y64knl1m",
-		"verified_epoch":	1794497364,
-		"verified_iso":	"2026-11-12T15:29:24Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Hydros Custom, Traffic: No Traffic",
-		"primary_t":	82.13,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/y64knl1m"
-	}, {
-		"run_id":	"yog1ko1m",
-		"verified_epoch":	1794497343,
-		"verified_iso":	"2026-11-12T15:29:03Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 7",
-		"subcats":	"Act: Act 2, Category: Unrestricted",
-		"primary_t":	25.2,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/yog1ko1m"
-	}, {
-		"run_id":	"z04vo14y",
-		"verified_epoch":	1794497341,
-		"verified_iso":	"2026-11-12T15:29:01Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Ikusa GT, Traffic: No Traffic",
-		"primary_t":	85.27,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/z04vo14y"
-	}, {
-		"run_id":	"zg04w80m",
-		"verified_epoch":	1794497288,
-		"verified_iso":	"2026-11-12T15:28:08Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 6",
-		"subcats":	"Act: Act 2, Category: Unrestricted",
-		"primary_t":	26.46,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/zg04w80m"
-	}, {
-		"run_id":	"zqox0r5y",
-		"verified_epoch":	1794497267,
-		"verified_iso":	"2026-11-12T15:27:47Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Pioneer, Traffic: No Traffic",
-		"primary_t":	88.22,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zqox0r5y"
-	}, {
-		"run_id":	"zxrelkqz",
-		"verified_epoch":	1794497232,
-		"verified_iso":	"2026-11-12T15:27:12Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Vegas, Traffic: No Traffic",
-		"primary_t":	87.63,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zxrelkqz"
-	}, {
-		"run_id":	"ylwgkl2z",
-		"verified_epoch":	1794497223,
-		"verified_iso":	"2026-11-12T15:27:03Z",
-		"game":	"Project Dream",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37epw6/cover.png?v=079b8a8",
-		"category":	"Dream Factory",
-		"level":	"Mission 5",
-		"subcats":	"Act: Act 2, Category: Unrestricted",
-		"primary_t":	31.69,
-		"players":	"saucimans",
-		"players_data":	[{
-				"name":	"saucimans",
-				"weblink":	"https://www.speedrun.com/users/saucimans",
-				"image":	"https://www.speedrun.com/static/user/x35pvekj/image.png?v=8b36c60"
-			}],
-		"weblink":	"https://www.speedrun.com/ProjectDream/runs/ylwgkl2z"
-	}, {
-		"run_id":	"z14w2jgz",
-		"verified_epoch":	1794497213,
-		"verified_iso":	"2026-11-12T15:26:53Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD SI-7, Traffic: No Traffic",
-		"primary_t":	92.43,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/z14w2jgz"
-	}, {
-		"run_id":	"y64k181m",
-		"verified_epoch":	1794497189,
-		"verified_iso":	"2026-11-12T15:26:29Z",
-		"game":	"Nintendo Switch Sports Resort",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7p4egd/cover.png?v=a73d44d",
-		"category":	"Skateboarding: Skate Sprint",
-		"level":	"",
-		"subcats":	"Copy: Digital, Version: 1.1.0, Course: Island Loop",
-		"primary_t":	106.8,
-		"players":	"LeoM3",
-		"players_data":	[{
-				"name":	"LeoM3",
-				"weblink":	"https://www.speedrun.com/users/LeoM3",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/nssr/runs/y64k181m"
-	}, {
-		"run_id":	"yog1rj7m",
-		"verified_epoch":	1794497188,
-		"verified_iso":	"2026-11-12T15:26:28Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Mesquite, Traffic: No Traffic",
-		"primary_t":	93.13,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/yog1rj7m"
-	}, {
-		"run_id":	"z14we7gz",
-		"verified_epoch":	1794497183,
-		"verified_iso":	"2026-11-12T15:26:23Z",
-		"game":	"Nintendo Switch Sports Resort",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7p4egd/cover.png?v=a73d44d",
-		"category":	"Skateboarding: Skate Sprint",
-		"level":	"",
-		"subcats":	"Copy: Digital, Version: 1.1.0, Course: Wavelet Bridge",
-		"primary_t":	51.76,
-		"players":	"LeoM3",
-		"players_data":	[{
-				"name":	"LeoM3",
-				"weblink":	"https://www.speedrun.com/users/LeoM3",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/nssr/runs/z14we7gz"
-	}, {
-		"run_id":	"zg04dkvm",
-		"verified_epoch":	1794497162,
-		"verified_iso":	"2026-11-12T15:26:02Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Cavalry, Traffic: No Traffic",
-		"primary_t":	95.05,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zg04dkvm"
-	}, {
-		"run_id":	"me57ke9m",
-		"verified_epoch":	1794497075,
-		"verified_iso":	"2026-11-12T15:24:35Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Hawker Mech, Traffic: No Traffic",
-		"primary_t":	64.13,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/me57ke9m"
-	}, {
-		"run_id":	"zg0gn2vm",
-		"verified_epoch":	1794497056,
-		"verified_iso":	"2026-11-12T15:24:16Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Extreme Hot Rod, Traffic: No Traffic",
-		"primary_t":	61.95,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zg0gn2vm"
-	}, {
-		"run_id":	"yjvgk83y",
-		"verified_epoch":	1794497040,
-		"verified_iso":	"2026-11-12T15:24:00Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Cavalry Bootlegger, Traffic: No Traffic",
-		"primary_t":	73.02,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/yjvgk83y"
-	}, {
-		"run_id":	"yw7q1vpz",
-		"verified_epoch":	1794497019,
-		"verified_iso":	"2026-11-12T15:23:39Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: GT Nighthawk, Traffic: Glitchless",
-		"primary_t":	59.55,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/yw7q1vpz"
-	}, {
-		"run_id":	"z54roxgm",
-		"verified_epoch":	1794496977,
-		"verified_iso":	"2026-11-12T15:22:57Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Manhattan Spirit, Traffic: No Traffic",
-		"primary_t":	68.75,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/z54roxgm"
-	}, {
-		"run_id":	"zxrgv8qz",
-		"verified_epoch":	1794496945,
-		"verified_iso":	"2026-11-12T15:22:25Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: P12 88 Special, Traffic: No Traffic",
-		"primary_t":	65.9,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zxrgv8qz"
-	}, {
-		"run_id":	"m74d9x0m",
-		"verified_epoch":	1794496926,
-		"verified_iso":	"2026-11-12T15:22:06Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Spirit, Traffic: No Traffic",
-		"primary_t":	76.72,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/m74d9x0m"
-	}, {
-		"run_id":	"z14r3ggz",
-		"verified_epoch":	1794496905,
-		"verified_iso":	"2026-11-12T15:21:45Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Nighthawk, Traffic: No Traffic",
-		"primary_t":	66.67,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/z14r3ggz"
-	}, {
-		"run_id":	"me5rqd3m",
-		"verified_epoch":	1794496900,
-		"verified_iso":	"2026-11-12T15:21:40Z",
-		"game":	"Bhop pro",
-		"game_cover":	"https://www.speedrun.com/static/game/268q8o6p/cover.png?v=04f10e5",
-		"category":	"Speedrun",
-		"level":	"",
-		"subcats":	"Speedrun map: Mood",
-		"primary_t":	16.543,
-		"players":	"NoobTW",
-		"players_data":	[{
-				"name":	"NoobTW",
-				"weblink":	"https://www.speedrun.com/users/NoobTW",
-				"image":	"https://www.speedrun.com/static/user/8lk2kzrx/image.png?v=97841e6"
-			}],
-		"weblink":	"https://www.speedrun.com/bhop_pro/runs/me5rqd3m"
-	}, {
-		"run_id":	"zpe1qd8y",
-		"verified_epoch":	1794496882,
-		"verified_iso":	"2026-11-12T15:21:22Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy 88 Special, Traffic: No Traffic",
-		"primary_t":	77.42,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zpe1qd8y"
-	}, {
-		"run_id":	"me57k19m",
-		"verified_epoch":	1794496867,
-		"verified_iso":	"2026-11-12T15:21:07Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Bootlegger, Traffic: No Traffic",
-		"primary_t":	81.35,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/me57k19m"
-	}, {
-		"run_id":	"ylwq91kz",
-		"verified_epoch":	1794496838,
-		"verified_iso":	"2026-11-12T15:20:38Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Inferno, Traffic: No Traffic",
-		"primary_t":	84.43,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/ylwq91kz"
-	}, {
-		"run_id":	"yw7q16pz",
-		"verified_epoch":	1794496820,
-		"verified_iso":	"2026-11-12T15:20:20Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Citizen, Traffic: No Traffic",
-		"primary_t":	76.27,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/yw7q16pz"
-	}, {
-		"run_id":	"znl18q8y",
-		"verified_epoch":	1794496799,
-		"verified_iso":	"2026-11-12T15:19:59Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy GT Concept, Traffic: No Traffic",
-		"primary_t":	77.35,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/znl18q8y"
-	}, {
-		"run_id":	"y84dq85z",
-		"verified_epoch":	1794496779,
-		"verified_iso":	"2026-11-12T15:19:39Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Takedown 4X4, Traffic: No Traffic",
-		"primary_t":	77.9,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/y84dq85z"
-	}, {
-		"run_id":	"y24x3p6z",
-		"verified_epoch":	1794496761,
-		"verified_iso":	"2026-11-12T15:19:21Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy P12, Traffic: No Traffic",
-		"primary_t":	82.63,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/y24x3p6z"
-	}, {
-		"run_id":	"ylwg85kz",
-		"verified_epoch":	1794496724,
-		"verified_iso":	"2026-11-12T15:18:44Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Solo",
-		"level":	"The Blacksite Remake",
-		"subcats":	"Version: Closure 125+, IL Difficulty : Recruit, IL Seed: Set Seed, IL Playstyle: Any, IL Glitches: Glitchless",
-		"primary_t":	162.206,
-		"players":	"BlueBear_M",
-		"players_data":	[{
-				"name":	"BlueBear_M",
-				"weblink":	"https://www.speedrun.com/users/BlueBear_M",
-				"image":	"https://www.speedrun.com/static/user/j9y9w9rx/image.png?v=60e1945"
-			}],
-		"weblink":	"https://www.speedrun.com/Operators/runs/ylwg85kz"
-	}, {
-		"run_id":	"z04rep8y",
-		"verified_epoch":	1794496719,
-		"verified_iso":	"2026-11-12T15:18:39Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy WTR, Traffic: No Traffic",
-		"primary_t":	74.28,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/z04rep8y"
-	}, {
-		"run_id":	"zqo1678y",
-		"verified_epoch":	1794496704,
-		"verified_iso":	"2026-11-12T15:18:24Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Manhattan, Traffic: No Traffic",
-		"primary_t":	81.68,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zqo1678y"
-	}, {
-		"run_id":	"m34rd3qz",
-		"verified_epoch":	1794496679,
-		"verified_iso":	"2026-11-12T15:17:59Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Toy Cavalry, Traffic: No Traffic",
-		"primary_t":	95.32,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/m34rd3qz"
-	}, {
-		"run_id":	"mrp1q77z",
-		"verified_epoch":	1794496657,
-		"verified_iso":	"2026-11-12T15:17:37Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: PCPD Special, Traffic: No Traffic",
-		"primary_t":	60.53,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/mrp1q77z"
-	}, {
-		"run_id":	"zpe1q9ry",
-		"verified_epoch":	1794496616,
-		"verified_iso":	"2026-11-12T15:16:56Z",
-		"game":	"Burnout Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/m1mxvgp6/cover.png?v=d924263",
-		"category":	"BPR Online Races Every Car",
-		"level":	"",
-		"subcats":	"Race: Deep South, Vehicle: Racing WTR, Traffic: No Traffic",
-		"primary_t":	61.13,
-		"players":	"themorgue",
-		"players_data":	[{
-				"name":	"themorgue",
-				"weblink":	"https://www.speedrun.com/users/themorgue",
-				"image":	"https://www.speedrun.com/static/user/qxknkwkx/image.png?v=2201dbf"
-			}],
-		"weblink":	"https://www.speedrun.com/burnoutext/runs/zpe1q9ry"
-	}, {
-		"run_id":	"zxreqx5z",
-		"verified_epoch":	1794496559,
-		"verified_iso":	"2026-11-12T15:15:59Z",
-		"game":	"Pou 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7x72l1/cover.png?v=a7afeff",
-		"category":	"Achievements",
-		"level":	"",
-		"subcats":	"Minigame: Escape, Achievement: 1st Achievement",
-		"primary_t":	65.683,
-		"players":	"Edmar10SNX",
-		"players_data":	[{
-				"name":	"Edmar10SNX",
-				"weblink":	"https://www.speedrun.com/users/Edmar10SNX",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/pou_3d/runs/zxreqx5z"
-	}, {
-		"run_id":	"y44pd0ny",
-		"verified_epoch":	1794496352,
-		"verified_iso":	"2026-11-12T15:12:32Z",
-		"game":	"Silent Hill: Townfall",
-		"game_cover":	"https://www.speedrun.com/static/game/76r9g056/cover.png?v=8e5067b",
-		"category":	"New Game",
-		"level":	"",
-		"subcats":	"Platform: PC, Difficulty: Story",
-		"primary_t":	3841,
-		"players":	"maxylobes",
-		"players_data":	[{
-				"name":	"maxylobes",
-				"weblink":	"https://www.speedrun.com/users/maxylobes",
-				"image":	"https://www.speedrun.com/static/user/48ge6kyj/image.png?v=661b26f"
-			}],
-		"weblink":	"https://www.speedrun.com/shtf/runs/y44pd0ny"
-	}, {
-		"run_id":	"y845joxz",
-		"verified_epoch":	1794496346,
-		"verified_iso":	"2026-11-12T15:12:26Z",
-		"game":	"Pou 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7x72l1/cover.png?v=a7afeff",
-		"category":	"Achievements",
-		"level":	"",
-		"subcats":	"Minigame: Tree Jump, Achievement: 2nd Achievement",
-		"primary_t":	187.233,
-		"players":	"SG_masterpigman",
-		"players_data":	[{
-				"name":	"SG_masterpigman",
-				"weblink":	"https://www.speedrun.com/users/SG_masterpigman",
-				"image":	"https://www.speedrun.com/static/user/j92k9vr8/image.png?v=52d6744"
-			}],
-		"weblink":	"https://www.speedrun.com/pou_3d/runs/y845joxz"
-	}, {
-		"run_id":	"mknj6rvm",
-		"verified_epoch":	1794496268,
-		"verified_iso":	"2026-11-12T15:11:08Z",
-		"game":	"Hello Neighbor: Vintage",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkvmzx1/cover.png?v=947b27a",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Difficulty: Standart",
-		"primary_t":	7.117,
-		"players":	"findersss",
-		"players_data":	[{
-				"name":	"findersss",
-				"weblink":	"https://www.speedrun.com/users/findersss",
-				"image":	"https://www.speedrun.com/static/user/j9ywv6ox/image.png?v=eac6fcc"
-			}],
-		"weblink":	"https://www.speedrun.com/Hello_Neighbor_Vintage/runs/mknj6rvm"
 	}]
