@@ -1,4 +1,616 @@
 [{
+		"run_id":	"zx19doey",
+		"verified_epoch":	1794677652,
+		"verified_iso":	"2026-11-14T17:34:12Z",
+		"game":	"Hello Neighbor",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4jl5de/cover.png?v=7c75a20",
+		"category":	"PC",
+		"level":	"Act 1",
+		"subcats":	"",
+		"primary_t":	37.471,
+		"players":	"C0rbV2",
+		"players_data":	[{
+				"name":	"C0rbV2",
+				"weblink":	"https://www.speedrun.com/users/C0rbV2",
+				"image":	"https://www.speedrun.com/static/user/8qn2dyd8/image.png?v=d989c00"
+			}],
+		"weblink":	"https://www.speedrun.com/hn1/runs/zx19doey"
+	}, {
+		"run_id":	"z0442l8y",
+		"verified_epoch":	1794677637,
+		"verified_iso":	"2026-11-14T17:33:57Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 123",
+		"subcats":	"IL category: Any%, Version: Old version",
+		"primary_t":	3,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/z0442l8y"
+	}, {
+		"run_id":	"meqv9l2m",
+		"verified_epoch":	1794677626,
+		"verified_iso":	"2026-11-14T17:33:46Z",
+		"game":	"Castlevania: Belmont's Curse",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkv8wg1/cover.png?v=2059be2",
+		"category":	"Bad Ending",
+		"level":	"",
+		"subcats":	"Category: No Major Glitches, Platform: PC, Patch: 1.1.4 (11/6/26)",
+		"primary_t":	2598,
+		"players":	"yuiikii",
+		"players_data":	[{
+				"name":	"yuiikii",
+				"weblink":	"https://www.speedrun.com/users/yuiikii",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/CBC/runs/meqv9l2m"
+	}, {
+		"run_id":	"znnwog9z",
+		"verified_epoch":	1794677623,
+		"verified_iso":	"2026-11-14T17:33:43Z",
+		"game":	"TUNG",
+		"game_cover":	"https://www.speedrun.com/static/game/9dokjzm1/cover.png?v=67d9dcb",
+		"category":	"Tiny Tung%",
+		"level":	"",
+		"subcats":	"Version: Post-Full Release",
+		"primary_t":	98.66,
+		"players":	"GamerRoli5",
+		"players_data":	[{
+				"name":	"GamerRoli5",
+				"weblink":	"https://www.speedrun.com/users/GamerRoli5",
+				"image":	"https://www.speedrun.com/static/user/8vrvvgyx/image.png?v=6f754ee"
+			}],
+		"weblink":	"https://www.speedrun.com/TUNG/runs/znnwog9z"
+	}, {
+		"run_id":	"yl83q3kz",
+		"verified_epoch":	1794677620,
+		"verified_iso":	"2026-11-14T17:33:40Z",
+		"game":	"Happy-HG Network",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7wpn67/cover.png?v=51161ec",
+		"category":	"Parkour",
+		"level":	"Dungeon Parkour 2",
+		"subcats":	"Minecraft Version: 1.21 - 1.21.1",
+		"primary_t":	53.75,
+		"players":	"HighOnAir",
+		"players_data":	[{
+				"name":	"HighOnAir",
+				"weblink":	"https://www.speedrun.com/users/HighOnAir",
+				"image":	"https://www.speedrun.com/static/user/x3qdq7ej/image.png?v=bdd9b9c"
+			}],
+		"weblink":	"https://www.speedrun.com/hhgn/runs/yl83q3kz"
+	}, {
+		"run_id":	"yjvvrp7y",
+		"verified_epoch":	1794677611,
+		"verified_iso":	"2026-11-14T17:33:31Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 116",
+		"subcats":	"IL category: All stars%, Version: Old version",
+		"primary_t":	4.433,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/yjvvrp7y"
+	}, {
+		"run_id":	"m744eg9m",
+		"verified_epoch":	1794677553,
+		"verified_iso":	"2026-11-14T17:32:33Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 303",
+		"subcats":	"IL category: Any%, Version: Old version",
+		"primary_t":	3.983,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/m744eg9m"
+	}, {
+		"run_id":	"yoggq25m",
+		"verified_epoch":	1794677506,
+		"verified_iso":	"2026-11-14T17:31:46Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 301",
+		"subcats":	"IL category: Any%, Version: Old version",
+		"primary_t":	3.45,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/yoggq25m"
+	}, {
+		"run_id":	"yjv0rndy",
+		"verified_epoch":	1794677475,
+		"verified_iso":	"2026-11-14T17:31:15Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Standard",
+		"primary_t":	55.598,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/yjv0rndy"
+	}, {
+		"run_id":	"m344wdgz",
+		"verified_epoch":	1794677452,
+		"verified_iso":	"2026-11-14T17:30:52Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 3",
+		"subcats":	"IL category: All stars%, Version: Old version",
+		"primary_t":	3.817,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/m344wdgz"
+	}, {
+		"run_id":	"yjvvejoy",
+		"verified_epoch":	1794677398,
+		"verified_iso":	"2026-11-14T17:29:58Z",
+		"game":	"Tomb of the Mask",
+		"game_cover":	"https://www.speedrun.com/static/game/4d790zr1/cover.png?v=1b2ff18",
+		"category":	"Individual Levels",
+		"level":	"Level 165",
+		"subcats":	"IL category: Any%, Version: Old version",
+		"primary_t":	2.6,
+		"players":	"ToadMaster06",
+		"players_data":	[{
+				"name":	"ToadMaster06",
+				"weblink":	"https://www.speedrun.com/users/ToadMaster06",
+				"image":	"https://www.speedrun.com/static/user/8q3zo70j/image.png?v=fb8feac"
+			}],
+		"weblink":	"https://www.speedrun.com/totm/runs/yjvvejoy"
+	}, {
+		"run_id":	"y24o6l5z",
+		"verified_epoch":	1794677388,
+		"verified_iso":	"2026-11-14T17:29:48Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	31.095,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y24o6l5z"
+	}, {
+		"run_id":	"m3p9106z",
+		"verified_epoch":	1794677373,
+		"verified_iso":	"2026-11-14T17:29:33Z",
+		"game":	"Rayman 2: The Great Escape",
+		"game_cover":	"https://www.speedrun.com/static/game/o6glk8d2/cover.png?v=25bfc7a",
+		"category":	"Any% IL",
+		"level":	"Prison Ship",
+		"subcats":	"Mode: PC",
+		"primary_t":	170.85,
+		"players":	"RabbidPink",
+		"players_data":	[{
+				"name":	"RabbidPink",
+				"weblink":	"https://www.speedrun.com/users/RabbidPink",
+				"image":	"https://www.speedrun.com/static/user/xym5q7vx/image.png?v=2e63ae2"
+			}],
+		"weblink":	"https://www.speedrun.com/r2/runs/m3p9106z"
+	}, {
+		"run_id":	"y641wk6m",
+		"verified_epoch":	1794677360,
+		"verified_iso":	"2026-11-14T17:29:20Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Standard",
+		"primary_t":	21.829,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y641wk6m"
+	}, {
+		"run_id":	"y24o6l9z",
+		"verified_epoch":	1794677328,
+		"verified_iso":	"2026-11-14T17:28:48Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	12.563,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y24o6l9z"
+	}, {
+		"run_id":	"zqolnlxy",
+		"verified_epoch":	1794677309,
+		"verified_iso":	"2026-11-14T17:28:29Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	74.844,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/zqolnlxy"
+	}, {
+		"run_id":	"m34p8p4z",
+		"verified_epoch":	1794677260,
+		"verified_iso":	"2026-11-14T17:27:40Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Sokoban Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Normal, Board Size: Large",
+		"primary_t":	38.61,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/m34p8p4z"
+	}, {
+		"run_id":	"zxr1p15z",
+		"verified_epoch":	1794677214,
+		"verified_iso":	"2026-11-14T17:26:54Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: Bomb, Speed: Fast, Board Size: Large",
+		"primary_t":	44.906,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/zxr1p15z"
+	}, {
+		"run_id":	"znnw3d8z",
+		"verified_epoch":	1794677199,
+		"verified_iso":	"2026-11-14T17:26:39Z",
+		"game":	"Naruto Online",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yj5wr1/cover.png?v=af9adc9",
+		"category":	"Recruit Sakura",
+		"level":	"",
+		"subcats":	"Mobile or PC: PC",
+		"primary_t":	492,
+		"players":	"Rocky_RoxZ",
+		"players_data":	[{
+				"name":	"Rocky_RoxZ",
+				"weblink":	"https://www.speedrun.com/users/Rocky_RoxZ",
+				"image":	"https://www.speedrun.com/static/user/xy53d0v8/icon?v=7838061"
+			}],
+		"weblink":	"https://www.speedrun.com/naruto_online/runs/znnw3d8z"
+	}, {
+		"run_id":	"z0gw6v8y",
+		"verified_epoch":	1794677198,
+		"verified_iso":	"2026-11-14T17:26:38Z",
+		"game":	"Hyrule Warriors: Age of Imprisonment",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27ppq1/cover.png?v=89b0e1c",
+		"category":	"Any%",
+		"level":	"A Vicious Battle: The Sky Islands",
+		"subcats":	"Difficulty: Easy, Patch: 1.0.3",
+		"primary_t":	119.35,
+		"players":	"LouLouCore",
+		"players_data":	[{
+				"name":	"LouLouCore",
+				"weblink":	"https://www.speedrun.com/users/LouLouCore",
+				"image":	"https://www.speedrun.com/static/user/v8l03548/image.png?v=00ace0c"
+			}],
+		"weblink":	"https://www.speedrun.com/hwaoi/runs/z0gw6v8y"
+	}, {
+		"run_id":	"mrpgwgdz",
+		"verified_epoch":	1794677197,
+		"verified_iso":	"2026-11-14T17:26:37Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: Bomb, Speed: Fast, Board Size: Large",
+		"primary_t":	20.047,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/mrpgwgdz"
+	}, {
+		"run_id":	"z0gw1xjy",
+		"verified_epoch":	1794677143,
+		"verified_iso":	"2026-11-14T17:25:43Z",
+		"game":	"Rayman 2: The Great Escape",
+		"game_cover":	"https://www.speedrun.com/static/game/o6glk8d2/cover.png?v=25bfc7a",
+		"category":	"Any% NMG",
+		"level":	"",
+		"subcats":	"Mode: PC",
+		"primary_t":	4714,
+		"players":	"RabbidPink",
+		"players_data":	[{
+				"name":	"RabbidPink",
+				"weblink":	"https://www.speedrun.com/users/RabbidPink",
+				"image":	"https://www.speedrun.com/static/user/xym5q7vx/image.png?v=2e63ae2"
+			}],
+		"weblink":	"https://www.speedrun.com/r2/runs/z0gw1xjy"
+	}, {
+		"run_id":	"y24lw97z",
+		"verified_epoch":	1794677046,
+		"verified_iso":	"2026-11-14T17:24:06Z",
+		"game":	"Hello, Neighbour! Prototype Revived",
+		"game_cover":	"https://www.speedrun.com/static/game/j1lnwj76/cover.png?v=ab4bcef",
+		"category":	"Alpha 2",
+		"level":	"",
+		"subcats":	"Ending: Basement Ending, Category: No Major Skips",
+		"primary_t":	122.633,
+		"players":	"gozberry",
+		"players_data":	[{
+				"name":	"gozberry",
+				"weblink":	"https://www.speedrun.com/users/gozberry",
+				"image":	"https://www.speedrun.com/static/user/8rp9rz6j/image.png?v=dac5ae1"
+			}],
+		"weblink":	"https://www.speedrun.com/HNPR/runs/y24lw97z"
+	}, {
+		"run_id":	"y4d92pky",
+		"verified_epoch":	1794676995,
+		"verified_iso":	"2026-11-14T17:23:15Z",
+		"game":	"Getting Over It (Scratch edition)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2eq7ed/cover.png?v=3e805a3",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Controller: Touchscreen, Level of Proof: 3, Game Version: GOIWBBFX w/ Ghosts (Scratch), Scratch Username: Oliverlee18",
+		"primary_t":	51.167,
+		"players":	"Oliverlee18",
+		"players_data":	[{
+				"name":	"Oliverlee18",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/goise/runs/y4d92pky"
+	}, {
+		"run_id":	"y9qre4ez",
+		"verified_epoch":	1794676943,
+		"verified_iso":	"2026-11-14T17:22:23Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Classic Mode",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Fast, Board Size: Large",
+		"primary_t":	199.94,
+		"players":	"AryavratMishra",
+		"players_data":	[{
+				"name":	"AryavratMishra",
+				"weblink":	"https://www.speedrun.com/users/AryavratMishra",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y9qre4ez"
+	}, {
+		"run_id":	"mrpg014z",
+		"verified_epoch":	1794676906,
+		"verified_iso":	"2026-11-14T17:21:46Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Classic Mode",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Fast, Board Size: Large",
+		"primary_t":	64.686,
+		"players":	"AryavratMishra",
+		"players_data":	[{
+				"name":	"AryavratMishra",
+				"weblink":	"https://www.speedrun.com/users/AryavratMishra",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/mrpg014z"
+	}, {
+		"run_id":	"m74ked5m",
+		"verified_epoch":	1794676902,
+		"verified_iso":	"2026-11-14T17:21:42Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Classic Mode",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Fast, Board Size: Large",
+		"primary_t":	27.442,
+		"players":	"AryavratMishra",
+		"players_data":	[{
+				"name":	"AryavratMishra",
+				"weblink":	"https://www.speedrun.com/users/AryavratMishra",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/m74ked5m"
+	}, {
+		"run_id":	"zg53w5vy",
+		"verified_epoch":	1794676851,
+		"verified_iso":	"2026-11-14T17:20:51Z",
+		"game":	"Watch_Dogs 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y8y4dq/cover.png?v=a7dfea2",
+		"category":	"Finish",
+		"level":	"Sunday Schooled (False Profits)",
+		"subcats":	"Platform: PC",
+		"primary_t":	87.266,
+		"players":	"SpyDraft",
+		"players_data":	[{
+				"name":	"SpyDraft",
+				"weblink":	"https://www.speedrun.com/users/SpyDraft",
+				"image":	"https://www.speedrun.com/static/user/j22wz5oj/image.png?v=0f13189"
+			}],
+		"weblink":	"https://www.speedrun.com/wd2/runs/zg53w5vy"
+	}, {
+		"run_id":	"y24o23jz",
+		"verified_epoch":	1794676778,
+		"verified_iso":	"2026-11-14T17:19:38Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"Minesweeper High Score",
+		"level":	"",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Slow, Board Size: Standard",
+		"primary_t":	0.086,
+		"players":	"Nat_Cat",
+		"players_data":	[{
+				"name":	"Nat_Cat",
+				"weblink":	"https://www.speedrun.com/users/Nat_Cat",
+				"image":	"https://www.speedrun.com/static/user/8greko7x/image.png?v=4079419"
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y24o23jz"
+	}, {
+		"run_id":	"y847wqxz",
+		"verified_epoch":	1794676692,
+		"verified_iso":	"2026-11-14T17:18:12Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Minesweeper Mode",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Slow, Board Size: Standard",
+		"primary_t":	110.961,
+		"players":	"Nat_Cat",
+		"players_data":	[{
+				"name":	"Nat_Cat",
+				"weblink":	"https://www.speedrun.com/users/Nat_Cat",
+				"image":	"https://www.speedrun.com/static/user/8greko7x/image.png?v=4079419"
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y847wqxz"
+	}, {
+		"run_id":	"yvd42g4y",
+		"verified_epoch":	1794676653,
+		"verified_iso":	"2026-11-14T17:17:33Z",
+		"game":	"Getting Over It (Scratch edition)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2eq7ed/cover.png?v=3e805a3",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Controller: Touchscreen, Level of Proof: 3, Game Version: Minimodpack (TurboWarp), Scratch Username: mekatrex",
+		"primary_t":	49.433,
+		"players":	"mekatrex",
+		"players_data":	[{
+				"name":	"mekatrex",
+				"weblink":	"https://www.speedrun.com/users/mekatrex",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/goise/runs/yvd42g4y"
+	}, {
+		"run_id":	"zqol861y",
+		"verified_epoch":	1794676648,
+		"verified_iso":	"2026-11-14T17:17:28Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Minesweeper Mode",
+		"subcats":	"Multi Apple Amount: Tally, Speed: Slow, Board Size: Standard",
+		"primary_t":	37.705,
+		"players":	"Nat_Cat",
+		"players_data":	[{
+				"name":	"Nat_Cat",
+				"weblink":	"https://www.speedrun.com/users/Nat_Cat",
+				"image":	"https://www.speedrun.com/static/user/8greko7x/image.png?v=4079419"
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/zqol861y"
+	}, {
+		"run_id":	"y873vddz",
+		"verified_epoch":	1794676573,
+		"verified_iso":	"2026-11-14T17:16:13Z",
+		"game":	"Getting Over It (Scratch edition)",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2eq7ed/cover.png?v=3e805a3",
+		"category":	"MODS",
+		"level":	"",
+		"subcats":	"Mod: Floor is Lava",
+		"primary_t":	55.233,
+		"players":	"PlayGamesEgg",
+		"players_data":	[{
+				"name":	"PlayGamesEgg",
+				"weblink":	"https://www.speedrun.com/users/PlayGamesEgg",
+				"image":	"https://www.speedrun.com/static/user/j01rn3rx/image.png?v=27ef9c3"
+			}],
+		"weblink":	"https://www.speedrun.com/goise/runs/y873vddz"
+	}, {
+		"run_id":	"yowv9d5z",
+		"verified_epoch":	1794676356,
+		"verified_iso":	"2026-11-14T17:12:36Z",
+		"game":	"Die to live",
+		"game_cover":	"https://www.speedrun.com/static/game/76r37yv6/cover.png?v=1411997",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	79,
+		"players":	"Hakon_",
+		"players_data":	[{
+				"name":	"Hakon_",
+				"weblink":	"https://www.speedrun.com/users/Hakon_",
+				"image":	"https://www.speedrun.com/static/user/x3wlk6ej/image.png?v=046c539"
+			}],
+		"weblink":	"https://www.speedrun.com/die_to_live/runs/yowv9d5z"
+	}, {
+		"run_id":	"z0gw6g8y",
+		"verified_epoch":	1794676134,
+		"verified_iso":	"2026-11-14T17:08:54Z",
+		"game":	"Opposite Day 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gkyxx1/cover.png?v=ed49a20",
+		"category":	"Blue cube",
+		"level":	"Level 1",
+		"subcats":	"Version: v1.10.0, Level completed: Level completed, Platform: JohnButlerGames",
+		"primary_t":	10.65,
+		"players":	"Greenzacat",
+		"players_data":	[{
+				"name":	"Greenzacat",
+				"weblink":	"https://www.speedrun.com/users/Greenzacat",
+				"image":	"https://www.speedrun.com/static/user/j013q6wx/image.png?v=43ce116"
+			}],
+		"weblink":	"https://www.speedrun.com/od2/runs/z0gw6g8y"
+	}, {
+		"run_id":	"z5q50qez",
+		"verified_epoch":	1794676129,
+		"verified_iso":	"2026-11-14T17:08:49Z",
+		"game":	"Opposite Day 2",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gkyxx1/cover.png?v=ed49a20",
+		"category":	"Blue cube",
+		"level":	"Level 1",
+		"subcats":	"Version: v1.10.0, Level completed: Cube only, Platform: JohnButlerGames",
+		"primary_t":	6.09,
+		"players":	"Greenzacat",
+		"players_data":	[{
+				"name":	"Greenzacat",
+				"weblink":	"https://www.speedrun.com/users/Greenzacat",
+				"image":	"https://www.speedrun.com/static/user/j013q6wx/image.png?v=43ce116"
+			}],
+		"weblink":	"https://www.speedrun.com/od2/runs/z5q50qez"
+	}, {
 		"run_id":	"y9ronrny",
 		"verified_epoch":	1794675911,
 		"verified_iso":	"2026-11-14T17:05:11Z",
@@ -4117,6 +4729,23 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/hhgn/runs/zpjnlonz"
+	}, {
+		"run_id":	"z0gw5poy",
+		"verified_epoch":	1794660085,
+		"verified_iso":	"2026-11-14T12:41:25Z",
+		"game":	"Happy-HG Network",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7wpn67/cover.png?v=51161ec",
+		"category":	"Parkour",
+		"level":	"Dungeon Parkour 2",
+		"subcats":	"Minecraft Version: 1.21 - 1.21.1",
+		"primary_t":	55.6,
+		"players":	"FilthyFlamingo",
+		"players_data":	[{
+				"name":	"FilthyFlamingo",
+				"weblink":	"https://www.speedrun.com/users/FilthyFlamingo",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/hhgn/runs/z0gw5poy"
 	}, {
 		"run_id":	"y4d9wq2y",
 		"verified_epoch":	1794660062,
@@ -16102,276 +16731,4 @@
 				"image":	"https://www.speedrun.com/static/user/xznneerx/image.png?v=e79bc50"
 			}],
 		"weblink":	"https://www.speedrun.com/Arkanoid_Collection/runs/m3p9936z"
-	}, {
-		"run_id":	"y4d99lky",
-		"verified_epoch":	1794591025,
-		"verified_iso":	"2026-11-13T17:30:25Z",
-		"game":	"R.E.P.O. Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/76r4kl41/cover.png?v=4bf4758",
-		"category":	"TAXES%",
-		"level":	"",
-		"subcats":	"NUMBER OF PLAYERS: 1P, VERSION: - v0.5.1 -, MAJOR VERSION: v0.5.x.+, AMOUNT: $100K",
-		"primary_t":	557,
-		"players":	"AdapSean",
-		"players_data":	[{
-				"name":	"AdapSean",
-				"weblink":	"https://www.speedrun.com/users/AdapSean",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/REPO_Category_Extensions/runs/y4d99lky"
-	}, {
-		"run_id":	"zx194lky",
-		"verified_epoch":	1794591022,
-		"verified_iso":	"2026-11-13T17:30:22Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"SX+",
-		"level":	"City: Marathon",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	137.89,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/zx194lky"
-	}, {
-		"run_id":	"zg533lny",
-		"verified_epoch":	1794591005,
-		"verified_iso":	"2026-11-13T17:30:05Z",
-		"game":	"R.E.P.O. Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/76r4kl41/cover.png?v=4bf4758",
-		"category":	"SHOPLESS%",
-		"level":	"",
-		"subcats":	"NUMBER OF PLAYERS: 1P, VERSION: - v0.5.1 -, MAJOR VERSION: v0.5.x.+, SUBCATEGORY: GLITCHLESS, LEVELS: 3 LEVELS",
-		"primary_t":	298,
-		"players":	"AdapSean",
-		"players_data":	[{
-				"name":	"AdapSean",
-				"weblink":	"https://www.speedrun.com/users/AdapSean",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/REPO_Category_Extensions/runs/zg533lny"
-	}, {
-		"run_id":	"y9ro23ry",
-		"verified_epoch":	1794590977,
-		"verified_iso":	"2026-11-13T17:29:37Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"SX+",
-		"level":	"City: Mayhem 1",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	22.01,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/y9ro23ry"
-	}, {
-		"run_id":	"yw9epg9m",
-		"verified_epoch":	1794590925,
-		"verified_iso":	"2026-11-13T17:28:45Z",
-		"game":	"Angry Birds vs Plants",
-		"game_cover":	"https://www.speedrun.com/static/game/36984z8d/cover.png?v=0209410",
-		"category":	"Beat The Level",
-		"level":	"Level 6",
-		"subcats":	"",
-		"primary_t":	10.3,
-		"players":	"Persesco",
-		"players_data":	[{
-				"name":	"Persesco",
-				"weblink":	"https://www.speedrun.com/users/Persesco",
-				"image":	"https://www.speedrun.com/static/user/7j46e1v8/image.png?v=3b09e39"
-			}],
-		"weblink":	"https://www.speedrun.com/abvsplants/runs/yw9epg9m"
-	}, {
-		"run_id":	"yw9epd3m",
-		"verified_epoch":	1794590907,
-		"verified_iso":	"2026-11-13T17:28:27Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"SX+",
-		"level":	"City: Stage 1",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	54.23,
-		"players":	"Awise_",
-		"players_data":	[{
-				"name":	"Awise_",
-				"weblink":	"https://www.speedrun.com/users/Awise_",
-				"image":	"https://www.speedrun.com/static/user/8rr3rrw8/image.png?v=4179005"
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/yw9epd3m"
-	}, {
-		"run_id":	"y613760m",
-		"verified_epoch":	1794590843,
-		"verified_iso":	"2026-11-13T17:27:23Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"SX+",
-		"level":	"Desert: Stage 4",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	59.56,
-		"players":	"hoho131",
-		"players_data":	[{
-				"name":	"hoho131",
-				"weblink":	"https://www.speedrun.com/users/hoho131",
-				"image":	"https://www.speedrun.com/static/user/x7y3v2rx/image.png?v=6de22fe"
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/y613760m"
-	}, {
-		"run_id":	"z0gww44y",
-		"verified_epoch":	1794590808,
-		"verified_iso":	"2026-11-13T17:26:48Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"GT",
-		"level":	"Snow: Big Air",
-		"subcats":	"Vehicle: The Trophy Truck",
-		"primary_t":	47.7,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/z0gww44y"
-	}, {
-		"run_id":	"zpjn0rxz",
-		"verified_epoch":	1794590799,
-		"verified_iso":	"2026-11-13T17:26:39Z",
-		"game":	"Clean Crew",
-		"game_cover":	"https://www.speedrun.com/static/game/m1z33omd/cover.png?v=e9ae5cf",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Player Count: Solo, Version: v0.6.? Random bug fixes and whatnot, Difficulty: Easy",
-		"primary_t":	1483,
-		"players":	"TheEpicNub",
-		"players_data":	[{
-				"name":	"TheEpicNub",
-				"weblink":	"https://www.speedrun.com/users/TheEpicNub",
-				"image":	"https://www.speedrun.com/static/user/8rrwyk68/image.png?v=e2fe8b0"
-			}],
-		"weblink":	"https://www.speedrun.com/Clean_Crew/runs/zpjn0rxz"
-	}, {
-		"run_id":	"zx199pqy",
-		"verified_epoch":	1794590745,
-		"verified_iso":	"2026-11-13T17:25:45Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"S",
-		"level":	"Snow: Big Air",
-		"subcats":	"Vehicle: The Trophy Truck",
-		"primary_t":	47.56,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/zx199pqy"
-	}, {
-		"run_id":	"yj0jjwnz",
-		"verified_epoch":	1794590674,
-		"verified_iso":	"2026-11-13T17:24:34Z",
-		"game":	"R.E.P.O. Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/76r4kl41/cover.png?v=4bf4758",
-		"category":	"DRONELESS%",
-		"level":	"",
-		"subcats":	"VERSION: - v0.5.0 -, NUMBER OF PLAYERS: 1P, MAJOR VERSION: v0.5.x.+, SUBCATEGORY: GLITCHLESS, LEVELS: 3 LEVELS",
-		"primary_t":	294,
-		"players":	"AdapSean",
-		"players_data":	[{
-				"name":	"AdapSean",
-				"weblink":	"https://www.speedrun.com/users/AdapSean",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/REPO_Category_Extensions/runs/yj0jjwnz"
-	}, {
-		"run_id":	"yw9ee5pm",
-		"verified_epoch":	1794590619,
-		"verified_iso":	"2026-11-13T17:23:39Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"S",
-		"level":	"City: Stage 3",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	44,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/yw9ee5pm"
-	}, {
-		"run_id":	"mrgjjd2z",
-		"verified_epoch":	1794590502,
-		"verified_iso":	"2026-11-13T17:21:42Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"GT",
-		"level":	"City: Stage 3",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	43.28,
-		"players":	"howdydumdum",
-		"players_data":	[{
-				"name":	"howdydumdum",
-				"weblink":	"https://www.speedrun.com/users/howdydumdum",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/mrgjjd2z"
-	}, {
-		"run_id":	"z549g3dm",
-		"verified_epoch":	1794590395,
-		"verified_iso":	"2026-11-13T17:19:55Z",
-		"game":	"R.E.P.O.",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgkv46/cover.png?v=ff63c9e",
-		"category":	"10 LEVELS",
-		"level":	"",
-		"subcats":	"VERSION: - v0.5.1 -, NUMBER OF PLAYERS: 1P, MAJOR VERSION: v0.5.x.+, SUBCATEGORY: GLITCHLESS",
-		"primary_t":	2211,
-		"players":	"willypng",
-		"players_data":	[{
-				"name":	"willypng",
-				"weblink":	"https://www.speedrun.com/users/willypng",
-				"image":	"https://www.speedrun.com/static/user/j9kdnlr8/image.png?v=e789d0e"
-			}],
-		"weblink":	"https://www.speedrun.com/REPO/runs/z549g3dm"
-	}, {
-		"run_id":	"z5494rdm",
-		"verified_epoch":	1794590032,
-		"verified_iso":	"2026-11-13T17:13:52Z",
-		"game":	"Blasphemous",
-		"game_cover":	"https://www.speedrun.com/static/game/lde39mx6/cover.png?v=680736c",
-		"category":	"Pilgrim",
-		"level":	"Third Sorrow of the True Torment",
-		"subcats":	"Version: Android",
-		"primary_t":	279.04,
-		"players":	"Darckastell",
-		"players_data":	[{
-				"name":	"Darckastell",
-				"weblink":	"https://www.speedrun.com/users/Darckastell",
-				"image":	"https://www.speedrun.com/static/user/x3r3wk2x/image.png?v=4584c0b"
-			}],
-		"weblink":	"https://www.speedrun.com/blasphemous/runs/z5494rdm"
-	}, {
-		"run_id":	"z1ed1kjy",
-		"verified_epoch":	1794589652,
-		"verified_iso":	"2026-11-13T17:07:32Z",
-		"game":	"Driver: You Are The Wheelman",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y3mo6q/cover.png?v=4f26569",
-		"category":	"Any% PS",
-		"level":	"",
-		"subcats":	"Cop difficulty: Easy, Segments: RTA, System: Console",
-		"primary_t":	4279,
-		"players":	"ViperUK",
-		"players_data":	[{
-				"name":	"ViperUK",
-				"weblink":	"https://www.speedrun.com/users/ViperUK",
-				"image":	"https://www.speedrun.com/static/user/18qr7qjn/image.png?v=9efd228"
-			}],
-		"weblink":	"https://www.speedrun.com/driver_1/runs/z1ed1kjy"
 	}]
