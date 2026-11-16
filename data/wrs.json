@@ -1,4 +1,110 @@
 [{
+		"run_id":	"yowv0v1z",
+		"verified_epoch":	1794867974,
+		"verified_iso":	"2026-11-16T22:26:14Z",
+		"game":	"Super Battle Golf",
+		"game_cover":	"https://www.speedrun.com/static/game/ldem3lj1/cover.png?v=c7137d9",
+		"category":	"Pro Golf (No Wind)",
+		"level":	"Desert 6 - Oasis",
+		"subcats":	"Version: 1.3 +",
+		"primary_t":	14.671,
+		"players":	"Kaosys",
+		"players_data":	[{
+				"name":	"Kaosys",
+				"weblink":	"https://www.speedrun.com/users/Kaosys",
+				"image":	"https://www.speedrun.com/static/user/j9len2wj/image.png?v=0a92206"
+			}],
+		"weblink":	"https://www.speedrun.com/superbattlegolf/runs/yowv0v1z"
+	}, {
+		"run_id":	"y4d9l6dy",
+		"verified_epoch":	1794867946,
+		"verified_iso":	"2026-11-16T22:25:46Z",
+		"game":	"Rubik's Puzzle World",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7nykg6/cover.png?v=9e47fc5",
+		"category":	"3x3",
+		"level":	"",
+		"subcats":	"Pauses2: Any%",
+		"primary_t":	9,
+		"players":	"Ace_speedcuber",
+		"players_data":	[{
+				"name":	"Ace_speedcuber",
+				"weblink":	"https://www.speedrun.com/users/Ace_speedcuber",
+				"image":	"https://www.speedrun.com/static/user/8w07qo3j/image.png?v=e453c0d"
+			}],
+		"weblink":	"https://www.speedrun.com/rubiks_puzzle_world/runs/y4d9l6dy"
+	}, {
+		"run_id":	"zqlk208y",
+		"verified_epoch":	1794867824,
+		"verified_iso":	"2026-11-16T22:23:44Z",
+		"game":	"Super Puzzled Cat",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xj2g1/cover.png?v=d1ce7e7",
+		"category":	"ILs",
+		"level":	"back in time juice",
+		"subcats":	"",
+		"primary_t":	13.2,
+		"players":	"hdckighfkvhvgmk",
+		"players_data":	[{
+				"name":	"hdckighfkvhvgmk",
+				"weblink":	"https://www.speedrun.com/users/hdckighfkvhvgmk",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Super_Puzzled_Cat/runs/zqlk208y"
+	}, {
+		"run_id":	"yowv0w5z",
+		"verified_epoch":	1794867788,
+		"verified_iso":	"2026-11-16T22:23:08Z",
+		"game":	"Grand Theft Auto Online",
+		"game_cover":	"https://www.speedrun.com/static/game/j1nqoy1p/cover.png?v=10e60c7",
+		"category":	"Elite Finales",
+		"level":	"",
+		"subcats":	"SH (Single Host): True, Version: 1.70, Elite Finale Categories: Casino Heist - Aggressive (Any take), Type:: Any%",
+		"primary_t":	868,
+		"players":	"the_infinite_rift, Orb Me Papa",
+		"players_data":	[{
+				"name":	"the_infinite_rift",
+				"weblink":	"https://www.speedrun.com/users/the_infinite_rift",
+				"image":	"https://www.speedrun.com/static/user/8vykl5n8/image.png?v=c7ff071"
+			}, {
+				"name":	"Orb Me Papa",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/gtao/runs/yowv0w5z"
+	}, {
+		"run_id":	"mk6lovvz",
+		"verified_epoch":	1794867718,
+		"verified_iso":	"2026-11-16T22:21:58Z",
+		"game":	"Smash Remix",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mxk746/cover.png?v=66108cb",
+		"category":	"Board the Platforms",
+		"level":	"Conker",
+		"subcats":	"Version: 2.0.1",
+		"primary_t":	28.3,
+		"players":	"don_limon1987xd",
+		"players_data":	[{
+				"name":	"don_limon1987xd",
+				"weblink":	"https://www.speedrun.com/users/don_limon1987xd",
+				"image":	"https://www.speedrun.com/static/user/jn73wo48/image.png?v=e9c214b"
+			}],
+		"weblink":	"https://www.speedrun.com/smash_remix/runs/mk6lovvz"
+	}, {
+		"run_id":	"zqlk261y",
+		"verified_epoch":	1794867348,
+		"verified_iso":	"2026-11-16T22:15:48Z",
+		"game":	"Roblox: Pressure Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
+		"category":	"Damage",
+		"level":	"",
+		"subcats":	"Cause: Cement Shoes, Version: Current",
+		"primary_t":	104.85,
+		"players":	"HonLu",
+		"players_data":	[{
+				"name":	"HonLu",
+				"weblink":	"https://www.speedrun.com/users/HonLu",
+				"image":	"https://www.speedrun.com/static/user/jn2kly2j/image.png?v=f100598"
+			}],
+		"weblink":	"https://www.speedrun.com/Roblox_Pressure_CE/runs/zqlk261y"
+	}, {
 		"run_id":	"zpjnkd8z",
 		"verified_epoch":	1794866835,
 		"verified_iso":	"2026-11-16T22:07:15Z",
@@ -23707,225 +23813,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/hl1/runs/yowvle5z"
-	}, {
-		"run_id":	"z0gwlr4y",
-		"verified_epoch":	1794782120,
-		"verified_iso":	"2026-11-15T22:35:20Z",
-		"game":	"Tony Hawk's Pro Skater 3+4",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jgk3x6/cover.png?v=feffa42",
-		"category":	"Speedrun Mode",
-		"level":	"London",
-		"subcats":	"",
-		"primary_t":	58.227,
-		"players":	"NewbieTHPS",
-		"players_data":	[{
-				"name":	"NewbieTHPS",
-				"weblink":	"https://www.speedrun.com/users/NewbieTHPS",
-				"image":	"https://www.speedrun.com/static/user/8r6k1gw8/image.png?v=6c18dd8"
-			}],
-		"weblink":	"https://www.speedrun.com/thps34/runs/z0gwlr4y"
-	}, {
-		"run_id":	"zg05plem",
-		"verified_epoch":	1794782027,
-		"verified_iso":	"2026-11-15T22:33:47Z",
-		"game":	"Class of '09: Puzzle Showdown",
-		"game_cover":	"https://www.speedrun.com/static/game/268pzx5d/cover.png?v=360324a",
-		"category":	"Weekend at Kelly's",
-		"level":	"",
-		"subcats":	"Endings: Ending 6 - Sponsored By [REDACTED]",
-		"primary_t":	987.667,
-		"players":	"FFRPro21",
-		"players_data":	[{
-				"name":	"FFRPro21",
-				"weblink":	"https://www.speedrun.com/users/FFRPro21",
-				"image":	"https://www.speedrun.com/static/user/pj02948w/image.png?v=1084982"
-			}],
-		"weblink":	"https://www.speedrun.com/Classof09PuzzleShowdown/runs/zg05plem"
-	}, {
-		"run_id":	"m3p9774z",
-		"verified_epoch":	1794781900,
-		"verified_iso":	"2026-11-15T22:31:40Z",
-		"game":	"Supreme snowboarding",
-		"game_cover":	"https://www.speedrun.com/static/game/nd273pr1/cover.png?v=c9526eb",
-		"category":	"Village - easy",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	69.4,
-		"players":	"ThatNegativeGuy",
-		"players_data":	[{
-				"name":	"ThatNegativeGuy",
-				"weblink":	"https://www.speedrun.com/users/ThatNegativeGuy",
-				"image":	"https://www.speedrun.com/static/user/81p7gll8/image.png?v=9d97297"
-			}],
-		"weblink":	"https://www.speedrun.com/Supreme_snowboarding/runs/m3p9774z"
-	}, {
-		"run_id":	"zg05p8em",
-		"verified_epoch":	1794781641,
-		"verified_iso":	"2026-11-15T22:27:21Z",
-		"game":	"Class of '09: Puzzle Showdown",
-		"game_cover":	"https://www.speedrun.com/static/game/268pzx5d/cover.png?v=360324a",
-		"category":	"Weekend at Kelly's",
-		"level":	"",
-		"subcats":	"Endings: Ending 5 - I Was Worthless Too",
-		"primary_t":	991.7,
-		"players":	"FFRPro21",
-		"players_data":	[{
-				"name":	"FFRPro21",
-				"weblink":	"https://www.speedrun.com/users/FFRPro21",
-				"image":	"https://www.speedrun.com/static/user/pj02948w/image.png?v=1084982"
-			}],
-		"weblink":	"https://www.speedrun.com/Classof09PuzzleShowdown/runs/zg05p8em"
-	}, {
-		"run_id":	"y9roxpry",
-		"verified_epoch":	1794781383,
-		"verified_iso":	"2026-11-15T22:23:03Z",
-		"game":	"Wii Party U",
-		"game_cover":	"https://www.speedrun.com/static/game/j1lkq46g/cover.png?v=7defa10",
-		"category":	"Highway Rollers",
-		"level":	"",
-		"subcats":	"Number of Opponents: 1 Opponent, Opponent Skill Level: Beginner",
-		"primary_t":	650,
-		"players":	"Tsov",
-		"players_data":	[{
-				"name":	"Tsov",
-				"weblink":	"https://www.speedrun.com/users/Tsov",
-				"image":	"https://www.speedrun.com/static/user/xk4o37kj/image.png?v=89859dd"
-			}],
-		"weblink":	"https://www.speedrun.com/wpu/runs/y9roxpry"
-	}, {
-		"run_id":	"mrgjoxgz",
-		"verified_epoch":	1794781139,
-		"verified_iso":	"2026-11-15T22:18:59Z",
-		"game":	"Donkey Kong Country Returns HD",
-		"game_cover":	"https://www.speedrun.com/static/game/46wrxl91/cover.png?v=aca466d",
-		"category":	"Turbo Attack",
-		"level":	"Jungle",
-		"subcats":	"Mode: Modern Mode, Jungle Level: 1-1 Jungle Hijinxs",
-		"primary_t":	19.61,
-		"players":	"Melontoad",
-		"players_data":	[{
-				"name":	"Melontoad",
-				"weblink":	"https://www.speedrun.com/users/Melontoad",
-				"image":	"https://www.speedrun.com/static/user/j4pyky5j/image.png?v=5127c02"
-			}],
-		"weblink":	"https://www.speedrun.com/dkcrhd/runs/mrgjoxgz"
-	}, {
-		"run_id":	"z0gwn89y",
-		"verified_epoch":	1794781046,
-		"verified_iso":	"2026-11-15T22:17:26Z",
-		"game":	"FIFA 2002 World Cup",
-		"game_cover":	"https://www.speedrun.com/static/game/4d79wez1/cover.png?v=92c2c0f",
-		"category":	"Goal%",
-		"level":	"",
-		"subcats":	"Platform: GCN, Team: France",
-		"primary_t":	3,
-		"players":	"tanakaisao",
-		"players_data":	[{
-				"name":	"tanakaisao",
-				"weblink":	"https://www.speedrun.com/users/tanakaisao",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/fifa_2002_world_cup/runs/z0gwn89y"
-	}, {
-		"run_id":	"m3p9lnwz",
-		"verified_epoch":	1794781021,
-		"verified_iso":	"2026-11-15T22:17:01Z",
-		"game":	"Final Dribble",
-		"game_cover":	"https://www.speedrun.com/static/game/369y53l1/cover.png?v=2d9a7f8",
-		"category":	"100%",
-		"level":	"Level 16",
-		"subcats":	"Boost: Limited",
-		"primary_t":	11.756,
-		"players":	"kejnu_",
-		"players_data":	[{
-				"name":	"kejnu_",
-				"weblink":	"https://www.speedrun.com/users/kejnu_",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/FinalDribble/runs/m3p9lnwz"
-	}, {
-		"run_id":	"y4d9gj3y",
-		"verified_epoch":	1794780891,
-		"verified_iso":	"2026-11-15T22:14:51Z",
-		"game":	"Overpass (Zordix)",
-		"game_cover":	"https://www.speedrun.com/static/game/369y5q81/cover.png?v=08e53f0",
-		"category":	"UTV",
-		"level":	"The Snag",
-		"subcats":	"",
-		"primary_t":	242.89,
-		"players":	"MurdocLoch",
-		"players_data":	[{
-				"name":	"MurdocLoch",
-				"weblink":	"https://www.speedrun.com/users/MurdocLoch",
-				"image":	"https://www.speedrun.com/static/user/dx35drej/image.png?v=4c72f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/Overpass_Zordix/runs/y4d9gj3y"
-	}, {
-		"run_id":	"m7k12o4z",
-		"verified_epoch":	1794780769,
-		"verified_iso":	"2026-11-15T22:12:49Z",
-		"game":	"Overpass (Zordix)",
-		"game_cover":	"https://www.speedrun.com/static/game/369y5q81/cover.png?v=08e53f0",
-		"category":	"UTV",
-		"level":	"Thrilling Troubles",
-		"subcats":	"",
-		"primary_t":	297.93,
-		"players":	"MurdocLoch",
-		"players_data":	[{
-				"name":	"MurdocLoch",
-				"weblink":	"https://www.speedrun.com/users/MurdocLoch",
-				"image":	"https://www.speedrun.com/static/user/dx35drej/image.png?v=4c72f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/Overpass_Zordix/runs/m7k12o4z"
-	}, {
-		"run_id":	"z1edqn7y",
-		"verified_epoch":	1794780757,
-		"verified_iso":	"2026-11-15T22:12:37Z",
-		"game":	"Harry Potter and the Deathly Hallows Part 2",
-		"game_cover":	"https://www.speedrun.com/static/game/qw6jqx1j/cover.png?v=f9f7d1a",
-		"category":	"100%",
-		"level":	"",
-		"subcats":	"FPS: 30 FPS",
-		"primary_t":	5499,
-		"players":	"Flo203",
-		"players_data":	[{
-				"name":	"Flo203",
-				"weblink":	"https://www.speedrun.com/users/Flo203",
-				"image":	"https://www.speedrun.com/static/user/48gl4k2x/image.png?v=163facb"
-			}],
-		"weblink":	"https://www.speedrun.com/hp7p2/runs/z1edqn7y"
-	}, {
-		"run_id":	"y9ro6dey",
-		"verified_epoch":	1794780741,
-		"verified_iso":	"2026-11-15T22:12:21Z",
-		"game":	"ARC STYLE: Baseball 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/yd47k3pd/cover.png?v=58f4e8c",
-		"category":	"Beat Tournament",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	2904,
-		"players":	"Tarp31",
-		"players_data":	[{
-				"name":	"Tarp31",
-				"weblink":	"https://www.speedrun.com/users/Tarp31",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ARC_STYLE_Baseball_3D/runs/y9ro6dey"
-	}, {
-		"run_id":	"yowvlx0z",
-		"verified_epoch":	1794780658,
-		"verified_iso":	"2026-11-15T22:10:58Z",
-		"game":	"Overpass (Zordix)",
-		"game_cover":	"https://www.speedrun.com/static/game/369y5q81/cover.png?v=08e53f0",
-		"category":	"UTV",
-		"level":	"Impossible Road",
-		"subcats":	"",
-		"primary_t":	42.39,
-		"players":	"MurdocLoch",
-		"players_data":	[{
-				"name":	"MurdocLoch",
-				"weblink":	"https://www.speedrun.com/users/MurdocLoch",
-				"image":	"https://www.speedrun.com/static/user/dx35drej/image.png?v=4c72f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/Overpass_Zordix/runs/yowvlx0z"
 	}]
