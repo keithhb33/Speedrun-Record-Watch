@@ -1,4 +1,106 @@
 [{
+		"run_id":	"mrgjg14z",
+		"verified_epoch":	1794987262,
+		"verified_iso":	"2026-11-18T07:34:22Z",
+		"game":	"Bottle Jump 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/76r4y0q1/cover.png?v=6f1f07a",
+		"category":	"Levels",
+		"level":	"",
+		"subcats":	"Levels: 1-20",
+		"primary_t":	477.067,
+		"players":	"David33",
+		"players_data":	[{
+				"name":	"David33",
+				"weblink":	"https://www.speedrun.com/users/David33",
+				"image":	"https://www.speedrun.com/static/user/j2pkql78/image.png?v=bbbb1b1"
+			}],
+		"weblink":	"https://www.speedrun.com/bj3d/runs/mrgjg14z"
+	}, {
+		"run_id":	"y9ror92y",
+		"verified_epoch":	1794987132,
+		"verified_iso":	"2026-11-18T07:32:12Z",
+		"game":	"Bottle Jump 3D",
+		"game_cover":	"https://www.speedrun.com/static/game/76r4y0q1/cover.png?v=6f1f07a",
+		"category":	"Levels",
+		"level":	"",
+		"subcats":	"Levels: 1-15",
+		"primary_t":	277.5,
+		"players":	"David33",
+		"players_data":	[{
+				"name":	"David33",
+				"weblink":	"https://www.speedrun.com/users/David33",
+				"image":	"https://www.speedrun.com/static/user/j2pkql78/image.png?v=bbbb1b1"
+			}],
+		"weblink":	"https://www.speedrun.com/bj3d/runs/y9ror92y"
+	}, {
+		"run_id":	"yvd4d2xy",
+		"verified_epoch":	1794986335,
+		"verified_iso":	"2026-11-18T07:18:55Z",
+		"game":	"Midas Crutch",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9ro01/cover.png?v=5d4e803",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	164,
+		"players":	"Riddou",
+		"players_data":	[{
+				"name":	"Riddou",
+				"weblink":	"https://www.speedrun.com/users/Riddou",
+				"image":	"https://www.speedrun.com/static/user/j4p0k2mj/image.png?v=4c5cf6e"
+			}],
+		"weblink":	"https://www.speedrun.com/Midas_Crutch/runs/yvd4d2xy"
+	}, {
+		"run_id":	"z5q5qo5z",
+		"verified_epoch":	1794986223,
+		"verified_iso":	"2026-11-18T07:17:03Z",
+		"game":	"Hill Climb Racing 2",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2erm5d/cover.png?v=807bb89",
+		"category":	"Time Trial",
+		"level":	"Yellow Snow",
+		"subcats":	"Vehicle: Havoc",
+		"primary_t":	13.325,
+		"players":	"UD_Ben",
+		"players_data":	[{
+				"name":	"UD_Ben",
+				"weblink":	"https://www.speedrun.com/users/UD_Ben",
+				"image":	"https://www.speedrun.com/static/user/j2ewmy7j/image.png?v=078b4da"
+			}],
+		"weblink":	"https://www.speedrun.com/hcr2/runs/z5q5qo5z"
+	}, {
+		"run_id":	"y2o9ol5m",
+		"verified_epoch":	1794986116,
+		"verified_iso":	"2026-11-18T07:15:16Z",
+		"game":	"Surf Pro",
+		"game_cover":	"https://www.speedrun.com/static/game/pd054m01/cover.png?v=5dd0117",
+		"category":	"TAS - Speedrun",
+		"level":	"",
+		"subcats":	"Speedrun Map: Mood",
+		"primary_t":	16.091,
+		"players":	"w3ntr",
+		"players_data":	[{
+				"name":	"w3ntr",
+				"weblink":	"https://www.speedrun.com/users/w3ntr",
+				"image":	"https://www.speedrun.com/static/user/j5w3rgwj/image.png?v=f3028f9"
+			}],
+		"weblink":	"https://www.speedrun.com/surf_pro/runs/y2o9ol5m"
+	}, {
+		"run_id":	"meqvq18m",
+		"verified_epoch":	1794986111,
+		"verified_iso":	"2026-11-18T07:15:11Z",
+		"game":	"Midas Crutch",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9ro01/cover.png?v=5d4e803",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	95,
+		"players":	"Riddou",
+		"players_data":	[{
+				"name":	"Riddou",
+				"weblink":	"https://www.speedrun.com/users/Riddou",
+				"image":	"https://www.speedrun.com/static/user/j4p0k2mj/image.png?v=4c5cf6e"
+			}],
+		"weblink":	"https://www.speedrun.com/Midas_Crutch/runs/meqvq18m"
+	}, {
 		"run_id":	"y613j16m",
 		"verified_epoch":	1794985794,
 		"verified_iso":	"2026-11-18T07:09:54Z",
@@ -14578,195 +14680,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/ksace/runs/zg539pny"
-	}, {
-		"run_id":	"y873oqxz",
-		"verified_epoch":	1794900884,
-		"verified_iso":	"2026-11-17T07:34:44Z",
-		"game":	"Advent Neon",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3wmzg1/cover.png?v=2ec7358",
-		"category":	"Neon",
-		"level":	"Phospha District Act 1",
-		"subcats":	"",
-		"primary_t":	127.64,
-		"players":	"NachoTheAdventurer",
-		"players_data":	[{
-				"name":	"NachoTheAdventurer",
-				"weblink":	"https://www.speedrun.com/users/NachoTheAdventurer",
-				"image":	"https://www.speedrun.com/static/user/48gonp7x/image.png?v=68464d9"
-			}],
-		"weblink":	"https://www.speedrun.com/Advent_Neon/runs/y873oqxz"
-	}, {
-		"run_id":	"znnwgl7z",
-		"verified_epoch":	1794900800,
-		"verified_iso":	"2026-11-17T07:33:20Z",
-		"game":	"Valheim",
-		"game_cover":	"https://www.speedrun.com/static/game/yd4kmnp6/cover.png?v=b6b3d9a",
-		"category":	"Random Seed Glitchless",
-		"level":	"Eikthyr",
-		"subcats":	"Game Start Type: New Game, Version: Deep North",
-		"primary_t":	219.39,
-		"players":	"SavinTurbo",
-		"players_data":	[{
-				"name":	"SavinTurbo",
-				"weblink":	"https://www.speedrun.com/users/SavinTurbo",
-				"image":	"https://www.speedrun.com/static/user/j47ndvwj/image.png?v=aa1b6f3"
-			}],
-		"weblink":	"https://www.speedrun.com/valheim/runs/znnwgl7z"
-	}, {
-		"run_id":	"z0gw8eoy",
-		"verified_epoch":	1794900739,
-		"verified_iso":	"2026-11-17T07:32:19Z",
-		"game":	"Advent Neon",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3wmzg1/cover.png?v=2ec7358",
-		"category":	"Neon",
-		"level":	"Phospha District Act 2",
-		"subcats":	"",
-		"primary_t":	28.63,
-		"players":	"NachoTheAdventurer",
-		"players_data":	[{
-				"name":	"NachoTheAdventurer",
-				"weblink":	"https://www.speedrun.com/users/NachoTheAdventurer",
-				"image":	"https://www.speedrun.com/static/user/48gonp7x/image.png?v=68464d9"
-			}],
-		"weblink":	"https://www.speedrun.com/Advent_Neon/runs/z0gw8eoy"
-	}, {
-		"run_id":	"y9ro1gny",
-		"verified_epoch":	1794900606,
-		"verified_iso":	"2026-11-17T07:30:06Z",
-		"game":	"Monster High 13 wishes",
-		"game_cover":	"https://www.speedrun.com/static/game/kdk2rldm/cover.png?v=51d203b",
-		"category":	"Any% (1 Player)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	3576,
-		"players":	"Inkyubyte",
-		"players_data":	[{
-				"name":	"Inkyubyte",
-				"weblink":	"https://www.speedrun.com/users/Inkyubyte",
-				"image":	"https://www.speedrun.com/static/user/qxkrmm98/image.png?v=14a5e1d"
-			}],
-		"weblink":	"https://www.speedrun.com/monster_high_13_wishes/runs/y9ro1gny"
-	}, {
-		"run_id":	"zg53o2vy",
-		"verified_epoch":	1794900591,
-		"verified_iso":	"2026-11-17T07:29:51Z",
-		"game":	"Mario Kart 8 Deluxe",
-		"game_cover":	"https://www.speedrun.com/static/game/46w0n91r/cover.png?v=264b144",
-		"category":	"DLC Cups",
-		"level":	"",
-		"subcats":	"Individual Cup: Lucky Cat Cup, cc: 150cc, Version: Cartridge, Patch Number: 4.0.0+, Items: No Items, Platform: Nintendo Switch",
-		"primary_t":	513,
-		"players":	"FRalistair",
-		"players_data":	[{
-				"name":	"FRalistair",
-				"weblink":	"https://www.speedrun.com/users/FRalistair",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mk8dx/runs/zg53o2vy"
-	}, {
-		"run_id":	"z0gw06jy",
-		"verified_epoch":	1794900302,
-		"verified_iso":	"2026-11-17T07:25:02Z",
-		"game":	"Destiny 2",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7y5zd7/cover.png?v=ed3fc5a",
-		"category":	"Vault of Glass",
-		"level":	"",
-		"subcats":	"Expansion: Monument of Triumph, Category: Duo, Ruleset: Unrestricted",
-		"primary_t":	1119,
-		"players":	"Asunaad2, Patientt",
-		"players_data":	[{
-				"name":	"Asunaad2",
-				"weblink":	"https://www.speedrun.com/users/Asunaad2",
-				"image":	"https://www.speedrun.com/static/user/8g9k6v7x/image.png?v=5296703"
-			}, {
-				"name":	"Patientt",
-				"weblink":	"https://www.speedrun.com/users/Patientt",
-				"image":	"https://www.speedrun.com/static/user/819p1vrx/image.png?v=c16274c"
-			}],
-		"weblink":	"https://www.speedrun.com/destiny2/runs/z0gw06jy"
-	}, {
-		"run_id":	"yowvxw5z",
-		"verified_epoch":	1794900291,
-		"verified_iso":	"2026-11-17T07:24:51Z",
-		"game":	"Mario Kart 8 Deluxe",
-		"game_cover":	"https://www.speedrun.com/static/game/46w0n91r/cover.png?v=264b144",
-		"category":	"DLC Cups",
-		"level":	"",
-		"subcats":	"Individual Cup: Fruit Cup, cc: 150cc, Version: Cartridge, Patch Number: 4.0.0+, Items: No Items, Platform: Nintendo Switch",
-		"primary_t":	579,
-		"players":	"FRalistair",
-		"players_data":	[{
-				"name":	"FRalistair",
-				"weblink":	"https://www.speedrun.com/users/FRalistair",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mk8dx/runs/yowvxw5z"
-	}, {
-		"run_id":	"z1edqogy",
-		"verified_epoch":	1794899980,
-		"verified_iso":	"2026-11-17T07:19:40Z",
-		"game":	"Need for Speed: Carbon",
-		"game_cover":	"https://www.speedrun.com/static/game/4d708n17/cover.png?v=d01b317",
-		"category":	"Challenge Series (CE only)",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	2421,
-		"players":	"Arkeno",
-		"players_data":	[{
-				"name":	"Arkeno",
-				"weblink":	"https://www.speedrun.com/users/Arkeno",
-				"image":	"https://www.speedrun.com/static/user/qxk1z66j/image.png?v=c6cdb29"
-			}],
-		"weblink":	"https://www.speedrun.com/nfsc/runs/z1edqogy"
-	}, {
-		"run_id":	"yd78ow0y",
-		"verified_epoch":	1794899915,
-		"verified_iso":	"2026-11-17T07:18:35Z",
-		"game":	"Overpass (Zordix)",
-		"game_cover":	"https://www.speedrun.com/static/game/369y5q81/cover.png?v=08e53f0",
-		"category":	"UTV",
-		"level":	"Enigma",
-		"subcats":	"",
-		"primary_t":	397.37,
-		"players":	"MurdocLoch",
-		"players_data":	[{
-				"name":	"MurdocLoch",
-				"weblink":	"https://www.speedrun.com/users/MurdocLoch",
-				"image":	"https://www.speedrun.com/static/user/dx35drej/image.png?v=4c72f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/Overpass_Zordix/runs/yd78ow0y"
-	}, {
-		"run_id":	"mk6lr83z",
-		"verified_epoch":	1794899872,
-		"verified_iso":	"2026-11-17T07:17:52Z",
-		"game":	"Marathon Recompiled",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j9n54d/cover.png?v=8d85c55",
-		"category":	"Sonic",
-		"level":	"Kingdom Valley",
-		"subcats":	"Category: Normal",
-		"primary_t":	160.888,
-		"players":	"Itsfare",
-		"players_data":	[{
-				"name":	"Itsfare",
-				"weblink":	"https://www.speedrun.com/users/Itsfare",
-				"image":	"https://www.speedrun.com/static/user/8e9w4ydj/image.png?v=451c1ae"
-			}],
-		"weblink":	"https://www.speedrun.com/sonic06recompiled/runs/mk6lr83z"
-	}, {
-		"run_id":	"yowv5rjz",
-		"verified_epoch":	1794899859,
-		"verified_iso":	"2026-11-17T07:17:39Z",
-		"game":	"Overpass (Zordix)",
-		"game_cover":	"https://www.speedrun.com/static/game/369y5q81/cover.png?v=08e53f0",
-		"category":	"UTV",
-		"level":	"Winding Turns",
-		"subcats":	"",
-		"primary_t":	409.37,
-		"players":	"MurdocLoch",
-		"players_data":	[{
-				"name":	"MurdocLoch",
-				"weblink":	"https://www.speedrun.com/users/MurdocLoch",
-				"image":	"https://www.speedrun.com/static/user/dx35drej/image.png?v=4c72f2f"
-			}],
-		"weblink":	"https://www.speedrun.com/Overpass_Zordix/runs/yowv5rjz"
 	}]
