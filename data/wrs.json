@@ -1,4 +1,55 @@
 [{
+		"run_id":	"z0gwe69y",
+		"verified_epoch":	1795073213,
+		"verified_iso":	"2026-11-19T07:26:53Z",
+		"game":	"Need for Speed: Most Wanted (2012)",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mzq4d2/cover.png?v=bbf364f",
+		"category":	"No Modswap",
+		"level":	"Circuit: Import Duty",
+		"subcats":	"NOS: NOS",
+		"primary_t":	174.16,
+		"players":	"meYADIEL",
+		"players_data":	[{
+				"name":	"meYADIEL",
+				"weblink":	"https://www.speedrun.com/users/meYADIEL",
+				"image":	"https://www.speedrun.com/static/user/8g9wn47x/icon?v=fa5ebae"
+			}],
+		"weblink":	"https://www.speedrun.com/nfsmw12/runs/z0gwe69y"
+	}, {
+		"run_id":	"y9rowqey",
+		"verified_epoch":	1795073207,
+		"verified_iso":	"2026-11-19T07:26:47Z",
+		"game":	"Corebound",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37rjy6/cover.png?v=cade45a",
+		"category":	"Any% (levels)",
+		"level":	"Icy Hollow",
+		"subcats":	"Boosted: Default, Version: 1.2.1",
+		"primary_t":	7.7,
+		"players":	"JamesCarlLayaguen",
+		"players_data":	[{
+				"name":	"JamesCarlLayaguen",
+				"weblink":	"https://www.speedrun.com/users/JamesCarlLayaguen",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Corebound/runs/y9rowqey"
+	}, {
+		"run_id":	"yl89912z",
+		"verified_epoch":	1795072887,
+		"verified_iso":	"2026-11-19T07:21:27Z",
+		"game":	"Need for Speed: Hot Pursuit Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjzn26/cover.png?v=140c24c",
+		"category":	"NOS",
+		"level":	"Interceptor — Any Means Necessary",
+		"subcats":	"Pursuit Tech: PT",
+		"primary_t":	18.55,
+		"players":	"DTDTI",
+		"players_data":	[{
+				"name":	"DTDTI",
+				"weblink":	"https://www.speedrun.com/users/DTDTI",
+				"image":	"https://www.speedrun.com/static/user/8g9496px/image.png?v=abd5645"
+			}],
+		"weblink":	"https://www.speedrun.com/nfshpremastered/runs/yl89912z"
+	}, {
 		"run_id":	"yvdgg3oy",
 		"verified_epoch":	1795072430,
 		"verified_iso":	"2026-11-19T07:13:50Z",
@@ -17305,38 +17356,4 @@
 				"image":	"https://www.speedrun.com/static/user/j2pkql78/image.png?v=bbbb1b1"
 			}],
 		"weblink":	"https://www.speedrun.com/bj3d/runs/y2o9oxjm"
-	}, {
-		"run_id":	"mrgjg14z",
-		"verified_epoch":	1794987262,
-		"verified_iso":	"2026-11-18T07:34:22Z",
-		"game":	"Bottle Jump 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/76r4y0q1/cover.png?v=6f1f07a",
-		"category":	"Levels",
-		"level":	"",
-		"subcats":	"Levels: 1-20",
-		"primary_t":	477.067,
-		"players":	"David33",
-		"players_data":	[{
-				"name":	"David33",
-				"weblink":	"https://www.speedrun.com/users/David33",
-				"image":	"https://www.speedrun.com/static/user/j2pkql78/image.png?v=bbbb1b1"
-			}],
-		"weblink":	"https://www.speedrun.com/bj3d/runs/mrgjg14z"
-	}, {
-		"run_id":	"y9ror92y",
-		"verified_epoch":	1794987132,
-		"verified_iso":	"2026-11-18T07:32:12Z",
-		"game":	"Bottle Jump 3D",
-		"game_cover":	"https://www.speedrun.com/static/game/76r4y0q1/cover.png?v=6f1f07a",
-		"category":	"Levels",
-		"level":	"",
-		"subcats":	"Levels: 1-15",
-		"primary_t":	277.5,
-		"players":	"David33",
-		"players_data":	[{
-				"name":	"David33",
-				"weblink":	"https://www.speedrun.com/users/David33",
-				"image":	"https://www.speedrun.com/static/user/j2pkql78/image.png?v=bbbb1b1"
-			}],
-		"weblink":	"https://www.speedrun.com/bj3d/runs/y9ror92y"
 	}]
