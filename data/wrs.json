@@ -1,4 +1,106 @@
 [{
+		"run_id":	"yog1l77m",
+		"verified_epoch":	1795062705,
+		"verified_iso":	"2026-11-19T04:31:45Z",
+		"game":	"PlateUp!",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4kq3k6/cover.png?v=8926e1a",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Seed: Random Seed, Seed: -, Dishes: Coffee, Players: Solo, Patch: 1.5.3, Patches: 1.4.0+, Map Setting: Normal, Mouse Use: Yes",
+		"primary_t":	862.047,
+		"players":	"somsUnderscore",
+		"players_data":	[{
+				"name":	"somsUnderscore",
+				"weblink":	"https://www.speedrun.com/users/somsUnderscore",
+				"image":	"https://www.speedrun.com/static/user/j06m7m3j/image.png?v=5ec55c0"
+			}],
+		"weblink":	"https://www.speedrun.com/plateup/runs/yog1l77m"
+	}, {
+		"run_id":	"zx1v4key",
+		"verified_epoch":	1795062290,
+		"verified_iso":	"2026-11-19T04:24:50Z",
+		"game":	"Escape Academy 2: Back 2 School",
+		"game_cover":	"https://www.speedrun.com/static/game/pd055n31/cover.png?v=6f6fda5",
+		"category":	"Any%",
+		"level":	"The Third Chamber",
+		"subcats":	"Players: Solo",
+		"primary_t":	9.987,
+		"players":	"Amykiro",
+		"players_data":	[{
+				"name":	"Amykiro",
+				"weblink":	"https://www.speedrun.com/users/Amykiro",
+				"image":	"https://www.speedrun.com/static/user/8wlyvovj/image.png?v=bcd698b"
+			}],
+		"weblink":	"https://www.speedrun.com/escape_academy_2/runs/zx1v4key"
+	}, {
+		"run_id":	"zpe8gj8y",
+		"verified_epoch":	1795062009,
+		"verified_iso":	"2026-11-19T04:20:09Z",
+		"game":	"Deadly Defenders",
+		"game_cover":	"https://www.speedrun.com/static/game/3698k22d/cover.png?v=f49f03d",
+		"category":	"Levels",
+		"level":	"Day 1",
+		"subcats":	"",
+		"primary_t":	50,
+		"players":	"MasterKuby",
+		"players_data":	[{
+				"name":	"MasterKuby",
+				"weblink":	"https://www.speedrun.com/users/MasterKuby",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/deadly_defenders/runs/zpe8gj8y"
+	}, {
+		"run_id":	"yjq45gom",
+		"verified_epoch":	1795062007,
+		"verified_iso":	"2026-11-19T04:20:07Z",
+		"game":	"Deadly Defenders",
+		"game_cover":	"https://www.speedrun.com/static/game/3698k22d/cover.png?v=f49f03d",
+		"category":	"Levels",
+		"level":	"Day 2",
+		"subcats":	"",
+		"primary_t":	129,
+		"players":	"MasterKuby",
+		"players_data":	[{
+				"name":	"MasterKuby",
+				"weblink":	"https://www.speedrun.com/users/MasterKuby",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/deadly_defenders/runs/yjq45gom"
+	}, {
+		"run_id":	"zg5n7key",
+		"verified_epoch":	1795061968,
+		"verified_iso":	"2026-11-19T04:19:28Z",
+		"game":	"Escape Academy 2: Back 2 School",
+		"game_cover":	"https://www.speedrun.com/static/game/pd055n31/cover.png?v=6f6fda5",
+		"category":	"Any%",
+		"level":	"Pay Close Detention",
+		"subcats":	"Players: Solo",
+		"primary_t":	26.059,
+		"players":	"Amykiro",
+		"players_data":	[{
+				"name":	"Amykiro",
+				"weblink":	"https://www.speedrun.com/users/Amykiro",
+				"image":	"https://www.speedrun.com/static/user/8wlyvovj/image.png?v=bcd698b"
+			}],
+		"weblink":	"https://www.speedrun.com/escape_academy_2/runs/zg5n7key"
+	}, {
+		"run_id":	"yvdgjjoy",
+		"verified_epoch":	1795061914,
+		"verified_iso":	"2026-11-19T04:18:34Z",
+		"game":	"Marathon Recompiled",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j9n54d/cover.png?v=8d85c55",
+		"category":	"Shadow's Story",
+		"level":	"",
+		"subcats":	"Category: No Credits Warp, Control Method: Controller",
+		"primary_t":	1860.44,
+		"players":	"FocusSight",
+		"players_data":	[{
+				"name":	"FocusSight",
+				"weblink":	"https://www.speedrun.com/users/FocusSight",
+				"image":	"https://www.speedrun.com/static/user/v48gwpjp/image.png?v=4cf2b33"
+			}],
+		"weblink":	"https://www.speedrun.com/sonic06recompiled/runs/yvdgjjoy"
+	}, {
 		"run_id":	"zx1v4v5y",
 		"verified_epoch":	1795060861,
 		"verified_iso":	"2026-11-19T04:01:01Z",
@@ -17429,237 +17531,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/Rogue_Braver_/runs/z5q5qggz"
-	}, {
-		"run_id":	"yj0j0e3z",
-		"verified_epoch":	1794976494,
-		"verified_iso":	"2026-11-18T04:34:54Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Trio",
-		"level":	"Bathurst Street",
-		"subcats":	"Version: Closure 125+, Bathurst Version: EPFC, IL Difficulty : Recruit, IL Seed: Set Seed, IL Playstyle: Any, IL Glitches: Glitchless",
-		"primary_t":	18.315,
-		"players":	"MasterCarrot21, skippi99r, Asdasdhack",
-		"players_data":	[{
-				"name":	"MasterCarrot21",
-				"weblink":	"https://www.speedrun.com/users/MasterCarrot21",
-				"image":	"https://www.speedrun.com/static/user/8gemeppj/image.png?v=4dc9f0f"
-			}, {
-				"name":	"skippi99r",
-				"weblink":	"https://www.speedrun.com/users/skippi99r",
-				"image":	"https://www.speedrun.com/static/user/j0nve3w8/image.png?v=53ddc81"
-			}, {
-				"name":	"Asdasdhack",
-				"weblink":	"https://www.speedrun.com/users/Asdasdhack",
-				"image":	"https://www.speedrun.com/static/user/8gr92qpx/image.png?v=79959a2"
-			}],
-		"weblink":	"https://www.speedrun.com/Operators/runs/yj0j0e3z"
-	}, {
-		"run_id":	"m3p9plqz",
-		"verified_epoch":	1794976486,
-		"verified_iso":	"2026-11-18T04:34:46Z",
-		"game":	"GunZ: The Duel",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j7gl26/cover.png?v=291eb30",
-		"category":	"Skillmaps",
-		"level":	"",
-		"subcats":	"Version: V4, Server: Freestyle GunZ",
-		"primary_t":	69.24,
-		"players":	"goodlucklan",
-		"players_data":	[{
-				"name":	"goodlucklan",
-				"weblink":	"https://www.speedrun.com/users/goodlucklan",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/gunz_the_duel/runs/m3p9plqz"
-	}, {
-		"run_id":	"yw9e9wpm",
-		"verified_epoch":	1794976477,
-		"verified_iso":	"2026-11-18T04:34:37Z",
-		"game":	"Operators",
-		"game_cover":	"https://www.speedrun.com/static/game/y65rqj01/cover.png?v=c0125ca",
-		"category":	"Duo",
-		"level":	"Bathurst Street",
-		"subcats":	"Version: Closure 125+, Bathurst Version: EPFC, IL Difficulty : Recruit, IL Seed: Set Seed, IL Playstyle: Any, IL Glitches: Glitchless",
-		"primary_t":	21.432,
-		"players":	"MasterCarrot21, Asdasdhack",
-		"players_data":	[{
-				"name":	"MasterCarrot21",
-				"weblink":	"https://www.speedrun.com/users/MasterCarrot21",
-				"image":	"https://www.speedrun.com/static/user/8gemeppj/image.png?v=4dc9f0f"
-			}, {
-				"name":	"Asdasdhack",
-				"weblink":	"https://www.speedrun.com/users/Asdasdhack",
-				"image":	"https://www.speedrun.com/static/user/8gr92qpx/image.png?v=79959a2"
-			}],
-		"weblink":	"https://www.speedrun.com/Operators/runs/yw9e9wpm"
-	}, {
-		"run_id":	"yw9e9xpm",
-		"verified_epoch":	1794976354,
-		"verified_iso":	"2026-11-18T04:32:34Z",
-		"game":	"Combat Kart",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37wlw6/cover.png?v=1ae34e5",
-		"category":	"Time Trials",
-		"level":	"Island Holiday",
-		"subcats":	"DLC?: DLC, CC: 200cc",
-		"primary_t":	104.33,
-		"players":	"Ahutchi3",
-		"players_data":	[{
-				"name":	"Ahutchi3",
-				"weblink":	"https://www.speedrun.com/users/Ahutchi3",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Combat_Kart/runs/yw9e9xpm"
-	}, {
-		"run_id":	"meqvqx2m",
-		"verified_epoch":	1794976349,
-		"verified_iso":	"2026-11-18T04:32:29Z",
-		"game":	"sun, moon, and star. to these i bid adieu",
-		"game_cover":	"https://www.speedrun.com/static/game/46wj5gqd/cover.png?v=925f718",
-		"category":	"Levels",
-		"level":	"HATRED, VITROL, DESPAIR",
-		"subcats":	"Glitches?: Glitched, Game State?: New Game+",
-		"primary_t":	227.553,
-		"players":	"BonziBuddy_Cultist",
-		"players_data":	[{
-				"name":	"BonziBuddy_Cultist",
-				"weblink":	"https://www.speedrun.com/users/BonziBuddy_Cultist",
-				"image":	"https://www.speedrun.com/static/user/8vmr3ve8/image.png?v=49fc38a"
-			}],
-		"weblink":	"https://www.speedrun.com/sun_moon_and_star_to_these_i_bid_adieu/runs/meqvqx2m"
-	}, {
-		"run_id":	"z5q5q2dz",
-		"verified_epoch":	1794976298,
-		"verified_iso":	"2026-11-18T04:31:38Z",
-		"game":	"MONOMOON",
-		"game_cover":	"https://www.speedrun.com/static/game/268p57od/cover.png?v=7d99ca5",
-		"category":	"Crown%",
-		"level":	"",
-		"subcats":	"Glitch full and Glitch less: Unrestricted",
-		"primary_t":	1800,
-		"players":	"its_bool",
-		"players_data":	[{
-				"name":	"its_bool",
-				"weblink":	"https://www.speedrun.com/users/its_bool",
-				"image":	"https://www.speedrun.com/static/user/xy2k1oz8/image.png?v=a072c38"
-			}],
-		"weblink":	"https://www.speedrun.com/MONOMOON/runs/z5q5q2dz"
-	}, {
-		"run_id":	"yd787wqy",
-		"verified_epoch":	1794976247,
-		"verified_iso":	"2026-11-18T04:30:47Z",
-		"game":	"CubeCraft Parkour",
-		"game_cover":	"https://www.speedrun.com/static/game/pd0wlz31/cover.png?v=de63e89",
-		"category":	"Entire",
-		"level":	"Labyrinth",
-		"subcats":	"Version: Bedrock Edition",
-		"primary_t":	239.833,
-		"players":	"Maliblade",
-		"players_data":	[{
-				"name":	"Maliblade",
-				"weblink":	"https://www.speedrun.com/users/Maliblade",
-				"image":	"https://www.speedrun.com/static/user/j5q6r2zj/image.png?v=9e5c100"
-			}],
-		"weblink":	"https://www.speedrun.com/cubecraft_parkour/runs/yd787wqy"
-	}, {
-		"run_id":	"mk6l605z",
-		"verified_epoch":	1794976227,
-		"verified_iso":	"2026-11-18T04:30:27Z",
-		"game":	"Combat Kart",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37wlw6/cover.png?v=1ae34e5",
-		"category":	"Time Trials",
-		"level":	"Island Holiday",
-		"subcats":	"DLC?: No DLC, CC: 200cc",
-		"primary_t":	108.83,
-		"players":	"Ahutchi3",
-		"players_data":	[{
-				"name":	"Ahutchi3",
-				"weblink":	"https://www.speedrun.com/users/Ahutchi3",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Combat_Kart/runs/mk6l605z"
-	}, {
-		"run_id":	"m7k1j30z",
-		"verified_epoch":	1794976037,
-		"verified_iso":	"2026-11-18T04:27:17Z",
-		"game":	"Tekken 4",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
-		"category":	"Time Attack",
-		"level":	"King",
-		"subcats":	"",
-		"primary_t":	126.98,
-		"players":	"MagoPancione",
-		"players_data":	[{
-				"name":	"MagoPancione",
-				"weblink":	"https://www.speedrun.com/users/MagoPancione",
-				"image":	"https://www.speedrun.com/static/user/jppn344j/image.png?v=efe702a"
-			}],
-		"weblink":	"https://www.speedrun.com/tekken4/runs/m7k1j30z"
-	}, {
-		"run_id":	"mk6ledxz",
-		"verified_epoch":	1794976003,
-		"verified_iso":	"2026-11-18T04:26:43Z",
-		"game":	"Rubinite",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv9wx41/cover.png?v=60c3888",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Glitch: Glitchless",
-		"primary_t":	2640.596,
-		"players":	"enenSR",
-		"players_data":	[{
-				"name":	"enenSR",
-				"weblink":	"https://www.speedrun.com/users/enenSR",
-				"image":	"https://www.speedrun.com/static/user/jp4z3z4j/image.png?v=1518de8"
-			}],
-		"weblink":	"https://www.speedrun.com/Rubinite/runs/mk6ledxz"
-	}, {
-		"run_id":	"yw9e939m",
-		"verified_epoch":	1794975977,
-		"verified_iso":	"2026-11-18T04:26:17Z",
-		"game":	"Tekken 4",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
-		"category":	"Tekken Force",
-		"level":	"",
-		"subcats":	"Character: Steve",
-		"primary_t":	1095,
-		"players":	"Ricky",
-		"players_data":	[{
-				"name":	"Ricky",
-				"weblink":	"https://www.speedrun.com/users/Ricky",
-				"image":	"https://www.speedrun.com/static/user/qxk4r9j0/image.png?v=cbe2a0f"
-			}],
-		"weblink":	"https://www.speedrun.com/tekken4/runs/yw9e939m"
-	}, {
-		"run_id":	"znnwx3lz",
-		"verified_epoch":	1794975717,
-		"verified_iso":	"2026-11-18T04:21:57Z",
-		"game":	"Eternal Towers of Hell",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pozgp6/cover.png?v=7256bfa",
-		"category":	"Glitchless",
-		"level":	"Tower of Motion Evolution",
-		"subcats":	"FPS: 60",
-		"primary_t":	309.65,
-		"players":	"xyiczs",
-		"players_data":	[{
-				"name":	"xyiczs",
-				"weblink":	"https://www.speedrun.com/users/xyiczs",
-				"image":	"https://www.speedrun.com/static/user/j0lk1p9j/image.png?v=47ace4b"
-			}],
-		"weblink":	"https://www.speedrun.com/etoh/runs/znnwx3lz"
-	}, {
-		"run_id":	"yd78dq0y",
-		"verified_epoch":	1794975454,
-		"verified_iso":	"2026-11-18T04:17:34Z",
-		"game":	"Reminiscence Zombies",
-		"game_cover":	"https://www.speedrun.com/static/game/v1ppp041/cover.png?v=956b8d2",
-		"category":	"Power Station",
-		"level":	"",
-		"subcats":	"Number of Players: Solo, Difficulty: Original, Category: Round 15, Gamepass: No Gamepasses",
-		"primary_t":	533,
-		"players":	"numbskullcannon",
-		"players_data":	[{
-				"name":	"numbskullcannon",
-				"weblink":	"https://www.speedrun.com/users/numbskullcannon",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ReminiscenceZombies/runs/yd78dq0y"
 	}]
