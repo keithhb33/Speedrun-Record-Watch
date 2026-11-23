@@ -1,4 +1,1145 @@
 [{
+		"run_id":	"zx1v0q5y",
+		"verified_epoch":	1795462524,
+		"verified_iso":	"2026-11-23T19:35:24Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Time Trial",
+		"level":	"Kraken Bay",
+		"subcats":	"Patch: 2.0+, Speed Class: Sonic",
+		"primary_t":	137.603,
+		"players":	"sigmaPn",
+		"players_data":	[{
+				"name":	"sigmaPn",
+				"weblink":	"https://www.speedrun.com/users/sigmaPn",
+				"image":	"https://www.speedrun.com/static/user/8wkevnv8/image.png?v=c7913da"
+			}],
+		"weblink":	"https://www.speedrun.com/srcw/runs/zx1v0q5y"
+	}, {
+		"run_id":	"meqv0q2m",
+		"verified_epoch":	1795462516,
+		"verified_iso":	"2026-11-23T19:35:16Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Eswatini: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.549,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/meqv0q2m"
+	}, {
+		"run_id":	"m7k13r9z",
+		"verified_epoch":	1795462494,
+		"verified_iso":	"2026-11-23T19:34:54Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Rhode Island: Counties",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.143,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/m7k13r9z"
+	}, {
+		"run_id":	"y2o9ko7m",
+		"verified_epoch":	1795462471,
+		"verified_iso":	"2026-11-23T19:34:31Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Australia: States and Territories",
+		"subcats":	"Platform: Website",
+		"primary_t":	7.243,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y2o9ko7m"
+	}, {
+		"run_id":	"y9r7wdky",
+		"verified_epoch":	1795462462,
+		"verified_iso":	"2026-11-23T19:34:22Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 5 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	35.283,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y9r7wdky"
+	}, {
+		"run_id":	"yd7qoljy",
+		"verified_epoch":	1795462429,
+		"verified_iso":	"2026-11-23T19:33:49Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 5 Apples, Speed: Fast, Board Size: Standard",
+		"primary_t":	73.062,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/yd7qoljy"
+	}, {
+		"run_id":	"z0gekqey",
+		"verified_epoch":	1795462409,
+		"verified_iso":	"2026-11-23T19:33:29Z",
+		"game":	"Granny: Legacy",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
+		"category":	"ve1.0",
+		"level":	"",
+		"subcats":	"Platform Sub-category: PC, Game Version: v1.1-, Seed System: Set Seed, Difficulty: Hard, Grandpa: No Grandpa, Difficulty (No Granny): Hard",
+		"primary_t":	31.867,
+		"players":	"ra7ao_760",
+		"players_data":	[{
+				"name":	"ra7ao_760",
+				"weblink":	"https://www.speedrun.com/users/ra7ao_760",
+				"image":	"https://www.speedrun.com/static/user/xk3pwm28/image.png?v=1c569c5"
+			}],
+		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/z0gekqey"
+	}, {
+		"run_id":	"yw915x0m",
+		"verified_epoch":	1795462381,
+		"verified_iso":	"2026-11-23T19:33:01Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Light Mode",
+		"subcats":	"Multi Apple Amount: Bomb, Speed: Fast, Board Size: Large",
+		"primary_t":	6.593,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/yw915x0m"
+	}, {
+		"run_id":	"y2o3rw9m",
+		"verified_epoch":	1795462357,
+		"verified_iso":	"2026-11-23T19:32:37Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"100 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	65.043,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/y2o3rw9m"
+	}, {
+		"run_id":	"z5q5prgz",
+		"verified_epoch":	1795462352,
+		"verified_iso":	"2026-11-23T19:32:32Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"World: 193 UN Member States",
+		"level":	"",
+		"subcats":	"Mode: Multiple Choice, Platform: Touch Web",
+		"primary_t":	379.136,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5q5prgz"
+	}, {
+		"run_id":	"yow45edz",
+		"verified_epoch":	1795462319,
+		"verified_iso":	"2026-11-23T19:31:59Z",
+		"game":	"We Were Here Tomorrow",
+		"game_cover":	"https://www.speedrun.com/static/game/369ywz31/cover.png?v=3ea070d",
+		"category":	"Any% Glitchless",
+		"level":	"Ch. 3 - Gravitonics",
+		"subcats":	"",
+		"primary_t":	1059.59,
+		"players":	"mRkartoshka79, fringet",
+		"players_data":	[{
+				"name":	"mRkartoshka79",
+				"weblink":	"https://www.speedrun.com/users/mRkartoshka79",
+				"image":	"https://www.speedrun.com/static/user/8vo21zyx/image.png?v=6bf853f"
+			}, {
+				"name":	"fringet",
+				"weblink":	"https://www.speedrun.com/users/fringet",
+				"image":	"https://www.speedrun.com/static/user/j260mrlx/image.png?v=d09a41a"
+			}],
+		"weblink":	"https://www.speedrun.com/We_Were_Here_Tomorrow/runs/yow45edz"
+	}, {
+		"run_id":	"mrgq5vdz",
+		"verified_epoch":	1795462306,
+		"verified_iso":	"2026-11-23T19:31:46Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Large",
+		"primary_t":	28.155,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/mrgq5vdz"
+	}, {
+		"run_id":	"z0gwxvjy",
+		"verified_epoch":	1795462303,
+		"verified_iso":	"2026-11-23T19:31:43Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"░ South America: Flags",
+		"subcats":	"Platform: Website",
+		"primary_t":	16.908,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z0gwxvjy"
+	}, {
+		"run_id":	"mk64rp1z",
+		"verified_epoch":	1795462279,
+		"verified_iso":	"2026-11-23T19:31:19Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: Bomb, Speed: Normal, Board Size: Standard",
+		"primary_t":	15.93,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/mk64rp1z"
+	}, {
+		"run_id":	"znnwenvz",
+		"verified_epoch":	1795462265,
+		"verified_iso":	"2026-11-23T19:31:05Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Burundi: Provinces",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.136,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/znnwenvz"
+	}, {
+		"run_id":	"yl895jrz",
+		"verified_epoch":	1795462262,
+		"verified_iso":	"2026-11-23T19:31:02Z",
+		"game":	"Skylanders: Imaginators",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7mnnd7/cover.png?v=5494671",
+		"category":	"Any%",
+		"level":	"Chapter 6: Fizzland",
+		"subcats":	"Character Limits: All Characters, Players: Solo",
+		"primary_t":	203.133,
+		"players":	"MourningBouquet",
+		"players_data":	[{
+				"name":	"MourningBouquet",
+				"weblink":	"https://www.speedrun.com/users/MourningBouquet",
+				"image":	"https://www.speedrun.com/static/user/8rmzlz6j/image.png?v=40dc295"
+			}],
+		"weblink":	"https://www.speedrun.com/skylanders_imaginators/runs/yl895jrz"
+	}, {
+		"run_id":	"meqkpw3m",
+		"verified_epoch":	1795462259,
+		"verified_iso":	"2026-11-23T19:30:59Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"25 Apples",
+		"level":	"Winged Mode",
+		"subcats":	"Multi Apple Amount: Bomb, Speed: Normal, Board Size: Standard",
+		"primary_t":	7.83,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/meqkpw3m"
+	}, {
+		"run_id":	"mrgq02dz",
+		"verified_epoch":	1795462254,
+		"verified_iso":	"2026-11-23T19:30:54Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Time Trial",
+		"level":	"Steampunk City",
+		"subcats":	"Patch: 2.0+, Speed Class: Super Sonic",
+		"primary_t":	123,
+		"players":	"Thirsted777",
+		"players_data":	[{
+				"name":	"Thirsted777",
+				"weblink":	"https://www.speedrun.com/users/Thirsted777",
+				"image":	"https://www.speedrun.com/static/user/jpzpn34x/image.png?v=9b9bdde"
+			}],
+		"weblink":	"https://www.speedrun.com/srcw/runs/mrgq02dz"
+	}, {
+		"run_id":	"yj0k7qgz",
+		"verified_epoch":	1795462244,
+		"verified_iso":	"2026-11-23T19:30:44Z",
+		"game":	"Skylanders: Imaginators",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7mnnd7/cover.png?v=5494671",
+		"category":	"Any%",
+		"level":	"Chapter 6: Fizzland",
+		"subcats":	"Character Limits: No Imaginators, Players: Solo",
+		"primary_t":	203.133,
+		"players":	"MourningBouquet",
+		"players_data":	[{
+				"name":	"MourningBouquet",
+				"weblink":	"https://www.speedrun.com/users/MourningBouquet",
+				"image":	"https://www.speedrun.com/static/user/8rmzlz6j/image.png?v=40dc295"
+			}],
+		"weblink":	"https://www.speedrun.com/skylanders_imaginators/runs/yj0k7qgz"
+	}, {
+		"run_id":	"y873k7xz",
+		"verified_epoch":	1795462243,
+		"verified_iso":	"2026-11-23T19:30:43Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Belarus: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	4.449,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y873k7xz"
+	}, {
+		"run_id":	"y6178jpm",
+		"verified_epoch":	1795462203,
+		"verified_iso":	"2026-11-23T19:30:03Z",
+		"game":	"Minecraft: Java Edition Unofficial Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnjexd/cover.png?v=cecb63d",
+		"category":	"Quater%",
+		"level":	"",
+		"subcats":	"Version: 1.15.2, Difficulty: Normal, F3: F3, Mods: Fabric, Seed: SSG, Structures: Structures, Version: 1.15 (18)",
+		"primary_t":	61.106,
+		"players":	"Maxdley",
+		"players_data":	[{
+				"name":	"Maxdley",
+				"weblink":	"https://www.speedrun.com/users/Maxdley",
+				"image":	"https://www.speedrun.com/static/user/819l3n3x/image.png?v=56bbf29"
+			}],
+		"weblink":	"https://www.speedrun.com/mc_juice/runs/y6178jpm"
+	}, {
+		"run_id":	"zql65d5y",
+		"verified_epoch":	1795462171,
+		"verified_iso":	"2026-11-23T19:29:31Z",
+		"game":	"Google Snake",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y9pyk6/cover.png?v=f4562ff",
+		"category":	"50 Apples",
+		"level":	"Peaceful Mode",
+		"subcats":	"Multi Apple Amount: 10 Apples, Speed: Fast, Board Size: Small",
+		"primary_t":	8.464,
+		"players":	"ShawnnorCaw",
+		"players_data":	[{
+				"name":	"ShawnnorCaw",
+				"weblink":	"https://www.speedrun.com/users/ShawnnorCaw",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/snake_game/runs/zql65d5y"
+	}, {
+		"run_id":	"zpjnpevz",
+		"verified_epoch":	1795462171,
+		"verified_iso":	"2026-11-23T19:29:31Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"1984: Superstates",
+		"subcats":	"Platform: Website",
+		"primary_t":	0.577,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zpjnpevz"
+	}, {
+		"run_id":	"z1edkewy",
+		"verified_epoch":	1795462147,
+		"verified_iso":	"2026-11-23T19:29:07Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Djibouti: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	3.681,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z1edkewy"
+	}, {
+		"run_id":	"z5q5k9jz",
+		"verified_epoch":	1795462133,
+		"verified_iso":	"2026-11-23T19:28:53Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"US: States In The Midwest",
+		"subcats":	"Platform: Website",
+		"primary_t":	8.84,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5q5k9jz"
+	}, {
+		"run_id":	"yd7827xy",
+		"verified_epoch":	1795462110,
+		"verified_iso":	"2026-11-23T19:28:30Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Denmark: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.195,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/yd7827xy"
+	}, {
+		"run_id":	"mk6lq6lz",
+		"verified_epoch":	1795462094,
+		"verified_iso":	"2026-11-23T19:28:14Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"South America: Countries",
+		"level":	"",
+		"subcats":	"Mode: Pin (Hard), Platform: Website",
+		"primary_t":	11.57,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/mk6lq6lz"
+	}, {
+		"run_id":	"y4d9kd2y",
+		"verified_epoch":	1795462068,
+		"verified_iso":	"2026-11-23T19:27:48Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Armenia: Provinces",
+		"subcats":	"Platform: Website",
+		"primary_t":	9.838,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y4d9kd2y"
+	}, {
+		"run_id":	"z5qown5z",
+		"verified_epoch":	1795462003,
+		"verified_iso":	"2026-11-23T19:26:43Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB2J Remastered Levels",
+		"level":	"2-4",
+		"subcats":	"",
+		"primary_t":	19.22,
+		"players":	"jdhcdaboi",
+		"players_data":	[{
+				"name":	"jdhcdaboi",
+				"weblink":	"https://www.speedrun.com/users/jdhcdaboi",
+				"image":	"https://www.speedrun.com/static/user/xym9pwvx/image.png?v=2a35ae3"
+			}],
+		"weblink":	"https://www.speedrun.com/smb1r/runs/z5qown5z"
+	}, {
+		"run_id":	"yl89j5nz",
+		"verified_epoch":	1795462001,
+		"verified_iso":	"2026-11-23T19:26:41Z",
+		"game":	"Super Mario Bros. Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9doxqo3d/cover.png?v=2726369",
+		"category":	"SMB2J Remastered Levels",
+		"level":	"7-2",
+		"subcats":	"",
+		"primary_t":	24.12,
+		"players":	"jdhcdaboi",
+		"players_data":	[{
+				"name":	"jdhcdaboi",
+				"weblink":	"https://www.speedrun.com/users/jdhcdaboi",
+				"image":	"https://www.speedrun.com/static/user/xym9pwvx/image.png?v=2a35ae3"
+			}],
+		"weblink":	"https://www.speedrun.com/smb1r/runs/yl89j5nz"
+	}, {
+		"run_id":	"mrgj2g8z",
+		"verified_epoch":	1795461983,
+		"verified_iso":	"2026-11-23T19:26:23Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Africa South of The Equator: Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	23.947,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/mrgj2g8z"
+	}, {
+		"run_id":	"z5q5kqjz",
+		"verified_epoch":	1795461964,
+		"verified_iso":	"2026-11-23T19:26:04Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Andorra: Parishes",
+		"subcats":	"Platform: Website",
+		"primary_t":	5.33,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5q5kqjz"
+	}, {
+		"run_id":	"yvd4vd8y",
+		"verified_epoch":	1795461944,
+		"verified_iso":	"2026-11-23T19:25:44Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin (hard)",
+		"level":	"Brazil: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	2.491,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/yvd4vd8y"
+	}, {
+		"run_id":	"z1e3vk9y",
+		"verified_epoch":	1795461942,
+		"verified_iso":	"2026-11-23T19:25:42Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Time Trial",
+		"level":	"Dragon Road",
+		"subcats":	"Patch: 2.0+, Speed Class: Super Sonic",
+		"primary_t":	142.1,
+		"players":	"Thirsted777",
+		"players_data":	[{
+				"name":	"Thirsted777",
+				"weblink":	"https://www.speedrun.com/users/Thirsted777",
+				"image":	"https://www.speedrun.com/static/user/jpzpn34x/image.png?v=9b9bdde"
+			}],
+		"weblink":	"https://www.speedrun.com/srcw/runs/z1e3vk9y"
+	}, {
+		"run_id":	"y87qodnz",
+		"verified_epoch":	1795461941,
+		"verified_iso":	"2026-11-23T19:25:41Z",
+		"game":	"Area 51",
+		"game_cover":	"https://www.speedrun.com/static/game/9do9ekdp/cover.png?v=4d3ef72",
+		"category":	"Any% - Restricted",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	3573.7,
+		"players":	"Slonlk",
+		"players_data":	[{
+				"name":	"Slonlk",
+				"weblink":	"https://www.speedrun.com/users/Slonlk",
+				"image":	"https://www.speedrun.com/static/user/x7ylyd0x/image.png?v=8fc3805"
+			}],
+		"weblink":	"https://www.speedrun.com/area51/runs/y87qodnz"
+	}, {
+		"run_id":	"y9rokdey",
+		"verified_epoch":	1795461925,
+		"verified_iso":	"2026-11-23T19:25:25Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Fly",
+		"level":	"Brazil in 1822",
+		"subcats":	"Platform: Touch Web",
+		"primary_t":	27.911,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y9rokdey"
+	}, {
+		"run_id":	"mrgq50dz",
+		"verified_epoch":	1795461870,
+		"verified_iso":	"2026-11-23T19:24:30Z",
+		"game":	"Surf Pro",
+		"game_cover":	"https://www.speedrun.com/static/game/pd054m01/cover.png?v=5dd0117",
+		"category":	"TAS - Surf",
+		"level":	"",
+		"subcats":	"Surf Map: Cube Surfer",
+		"primary_t":	24.753,
+		"players":	"w3ntr",
+		"players_data":	[{
+				"name":	"w3ntr",
+				"weblink":	"https://www.speedrun.com/users/w3ntr",
+				"image":	"https://www.speedrun.com/static/user/j5w3rgwj/image.png?v=f3028f9"
+			}],
+		"weblink":	"https://www.speedrun.com/surf_pro/runs/mrgq50dz"
+	}, {
+		"run_id":	"mk649elz",
+		"verified_epoch":	1795461736,
+		"verified_iso":	"2026-11-23T19:22:16Z",
+		"game":	"Species Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqx8ed/cover.png?v=85e2f7a",
+		"category":	"Capture",
+		"level":	"",
+		"subcats":	"Difficulty: Hard, Player Count: 4 Players, Map: HGC Stormrock",
+		"primary_t":	228,
+		"players":	"LimpDihzKit, hwaruei, Moby, night_fang45",
+		"players_data":	[{
+				"name":	"LimpDihzKit",
+				"weblink":	"https://www.speedrun.com/users/LimpDihzKit",
+				"image":	"https://www.speedrun.com/static/user/8egeew7x/image.png?v=4731430"
+			}, {
+				"name":	"hwaruei",
+				"weblink":	"https://www.speedrun.com/users/hwaruei",
+				"image":	"https://www.speedrun.com/static/user/jog15wlx/image.png?v=5a02c83"
+			}, {
+				"name":	"Moby",
+				"weblink":	"",
+				"image":	""
+			}, {
+				"name":	"night_fang45",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Species_Unknown/runs/mk649elz"
+	}, {
+		"run_id":	"z1e39v7y",
+		"verified_epoch":	1795461706,
+		"verified_iso":	"2026-11-23T19:21:46Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Time Trial",
+		"level":	"Kronos Island",
+		"subcats":	"Patch: 2.0+, Speed Class: Super Sonic",
+		"primary_t":	136.36,
+		"players":	"Taliaivo",
+		"players_data":	[{
+				"name":	"Taliaivo",
+				"weblink":	"https://www.speedrun.com/users/Taliaivo",
+				"image":	"https://www.speedrun.com/static/user/x7gq77rx/image.png?v=fbc0bf8"
+			}],
+		"weblink":	"https://www.speedrun.com/srcw/runs/z1e39v7y"
+	}, {
+		"run_id":	"zg53egvy",
+		"verified_epoch":	1795461684,
+		"verified_iso":	"2026-11-23T19:21:24Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"World: 193 UN Member States",
+		"level":	"",
+		"subcats":	"Mode: Type, Platform: Touch Web",
+		"primary_t":	702.801,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zg53egvy"
+	}, {
+		"run_id":	"yow45qdz",
+		"verified_epoch":	1795461672,
+		"verified_iso":	"2026-11-23T19:21:12Z",
+		"game":	"Toree Missions",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvgrxrd/cover.png?v=2928c21",
+		"category":	"Set 1",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	81.167,
+		"players":	"MMV_iceberg",
+		"players_data":	[{
+				"name":	"MMV_iceberg",
+				"weblink":	"https://www.speedrun.com/users/MMV_iceberg",
+				"image":	"https://www.speedrun.com/static/user/81pgrzr8/image.png?v=d6d75ba"
+			}],
+		"weblink":	"https://www.speedrun.com/ToreeMissions/runs/yow45qdz"
+	}, {
+		"run_id":	"yw77nq9z",
+		"verified_epoch":	1795461666,
+		"verified_iso":	"2026-11-23T19:21:06Z",
+		"game":	"WRC 6",
+		"game_cover":	"https://www.speedrun.com/static/game/9dowmpm1/cover.png?v=f8c0ff5",
+		"category":	"Junior WRC",
+		"level":	"Wales: Great Orme",
+		"subcats":	"Car: Citroën DS 3 R3-Max J-WRC",
+		"primary_t":	142.833,
+		"players":	"pdrr",
+		"players_data":	[{
+				"name":	"pdrr",
+				"weblink":	"https://www.speedrun.com/users/pdrr",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/wrc_6/runs/yw77nq9z"
+	}, {
+		"run_id":	"m7k91kez",
+		"verified_epoch":	1795461581,
+		"verified_iso":	"2026-11-23T19:19:41Z",
+		"game":	"Species Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqx8ed/cover.png?v=85e2f7a",
+		"category":	"Kill Creature",
+		"level":	"",
+		"subcats":	"Difficulty: Hard, Player Count: 1 Player, Map: HGC Stormrock",
+		"primary_t":	447.27,
+		"players":	"Zefica",
+		"players_data":	[{
+				"name":	"Zefica",
+				"weblink":	"https://www.speedrun.com/users/Zefica",
+				"image":	"https://www.speedrun.com/static/user/jo32vq7j/image.png?v=50aa63d"
+			}],
+		"weblink":	"https://www.speedrun.com/Species_Unknown/runs/m7k91kez"
+	}, {
+		"run_id":	"m7k92l9z",
+		"verified_epoch":	1795461485,
+		"verified_iso":	"2026-11-23T19:18:05Z",
+		"game":	"Sonic Racing: CrossWorlds",
+		"game_cover":	"https://www.speedrun.com/static/game/o1y3epk6/cover.png?v=467d316",
+		"category":	"Time Trial",
+		"level":	"Northstar Islands",
+		"subcats":	"Patch: 2.0+, Speed Class: Super Sonic",
+		"primary_t":	119.486,
+		"players":	"Taliaivo",
+		"players_data":	[{
+				"name":	"Taliaivo",
+				"weblink":	"https://www.speedrun.com/users/Taliaivo",
+				"image":	"https://www.speedrun.com/static/user/x7gq77rx/image.png?v=fbc0bf8"
+			}],
+		"weblink":	"https://www.speedrun.com/srcw/runs/m7k92l9z"
+	}, {
+		"run_id":	"yw91273m",
+		"verified_epoch":	1795461435,
+		"verified_iso":	"2026-11-23T19:17:15Z",
+		"game":	"Camel Camel",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37ene6/cover.png?v=5f9a343",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Version Range: v2a / v2b, Version: v2b",
+		"primary_t":	127.7,
+		"players":	"egaSyeliR",
+		"players_data":	[{
+				"name":	"egaSyeliR",
+				"weblink":	"https://www.speedrun.com/users/egaSyeliR",
+				"image":	"https://www.speedrun.com/static/user/zx7zw1r8/image.png?v=f1c343f"
+			}],
+		"weblink":	"https://www.speedrun.com/Camel_Camel/runs/yw91273m"
+	}, {
+		"run_id":	"y4d9o2ny",
+		"verified_epoch":	1795461400,
+		"verified_iso":	"2026-11-23T19:16:40Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"BRICS Member States",
+		"subcats":	"Platform: Website",
+		"primary_t":	7.98,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y4d9o2ny"
+	}, {
+		"run_id":	"z0gewj8y",
+		"verified_epoch":	1795461399,
+		"verified_iso":	"2026-11-23T19:16:39Z",
+		"game":	"Species Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqx8ed/cover.png?v=85e2f7a",
+		"category":	"Capture",
+		"level":	"",
+		"subcats":	"Difficulty: Nightmare, Player Count: 2 Players, Map: HGC Stormrock",
+		"primary_t":	125,
+		"players":	"Abathur, LS_MR",
+		"players_data":	[{
+				"name":	"Abathur",
+				"weblink":	"https://www.speedrun.com/users/Abathur",
+				"image":	""
+			}, {
+				"name":	"LS_MR",
+				"weblink":	"https://www.speedrun.com/users/LS_MR",
+				"image":	"https://www.speedrun.com/static/user/xyrk14zj/image.png?v=6990049"
+			}],
+		"weblink":	"https://www.speedrun.com/Species_Unknown/runs/z0gewj8y"
+	}, {
+		"run_id":	"y9rokqry",
+		"verified_epoch":	1795461335,
+		"verified_iso":	"2026-11-23T19:15:35Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Africa: Countries",
+		"level":	"",
+		"subcats":	"Mode: Pin (Hard), Platform: Website",
+		"primary_t":	59.792,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y9rokqry"
+	}, {
+		"run_id":	"z5qo6gnz",
+		"verified_epoch":	1795461320,
+		"verified_iso":	"2026-11-23T19:15:20Z",
+		"game":	"Weft",
+		"game_cover":	"https://www.speedrun.com/images/blankcover.png",
+		"category":	"On Top of the World",
+		"level":	"On Top of the World",
+		"subcats":	"",
+		"primary_t":	35.351,
+		"players":	"avonfrieren",
+		"players_data":	[{
+				"name":	"avonfrieren",
+				"weblink":	"https://www.speedrun.com/users/avonfrieren",
+				"image":	"https://www.speedrun.com/static/user/8g07ge7x/image.png?v=8d94348"
+			}],
+		"weblink":	"https://www.speedrun.com/Weft/runs/z5qo6gnz"
+	}, {
+		"run_id":	"mrgjl42z",
+		"verified_epoch":	1795461302,
+		"verified_iso":	"2026-11-23T19:15:02Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"Singapore: Regions",
+		"subcats":	"Platform: Website",
+		"primary_t":	1.58,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/mrgjl42z"
+	}, {
+		"run_id":	"y84601dz",
+		"verified_epoch":	1795461292,
+		"verified_iso":	"2026-11-23T19:14:52Z",
+		"game":	"MMX Hill Dash",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
+		"category":	"S",
+		"level":	"North Pole",
+		"subcats":	"Vehicle: The Racer",
+		"primary_t":	48.2,
+		"players":	"Junsun123",
+		"players_data":	[{
+				"name":	"Junsun123",
+				"weblink":	"https://www.speedrun.com/users/Junsun123",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/y84601dz"
+	}, {
+		"run_id":	"y9ro8nvy",
+		"verified_epoch":	1795461279,
+		"verified_iso":	"2026-11-23T19:14:39Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"European Union: Member Countries",
+		"subcats":	"Platform: Website",
+		"primary_t":	24.164,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y9ro8nvy"
+	}, {
+		"run_id":	"y4d5n3qy",
+		"verified_epoch":	1795461257,
+		"verified_iso":	"2026-11-23T19:14:17Z",
+		"game":	"Don't Starve Together",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yp7k1q/cover.png?v=bfc21ad",
+		"category":	"Frostjaw",
+		"level":	"",
+		"subcats":	"Character/Player Count: Duo, Seeded?: Unseeded, Players: Duo",
+		"primary_t":	305,
+		"players":	"Cowsrgud4u, KoolKid123",
+		"players_data":	[{
+				"name":	"Cowsrgud4u",
+				"weblink":	"https://www.speedrun.com/users/Cowsrgud4u",
+				"image":	"https://www.speedrun.com/static/user/xkp4rg6j/image.png?v=620db6f"
+			}, {
+				"name":	"KoolKid123",
+				"weblink":	"https://www.speedrun.com/users/KoolKid123",
+				"image":	"https://www.speedrun.com/static/user/8675oewj/image.png?v=860bbf9"
+			}],
+		"weblink":	"https://www.speedrun.com/do_not_starve_together/runs/y4d5n3qy"
+	}, {
+		"run_id":	"yj0j213z",
+		"verified_epoch":	1795461241,
+		"verified_iso":	"2026-11-23T19:14:01Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"Brazil in 1943",
+		"subcats":	"Platform: Website",
+		"primary_t":	31.654,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/yj0j213z"
+	}, {
+		"run_id":	"y6132r1m",
+		"verified_epoch":	1795461206,
+		"verified_iso":	"2026-11-23T19:13:26Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"Brazil in 1750",
+		"subcats":	"Platform: Website",
+		"primary_t":	7.267,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y6132r1m"
+	}, {
+		"run_id":	"y4d9jrky",
+		"verified_epoch":	1795461189,
+		"verified_iso":	"2026-11-23T19:13:09Z",
+		"game":	"Species Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqx8ed/cover.png?v=85e2f7a",
+		"category":	"Capture",
+		"level":	"",
+		"subcats":	"Difficulty: Hard, Player Count: 2 Players, Map: HGC Stormrock",
+		"primary_t":	92.211,
+		"players":	"gtbtop, St0p_1t",
+		"players_data":	[{
+				"name":	"gtbtop",
+				"weblink":	"https://www.speedrun.com/users/gtbtop",
+				"image":	"https://www.speedrun.com/static/user/j2y3r3l8/image.png?v=9e1e535"
+			}, {
+				"name":	"St0p_1t",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Species_Unknown/runs/y4d9jrky"
+	}, {
+		"run_id":	"mrgq017z",
+		"verified_epoch":	1795461133,
+		"verified_iso":	"2026-11-23T19:12:13Z",
+		"game":	"Queens",
+		"game_cover":	"https://www.speedrun.com/static/game/76r8gqd8/cover.png?v=a8007f8",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	46.267,
+		"players":	"Akuretaki",
+		"players_data":	[{
+				"name":	"Akuretaki",
+				"weblink":	"https://www.speedrun.com/users/Akuretaki",
+				"image":	"https://www.speedrun.com/static/user/xko2g798/image.png?v=4a311fd"
+			}],
+		"weblink":	"https://www.speedrun.com/queens/runs/mrgq017z"
+	}, {
+		"run_id":	"zqlkj48y",
+		"verified_epoch":	1795461108,
+		"verified_iso":	"2026-11-23T19:11:48Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"文 Numbers 1-10 in English",
+		"subcats":	"Platform: Website",
+		"primary_t":	8.665,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/zqlkj48y"
+	}, {
+		"run_id":	"z5q5p3ez",
+		"verified_epoch":	1795461044,
+		"verified_iso":	"2026-11-23T19:10:44Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"文 Body Parts in English",
+		"subcats":	"Platform: Website",
+		"primary_t":	11.604,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z5q5p3ez"
+	}, {
+		"run_id":	"y87qg05z",
+		"verified_epoch":	1795461016,
+		"verified_iso":	"2026-11-23T19:10:16Z",
+		"game":	"Tekken 4",
+		"game_cover":	"https://www.speedrun.com/static/game/3dx3zydy/cover.png?v=30314eb",
+		"category":	"Tekken Force",
+		"level":	"",
+		"subcats":	"Character: Paul",
+		"primary_t":	1076,
+		"players":	"AnimaatioKontiainen",
+		"players_data":	[{
+				"name":	"AnimaatioKontiainen",
+				"weblink":	"https://www.speedrun.com/users/AnimaatioKontiainen",
+				"image":	"https://www.speedrun.com/static/user/joz557e8/image.png?v=3b18b7c"
+			}],
+		"weblink":	"https://www.speedrun.com/tekken4/runs/y87qg05z"
+	}, {
+		"run_id":	"z04v9xoy",
+		"verified_epoch":	1795461014,
+		"verified_iso":	"2026-11-23T19:10:14Z",
+		"game":	"Species Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqx8ed/cover.png?v=85e2f7a",
+		"category":	"Capture",
+		"level":	"",
+		"subcats":	"Difficulty: Nightmare, Player Count: 3 Players, Map: HGC Stormrock",
+		"primary_t":	770.31,
+		"players":	"epic_gamer1521, LimpDihzKit, theawesomeninja",
+		"players_data":	[{
+				"name":	"epic_gamer1521",
+				"weblink":	"https://www.speedrun.com/users/epic_gamer1521",
+				"image":	"https://www.speedrun.com/static/user/xzo22048/image.png?v=036582d"
+			}, {
+				"name":	"LimpDihzKit",
+				"weblink":	"https://www.speedrun.com/users/LimpDihzKit",
+				"image":	"https://www.speedrun.com/static/user/8egeew7x/image.png?v=4731430"
+			}, {
+				"name":	"theawesomeninja",
+				"weblink":	"https://www.speedrun.com/users/theawesomeninja",
+				"image":	"https://www.speedrun.com/static/user/81emyopj/image.png?v=9495451"
+			}],
+		"weblink":	"https://www.speedrun.com/Species_Unknown/runs/z04v9xoy"
+	}, {
+		"run_id":	"yd78j00y",
+		"verified_epoch":	1795461004,
+		"verified_iso":	"2026-11-23T19:10:04Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"░ World: Red, White And Blue Flags",
+		"subcats":	"Platform: Website",
+		"primary_t":	46.872,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/yd78j00y"
+	}, {
+		"run_id":	"y613njqm",
+		"verified_epoch":	1795460963,
+		"verified_iso":	"2026-11-23T19:09:23Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"░ World: Red and White Flags",
+		"subcats":	"Platform: Website",
+		"primary_t":	17.589,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y613njqm"
+	}, {
+		"run_id":	"y873jgxz",
+		"verified_epoch":	1795460929,
+		"verified_iso":	"2026-11-23T19:08:49Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"░ World: Green, Red and Yellow Flags",
+		"subcats":	"Platform: Website",
+		"primary_t":	39.036,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/y873jgxz"
+	}, {
+		"run_id":	"z0gwo0oy",
+		"verified_epoch":	1795460903,
+		"verified_iso":	"2026-11-23T19:08:23Z",
+		"game":	"Ekvis",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j973ed/cover.png?v=9c8ec8c",
+		"category":	"Pin",
+		"level":	"░ World: Green, Black, Red and White Flags",
+		"subcats":	"Platform: Website",
+		"primary_t":	12.291,
+		"players":	"alimbis",
+		"players_data":	[{
+				"name":	"alimbis",
+				"weblink":	"https://www.speedrun.com/users/alimbis",
+				"image":	"https://www.speedrun.com/static/user/jopoy9nx/image.png?v=a7d7bad"
+			}],
+		"weblink":	"https://www.speedrun.com/Ekvis/runs/z0gwo0oy"
+	}, {
 		"run_id":	"y4d98n2y",
 		"verified_epoch":	1795460814,
 		"verified_iso":	"2026-11-23T19:06:54Z",
@@ -15082,432 +16223,4 @@
 				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
 			}],
 		"weblink":	"https://www.speedrun.com/blade_strangers/runs/zpjq99xz"
-	}, {
-		"run_id":	"yow4pp0z",
-		"verified_epoch":	1795376117,
-		"verified_iso":	"2026-11-22T19:35:17Z",
-		"game":	"Blade Strangers",
-		"game_cover":	"https://www.speedrun.com/static/game/v1po3om6/cover.png?v=63a017b",
-		"category":	"Story",
-		"level":	"Isaac",
-		"subcats":	"",
-		"primary_t":	445,
-		"players":	"AlbertAC3",
-		"players_data":	[{
-				"name":	"AlbertAC3",
-				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
-				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
-			}],
-		"weblink":	"https://www.speedrun.com/blade_strangers/runs/yow4pp0z"
-	}, {
-		"run_id":	"y87qwndz",
-		"verified_epoch":	1795376078,
-		"verified_iso":	"2026-11-22T19:34:38Z",
-		"game":	"Blade Strangers",
-		"game_cover":	"https://www.speedrun.com/static/game/v1po3om6/cover.png?v=63a017b",
-		"category":	"Arcade",
-		"level":	"Kawase",
-		"subcats":	"",
-		"primary_t":	228,
-		"players":	"AlbertAC3",
-		"players_data":	[{
-				"name":	"AlbertAC3",
-				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
-				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
-			}],
-		"weblink":	"https://www.speedrun.com/blade_strangers/runs/y87qwndz"
-	}, {
-		"run_id":	"y2o32r7m",
-		"verified_epoch":	1795376030,
-		"verified_iso":	"2026-11-22T19:33:50Z",
-		"game":	"Blade Strangers",
-		"game_cover":	"https://www.speedrun.com/static/game/v1po3om6/cover.png?v=63a017b",
-		"category":	"Arcade",
-		"level":	"Summer Kawase",
-		"subcats":	"",
-		"primary_t":	232,
-		"players":	"AlbertAC3",
-		"players_data":	[{
-				"name":	"AlbertAC3",
-				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
-				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
-			}],
-		"weblink":	"https://www.speedrun.com/blade_strangers/runs/y2o32r7m"
-	}, {
-		"run_id":	"m7k9o5wz",
-		"verified_epoch":	1795375998,
-		"verified_iso":	"2026-11-22T19:33:18Z",
-		"game":	"Medal of Honor (2010)",
-		"game_cover":	"https://www.speedrun.com/static/game/9do9lodp/cover.png?v=dd2ef5e",
-		"category":	"Single Segment",
-		"level":	"First In",
-		"subcats":	"Game Mode: Campaign - Hard",
-		"primary_t":	687,
-		"players":	"Mennilenium",
-		"players_data":	[{
-				"name":	"Mennilenium",
-				"weblink":	"https://www.speedrun.com/users/Mennilenium",
-				"image":	"https://www.speedrun.com/static/user/x76z1rqj/image.png?v=e86b5e9"
-			}],
-		"weblink":	"https://www.speedrun.com/moh2010/runs/m7k9o5wz"
-	}, {
-		"run_id":	"zql64k5y",
-		"verified_epoch":	1795375974,
-		"verified_iso":	"2026-11-22T19:32:54Z",
-		"game":	"Balatro",
-		"game_cover":	"https://www.speedrun.com/static/game/ldeww3jd/cover.png?v=3468c18",
-		"category":	"Random Seed",
-		"level":	"",
-		"subcats":	"Deck: Plasma, Skips?: Skips, Version: 1.0.1, Stake: Gold",
-		"primary_t":	139.483,
-		"players":	"astronauta1",
-		"players_data":	[{
-				"name":	"astronauta1",
-				"weblink":	"https://www.speedrun.com/users/astronauta1",
-				"image":	"https://www.speedrun.com/static/user/jol4o23j/image.png?v=2e654f2"
-			}],
-		"weblink":	"https://www.speedrun.com/Balatro/runs/zql64k5y"
-	}, {
-		"run_id":	"m344og4z",
-		"verified_epoch":	1795375819,
-		"verified_iso":	"2026-11-22T19:30:19Z",
-		"game":	"Ghost of Tsushima",
-		"game_cover":	"https://www.speedrun.com/static/game/o6glek9d/cover.png?v=d1d0fa9",
-		"category":	"Any% (NG)",
-		"level":	"",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	32193,
-		"players":	"BaconFM",
-		"players_data":	[{
-				"name":	"BaconFM",
-				"weblink":	"https://www.speedrun.com/users/BaconFM",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/ghost_of_tsushima/runs/m344og4z"
-	}, {
-		"run_id":	"zpjqxrrz",
-		"verified_epoch":	1795375637,
-		"verified_iso":	"2026-11-22T19:27:17Z",
-		"game":	"Reading",
-		"game_cover":	"https://www.speedrun.com/static/game/369w2pgd/cover.png?v=04c743e",
-		"category":	"The Bible",
-		"level":	"",
-		"subcats":	"The Bible: Isaiah, Language: En, Accuracy: B-6, Number of Readers: Solo, Bible Version: 1537",
-		"primary_t":	9611,
-		"players":	"Redslash",
-		"players_data":	[{
-				"name":	"Redslash",
-				"weblink":	"https://www.speedrun.com/users/Redslash",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/IRL_Reading/runs/zpjqxrrz"
-	}, {
-		"run_id":	"y4d5lwky",
-		"verified_epoch":	1795375566,
-		"verified_iso":	"2026-11-22T19:26:06Z",
-		"game":	"Don't Starve Together",
-		"game_cover":	"https://www.speedrun.com/static/game/o1yp7k1q/cover.png?v=bfc21ad",
-		"category":	"Bee Queen",
-		"level":	"",
-		"subcats":	"Character/Player Count: 6 Players, Seeded?: Unseeded, Players: 3+ Players",
-		"primary_t":	79,
-		"players":	"kairyu25, Cowsrgud4u, KoolKid123, frds, Chintzy, tykain",
-		"players_data":	[{
-				"name":	"kairyu25",
-				"weblink":	"https://www.speedrun.com/users/kairyu25",
-				"image":	"https://www.speedrun.com/static/user/x7z4vr68/image.png?v=3c10f63"
-			}, {
-				"name":	"Cowsrgud4u",
-				"weblink":	"https://www.speedrun.com/users/Cowsrgud4u",
-				"image":	"https://www.speedrun.com/static/user/xkp4rg6j/image.png?v=620db6f"
-			}, {
-				"name":	"KoolKid123",
-				"weblink":	"https://www.speedrun.com/users/KoolKid123",
-				"image":	"https://www.speedrun.com/static/user/8675oewj/image.png?v=860bbf9"
-			}, {
-				"name":	"frds",
-				"weblink":	"https://www.speedrun.com/users/frds",
-				"image":	"https://www.speedrun.com/static/user/xz2n03ex/image.png?v=210f5a1"
-			}, {
-				"name":	"Chintzy",
-				"weblink":	"https://www.speedrun.com/users/Chintzy",
-				"image":	""
-			}, {
-				"name":	"tykain",
-				"weblink":	"https://www.speedrun.com/users/tykain",
-				"image":	"https://www.speedrun.com/static/user/8r13zodj/image.png?v=e43018c"
-			}],
-		"weblink":	"https://www.speedrun.com/do_not_starve_together/runs/y4d5lwky"
-	}, {
-		"run_id":	"z1e3n5ry",
-		"verified_epoch":	1795375355,
-		"verified_iso":	"2026-11-22T19:22:35Z",
-		"game":	"Cardaire: Eternal Aces",
-		"game_cover":	"https://www.speedrun.com/static/game/pd054821/cover.png?v=bad9b62",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	3703,
-		"players":	"VibranToucan",
-		"players_data":	[{
-				"name":	"VibranToucan",
-				"weblink":	"https://www.speedrun.com/users/VibranToucan",
-				"image":	"https://www.speedrun.com/static/user/jo2y7y78/image.png?v=8ca3469"
-			}],
-		"weblink":	"https://www.speedrun.com/Cardaire_Eternal_Aces/runs/z1e3n5ry"
-	}, {
-		"run_id":	"z0gedp4y",
-		"verified_epoch":	1795375001,
-		"verified_iso":	"2026-11-22T19:16:41Z",
-		"game":	"Castlevania: Belmont's Curse",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkv8wg1/cover.png?v=2059be2",
-		"category":	"Bad Ending",
-		"level":	"",
-		"subcats":	"Category: Unrestricted, Platform: PC, Loadless?: YES, Patch: 1.1.4 (11/6/26)",
-		"primary_t":	566,
-		"players":	"dryace",
-		"players_data":	[{
-				"name":	"dryace",
-				"weblink":	"https://www.speedrun.com/users/dryace",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/CBC/runs/z0gedp4y"
-	}, {
-		"run_id":	"yj0k93nz",
-		"verified_epoch":	1795374999,
-		"verified_iso":	"2026-11-22T19:16:39Z",
-		"game":	"A Koopa's Revenge",
-		"game_cover":	"https://www.speedrun.com/static/game/nd2ekl5d/cover.png?v=0d1c37c",
-		"category":	"1-1",
-		"level":	"Individual Levels",
-		"subcats":	"Version: Current Patch",
-		"primary_t":	29.83,
-		"players":	"PouSpeedrunner47",
-		"players_data":	[{
-				"name":	"PouSpeedrunner47",
-				"weblink":	"https://www.speedrun.com/users/PouSpeedrunner47",
-				"image":	"https://www.speedrun.com/static/user/819kq93x/image.png?v=9591734"
-			}],
-		"weblink":	"https://www.speedrun.com/koopasrevenge1/runs/yj0k93nz"
-	}, {
-		"run_id":	"znln2p8y",
-		"verified_epoch":	1795374917,
-		"verified_iso":	"2026-11-22T19:15:17Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"DLC - Nobushige the Unbreakable",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	39.19,
-		"players":	"Iceyspeedrunners",
-		"players_data":	[{
-				"name":	"Iceyspeedrunners",
-				"weblink":	"https://www.speedrun.com/users/Iceyspeedrunners",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/znln2p8y"
-	}, {
-		"run_id":	"m3pdj16z",
-		"verified_epoch":	1795374901,
-		"verified_iso":	"2026-11-22T19:15:01Z",
-		"game":	"Superstar Racers",
-		"game_cover":	"https://www.speedrun.com/static/game/o6gk4xn1/cover.png?v=29985e9",
-		"category":	"Recode (V13)",
-		"level":	"Slime Factory",
-		"subcats":	"Events: No Events",
-		"primary_t":	50.96,
-		"players":	"PLAYBR",
-		"players_data":	[{
-				"name":	"PLAYBR",
-				"weblink":	"https://www.speedrun.com/users/PLAYBR",
-				"image":	"https://www.speedrun.com/static/user/jm07qey8/image.png?v=d345dc7"
-			}],
-		"weblink":	"https://www.speedrun.com/Superstar_Racers/runs/m3pdj16z"
-	}, {
-		"run_id":	"me5qwj8m",
-		"verified_epoch":	1795374864,
-		"verified_iso":	"2026-11-22T19:14:24Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"Call of the Hunt - The Spider",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	24.76,
-		"players":	"Iceyspeedrunners",
-		"players_data":	[{
-				"name":	"Iceyspeedrunners",
-				"weblink":	"https://www.speedrun.com/users/Iceyspeedrunners",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/me5qwj8m"
-	}, {
-		"run_id":	"mrpgvn7z",
-		"verified_epoch":	1795374819,
-		"verified_iso":	"2026-11-22T19:13:39Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"The Reckoning - The Dragon",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	24.92,
-		"players":	"Iceyspeedrunners",
-		"players_data":	[{
-				"name":	"Iceyspeedrunners",
-				"weblink":	"https://www.speedrun.com/users/Iceyspeedrunners",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/mrpgvn7z"
-	}, {
-		"run_id":	"zg05lrnm",
-		"verified_epoch":	1795374779,
-		"verified_iso":	"2026-11-22T19:12:59Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"Black Night Kubo",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	14.99,
-		"players":	"Iceyspeedrunners",
-		"players_data":	[{
-				"name":	"Iceyspeedrunners",
-				"weblink":	"https://www.speedrun.com/users/Iceyspeedrunners",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/zg05lrnm"
-	}, {
-		"run_id":	"m34p0rqz",
-		"verified_epoch":	1795374746,
-		"verified_iso":	"2026-11-22T19:12:26Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"The Undying Samurai",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	14.91,
-		"players":	"Iceyspeedrunners",
-		"players_data":	[{
-				"name":	"Iceyspeedrunners",
-				"weblink":	"https://www.speedrun.com/users/Iceyspeedrunners",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/m34p0rqz"
-	}, {
-		"run_id":	"z144k2rz",
-		"verified_epoch":	1795374700,
-		"verified_iso":	"2026-11-22T19:11:40Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Duels and Camps",
-		"level":	"DLC - Jisuke the Clean & Chuhei the Rotten",
-		"subcats":	"Difficulty: Lethal",
-		"primary_t":	49.1,
-		"players":	"AlfieOmega",
-		"players_data":	[{
-				"name":	"AlfieOmega",
-				"weblink":	"https://www.speedrun.com/users/AlfieOmega",
-				"image":	"https://www.speedrun.com/static/user/j4qylnmx/image.png?v=862dfc7"
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/z144k2rz"
-	}, {
-		"run_id":	"ydxpqkwz",
-		"verified_epoch":	1795374636,
-		"verified_iso":	"2026-11-22T19:10:36Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Most Wanted",
-		"level":	"",
-		"subcats":	"Target: Lord Saito, Hunter: Jin Sakai, Threat: Initial, Difficulty: Any Difficulty",
-		"primary_t":	1063,
-		"players":	"xKodo",
-		"players_data":	[{
-				"name":	"xKodo",
-				"weblink":	"https://www.speedrun.com/users/xKodo",
-				"image":	"https://www.speedrun.com/static/user/8vy7vwn8/image.png?v=12b270d"
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/ydxpqkwz"
-	}, {
-		"run_id":	"zx1vxkgy",
-		"verified_epoch":	1795374614,
-		"verified_iso":	"2026-11-22T19:10:14Z",
-		"game":	"Burnout Paradise Remastered",
-		"game_cover":	"https://www.speedrun.com/static/game/lde3wrn6/cover.png?v=8cd35c7",
-		"category":	"Glitchless",
-		"level":	"Going Coastal Online Race",
-		"subcats":	"",
-		"primary_t":	60.95,
-		"players":	"Mattycall",
-		"players_data":	[{
-				"name":	"Mattycall",
-				"weblink":	"https://www.speedrun.com/users/Mattycall",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/bpr/runs/zx1vxkgy"
-	}, {
-		"run_id":	"z042ek8y",
-		"verified_epoch":	1795374606,
-		"verified_iso":	"2026-11-22T19:10:06Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Most Wanted",
-		"level":	"",
-		"subcats":	"Target: The Dragon, Hunter: Atsu, Threat: Initial, Difficulty: Any Difficulty",
-		"primary_t":	702,
-		"players":	"xKodo",
-		"players_data":	[{
-				"name":	"xKodo",
-				"weblink":	"https://www.speedrun.com/users/xKodo",
-				"image":	"https://www.speedrun.com/static/user/8vy7vwn8/image.png?v=12b270d"
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/z042ek8y"
-	}, {
-		"run_id":	"mrpwqd4z",
-		"verified_epoch":	1795374577,
-		"verified_iso":	"2026-11-22T19:09:37Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Most Wanted",
-		"level":	"",
-		"subcats":	"Target: The Snake, Hunter: Atsu, Threat: Initial, Difficulty: Any Difficulty",
-		"primary_t":	690,
-		"players":	"xKodo",
-		"players_data":	[{
-				"name":	"xKodo",
-				"weblink":	"https://www.speedrun.com/users/xKodo",
-				"image":	"https://www.speedrun.com/static/user/8vy7vwn8/image.png?v=12b270d"
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/mrpwqd4z"
-	}, {
-		"run_id":	"zql6djxy",
-		"verified_epoch":	1795374511,
-		"verified_iso":	"2026-11-22T19:08:31Z",
-		"game":	"Shadow the Hedgehog: Reloaded",
-		"game_cover":	"https://www.speedrun.com/static/game/o1y3y346/cover.png?v=1e21370",
-		"category":	"Expert",
-		"level":	"The Last Way",
-		"subcats":	"Note: No SG, Character: Cannon Android",
-		"primary_t":	151.74,
-		"players":	"Rawlins",
-		"players_data":	[{
-				"name":	"Rawlins",
-				"weblink":	"https://www.speedrun.com/users/Rawlins",
-				"image":	"https://www.speedrun.com/static/user/8rpwdqqj/image.png?v=235e731"
-			}],
-		"weblink":	"https://www.speedrun.com/shadowreloaded/runs/zql6djxy"
-	}, {
-		"run_id":	"y9qg7d2z",
-		"verified_epoch":	1795374498,
-		"verified_iso":	"2026-11-22T19:08:18Z",
-		"game":	"Ghost of Yōtei",
-		"game_cover":	"https://www.speedrun.com/static/game/pdv970v1/cover.png?v=5d73e0f",
-		"category":	"Most Wanted",
-		"level":	"",
-		"subcats":	"Target: The Oni, Hunter: Atsu, Threat: Initial, Difficulty: Any Difficulty",
-		"primary_t":	503,
-		"players":	"xKodo",
-		"players_data":	[{
-				"name":	"xKodo",
-				"weblink":	"https://www.speedrun.com/users/xKodo",
-				"image":	"https://www.speedrun.com/static/user/8vy7vwn8/image.png?v=12b270d"
-			}],
-		"weblink":	"https://www.speedrun.com/Ghost_of_Yotei/runs/y9qg7d2z"
 	}]
