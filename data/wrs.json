@@ -1,4 +1,55 @@
 [{
+		"run_id":	"m3pdvg6z",
+		"verified_epoch":	1795417850,
+		"verified_iso":	"2026-11-23T07:10:50Z",
+		"game":	"Viractal: Will You Trust Your Party?",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gwxvo1/cover.png?v=b4afa35",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Stage: Mined Error 404, Charcter: Explorer No. XII",
+		"primary_t":	1062,
+		"players":	"daradarach",
+		"players_data":	[{
+				"name":	"daradarach",
+				"weblink":	"https://www.speedrun.com/users/daradarach",
+				"image":	"https://www.speedrun.com/static/user/18vo5eyx/image.png?v=57e5552"
+			}],
+		"weblink":	"https://www.speedrun.com/Viractal_Will_You_Trust_Your_Party/runs/m3pdvg6z"
+	}, {
+		"run_id":	"m7k9l55z",
+		"verified_epoch":	1795417514,
+		"verified_iso":	"2026-11-23T07:05:14Z",
+		"game":	"Spider-Man 3",
+		"game_cover":	"https://www.speedrun.com/static/game/9d35ge1l/cover.png?v=1d0b1be",
+		"category":	"New Goblin All Races",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	1282,
+		"players":	"Just_Faze",
+		"players_data":	[{
+				"name":	"Just_Faze",
+				"weblink":	"https://www.speedrun.com/users/Just_Faze",
+				"image":	"https://www.speedrun.com/static/user/jo343n7j/image.png?v=02681f1"
+			}],
+		"weblink":	"https://www.speedrun.com/spiderman3/runs/m7k9l55z"
+	}, {
+		"run_id":	"z0ge03jy",
+		"verified_epoch":	1795416850,
+		"verified_iso":	"2026-11-23T06:54:10Z",
+		"game":	"Scribblenauts",
+		"game_cover":	"https://www.speedrun.com/static/game/4d79mll1/cover.png?v=4e3d4db",
+		"category":	"All Levels",
+		"level":	"",
+		"subcats":	"Release: Collection",
+		"primary_t":	6038,
+		"players":	"SoapAgent",
+		"players_data":	[{
+				"name":	"SoapAgent",
+				"weblink":	"https://www.speedrun.com/users/SoapAgent",
+				"image":	"https://www.speedrun.com/static/user/86vn91wj/image.png?v=fda6a19"
+			}],
+		"weblink":	"https://www.speedrun.com/scribblenauts_/runs/z0ge03jy"
+	}, {
 		"run_id":	"m7k92n4z",
 		"verified_epoch":	1795415344,
 		"verified_iso":	"2026-11-23T06:29:04Z",
@@ -16067,55 +16118,4 @@
 				"image":	"https://www.speedrun.com/static/user/8dpmygl8/image.png?v=5066ffa"
 			}],
 		"weblink":	"https://www.speedrun.com/The_Outlast_Trials/runs/y617onpm"
-	}, {
-		"run_id":	"y84ok2xz",
-		"verified_epoch":	1795331197,
-		"verified_iso":	"2026-11-22T07:06:37Z",
-		"game":	"Coal LLC",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7xg531/cover.png?v=47593d0",
-		"category":	"Day25%",
-		"level":	"",
-		"subcats":	"Version: v1.1.0.4, Chest: Allowed, Map: Any, Class: Any",
-		"primary_t":	4552,
-		"players":	"buffalax",
-		"players_data":	[{
-				"name":	"buffalax",
-				"weblink":	"https://www.speedrun.com/users/buffalax",
-				"image":	"https://www.speedrun.com/static/user/dx359lej/image.png?v=c868342"
-			}],
-		"weblink":	"https://www.speedrun.com/Coal_LLC/runs/y84ok2xz"
-	}, {
-		"run_id":	"znnw8j9z",
-		"verified_epoch":	1795330357,
-		"verified_iso":	"2026-11-22T06:52:37Z",
-		"game":	"Dark Riddle Classic",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxyl7d/cover.png?v=7f1d01b",
-		"category":	"Any%",
-		"level":	"All Keycards%",
-		"subcats":	"",
-		"primary_t":	105.5,
-		"players":	"GeneratorPlay",
-		"players_data":	[{
-				"name":	"GeneratorPlay",
-				"weblink":	"https://www.speedrun.com/users/GeneratorPlay",
-				"image":	"https://www.speedrun.com/static/user/8lkd674x/image.png?v=1a7b140"
-			}],
-		"weblink":	"https://www.speedrun.com/Dark_Riddle_Classic/runs/znnw8j9z"
-	}, {
-		"run_id":	"yj0k263z",
-		"verified_epoch":	1795330291,
-		"verified_iso":	"2026-11-22T06:51:31Z",
-		"game":	"Crash Tag Team Racing",
-		"game_cover":	"https://www.speedrun.com/static/game/xldezxd3/cover.png?v=73a30b3",
-		"category":	"Coin Glitch",
-		"level":	"",
-		"subcats":	"Format: HDD, Coin Glitch Category: All Missions, Version: Console",
-		"primary_t":	2861,
-		"players":	"PeteThePlayer",
-		"players_data":	[{
-				"name":	"PeteThePlayer",
-				"weblink":	"https://www.speedrun.com/users/PeteThePlayer",
-				"image":	"https://www.speedrun.com/static/user/v18qowjn/image.png?v=e25ff23"
-			}],
-		"weblink":	"https://www.speedrun.com/cttr/runs/yj0k263z"
 	}]
