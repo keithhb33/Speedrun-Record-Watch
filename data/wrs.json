@@ -1,4 +1,67 @@
 [{
+		"run_id":	"m7k92n4z",
+		"verified_epoch":	1795415344,
+		"verified_iso":	"2026-11-23T06:29:04Z",
+		"game":	"Shrek 2 Remastered",
+		"game_cover":	"https://www.speedrun.com/static/game/9d37e5g6/cover.png?v=163bd72",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"Players: Co-op",
+		"primary_t":	14657,
+		"players":	"OliverMcEvoy, Bronkus, Cowsaregreat, Hugovnsn",
+		"players_data":	[{
+				"name":	"OliverMcEvoy",
+				"weblink":	"https://www.speedrun.com/users/OliverMcEvoy",
+				"image":	""
+			}, {
+				"name":	"Bronkus",
+				"weblink":	"https://www.speedrun.com/users/Bronkus",
+				"image":	""
+			}, {
+				"name":	"Cowsaregreat",
+				"weblink":	"https://www.speedrun.com/users/Cowsaregreat",
+				"image":	""
+			}, {
+				"name":	"Hugovnsn",
+				"weblink":	"https://www.speedrun.com/users/Hugovnsn",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Shrek_2_Remastered/runs/m7k92n4z"
+	}, {
+		"run_id":	"zxreqpez",
+		"verified_epoch":	1795415261,
+		"verified_iso":	"2026-11-23T06:27:41Z",
+		"game":	"Half-Life: Opposing Force",
+		"game_cover":	"https://www.speedrun.com/static/game/ok6q001g/cover.png?v=6249522",
+		"category":	"WON (RTA)",
+		"level":	"Welcome To Black Mesa",
+		"subcats":	"Type: Scripted, GEM: No, Rule Set: Current, Difficulty: Easy",
+		"primary_t":	228.444,
+		"players":	"tilt89b",
+		"players_data":	[{
+				"name":	"tilt89b",
+				"weblink":	"https://www.speedrun.com/users/tilt89b",
+				"image":	"https://www.speedrun.com/static/user/joz1w2e8/image.png?v=f9e20d0"
+			}],
+		"weblink":	"https://www.speedrun.com/op4/runs/zxreqpez"
+	}, {
+		"run_id":	"meqk28qm",
+		"verified_epoch":	1795415260,
+		"verified_iso":	"2026-11-23T06:27:40Z",
+		"game":	"Crystalyn",
+		"game_cover":	"https://www.speedrun.com/static/game/j1l78g7d/cover.png?v=35e60a7",
+		"category":	"Any% Glitchless",
+		"level":	"",
+		"subcats":	"Any% Glitchless: Any modifier, Version: Beta",
+		"primary_t":	4571,
+		"players":	"Firestar587",
+		"players_data":	[{
+				"name":	"Firestar587",
+				"weblink":	"https://www.speedrun.com/users/Firestar587",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Crystalyn/runs/meqk28qm"
+	}, {
 		"run_id":	"m34elx4z",
 		"verified_epoch":	1795415064,
 		"verified_iso":	"2026-11-23T06:24:24Z",
@@ -16055,123 +16118,4 @@
 				"image":	"https://www.speedrun.com/static/user/v18qowjn/image.png?v=e25ff23"
 			}],
 		"weblink":	"https://www.speedrun.com/cttr/runs/yj0k263z"
-	}, {
-		"run_id":	"znldd3vy",
-		"verified_epoch":	1795330074,
-		"verified_iso":	"2026-11-22T06:47:54Z",
-		"game":	"Dark Riddle Classic",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxyl7d/cover.png?v=7f1d01b",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	45.733,
-		"players":	"Itzrealhuggy",
-		"players_data":	[{
-				"name":	"Itzrealhuggy",
-				"weblink":	"https://www.speedrun.com/users/Itzrealhuggy",
-				"image":	"https://www.speedrun.com/static/user/x7yoomrx/image.png?v=44c92f2"
-			}],
-		"weblink":	"https://www.speedrun.com/Dark_Riddle_Classic/runs/znldd3vy"
-	}, {
-		"run_id":	"meqke43m",
-		"verified_epoch":	1795329852,
-		"verified_iso":	"2026-11-22T06:44:12Z",
-		"game":	"Shrek 2 Remastered",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37e5g6/cover.png?v=163bd72",
-		"category":	"Any%",
-		"level":	"Shrek's Swamp",
-		"subcats":	"Players: Single Player",
-		"primary_t":	340,
-		"players":	"DDiNaMiTaSs",
-		"players_data":	[{
-				"name":	"DDiNaMiTaSs",
-				"weblink":	"https://www.speedrun.com/users/DDiNaMiTaSs",
-				"image":	"https://www.speedrun.com/static/user/j9llk5rj/image.png?v=4d4c047"
-			}],
-		"weblink":	"https://www.speedrun.com/Shrek_2_Remastered/runs/meqke43m"
-	}, {
-		"run_id":	"y9r7orky",
-		"verified_epoch":	1795329754,
-		"verified_iso":	"2026-11-22T06:42:34Z",
-		"game":	"Shrek 2 Remastered",
-		"game_cover":	"https://www.speedrun.com/static/game/9d37e5g6/cover.png?v=163bd72",
-		"category":	"All Bonuses",
-		"level":	"",
-		"subcats":	"Players: Single Player",
-		"primary_t":	77,
-		"players":	"anypresent",
-		"players_data":	[{
-				"name":	"anypresent",
-				"weblink":	"https://www.speedrun.com/users/anypresent",
-				"image":	"https://www.speedrun.com/static/user/x3m4vle8/image.png?v=358ca04"
-			}],
-		"weblink":	"https://www.speedrun.com/Shrek_2_Remastered/runs/y9r7orky"
-	}, {
-		"run_id":	"zqlkoe8y",
-		"verified_epoch":	1795329239,
-		"verified_iso":	"2026-11-22T06:33:59Z",
-		"game":	"Slash/Jump",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7xq3r1/cover.png?v=9d1d41e",
-		"category":	"Any% NMG",
-		"level":	"",
-		"subcats":	"Device: Controller",
-		"primary_t":	121.369,
-		"players":	"Viggozoto",
-		"players_data":	[{
-				"name":	"Viggozoto",
-				"weblink":	"https://www.speedrun.com/users/Viggozoto",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/SlashJump/runs/zqlkoe8y"
-	}, {
-		"run_id":	"yvdgvgey",
-		"verified_epoch":	1795329238,
-		"verified_iso":	"2026-11-22T06:33:58Z",
-		"game":	"Dark Riddle Classic",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxyl7d/cover.png?v=7f1d01b",
-		"category":	"Glitchless%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	155.533,
-		"players":	"nolove_",
-		"players_data":	[{
-				"name":	"nolove_",
-				"weblink":	"https://www.speedrun.com/users/nolove_",
-				"image":	"https://www.speedrun.com/static/user/8645ovpj/image.png?v=7e391c3"
-			}],
-		"weblink":	"https://www.speedrun.com/Dark_Riddle_Classic/runs/yvdgvgey"
-	}, {
-		"run_id":	"y87qkqnz",
-		"verified_epoch":	1795329187,
-		"verified_iso":	"2026-11-22T06:33:07Z",
-		"game":	"Candyman: Be My Victim (DEMAKE)",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qw75m6/cover.png?v=349ed51",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	412,
-		"players":	"Zarc0nis",
-		"players_data":	[{
-				"name":	"Zarc0nis",
-				"weblink":	"https://www.speedrun.com/users/Zarc0nis",
-				"image":	"https://www.speedrun.com/static/user/xzlyekr8/image.png?v=b024215"
-			}],
-		"weblink":	"https://www.speedrun.com/candyman_be_my_victim_demake/runs/y87qkqnz"
-	}, {
-		"run_id":	"y2o3k3wm",
-		"verified_epoch":	1795328900,
-		"verified_iso":	"2026-11-22T06:28:20Z",
-		"game":	"Payback 2",
-		"game_cover":	"https://www.speedrun.com/static/game/j1llm971/cover.png?v=d07b808",
-		"category":	"All Story Missions",
-		"level":	"",
-		"subcats":	"Chapter: Remote Control",
-		"primary_t":	347.5,
-		"players":	"LPatriot",
-		"players_data":	[{
-				"name":	"LPatriot",
-				"weblink":	"https://www.speedrun.com/users/LPatriot",
-				"image":	"https://www.speedrun.com/static/user/8rm4616j/image.png?v=a278a3e"
-			}],
-		"weblink":	"https://www.speedrun.com/payback2/runs/y2o3k3wm"
 	}]
