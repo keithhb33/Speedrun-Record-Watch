@@ -1,4 +1,105 @@
 [{
+		"run_id":	"y9r7e3ny",
+		"verified_epoch":	1795425059,
+		"verified_iso":	"2026-11-23T09:10:59Z",
+		"game":	"Reading",
+		"game_cover":	"https://www.speedrun.com/static/game/369w2pgd/cover.png?v=04c743e",
+		"category":	"The Bible",
+		"level":	"",
+		"subcats":	"The Bible: Lamentations, Language: En, Accuracy: B, Number of Readers: Solo, Bible Version: 1537",
+		"primary_t":	850,
+		"players":	"Redslash",
+		"players_data":	[{
+				"name":	"Redslash",
+				"weblink":	"https://www.speedrun.com/users/Redslash",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/IRL_Reading/runs/y9r7e3ny"
+	}, {
+		"run_id":	"yl89jq3z",
+		"verified_epoch":	1795424218,
+		"verified_iso":	"2026-11-23T08:56:58Z",
+		"game":	"Destiny 2 Story",
+		"game_cover":	"https://www.speedrun.com/static/game/yd4or2x1/cover.png?v=b036433",
+		"category":	"Fireteam",
+		"level":	"Nightmare Hunt: Rage",
+		"subcats":	"Expansion: Monument of Triumph, Difficulty: Advanced",
+		"primary_t":	43.4,
+		"players":	"H4sh, grahambone, Astroooo",
+		"players_data":	[{
+				"name":	"H4sh",
+				"weblink":	"https://www.speedrun.com/users/H4sh",
+				"image":	"https://www.speedrun.com/static/user/jon3z5e8/image.png?v=91eb46a"
+			}, {
+				"name":	"grahambone",
+				"weblink":	"https://www.speedrun.com/users/grahambone",
+				"image":	""
+			}, {
+				"name":	"Astroooo",
+				"weblink":	"https://www.speedrun.com/users/Astroooo",
+				"image":	"https://www.speedrun.com/static/user/8w34w2lj/image.png?v=39d808d"
+			}],
+		"weblink":	"https://www.speedrun.com/destiny2story/runs/yl89jq3z"
+	}, {
+		"run_id":	"yj0ko4nz",
+		"verified_epoch":	1795423361,
+		"verified_iso":	"2026-11-23T08:42:41Z",
+		"game":	"Theme Hotel",
+		"game_cover":	"https://www.speedrun.com/static/game/268ew856/cover.png?v=5128229",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	356,
+		"players":	"TLC1",
+		"players_data":	[{
+				"name":	"TLC1",
+				"weblink":	"https://www.speedrun.com/users/TLC1",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/themehotel/runs/yj0ko4nz"
+	}, {
+		"run_id":	"m7k9ldwz",
+		"verified_epoch":	1795423269,
+		"verified_iso":	"2026-11-23T08:41:09Z",
+		"game":	"The Outlast Trials",
+		"game_cover":	"https://www.speedrun.com/static/game/y65rol71/cover.png?v=b78c6e8",
+		"category":	"Intensive",
+		"level":	"Feed the Children",
+		"subcats":	"Players: Duo",
+		"primary_t":	143,
+		"players":	"Abysswatcher, DavidIsGhost",
+		"players_data":	[{
+				"name":	"Abysswatcher",
+				"weblink":	"https://www.speedrun.com/users/Abysswatcher",
+				"image":	"https://www.speedrun.com/static/user/8q0rmyoj/image.png?v=1c89214"
+			}, {
+				"name":	"DavidIsGhost",
+				"weblink":	"https://www.speedrun.com/users/DavidIsGhost",
+				"image":	"https://www.speedrun.com/static/user/8v5711vj/image.png?v=0b31de7"
+			}],
+		"weblink":	"https://www.speedrun.com/The_Outlast_Trials/runs/m7k9ldwz"
+	}, {
+		"run_id":	"zpjqo3rz",
+		"verified_epoch":	1795423055,
+		"verified_iso":	"2026-11-23T08:37:35Z",
+		"game":	"Sky: Children of the Light",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlx57d/cover.png?v=4664e92",
+		"category":	"Co-op",
+		"level":	"",
+		"subcats":	"Skips: None, Game Version: 0.35.2",
+		"primary_t":	658.05,
+		"players":	"Mizoreuni, sitooo",
+		"players_data":	[{
+				"name":	"Mizoreuni",
+				"weblink":	"https://www.speedrun.com/users/Mizoreuni",
+				"image":	"https://www.speedrun.com/static/user/8g9npr2x/image.png?v=02ee820"
+			}, {
+				"name":	"sitooo",
+				"weblink":	"https://www.speedrun.com/users/sitooo",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/thatskygame/runs/zpjqo3rz"
+	}, {
 		"run_id":	"y2o9889m",
 		"verified_epoch":	1795422630,
 		"verified_iso":	"2026-11-23T08:30:30Z",
@@ -15616,174 +15717,4 @@
 				"image":	"https://www.speedrun.com/static/user/8rmzrqdj/image.png?v=66c6010"
 			}],
 		"weblink":	"https://www.speedrun.com/etcfo/runs/zql6jr8y"
-	}, {
-		"run_id":	"z0gej18y",
-		"verified_epoch":	1795338800,
-		"verified_iso":	"2026-11-22T09:13:20Z",
-		"game":	"ROBLOX: Escape The Castle Fortress Obby",
-		"game_cover":	"https://www.speedrun.com/static/game/w6j792x6/cover.png?v=8a80233",
-		"category":	"Badges",
-		"level":	"",
-		"subcats":	"Badges: WINNERS BADGE! (CASTLE OF ROBLOXIA)",
-		"primary_t":	433.466,
-		"players":	"FragrantKid",
-		"players_data":	[{
-				"name":	"FragrantKid",
-				"weblink":	"https://www.speedrun.com/users/FragrantKid",
-				"image":	"https://www.speedrun.com/static/user/8rmzrqdj/image.png?v=66c6010"
-			}],
-		"weblink":	"https://www.speedrun.com/etcfo/runs/z0gej18y"
-	}, {
-		"run_id":	"m3pdknwz",
-		"verified_epoch":	1795338609,
-		"verified_iso":	"2026-11-22T09:10:09Z",
-		"game":	"Roblox: Pressure Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/2689nk91/cover.png?v=882815e",
-		"category":	"Damage",
-		"level":	"",
-		"subcats":	"Cause: The Multi Monster (A-60), Version: Current",
-		"primary_t":	643.15,
-		"players":	"Eiron_Krasava",
-		"players_data":	[{
-				"name":	"Eiron_Krasava",
-				"weblink":	"https://www.speedrun.com/users/Eiron_Krasava",
-				"image":	"https://www.speedrun.com/static/user/8gz2pk1j/image.png?v=48aafb4"
-			}],
-		"weblink":	"https://www.speedrun.com/Roblox_Pressure_CE/runs/m3pdknwz"
-	}, {
-		"run_id":	"z5qok0gz",
-		"verified_epoch":	1795338512,
-		"verified_iso":	"2026-11-22T09:08:32Z",
-		"game":	"Granny: Legacy",
-		"game_cover":	"https://www.speedrun.com/static/game/w6jg0ex6/cover.png?v=e60b5bf",
-		"category":	"ve1.0",
-		"level":	"",
-		"subcats":	"Platform Sub-category: PC, Game Version: v1.9, Seed System: Preset, Difficulty: No Granny, Grandpa: No Grandpa",
-		"primary_t":	28.933,
-		"players":	"Bezdarnyyy",
-		"players_data":	[{
-				"name":	"Bezdarnyyy",
-				"weblink":	"https://www.speedrun.com/users/Bezdarnyyy",
-				"image":	"https://www.speedrun.com/static/user/jm6119e8/image.png?v=b9dae76"
-			}],
-		"weblink":	"https://www.speedrun.com/Granny_Legacy/runs/z5qok0gz"
-	}, {
-		"run_id":	"y617q7qm",
-		"verified_epoch":	1795337957,
-		"verified_iso":	"2026-11-22T08:59:17Z",
-		"game":	"Commandos: Behind Enemy Lines",
-		"game_cover":	"https://www.speedrun.com/static/game/268jr5dp/cover.png?v=ef494a2",
-		"category":	"Any%",
-		"level":	"Mission 19: Frustrate Retaliation",
-		"subcats":	"",
-		"primary_t":	477.633,
-		"players":	"apinardo_",
-		"players_data":	[{
-				"name":	"apinardo_",
-				"weblink":	"https://www.speedrun.com/users/apinardo_",
-				"image":	"https://www.speedrun.com/static/user/jpmr5qyj/image.png?v=0bf4fa7"
-			}],
-		"weblink":	"https://www.speedrun.com/commandos_behind_enemy_lines/runs/y617q7qm"
-	}, {
-		"run_id":	"yvdgg74y",
-		"verified_epoch":	1795337642,
-		"verified_iso":	"2026-11-22T08:54:02Z",
-		"game":	"SCP Containment Breach",
-		"game_cover":	"https://www.speedrun.com/static/game/nd22ved0/cover.png?v=d0d4af3",
-		"category":	"Random Seed Inbounds",
-		"level":	"",
-		"subcats":	"Random% Gate: Gate A: Ending 1, Seed: 581840918, Version: v1.3.11, Difficulty: Safe, Modified: Vanilla",
-		"primary_t":	811.266,
-		"players":	"ferret_irl",
-		"players_data":	[{
-				"name":	"ferret_irl",
-				"weblink":	"https://www.speedrun.com/users/ferret_irl",
-				"image":	"https://www.speedrun.com/static/user/v8lv5gvj/image.png?v=eb3ccd9"
-			}],
-		"weblink":	"https://www.speedrun.com/scpcb/runs/yvdgg74y"
-	}, {
-		"run_id":	"yl89l43z",
-		"verified_epoch":	1795337563,
-		"verified_iso":	"2026-11-22T08:52:43Z",
-		"game":	"Casualties: Unknown",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qpv20d/cover.png?v=2efecaf",
-		"category":	"Meme",
-		"level":	"",
-		"subcats":	"Category: CHUD%, Character: Dune",
-		"primary_t":	126.833,
-		"players":	"CasualTees",
-		"players_data":	[{
-				"name":	"CasualTees",
-				"weblink":	"https://www.speedrun.com/users/CasualTees",
-				"image":	"https://www.speedrun.com/static/user/8rr4dlw8/image.png?v=b2fad48"
-			}],
-		"weblink":	"https://www.speedrun.com/Casualties_Unknown/runs/yl89l43z"
-	}, {
-		"run_id":	"m7k9395z",
-		"verified_epoch":	1795337558,
-		"verified_iso":	"2026-11-22T08:52:38Z",
-		"game":	"Kirby and the Forgotten Land",
-		"game_cover":	"https://www.speedrun.com/static/game/46w2wo76/cover.png?v=a0fa3c2",
-		"category":	"All Waddle Dees",
-		"level":	"",
-		"subcats":	"Mode: Spring Breeze, Version: Digital, Controllers: 1P, Platform: Switch2(S2E)",
-		"primary_t":	8348,
-		"players":	"Doruppi",
-		"players_data":	[{
-				"name":	"Doruppi",
-				"weblink":	"https://www.speedrun.com/users/Doruppi",
-				"image":	"https://www.speedrun.com/static/user/xk1rer9j/image.png?v=d5d8254"
-			}],
-		"weblink":	"https://www.speedrun.com/kfl/runs/m7k9395z"
-	}, {
-		"run_id":	"y613x0pm",
-		"verified_epoch":	1795336926,
-		"verified_iso":	"2026-11-22T08:42:06Z",
-		"game":	"Blue Prince Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/369yp981/cover.png?v=10d3e50",
-		"category":	"Timmy%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1880,
-		"players":	"Origonal",
-		"players_data":	[{
-				"name":	"Origonal",
-				"weblink":	"https://www.speedrun.com/users/Origonal",
-				"image":	"https://www.speedrun.com/static/user/8geolq1j/image.png?v=32dda98"
-			}],
-		"weblink":	"https://www.speedrun.com/Blue_Prince_Category_Extensions/runs/y613x0pm"
-	}, {
-		"run_id":	"yvdg8q6y",
-		"verified_epoch":	1795336743,
-		"verified_iso":	"2026-11-22T08:39:03Z",
-		"game":	"The World's Hardest Game Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/lde3grj6/cover.png?v=0be9084",
-		"category":	"Remakes",
-		"level":	"",
-		"subcats":	"Remake Categories: Adventure",
-		"primary_t":	21.183,
-		"players":	"Retrace1",
-		"players_data":	[{
-				"name":	"Retrace1",
-				"weblink":	"https://www.speedrun.com/users/Retrace1",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/whgext/runs/yvdg8q6y"
-	}, {
-		"run_id":	"y2o3x27m",
-		"verified_epoch":	1795336697,
-		"verified_iso":	"2026-11-22T08:38:17Z",
-		"game":	"PEAK",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkqn3qd/cover.png?v=a261543",
-		"category":	"Peak%",
-		"level":	"",
-		"subcats":	"Map Pool: 2.0.a+, Seed Type: Random Seed, Level: N/A, Number of Players: Solo, Biome: STAC, Difficulty: PEAK, Glitch Type: No Major Glitches",
-		"primary_t":	1010.033,
-		"players":	"flaky23",
-		"players_data":	[{
-				"name":	"flaky23",
-				"weblink":	"https://www.speedrun.com/users/flaky23",
-				"image":	"https://www.speedrun.com/static/user/8g94757x/image.png?v=84b74c4"
-			}],
-		"weblink":	"https://www.speedrun.com/PEAK/runs/y2o3x27m"
 	}]
