@@ -1,4 +1,55 @@
 [{
+		"run_id":	"meqkvp9m",
+		"verified_epoch":	1795508731,
+		"verified_iso":	"2026-11-24T08:25:31Z",
+		"game":	"World // Zero",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjp806/cover.png?v=21d924a",
+		"category":	"Solo",
+		"level":	"The Mezuvian Tower",
+		"subcats":	"Diff: Normal, Tower Legacy 3: Current, Class: Stormcaller",
+		"primary_t":	353,
+		"players":	"RiC98",
+		"players_data":	[{
+				"name":	"RiC98",
+				"weblink":	"https://www.speedrun.com/users/RiC98",
+				"image":	"https://www.speedrun.com/static/user/8dgzod98/image.png?v=c65151d"
+			}],
+		"weblink":	"https://www.speedrun.com/world_zero/runs/meqkvp9m"
+	}, {
+		"run_id":	"yl893jkz",
+		"verified_epoch":	1795508536,
+		"verified_iso":	"2026-11-24T08:22:16Z",
+		"game":	"World // Zero",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjp806/cover.png?v=21d924a",
+		"category":	"Solo",
+		"level":	"The Oasis Tower",
+		"subcats":	"Diff: Normal, Class: Stormcaller",
+		"primary_t":	361,
+		"players":	"RiC98",
+		"players_data":	[{
+				"name":	"RiC98",
+				"weblink":	"https://www.speedrun.com/users/RiC98",
+				"image":	"https://www.speedrun.com/static/user/8dgzod98/image.png?v=c65151d"
+			}],
+		"weblink":	"https://www.speedrun.com/world_zero/runs/yl893jkz"
+	}, {
+		"run_id":	"zql6oe8y",
+		"verified_epoch":	1795508145,
+		"verified_iso":	"2026-11-24T08:15:45Z",
+		"game":	"Happy-HG Network",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7wpn67/cover.png?v=51161ec",
+		"category":	"Parkour",
+		"level":	"Dungeon Parkour 2",
+		"subcats":	"Minecraft Version: 26.3+, Type: Any%",
+		"primary_t":	54.9,
+		"players":	"FilthyFlamingo",
+		"players_data":	[{
+				"name":	"FilthyFlamingo",
+				"weblink":	"https://www.speedrun.com/users/FilthyFlamingo",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/hhgn/runs/zql6oe8y"
+	}, {
 		"run_id":	"zql6r3xy",
 		"verified_epoch":	1795506803,
 		"verified_iso":	"2026-11-24T07:53:23Z",
@@ -16020,38 +16071,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/thatskygame/runs/zpjqo3rz"
-	}, {
-		"run_id":	"y2o9889m",
-		"verified_epoch":	1795422630,
-		"verified_iso":	"2026-11-23T08:30:30Z",
-		"game":	"Grand Theft Auto Online",
-		"game_cover":	"https://www.speedrun.com/static/game/j1nqoy1p/cover.png?v=10e60c7",
-		"category":	"Beat Mission Solo",
-		"level":	"Pier Pressure",
-		"subcats":	"Version: 1.67",
-		"primary_t":	56,
-		"players":	"EI31-lll",
-		"players_data":	[{
-				"name":	"EI31-lll",
-				"weblink":	"https://www.speedrun.com/users/EI31-lll",
-				"image":	"https://www.speedrun.com/static/user/0jmklqyx/image.png?v=cc2bb55"
-			}],
-		"weblink":	"https://www.speedrun.com/gtao/runs/y2o9889m"
-	}, {
-		"run_id":	"y9roepky",
-		"verified_epoch":	1795422002,
-		"verified_iso":	"2026-11-23T08:20:02Z",
-		"game":	"Grand Theft Auto Online",
-		"game_cover":	"https://www.speedrun.com/static/game/j1nqoy1p/cover.png?v=10e60c7",
-		"category":	"Beat Mission Solo",
-		"level":	"Gassed Up",
-		"subcats":	"Version: 1.67",
-		"primary_t":	35,
-		"players":	"EI31-lll",
-		"players_data":	[{
-				"name":	"EI31-lll",
-				"weblink":	"https://www.speedrun.com/users/EI31-lll",
-				"image":	"https://www.speedrun.com/static/user/0jmklqyx/image.png?v=cc2bb55"
-			}],
-		"weblink":	"https://www.speedrun.com/gtao/runs/y9roepky"
 	}]
