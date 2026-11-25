@@ -1,4 +1,89 @@
 [{
+		"run_id":	"mrpp1k2z",
+		"verified_epoch":	1795593941,
+		"verified_iso":	"2026-11-25T08:05:41Z",
+		"game":	"Eternal Towers of Hell Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/ldej9e51/cover.png?v=3d22558",
+		"category":	"Unlock Realm",
+		"level":	"",
+		"subcats":	"Category: Glitchless, Realm: Ring/Zone 1, FPS: 144, Ruleset: Post-Merger Rules, Time Period: Current",
+		"primary_t":	1179.083,
+		"players":	"Aremia",
+		"players_data":	[{
+				"name":	"Aremia",
+				"weblink":	"https://www.speedrun.com/users/Aremia",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/etohce/runs/mrpp1k2z"
+	}, {
+		"run_id":	"zx149gky",
+		"verified_epoch":	1795593449,
+		"verified_iso":	"2026-11-25T07:57:29Z",
+		"game":	"Teleport Jumper",
+		"game_cover":	"https://www.speedrun.com/static/game/9do8k431/cover.png?v=ac64d34",
+		"category":	"Finish The Level",
+		"level":	"Level One",
+		"subcats":	"",
+		"primary_t":	3.02,
+		"players":	"PlutoGtag",
+		"players_data":	[{
+				"name":	"PlutoGtag",
+				"weblink":	"https://www.speedrun.com/users/PlutoGtag",
+				"image":	"https://www.speedrun.com/static/user/8q516mq8/icon?v=83398bf"
+			}],
+		"weblink":	"https://www.speedrun.com/teleport_jumper/runs/zx149gky"
+	}, {
+		"run_id":	"yvdj4w6y",
+		"verified_epoch":	1795593390,
+		"verified_iso":	"2026-11-25T07:56:30Z",
+		"game":	"Teleport Jumper",
+		"game_cover":	"https://www.speedrun.com/static/game/9do8k431/cover.png?v=ac64d34",
+		"category":	"Finish The Level",
+		"level":	"Level Five",
+		"subcats":	"",
+		"primary_t":	4.81,
+		"players":	"Pointlessyeet",
+		"players_data":	[{
+				"name":	"Pointlessyeet",
+				"weblink":	"https://www.speedrun.com/users/Pointlessyeet",
+				"image":	"https://www.speedrun.com/static/user/863orrp8/image.png?v=4865228"
+			}],
+		"weblink":	"https://www.speedrun.com/teleport_jumper/runs/yvdj4w6y"
+	}, {
+		"run_id":	"yd7380xy",
+		"verified_epoch":	1795593346,
+		"verified_iso":	"2026-11-25T07:55:46Z",
+		"game":	"Teleport Jumper",
+		"game_cover":	"https://www.speedrun.com/static/game/9do8k431/cover.png?v=ac64d34",
+		"category":	"Finish The Level",
+		"level":	"Level Six",
+		"subcats":	"",
+		"primary_t":	8.65,
+		"players":	"PlutoGtag",
+		"players_data":	[{
+				"name":	"PlutoGtag",
+				"weblink":	"https://www.speedrun.com/users/PlutoGtag",
+				"image":	"https://www.speedrun.com/static/user/8q516mq8/icon?v=83398bf"
+			}],
+		"weblink":	"https://www.speedrun.com/teleport_jumper/runs/yd7380xy"
+	}, {
+		"run_id":	"mrg8jgdz",
+		"verified_epoch":	1795593216,
+		"verified_iso":	"2026-11-25T07:53:36Z",
+		"game":	"Garfield: Escape from Monday",
+		"game_cover":	"https://www.speedrun.com/static/game/yd47glkd/cover.png?v=003defa",
+		"category":	"Any%",
+		"level":	"A Question of Perspective",
+		"subcats":	"",
+		"primary_t":	26.65,
+		"players":	"DylCat",
+		"players_data":	[{
+				"name":	"DylCat",
+				"weblink":	"https://www.speedrun.com/users/DylCat",
+				"image":	"https://www.speedrun.com/static/user/v81o6wlx/image.png?v=6e7d183"
+			}],
+		"weblink":	"https://www.speedrun.com/escapefrommonday/runs/mrg8jgdz"
+	}, {
 		"run_id":	"y8456odz",
 		"verified_epoch":	1795592111,
 		"verified_iso":	"2026-11-25T07:35:11Z",
@@ -12706,21 +12791,4 @@
 				"image":	""
 			}],
 		"weblink":	"https://www.speedrun.com/hhgn/runs/zql6oe8y"
-	}, {
-		"run_id":	"zql6r3xy",
-		"verified_epoch":	1795506803,
-		"verified_iso":	"2026-11-24T07:53:23Z",
-		"game":	"Phantom Blade Zero",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7pz9ld/cover.png?v=8913ce2",
-		"category":	"高周目NG+",
-		"level":	"",
-		"subcats":	"Platform: PC, Glitch/bug/skill: Glitchless, Game Version: 302256-17280, Difference-ending: 湮灭Annihilation, Difficulty: 66Days",
-		"primary_t":	10528,
-		"players":	"Within",
-		"players_data":	[{
-				"name":	"Within",
-				"weblink":	"https://www.speedrun.com/users/Within",
-				"image":	"https://www.speedrun.com/static/user/x7ygm0yx/image.png?v=bb64d06"
-			}],
-		"weblink":	"https://www.speedrun.com/PBZ/runs/zql6r3xy"
 	}]
