@@ -1,4 +1,943 @@
 [{
+		"run_id":	"y879xd1z",
+		"verified_epoch":	1795813710,
+		"verified_iso":	"2026-11-27T21:08:30Z",
+		"game":	"Crit The Critters",
+		"game_cover":	"https://www.speedrun.com/static/game/o6gwrlx1/cover.png?v=4801c6d",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	82.7,
+		"players":	"pheliasterisk",
+		"players_data":	[{
+				"name":	"pheliasterisk",
+				"weblink":	"https://www.speedrun.com/users/pheliasterisk",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Critters/runs/y879xd1z"
+	}, {
+		"run_id":	"yl84733z",
+		"verified_epoch":	1795813619,
+		"verified_iso":	"2026-11-27T21:06:59Z",
+		"game":	"Colorma",
+		"game_cover":	"https://www.speedrun.com/static/game/ldem3vl1/cover.png?v=538bfd3",
+		"category":	"ILs",
+		"level":	"8",
+		"subcats":	"Packs: Color, Mode: Normal Mode",
+		"primary_t":	7.917,
+		"players":	"FlashMET84",
+		"players_data":	[{
+				"name":	"FlashMET84",
+				"weblink":	"https://www.speedrun.com/users/FlashMET84",
+				"image":	"https://www.speedrun.com/static/user/8v06peex/image.png?v=dcb5f42"
+			}],
+		"weblink":	"https://www.speedrun.com/Colorma/runs/yl84733z"
+	}, {
+		"run_id":	"yvdj064y",
+		"verified_epoch":	1795813594,
+		"verified_iso":	"2026-11-27T21:06:34Z",
+		"game":	"Stick of Titan",
+		"game_cover":	"https://www.speedrun.com/static/game/y65zon06/cover.png?v=e4d2b70",
+		"category":	"Ace",
+		"level":	"Despair",
+		"subcats":	"",
+		"primary_t":	8.37,
+		"players":	"AyakaFujimori",
+		"players_data":	[{
+				"name":	"AyakaFujimori",
+				"weblink":	"https://www.speedrun.com/users/AyakaFujimori",
+				"image":	"https://www.speedrun.com/static/user/8egnkdpx/image.png?v=3776583"
+			}],
+		"weblink":	"https://www.speedrun.com/Stick_of_Titan/runs/yvdj064y"
+	}, {
+		"run_id":	"y87qpqwz",
+		"verified_epoch":	1795813556,
+		"verified_iso":	"2026-11-27T21:05:56Z",
+		"game":	"Wheely 4: Time Travel",
+		"game_cover":	"https://www.speedrun.com/static/game/76r339e6/cover.png?v=8666b0b",
+		"category":	"Any% (Flash)",
+		"level":	"Level 1",
+		"subcats":	"Save File: New Save File",
+		"primary_t":	13.05,
+		"players":	"Twitawoo36",
+		"players_data":	[{
+				"name":	"Twitawoo36",
+				"weblink":	"https://www.speedrun.com/users/Twitawoo36",
+				"image":	"https://www.speedrun.com/static/user/jn11ym18/image.png?v=05903cd"
+			}],
+		"weblink":	"https://www.speedrun.com/wheely4/runs/y87qpqwz"
+	}, {
+		"run_id":	"zql39gxy",
+		"verified_epoch":	1795813538,
+		"verified_iso":	"2026-11-27T21:05:38Z",
+		"game":	"NCAA Final Four 2000",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9zmx1/cover.png?v=01897a0",
+		"category":	"Exhibition",
+		"level":	"",
+		"subcats":	"Platform: EMU, Difficulty: Any Difficulty, Half Length: 10 Mins",
+		"primary_t":	911,
+		"players":	"Francesco",
+		"players_data":	[{
+				"name":	"Francesco",
+				"weblink":	"https://www.speedrun.com/users/Francesco",
+				"image":	"https://www.speedrun.com/static/user/zx7mkvvx/image.png?v=a9f30ac"
+			}],
+		"weblink":	"https://www.speedrun.com/NCAA_Final_Four_2000/runs/zql39gxy"
+	}, {
+		"run_id":	"zx1467ky",
+		"verified_epoch":	1795813420,
+		"verified_iso":	"2026-11-27T21:03:40Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 4",
+		"subcats":	"Platform: GBC",
+		"primary_t":	35.033,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/zx1467ky"
+	}, {
+		"run_id":	"mrg8r4dz",
+		"verified_epoch":	1795813419,
+		"verified_iso":	"2026-11-27T21:03:39Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Friendly Match",
+		"level":	"",
+		"subcats":	"Team: Arsenal, Platform: PS2",
+		"primary_t":	246,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/mrg8r4dz"
+	}, {
+		"run_id":	"zg57xdjy",
+		"verified_epoch":	1795813389,
+		"verified_iso":	"2026-11-27T21:03:09Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 3",
+		"subcats":	"Platform: GBC",
+		"primary_t":	24.5,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/zg57xdjy"
+	}, {
+		"run_id":	"mk69d71z",
+		"verified_epoch":	1795813367,
+		"verified_iso":	"2026-11-27T21:02:47Z",
+		"game":	"NCAA Final Four 2000",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q9zmx1/cover.png?v=01897a0",
+		"category":	"Exhibition",
+		"level":	"",
+		"subcats":	"Platform: EMU, Difficulty: Any Difficulty, Half Length: 5 Mins",
+		"primary_t":	475,
+		"players":	"Francesco",
+		"players_data":	[{
+				"name":	"Francesco",
+				"weblink":	"https://www.speedrun.com/users/Francesco",
+				"image":	"https://www.speedrun.com/static/user/zx7mkvvx/image.png?v=a9f30ac"
+			}],
+		"weblink":	"https://www.speedrun.com/NCAA_Final_Four_2000/runs/mk69d71z"
+	}, {
+		"run_id":	"yw9p0jnm",
+		"verified_epoch":	1795813352,
+		"verified_iso":	"2026-11-27T21:02:32Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 2",
+		"subcats":	"Platform: GBC",
+		"primary_t":	25.633,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/yw9p0jnm"
+	}, {
+		"run_id":	"yw91x89m",
+		"verified_epoch":	1795813225,
+		"verified_iso":	"2026-11-27T21:00:25Z",
+		"game":	"Reading",
+		"game_cover":	"https://www.speedrun.com/static/game/369w2pgd/cover.png?v=04c743e",
+		"category":	"Rei Leão da Savana",
+		"level":	"",
+		"subcats":	"Language: Pt, Accuracy: C, Number of Readers: Co-op",
+		"primary_t":	453,
+		"players":	"CalebeGamesRom_SN, EliasAviz13",
+		"players_data":	[{
+				"name":	"CalebeGamesRom_SN",
+				"weblink":	"https://www.speedrun.com/users/CalebeGamesRom_SN",
+				"image":	"https://www.speedrun.com/static/user/xyqd75n8/image.png?v=20eb76c"
+			}, {
+				"name":	"EliasAviz13",
+				"weblink":	"https://www.speedrun.com/users/EliasAviz13",
+				"image":	"https://www.speedrun.com/static/user/x3p6lle8/image.png?v=f843eb3"
+			}],
+		"weblink":	"https://www.speedrun.com/IRL_Reading/runs/yw91x89m"
+	}, {
+		"run_id":	"zpj0qwrz",
+		"verified_epoch":	1795813156,
+		"verified_iso":	"2026-11-27T20:59:16Z",
+		"game":	"Eyes - The Horror Game",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjnjx6/cover.png?v=99fcee0",
+		"category":	"v.7.0.180 – 8.0.71+ (New)",
+		"level":	"",
+		"subcats":	"Map: Mansion, Monster: Ursula, Mode: Standard, Difficulty: Easy, Method Escape: Not School Map",
+		"primary_t":	51,
+		"players":	"ZALUXY",
+		"players_data":	[{
+				"name":	"ZALUXY",
+				"weblink":	"https://www.speedrun.com/users/ZALUXY",
+				"image":	"https://www.speedrun.com/static/user/jm75royj/image.png?v=7735224"
+			}],
+		"weblink":	"https://www.speedrun.com/eyes_the_horror_game/runs/zpj0qwrz"
+	}, {
+		"run_id":	"yw9pd3nm",
+		"verified_epoch":	1795813141,
+		"verified_iso":	"2026-11-27T20:59:01Z",
+		"game":	"Eyes - The Horror Game",
+		"game_cover":	"https://www.speedrun.com/static/game/m1zjnjx6/cover.png?v=99fcee0",
+		"category":	"v.7.0.180 – 8.0.71+ (New)",
+		"level":	"",
+		"subcats":	"Map: Mansion, Monster: Ursula, Mode: Standard, Difficulty: Hard, Method Escape: Not School Map",
+		"primary_t":	205,
+		"players":	"ZALUXY",
+		"players_data":	[{
+				"name":	"ZALUXY",
+				"weblink":	"https://www.speedrun.com/users/ZALUXY",
+				"image":	"https://www.speedrun.com/static/user/jm75royj/image.png?v=7735224"
+			}],
+		"weblink":	"https://www.speedrun.com/eyes_the_horror_game/runs/yw9pd3nm"
+	}, {
+		"run_id":	"mrg819dz",
+		"verified_epoch":	1795813054,
+		"verified_iso":	"2026-11-27T20:57:34Z",
+		"game":	"Portal",
+		"game_cover":	"https://www.speedrun.com/static/game/4pd0n31e/cover.png?v=1d3445a",
+		"category":	"Glitchless",
+		"level":	"11-12",
+		"subcats":	"Ticks: 4347",
+		"primary_t":	65.205,
+		"players":	"ldjz",
+		"players_data":	[{
+				"name":	"ldjz",
+				"weblink":	"https://www.speedrun.com/users/ldjz",
+				"image":	"https://www.speedrun.com/static/user/jn26pgqj/image.png?v=3c94c08"
+			}],
+		"weblink":	"https://www.speedrun.com/portal/runs/mrg819dz"
+	}, {
+		"run_id":	"y2oqdq9m",
+		"verified_epoch":	1795813052,
+		"verified_iso":	"2026-11-27T20:57:32Z",
+		"game":	"Eyes - The Horror Game (PC)",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqgm2d/cover.png?v=9b5d41e",
+		"category":	"Recent (Newest)",
+		"level":	"",
+		"subcats":	"Map: Mansion, Difficulty: Nightmare, Monster: Charlie, Mode: Standard",
+		"primary_t":	119,
+		"players":	"spanish_harlot",
+		"players_data":	[{
+				"name":	"spanish_harlot",
+				"weblink":	"https://www.speedrun.com/users/spanish_harlot",
+				"image":	"https://www.speedrun.com/static/user/x3e12lqj/image.png?v=8e58b3e"
+			}],
+		"weblink":	"https://www.speedrun.com/eyes_the_horror_game_pc/runs/y2oqdq9m"
+	}, {
+		"run_id":	"y879xr5z",
+		"verified_epoch":	1795813039,
+		"verified_iso":	"2026-11-27T20:57:19Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"Any%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Consoles/PC, Player Mode: Radish Mode, Game Version: 2.00-current",
+		"primary_t":	37.14,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/y879xr5z"
+	}, {
+		"run_id":	"mk69e71z",
+		"verified_epoch":	1795813030,
+		"verified_iso":	"2026-11-27T20:57:10Z",
+		"game":	"S3AIR - Category Extensions",
+		"game_cover":	"https://www.speedrun.com/static/game/j1nelkl1/cover.png?v=74e4437",
+		"category":	"Sonic & Tails",
+		"level":	"Angel Island Act 2",
+		"subcats":	"Play Style: Glitchless, Version: v24.02.02.1, Game Edition: Sonic 3 AIR",
+		"primary_t":	86.05,
+		"players":	"1nc00r3ctLOVE",
+		"players_data":	[{
+				"name":	"1nc00r3ctLOVE",
+				"weblink":	"https://www.speedrun.com/users/1nc00r3ctLOVE",
+				"image":	"https://www.speedrun.com/static/user/x7yo3k6x/image.png?v=370e461"
+			}],
+		"weblink":	"https://www.speedrun.com/s3airce/runs/mk69e71z"
+	}, {
+		"run_id":	"z1e1o9jy",
+		"verified_epoch":	1795813000,
+		"verified_iso":	"2026-11-27T20:56:40Z",
+		"game":	"Eyes - The Horror Game (PC)",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqgm2d/cover.png?v=9b5d41e",
+		"category":	"Recent (Newest)",
+		"level":	"",
+		"subcats":	"Map: School, Difficulty: Nightmare, Monster: Good boy, Mode: Standard",
+		"primary_t":	195,
+		"players":	"Katyafeyka",
+		"players_data":	[{
+				"name":	"Katyafeyka",
+				"weblink":	"https://www.speedrun.com/users/Katyafeyka",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/eyes_the_horror_game_pc/runs/z1e1o9jy"
+	}, {
+		"run_id":	"z5q1vogz",
+		"verified_epoch":	1795812963,
+		"verified_iso":	"2026-11-27T20:56:03Z",
+		"game":	"Eyes - The Horror Game (PC)",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqgm2d/cover.png?v=9b5d41e",
+		"category":	"Recent (Newest)",
+		"level":	"",
+		"subcats":	"Map: Mansion, Difficulty: Nightmare, Monster: Good boy, Mode: Standard",
+		"primary_t":	119,
+		"players":	"spanish_harlot",
+		"players_data":	[{
+				"name":	"spanish_harlot",
+				"weblink":	"https://www.speedrun.com/users/spanish_harlot",
+				"image":	"https://www.speedrun.com/static/user/x3e12lqj/image.png?v=8e58b3e"
+			}],
+		"weblink":	"https://www.speedrun.com/eyes_the_horror_game_pc/runs/z5q1vogz"
+	}, {
+		"run_id":	"y4d3xeny",
+		"verified_epoch":	1795812944,
+		"verified_iso":	"2026-11-27T20:55:44Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"100%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Consoles/PC, Player Mode: Radish Mode, Game Version: 2.00-current",
+		"primary_t":	37.14,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/y4d3xeny"
+	}, {
+		"run_id":	"m3po7xdz",
+		"verified_epoch":	1795812890,
+		"verified_iso":	"2026-11-27T20:54:50Z",
+		"game":	"ПОБЕГ ОТ ЛИЗОГУБА",
+		"game_cover":	"https://www.speedrun.com/static/game/nd27kev1/cover.png?v=08d1d90",
+		"category":	"Death%",
+		"level":	"",
+		"subcats":	"Device: PC",
+		"primary_t":	3.633,
+		"players":	"Akuretaki",
+		"players_data":	[{
+				"name":	"Akuretaki",
+				"weblink":	"https://www.speedrun.com/users/Akuretaki",
+				"image":	"https://www.speedrun.com/static/user/xko2g798/image.png?v=4a311fd"
+			}],
+		"weblink":	"https://www.speedrun.com/escape_from_lizogub/runs/m3po7xdz"
+	}, {
+		"run_id":	"znn4pllz",
+		"verified_epoch":	1795812841,
+		"verified_iso":	"2026-11-27T20:54:01Z",
+		"game":	"Bone Lover - Horror Escape (Mobile)",
+		"game_cover":	"https://www.speedrun.com/static/game/pdv98391/cover.png?v=c018c19",
+		"category":	"Glitchless%",
+		"level":	"",
+		"subcats":	"Ending: Police Ending",
+		"primary_t":	219,
+		"players":	"Tash_CSGOVER",
+		"players_data":	[{
+				"name":	"Tash_CSGOVER",
+				"weblink":	"https://www.speedrun.com/users/Tash_CSGOVER",
+				"image":	"https://www.speedrun.com/static/user/xzny1e0x/image.png?v=2b8f6a4"
+			}],
+		"weblink":	"https://www.speedrun.com/bl_mobile/runs/znn4pllz"
+	}, {
+		"run_id":	"mrg8r92z",
+		"verified_epoch":	1795812797,
+		"verified_iso":	"2026-11-27T20:53:17Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"Any%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Consoles/PC, Player Mode: Possum Mode, Game Version: 2.00-current",
+		"primary_t":	36.24,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/mrg8r92z"
+	}, {
+		"run_id":	"zpj025nz",
+		"verified_epoch":	1795812758,
+		"verified_iso":	"2026-11-27T20:52:38Z",
+		"game":	"Casualties: Unknown",
+		"game_cover":	"https://www.speedrun.com/static/game/k6qpv20d/cover.png?v=2efecaf",
+		"category":	"Any%",
+		"level":	"Layer 1",
+		"subcats":	"Character: Milky, Version: Full Game",
+		"primary_t":	93.767,
+		"players":	"Cronta",
+		"players_data":	[{
+				"name":	"Cronta",
+				"weblink":	"https://www.speedrun.com/users/Cronta",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/Casualties_Unknown/runs/zpj025nz"
+	}, {
+		"run_id":	"z1e1oxwy",
+		"verified_epoch":	1795812742,
+		"verified_iso":	"2026-11-27T20:52:22Z",
+		"game":	"The Dark Pursuer",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkq3eed/cover.png?v=674a607",
+		"category":	"Abandoned Hospital",
+		"level":	"",
+		"subcats":	"Platform: PC, Escape: Main Door, Difficulty: Normal",
+		"primary_t":	154,
+		"players":	"Wuis1",
+		"players_data":	[{
+				"name":	"Wuis1",
+				"weblink":	"https://www.speedrun.com/users/Wuis1",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/the_dark_pursuer/runs/z1e1oxwy"
+	}, {
+		"run_id":	"yd7310wy",
+		"verified_epoch":	1795812683,
+		"verified_iso":	"2026-11-27T20:51:23Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: France, Platform: PS2, Tournament Sim%: FIFA Confederations' Cup",
+		"primary_t":	16,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/yd7310wy"
+	}, {
+		"run_id":	"zg5n51dy",
+		"verified_epoch":	1795812627,
+		"verified_iso":	"2026-11-27T20:50:27Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 4",
+		"subcats":	"Platform: Arcade",
+		"primary_t":	20.367,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/zg5n51dy"
+	}, {
+		"run_id":	"yl8982rz",
+		"verified_epoch":	1795812589,
+		"verified_iso":	"2026-11-27T20:49:49Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 3",
+		"subcats":	"Platform: Arcade",
+		"primary_t":	18.867,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/yl8982rz"
+	}, {
+		"run_id":	"yow2d37z",
+		"verified_epoch":	1795812586,
+		"verified_iso":	"2026-11-27T20:49:46Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"100%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Consoles/PC, Player Mode: Possum Mode, Game Version: 2.00-current",
+		"primary_t":	36.89,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/yow2d37z"
+	}, {
+		"run_id":	"y9r2vrny",
+		"verified_epoch":	1795812574,
+		"verified_iso":	"2026-11-27T20:49:34Z",
+		"game":	"ULTRAKILL",
+		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
+		"category":	"No Monsters",
+		"level":	"3-2: In The Flesh",
+		"subcats":	"Patch: -- EA 17d4 (4/25/26) --, Revamp Split: Post-Revamp, Extra Subcategory: Inbounds Weaponless",
+		"primary_t":	15.842,
+		"players":	"zaalk",
+		"players_data":	[{
+				"name":	"zaalk",
+				"weblink":	"https://www.speedrun.com/users/zaalk",
+				"image":	"https://www.speedrun.com/static/user/jp429p4j/image.png?v=45a156e"
+			}],
+		"weblink":	"https://www.speedrun.com/ultrakill/runs/y9r2vrny"
+	}, {
+		"run_id":	"zpjqj5gz",
+		"verified_epoch":	1795812556,
+		"verified_iso":	"2026-11-27T20:49:16Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 2",
+		"subcats":	"Platform: Arcade",
+		"primary_t":	17.6,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/zpjqj5gz"
+	}, {
+		"run_id":	"yl84783z",
+		"verified_epoch":	1795812535,
+		"verified_iso":	"2026-11-27T20:48:55Z",
+		"game":	"ULTRAKILL",
+		"game_cover":	"https://www.speedrun.com/static/game/369p3p81/cover.png?v=20432d0",
+		"category":	"Any%",
+		"level":	"0-2: The Meatgrinder",
+		"subcats":	"Patch: -- EA 17d4 (4/25/26) --, Revamp Split: Post-Revamp, Exit 0-2: Secret Exit, Extra Subcategory: None",
+		"primary_t":	6.079,
+		"players":	"zaalk",
+		"players_data":	[{
+				"name":	"zaalk",
+				"weblink":	"https://www.speedrun.com/users/zaalk",
+				"image":	"https://www.speedrun.com/static/user/jp429p4j/image.png?v=45a156e"
+			}],
+		"weblink":	"https://www.speedrun.com/ultrakill/runs/yl84783z"
+	}, {
+		"run_id":	"yj04p2oz",
+		"verified_epoch":	1795812527,
+		"verified_iso":	"2026-11-27T20:48:47Z",
+		"game":	"Thrill Of the Fight: VR Boxing",
+		"game_cover":	"https://www.speedrun.com/static/game/pdvzy946/cover.png?v=cb1b4a5",
+		"category":	"Easy",
+		"level":	"Melky",
+		"subcats":	"",
+		"primary_t":	35,
+		"players":	"MagnusOro",
+		"players_data":	[{
+				"name":	"MagnusOro",
+				"weblink":	"https://www.speedrun.com/users/MagnusOro",
+				"image":	"https://www.speedrun.com/static/user/8vy2qzy8/image.png?v=f4ef08b"
+			}],
+		"weblink":	"https://www.speedrun.com/thrill_of_the_fight_vr_boxing/runs/yj04p2oz"
+	}, {
+		"run_id":	"yj04d63z",
+		"verified_epoch":	1795812525,
+		"verified_iso":	"2026-11-27T20:48:45Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Colombia, Platform: PS2, Tournament Sim%: Gold Cup",
+		"primary_t":	16,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/yj04d63z"
+	}, {
+		"run_id":	"yow4qq0z",
+		"verified_epoch":	1795812450,
+		"verified_iso":	"2026-11-27T20:47:30Z",
+		"game":	"Portal",
+		"game_cover":	"https://www.speedrun.com/static/game/4pd0n31e/cover.png?v=1d3445a",
+		"category":	"Legacy",
+		"level":	"11-12",
+		"subcats":	"Ticks: 1751",
+		"primary_t":	26.265,
+		"players":	"knightednave",
+		"players_data":	[{
+				"name":	"knightednave",
+				"weblink":	"https://www.speedrun.com/users/knightednave",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/portal/runs/yow4qq0z"
+	}, {
+		"run_id":	"znn8n53z",
+		"verified_epoch":	1795812405,
+		"verified_iso":	"2026-11-27T20:46:45Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"Any%",
+		"level":	"Stage 1",
+		"subcats":	"Platform: Arcade",
+		"primary_t":	18.833,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/znn8n53z"
+	}, {
+		"run_id":	"y61px51m",
+		"verified_epoch":	1795812304,
+		"verified_iso":	"2026-11-27T20:45:04Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Germany, Platform: PS2, Tournament Sim%: European Championships",
+		"primary_t":	16,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/y61px51m"
+	}, {
+		"run_id":	"y4d32q2y",
+		"verified_epoch":	1795812256,
+		"verified_iso":	"2026-11-27T20:44:16Z",
+		"game":	"Super Pac-Man",
+		"game_cover":	"https://www.speedrun.com/static/game/nd2er73d/cover.png?v=ee2b2ba",
+		"category":	"High Score",
+		"level":	"",
+		"subcats":	"Platform: GBC",
+		"primary_t":	66.09,
+		"players":	"Gaming_64",
+		"players_data":	[{
+				"name":	"Gaming_64",
+				"weblink":	"https://www.speedrun.com/users/Gaming_64",
+				"image":	"https://www.speedrun.com/static/user/jmpmp4oj/image.png?v=6d1a423"
+			}],
+		"weblink":	"https://www.speedrun.com/super_pac_man/runs/y4d32q2y"
+	}, {
+		"run_id":	"zx1482qy",
+		"verified_epoch":	1795812069,
+		"verified_iso":	"2026-11-27T20:41:09Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Japan, Platform: PS2, Tournament Sim%: Asian Nations' Cup",
+		"primary_t":	17,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/zx1482qy"
+	}, {
+		"run_id":	"mrg8rk2z",
+		"verified_epoch":	1795812061,
+		"verified_iso":	"2026-11-27T20:41:01Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-29 Wedding ring",
+		"subcats":	"",
+		"primary_t":	45,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/mrg8rk2z"
+	}, {
+		"run_id":	"mk69d3vz",
+		"verified_epoch":	1795812047,
+		"verified_iso":	"2026-11-27T20:40:47Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-28 Candy",
+		"subcats":	"",
+		"primary_t":	89,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/mk69d3vz"
+	}, {
+		"run_id":	"y9r2x0vy",
+		"verified_epoch":	1795812029,
+		"verified_iso":	"2026-11-27T20:40:29Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-27 Cherry Blossoms",
+		"subcats":	"",
+		"primary_t":	94,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/y9r2x0vy"
+	}, {
+		"run_id":	"y87qoodz",
+		"verified_epoch":	1795812017,
+		"verified_iso":	"2026-11-27T20:40:17Z",
+		"game":	"Portal",
+		"game_cover":	"https://www.speedrun.com/static/game/4pd0n31e/cover.png?v=1d3445a",
+		"category":	"Legacy",
+		"level":	"04-05",
+		"subcats":	"Ticks: 3856",
+		"primary_t":	57.84,
+		"players":	"knightednave",
+		"players_data":	[{
+				"name":	"knightednave",
+				"weblink":	"https://www.speedrun.com/users/knightednave",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/portal/runs/y87qoodz"
+	}, {
+		"run_id":	"meq81o9m",
+		"verified_epoch":	1795811994,
+		"verified_iso":	"2026-11-27T20:39:54Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-25 Soccer ball",
+		"subcats":	"",
+		"primary_t":	99,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/meq81o9m"
+	}, {
+		"run_id":	"zg57qwvy",
+		"verified_epoch":	1795811987,
+		"verified_iso":	"2026-11-27T20:39:47Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Brazil, Platform: PS2, Tournament Sim%: Copa America",
+		"primary_t":	17,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/zg57qwvy"
+	}, {
+		"run_id":	"yl841kkz",
+		"verified_epoch":	1795811974,
+		"verified_iso":	"2026-11-27T20:39:34Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-24 Strawberry",
+		"subcats":	"",
+		"primary_t":	85,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/yl841kkz"
+	}, {
+		"run_id":	"yw9p68pm",
+		"verified_epoch":	1795811958,
+		"verified_iso":	"2026-11-27T20:39:18Z",
+		"game":	"Hatsune Miku Logic Paint S",
+		"game_cover":	"https://www.speedrun.com/static/game/m1mnv4pd/cover.png?v=6398f2b",
+		"category":	"Any%",
+		"level":	"Lv02-23 Rocket",
+		"subcats":	"",
+		"primary_t":	35,
+		"players":	"4shl3y",
+		"players_data":	[{
+				"name":	"4shl3y",
+				"weblink":	"https://www.speedrun.com/users/4shl3y",
+				"image":	"https://www.speedrun.com/static/user/8grk0zyx/image.png?v=4b3933b"
+			}],
+		"weblink":	"https://www.speedrun.com/hatsune_miku_logic_paint_s/runs/yw9p68pm"
+	}, {
+		"run_id":	"y4d3x1ny",
+		"verified_epoch":	1795811871,
+		"verified_iso":	"2026-11-27T20:37:51Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"Any%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Mobile, Player Mode: Radish Mode, Game Version: 2.00-current",
+		"primary_t":	36.13,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/y4d3x1ny"
+	}, {
+		"run_id":	"m3pox1wz",
+		"verified_epoch":	1795811866,
+		"verified_iso":	"2026-11-27T20:37:46Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Leeds United, Platform: PS2, Tournament Sim%: EFA Trophy",
+		"primary_t":	23,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/m3pox1wz"
+	}, {
+		"run_id":	"yj04x5dz",
+		"verified_epoch":	1795811840,
+		"verified_iso":	"2026-11-27T20:37:20Z",
+		"game":	"BOOST VECTOR EX",
+		"game_cover":	"https://www.speedrun.com/static/game/k6q94001/cover.png?v=fcb76d0",
+		"category":	"Time Trial",
+		"level":	"Lights Edge",
+		"subcats":	"Version: 1.0, Skips: No major skips, Masters: Alexandria, Bands: Gilded Wings (Alexandria), Uses silly techniques (broken techs): No, Peripherals : Keyboard and mouse",
+		"primary_t":	89.265,
+		"players":	"ferddy",
+		"players_data":	[{
+				"name":	"ferddy",
+				"weblink":	"https://www.speedrun.com/users/ferddy",
+				"image":	"https://www.speedrun.com/static/user/xy5dprv8/image.png?v=de9bf40"
+			}],
+		"weblink":	"https://www.speedrun.com/BOOST_VECTOR_EX_/runs/yj04x5dz"
+	}, {
+		"run_id":	"y2o3nn9m",
+		"verified_epoch":	1795811818,
+		"verified_iso":	"2026-11-27T20:36:58Z",
+		"game":	"Portal",
+		"game_cover":	"https://www.speedrun.com/static/game/4pd0n31e/cover.png?v=1d3445a",
+		"category":	"Legacy",
+		"level":	"02-03",
+		"subcats":	"Ticks: 4061",
+		"primary_t":	60.915,
+		"players":	"knightednave",
+		"players_data":	[{
+				"name":	"knightednave",
+				"weblink":	"https://www.speedrun.com/users/knightednave",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/portal/runs/y2o3nn9m"
+	}, {
+		"run_id":	"yw9p3l9m",
+		"verified_epoch":	1795811802,
+		"verified_iso":	"2026-11-27T20:36:42Z",
+		"game":	"Mario Kart Wave Rush",
+		"game_cover":	"https://www.speedrun.com/static/game/kdkqe0qd/cover.png?v=06231f9",
+		"category":	"Time Trials",
+		"level":	"N64 Mario Raceway",
+		"subcats":	"Speed Tier: 200cc Feather",
+		"primary_t":	51.604,
+		"players":	"Lucirinx",
+		"players_data":	[{
+				"name":	"Lucirinx",
+				"weblink":	"https://www.speedrun.com/users/Lucirinx",
+				"image":	"https://www.speedrun.com/static/user/j2e60k6j/image.png?v=b2c2c85"
+			}],
+		"weblink":	"https://www.speedrun.com/wkw/runs/yw9p3l9m"
+	}, {
+		"run_id":	"mk69d2vz",
+		"verified_epoch":	1795811801,
+		"verified_iso":	"2026-11-27T20:36:41Z",
+		"game":	"Dadish",
+		"game_cover":	"https://www.speedrun.com/static/game/w6jlw74d/cover.png?v=cc09efd",
+		"category":	"100%",
+		"level":	"Kastelo Fortress 2",
+		"subcats":	"Platform: Mobile, Player Mode: Radish Mode, Game Version: 2.00-current",
+		"primary_t":	36.13,
+		"players":	"GrandMasterMario5000",
+		"players_data":	[{
+				"name":	"GrandMasterMario5000",
+				"weblink":	"https://www.speedrun.com/users/GrandMasterMario5000",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/dadish/runs/mk69d2vz"
+	}, {
+		"run_id":	"z1e1gjgy",
+		"verified_epoch":	1795811790,
+		"verified_iso":	"2026-11-27T20:36:30Z",
+		"game":	"Parking Garage Rally Circuit",
+		"game_cover":	"https://www.speedrun.com/static/game/v1plegp6/cover.png?v=2e8bf4b",
+		"category":	"Light Car",
+		"level":	"Naples Cave Park",
+		"subcats":	"",
+		"primary_t":	59.716,
+		"players":	"FrappeFGC",
+		"players_data":	[{
+				"name":	"FrappeFGC",
+				"weblink":	"https://www.speedrun.com/users/FrappeFGC",
+				"image":	"https://www.speedrun.com/static/user/xk65kr78/image.png?v=34842a3"
+			}],
+		"weblink":	"https://www.speedrun.com/PGRC/runs/z1e1gjgy"
+	}, {
+		"run_id":	"yow2dj7z",
+		"verified_epoch":	1795811741,
+		"verified_iso":	"2026-11-27T20:35:41Z",
+		"game":	"FIFA Football 2002",
+		"game_cover":	"https://www.speedrun.com/static/game/o1yr5v46/cover.png?v=70380c4",
+		"category":	"Tournament Sim",
+		"level":	"",
+		"subcats":	"Team: Real Madrid, Platform: PS2, Tournament Sim%: European Champions' Cup",
+		"primary_t":	38,
+		"players":	"AlbertAC3",
+		"players_data":	[{
+				"name":	"AlbertAC3",
+				"weblink":	"https://www.speedrun.com/users/AlbertAC3",
+				"image":	"https://www.speedrun.com/static/user/8d0v6l9x/image.png?v=161521b"
+			}],
+		"weblink":	"https://www.speedrun.com/FIFA_Football_2002/runs/yow2dj7z"
+	}, {
 		"run_id":	"z0g3oe4y",
 		"verified_epoch":	1795811722,
 		"verified_iso":	"2026-11-27T20:35:22Z",
@@ -13159,365 +14098,4 @@
 				"image":	"https://www.speedrun.com/static/user/jp4p9z5j/image.png?v=78c386b"
 			}],
 		"weblink":	"https://www.speedrun.com/aepp/runs/zx1463ky"
-	}, {
-		"run_id":	"y879dr1z",
-		"verified_epoch":	1795727150,
-		"verified_iso":	"2026-11-26T21:05:50Z",
-		"game":	"Flipping Is Hard",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7xyvz1/cover.png?v=215ad03",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Mode: Hard",
-		"primary_t":	1437.733,
-		"players":	"Keronari",
-		"players_data":	[{
-				"name":	"Keronari",
-				"weblink":	"https://www.speedrun.com/users/Keronari",
-				"image":	"https://www.speedrun.com/static/user/e8ego56x/image.png?v=575b434"
-			}],
-		"weblink":	"https://www.speedrun.com/Flipping_Is_Hard/runs/y879dr1z"
-	}, {
-		"run_id":	"z5q1rjnz",
-		"verified_epoch":	1795726868,
-		"verified_iso":	"2026-11-26T21:01:08Z",
-		"game":	"Animal Jam Play Wild Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/v1pxwgm6/cover.png?v=e1a8433",
-		"category":	"Mini Game Compilation",
-		"level":	"",
-		"subcats":	"# of Minigames: Four",
-		"primary_t":	995.967,
-		"players":	"Persesco",
-		"players_data":	[{
-				"name":	"Persesco",
-				"weblink":	"https://www.speedrun.com/users/Persesco",
-				"image":	"https://www.speedrun.com/static/user/7j46e1v8/image.png?v=3b09e39"
-			}],
-		"weblink":	"https://www.speedrun.com/ajpwce/runs/z5q1rjnz"
-	}, {
-		"run_id":	"zg57gkdy",
-		"verified_epoch":	1795726825,
-		"verified_iso":	"2026-11-26T21:00:25Z",
-		"game":	"Granny XUI Breborn",
-		"game_cover":	"https://www.speedrun.com/static/game/j1np8896/cover.png?v=4abfd4e",
-		"category":	"ve1.2",
-		"level":	"",
-		"subcats":	"Plateform: PC, Difficulty: No Granny, Sub-category: Any% Glitchless, Games : New Version (Granny XUI Breborn), Grandpa: No Grandpa, Mirror Mode: Mirror Off, Dark: Dark Mode Off, Preset : Preset 5",
-		"primary_t":	49.167,
-		"players":	"hurtzzkkkj",
-		"players_data":	[{
-				"name":	"hurtzzkkkj",
-				"weblink":	"https://www.speedrun.com/users/hurtzzkkkj",
-				"image":	"https://www.speedrun.com/static/user/xz5ey6ex/image.png?v=abfe316"
-			}],
-		"weblink":	"https://www.speedrun.com/GrannyXB/runs/zg57gkdy"
-	}, {
-		"run_id":	"zpjq22xz",
-		"verified_epoch":	1795726750,
-		"verified_iso":	"2026-11-26T20:59:10Z",
-		"game":	"Mosa Lina",
-		"game_cover":	"https://www.speedrun.com/static/game/9doxx5md/cover.png?v=8180bdf",
-		"category":	"Co-op",
-		"level":	"",
-		"subcats":	"Version: Second Layer, Director's Cut: Director's Cut On, Categories: Any%",
-		"primary_t":	59.6,
-		"players":	"AxerityAxerity, T3dP",
-		"players_data":	[{
-				"name":	"AxerityAxerity",
-				"weblink":	"https://www.speedrun.com/users/AxerityAxerity",
-				"image":	"https://www.speedrun.com/static/user/x77o12rx/image.png?v=1511b5d"
-			}, {
-				"name":	"T3dP",
-				"weblink":	"https://www.speedrun.com/users/T3dP",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/Mosa_Lina/runs/zpjq22xz"
-	}, {
-		"run_id":	"yj041lgz",
-		"verified_epoch":	1795726744,
-		"verified_iso":	"2026-11-26T20:59:04Z",
-		"game":	"Destiny 2 Misc",
-		"game_cover":	"https://www.speedrun.com/static/game/k6qp93xd/cover.png?v=6828da5",
-		"category":	"Skips",
-		"level":	"",
-		"subcats":	"Skip: Root of Nightmares: Entrance to Cataclysm (0-1, Encounter)",
-		"primary_t":	11.267,
-		"players":	"Zoloo",
-		"players_data":	[{
-				"name":	"Zoloo",
-				"weblink":	"https://www.speedrun.com/users/Zoloo",
-				"image":	"https://www.speedrun.com/static/user/8gy6m3r8/image.png?v=3561363"
-			}],
-		"weblink":	"https://www.speedrun.com/destiny2misc/runs/yj041lgz"
-	}, {
-		"run_id":	"m34ppp4z",
-		"verified_epoch":	1795726709,
-		"verified_iso":	"2026-11-26T20:58:29Z",
-		"game":	"Killer Bean",
-		"game_cover":	"https://www.speedrun.com/static/game/y65re0e1/cover.png?v=b0046f4",
-		"category":	"The Party",
-		"level":	"",
-		"subcats":	"Version: Early Access v61+",
-		"primary_t":	192.3,
-		"players":	"Noobydoo",
-		"players_data":	[{
-				"name":	"Noobydoo",
-				"weblink":	"https://www.speedrun.com/users/Noobydoo",
-				"image":	"https://www.speedrun.com/static/user/xk66wm28/image.png?v=705b9f9"
-			}],
-		"weblink":	"https://www.speedrun.com/Killer_Bean/runs/m34ppp4z"
-	}, {
-		"run_id":	"yvkd59xm",
-		"verified_epoch":	1795726559,
-		"verified_iso":	"2026-11-26T20:55:59Z",
-		"game":	"Daemonia - 2D Plataform Game",
-		"game_cover":	"https://www.speedrun.com/static/game/k6q927o1/cover.png?v=a9113be",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1164,
-		"players":	"_NoMercy_",
-		"players_data":	[{
-				"name":	"_NoMercy_",
-				"weblink":	"https://www.speedrun.com/users/_NoMercy_",
-				"image":	"https://www.speedrun.com/static/user/j46925d8/image.png?v=52630ba"
-			}],
-		"weblink":	"https://www.speedrun.com/Daemonia__2D_Plataform_Game/runs/yvkd59xm"
-	}, {
-		"run_id":	"y879d21z",
-		"verified_epoch":	1795726496,
-		"verified_iso":	"2026-11-26T20:54:56Z",
-		"game":	"under the red sky",
-		"game_cover":	"https://www.speedrun.com/static/game/m1meqokd/cover.png?v=a635cd7",
-		"category":	"Any％(No Strafe)",
-		"level":	"PT2-3",
-		"subcats":	"",
-		"primary_t":	8.78,
-		"players":	"Feli18",
-		"players_data":	[{
-				"name":	"Feli18",
-				"weblink":	"https://www.speedrun.com/users/Feli18",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/under_the_red_sky/runs/y879d21z"
-	}, {
-		"run_id":	"znn41r3z",
-		"verified_epoch":	1795726432,
-		"verified_iso":	"2026-11-26T20:53:52Z",
-		"game":	"Granny XUI Breborn",
-		"game_cover":	"https://www.speedrun.com/static/game/j1np8896/cover.png?v=4abfd4e",
-		"category":	"ve1.2",
-		"level":	"",
-		"subcats":	"Plateform: PC, Difficulty: No Granny, Sub-category: Any%, Games : New Version (Granny XUI Breborn), Grandpa: No Grandpa, Mirror Mode: Mirror Off, Dark: Dark Mode Off, Preset : Preset 5",
-		"primary_t":	51.6,
-		"players":	"hurtzzkkkj",
-		"players_data":	[{
-				"name":	"hurtzzkkkj",
-				"weblink":	"https://www.speedrun.com/users/hurtzzkkkj",
-				"image":	"https://www.speedrun.com/static/user/xz5ey6ex/image.png?v=abfe316"
-			}],
-		"weblink":	"https://www.speedrun.com/GrannyXB/runs/znn41r3z"
-	}, {
-		"run_id":	"y4d31q2y",
-		"verified_epoch":	1795726430,
-		"verified_iso":	"2026-11-26T20:53:50Z",
-		"game":	"Star Wars: Rogue Squadron",
-		"game_cover":	"https://www.speedrun.com/static/game/v1ppw818/cover.png?v=1033c05",
-		"category":	"Y-Wing",
-		"level":	"Liberation of Gerrard V",
-		"subcats":	"Platform: PC, Medal Awarded: Gold Medal",
-		"primary_t":	137,
-		"players":	"FlickyBirb",
-		"players_data":	[{
-				"name":	"FlickyBirb",
-				"weblink":	"https://www.speedrun.com/users/FlickyBirb",
-				"image":	"https://www.speedrun.com/static/user/j5rrl6qx/image.png?v=f6ab74a"
-			}],
-		"weblink":	"https://www.speedrun.com/rogue1/runs/y4d31q2y"
-	}, {
-		"run_id":	"y4d323dy",
-		"verified_epoch":	1795726390,
-		"verified_iso":	"2026-11-26T20:53:10Z",
-		"game":	"POPGOES Arcade",
-		"game_cover":	"https://www.speedrun.com/static/game/j1llevz1/cover.png?v=769a30f",
-		"category":	"Low%",
-		"level":	"",
-		"subcats":	"Version: Fighting Chance",
-		"primary_t":	6790,
-		"players":	"HanaRyoba",
-		"players_data":	[{
-				"name":	"HanaRyoba",
-				"weblink":	"https://www.speedrun.com/users/HanaRyoba",
-				"image":	"https://www.speedrun.com/static/user/18v1m9n8/image.png?v=f0eb82f"
-			}],
-		"weblink":	"https://www.speedrun.com/popgoes_arcade/runs/y4d323dy"
-	}, {
-		"run_id":	"z1e187ry",
-		"verified_epoch":	1795726235,
-		"verified_iso":	"2026-11-26T20:50:35Z",
-		"game":	"Nullscape",
-		"game_cover":	"https://www.speedrun.com/static/game/9d3779e6/cover.png?v=1a1781b",
-		"category":	"Highest Level",
-		"level":	"",
-		"subcats":	"Difficulty: Standard, Lobby Size: Solo, Version: Dɘlusional Descens¡on",
-		"primary_t":	0.04,
-		"players":	"fefeman1234",
-		"players_data":	[{
-				"name":	"fefeman1234",
-				"weblink":	"https://www.speedrun.com/users/fefeman1234",
-				"image":	"https://www.speedrun.com/static/user/jpywny5j/image.png?v=322728b"
-			}],
-		"weblink":	"https://www.speedrun.com/nullscape/runs/z1e187ry"
-	}, {
-		"run_id":	"m3por14z",
-		"verified_epoch":	1795726151,
-		"verified_iso":	"2026-11-26T20:49:11Z",
-		"game":	"Mario + Rabbids Kingdom Battle",
-		"game_cover":	"https://www.speedrun.com/static/game/j1n03xdp/cover.png?v=37cff87",
-		"category":	"Individual Chapters",
-		"level":	"1-4 Welcome to the Jungle",
-		"subcats":	"Version: 1.9",
-		"primary_t":	64.8,
-		"players":	"_gggga",
-		"players_data":	[{
-				"name":	"_gggga",
-				"weblink":	"https://www.speedrun.com/users/_gggga",
-				"image":	"https://www.speedrun.com/static/user/xk6e1m68/image.png?v=7078bfc"
-			}],
-		"weblink":	"https://www.speedrun.com/mrkb/runs/m3por14z"
-	}, {
-		"run_id":	"m7kpdqez",
-		"verified_epoch":	1795726084,
-		"verified_iso":	"2026-11-26T20:48:04Z",
-		"game":	"Ecto",
-		"game_cover":	"https://www.speedrun.com/static/game/v1ppo5p1/cover.png?v=1ec4b0c",
-		"category":	"Any%",
-		"level":	"",
-		"subcats":	"Version: Release, Player Count: Singleplayer, Seed Type: Random, Using Helpful Items: Items",
-		"primary_t":	474.563,
-		"players":	"Ox1z",
-		"players_data":	[{
-				"name":	"Ox1z",
-				"weblink":	"https://www.speedrun.com/users/Ox1z",
-				"image":	"https://www.speedrun.com/static/user/x7gglwyx/image.png?v=5cb3181"
-			}],
-		"weblink":	"https://www.speedrun.com/Ecto/runs/m7kpdqez"
-	}, {
-		"run_id":	"meqv343m",
-		"verified_epoch":	1795726065,
-		"verified_iso":	"2026-11-26T20:47:45Z",
-		"game":	"Alien: Isolation Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx2rr51/cover.png?v=53dc0c7",
-		"category":	"Non Scappi%",
-		"level":	"DLC - Trauma (Gauntlet)",
-		"subcats":	"Glitch Tech: No CC",
-		"primary_t":	246.86,
-		"players":	"_xEB",
-		"players_data":	[{
-				"name":	"_xEB",
-				"weblink":	"https://www.speedrun.com/users/_xEB",
-				"image":	"https://www.speedrun.com/static/user/jo22m6e8/image.png?v=b4066a7"
-			}],
-		"weblink":	"https://www.speedrun.com/aimeme/runs/meqv343m"
-	}, {
-		"run_id":	"m7k14d5z",
-		"verified_epoch":	1795725866,
-		"verified_iso":	"2026-11-26T20:44:26Z",
-		"game":	"Grand Theft Auto V",
-		"game_cover":	"https://www.speedrun.com/static/game/om1mx362/cover.png?v=1d6e037",
-		"category":	"All Stunt Jumps",
-		"level":	"",
-		"subcats":	"",
-		"primary_t":	1259,
-		"players":	"szau",
-		"players_data":	[{
-				"name":	"szau",
-				"weblink":	"https://www.speedrun.com/users/szau",
-				"image":	"https://www.speedrun.com/static/user/kj90367j/image.png?v=1d2f6af"
-			}],
-		"weblink":	"https://www.speedrun.com/gtav/runs/m7k14d5z"
-	}, {
-		"run_id":	"y9r272ey",
-		"verified_epoch":	1795725785,
-		"verified_iso":	"2026-11-26T20:43:05Z",
-		"game":	"MMX Hill Dash",
-		"game_cover":	"https://www.speedrun.com/static/game/4d7n83l6/cover.png?v=4dafc59",
-		"category":	"GT",
-		"level":	"City: Big Air",
-		"subcats":	"Vehicle: The Racer",
-		"primary_t":	52.42,
-		"players":	"Awise_",
-		"players_data":	[{
-				"name":	"Awise_",
-				"weblink":	"https://www.speedrun.com/users/Awise_",
-				"image":	"https://www.speedrun.com/static/user/8rr3rrw8/image.png?v=4179005"
-			}],
-		"weblink":	"https://www.speedrun.com/mmx_hill_dash/runs/y9r272ey"
-	}, {
-		"run_id":	"y8738e1z",
-		"verified_epoch":	1795725722,
-		"verified_iso":	"2026-11-26T20:42:02Z",
-		"game":	"Alien: Isolation Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx2rr51/cover.png?v=53dc0c7",
-		"category":	"Non Scappi%",
-		"level":	"DLC - Overrun",
-		"subcats":	"Glitch Tech: No CC",
-		"primary_t":	46.85,
-		"players":	"_xEB",
-		"players_data":	[{
-				"name":	"_xEB",
-				"weblink":	"https://www.speedrun.com/users/_xEB",
-				"image":	"https://www.speedrun.com/static/user/jo22m6e8/image.png?v=b4066a7"
-			}],
-		"weblink":	"https://www.speedrun.com/aimeme/runs/y8738e1z"
-	}, {
-		"run_id":	"zpj048vz",
-		"verified_epoch":	1795725655,
-		"verified_iso":	"2026-11-26T20:40:55Z",
-		"game":	"Sonic The Hedgehog Forever",
-		"game_cover":	"https://www.speedrun.com/static/game/kdkmmng1/cover.png?v=65e7f53",
-		"category":	"Super Sonic",
-		"level":	"Green Hill 1",
-		"subcats":	"Version: 1.5.2",
-		"primary_t":	15.81,
-		"players":	"BluBlruX26",
-		"players_data":	[{
-				"name":	"BluBlruX26",
-				"weblink":	"https://www.speedrun.com/users/BluBlruX26",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/s1forever/runs/zpj048vz"
-	}, {
-		"run_id":	"y2o9p79m",
-		"verified_epoch":	1795725625,
-		"verified_iso":	"2026-11-26T20:40:25Z",
-		"game":	"Alien: Isolation Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx2rr51/cover.png?v=53dc0c7",
-		"category":	"Non Scappi%",
-		"level":	"DLC - Crawl Space",
-		"subcats":	"Glitch Tech: No CC",
-		"primary_t":	139.22,
-		"players":	"_xEB",
-		"players_data":	[{
-				"name":	"_xEB",
-				"weblink":	"https://www.speedrun.com/users/_xEB",
-				"image":	"https://www.speedrun.com/static/user/jo22m6e8/image.png?v=b4066a7"
-			}],
-		"weblink":	"https://www.speedrun.com/aimeme/runs/y2o9p79m"
-	}, {
-		"run_id":	"y4d9qrdy",
-		"verified_epoch":	1795725430,
-		"verified_iso":	"2026-11-26T20:37:10Z",
-		"game":	"Alien: Isolation Category Extensions",
-		"game_cover":	"https://www.speedrun.com/static/game/3dx2rr51/cover.png?v=53dc0c7",
-		"category":	"Non Scappi%",
-		"level":	"DLC - Corporate Lockdown (Gauntlet)",
-		"subcats":	"Glitch Tech: No CC",
-		"primary_t":	222.15,
-		"players":	"_xEB",
-		"players_data":	[{
-				"name":	"_xEB",
-				"weblink":	"https://www.speedrun.com/users/_xEB",
-				"image":	"https://www.speedrun.com/static/user/jo22m6e8/image.png?v=b4066a7"
-			}],
-		"weblink":	"https://www.speedrun.com/aimeme/runs/y4d9qrdy"
 	}]
