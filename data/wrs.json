@@ -1,4 +1,93 @@
 [{
+		"run_id":	"yvjq0wey",
+		"verified_epoch":	1795843910,
+		"verified_iso":	"2026-11-28T05:31:50Z",
+		"game":	"Mortal Kombat Trilogy",
+		"game_cover":	"https://www.speedrun.com/static/game/m1z5p210/cover.png?v=eebbf47",
+		"category":	"PC",
+		"level":	"",
+		"subcats":	"Character: Motaro, Subcategory: Bosses, Windows/DOS: Windows",
+		"primary_t":	587,
+		"players":	"Peanutfan22",
+		"players_data":	[{
+				"name":	"Peanutfan22",
+				"weblink":	"https://www.speedrun.com/users/Peanutfan22",
+				"image":	"https://www.speedrun.com/static/user/1xykryz8/image.png?v=d21bdcd"
+			}],
+		"weblink":	"https://www.speedrun.com/mkt/runs/yvjq0wey"
+	}, {
+		"run_id":	"m3po6g4z",
+		"verified_epoch":	1795843657,
+		"verified_iso":	"2026-11-28T05:27:37Z",
+		"game":	"Playrooms",
+		"game_cover":	"https://www.speedrun.com/static/game/w6j9n04d/cover.png?v=6efc615",
+		"category":	"100%",
+		"level":	"",
+		"subcats":	"Difficulty: Cozy",
+		"primary_t":	8293.5,
+		"players":	"Mellowkero",
+		"players_data":	[{
+				"name":	"Mellowkero",
+				"weblink":	"https://www.speedrun.com/users/Mellowkero",
+				"image":	"https://www.speedrun.com/static/user/zx7y11yx/image.png?v=bb51c5c"
+			}],
+		"weblink":	"https://www.speedrun.com/Playrooms/runs/m3po6g4z"
+	}, {
+		"run_id":	"yw9pvr3m",
+		"verified_epoch":	1795843585,
+		"verified_iso":	"2026-11-28T05:26:25Z",
+		"game":	"64th Street: A Detective Story",
+		"game_cover":	"https://www.speedrun.com/static/game/46w39391/cover.png?v=b181760",
+		"category":	"Same Characters 2P (Allen)",
+		"level":	"",
+		"subcats":	"Difficulty Mode: Normal",
+		"primary_t":	1173,
+		"players":	"manticor5, JuniorArievilo",
+		"players_data":	[{
+				"name":	"manticor5",
+				"weblink":	"https://www.speedrun.com/users/manticor5",
+				"image":	"https://www.speedrun.com/static/user/7j4ndywx/image.png?v=83e503d"
+			}, {
+				"name":	"JuniorArievilo",
+				"weblink":	"",
+				"image":	""
+			}],
+		"weblink":	"https://www.speedrun.com/64th_street_a_detective_story/runs/yw9pvr3m"
+	}, {
+		"run_id":	"mk69vvxz",
+		"verified_epoch":	1795843232,
+		"verified_iso":	"2026-11-28T05:20:32Z",
+		"game":	"Scribblenauts",
+		"game_cover":	"https://www.speedrun.com/static/game/4d79mll1/cover.png?v=4e3d4db",
+		"category":	"All Levels",
+		"level":	"",
+		"subcats":	"Release: Collection",
+		"primary_t":	5995,
+		"players":	"SoapAgent",
+		"players_data":	[{
+				"name":	"SoapAgent",
+				"weblink":	"https://www.speedrun.com/users/SoapAgent",
+				"image":	"https://www.speedrun.com/static/user/86vn91wj/image.png?v=fda6a19"
+			}],
+		"weblink":	"https://www.speedrun.com/scribblenauts_/runs/mk69vvxz"
+	}, {
+		"run_id":	"mrg8oogz",
+		"verified_epoch":	1795843124,
+		"verified_iso":	"2026-11-28T05:18:44Z",
+		"game":	"FISH",
+		"game_cover":	"https://www.speedrun.com/static/game/4d7xkj31/cover.png?v=807e4be",
+		"category":	"Any%",
+		"level":	"",
+		"subcats":	"",
+		"primary_t":	68.683,
+		"players":	"Zarc0nis",
+		"players_data":	[{
+				"name":	"Zarc0nis",
+				"weblink":	"https://www.speedrun.com/users/Zarc0nis",
+				"image":	"https://www.speedrun.com/static/user/xzlyekr8/image.png?v=b024215"
+			}],
+		"weblink":	"https://www.speedrun.com/nes_fish/runs/mrg8oogz"
+	}, {
 		"run_id":	"zql3eery",
 		"verified_epoch":	1795842120,
 		"verified_iso":	"2026-11-28T05:02:00Z",
@@ -15687,72 +15776,4 @@
 				"image":	"https://www.speedrun.com/static/user/8d94ny9x/image.png?v=ef884ba"
 			}],
 		"weblink":	"https://www.speedrun.com/Hope_in_the_City/runs/znn40x9z"
-	}, {
-		"run_id":	"z5q1d8jz",
-		"verified_epoch":	1795757387,
-		"verified_iso":	"2026-11-27T05:29:47Z",
-		"game":	"Honkai: Star Rail",
-		"game_cover":	"https://www.speedrun.com/static/game/46w2qn96/cover.png?v=282a1ee",
-		"category":	"Simulated Universe",
-		"level":	"",
-		"subcats":	"Version: 4.7, Simulated Universe: Gold and Gears: Difficulty V, Characters / Light Cones: No Restriction",
-		"primary_t":	215,
-		"players":	"xored",
-		"players_data":	[{
-				"name":	"xored",
-				"weblink":	"https://www.speedrun.com/users/xored",
-				"image":	"https://www.speedrun.com/static/user/8g27y47j/image.png?v=1d45379"
-			}],
-		"weblink":	"https://www.speedrun.com/honkai_star_rail/runs/z5q1d8jz"
-	}, {
-		"run_id":	"y2oq9xjm",
-		"verified_epoch":	1795757379,
-		"verified_iso":	"2026-11-27T05:29:39Z",
-		"game":	"Minor Google Games",
-		"game_cover":	"https://www.speedrun.com/static/game/9d38e791/cover.png?v=fdcad43",
-		"category":	"Block Breaker",
-		"level":	"",
-		"subcats":	"Score: 20,000 Points",
-		"primary_t":	112.9,
-		"players":	"LopezCald",
-		"players_data":	[{
-				"name":	"LopezCald",
-				"weblink":	"https://www.speedrun.com/users/LopezCald",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/mgg/runs/y2oq9xjm"
-	}, {
-		"run_id":	"yvdglloy",
-		"verified_epoch":	1795757057,
-		"verified_iso":	"2026-11-27T05:24:17Z",
-		"game":	"30th Anniversary of PAC-MAN",
-		"game_cover":	"https://www.speedrun.com/static/game/m1z8yz10/cover.png?v=795cb5f",
-		"category":	"High Score",
-		"level":	"",
-		"subcats":	"Score: 284810, Players: 1 Player",
-		"primary_t":	0.284,
-		"players":	"Greg_Avon",
-		"players_data":	[{
-				"name":	"Greg_Avon",
-				"weblink":	"https://www.speedrun.com/users/Greg_Avon",
-				"image":	""
-			}],
-		"weblink":	"https://www.speedrun.com/googlepacman/runs/yvdglloy"
-	}, {
-		"run_id":	"z1e1xkwy",
-		"verified_epoch":	1795756725,
-		"verified_iso":	"2026-11-27T05:18:45Z",
-		"game":	"Batman: Arkham City",
-		"game_cover":	"https://www.speedrun.com/static/game/x3692ldl/cover.png?v=dc7bf47",
-		"category":	"All Medals",
-		"level":	"End of the Line (Extreme)",
-		"subcats":	"Version: Console, Character: Batman",
-		"primary_t":	10.85,
-		"players":	"Huraetiu",
-		"players_data":	[{
-				"name":	"Huraetiu",
-				"weblink":	"https://www.speedrun.com/users/Huraetiu",
-				"image":	"https://www.speedrun.com/static/user/x7yg00vx/image.png?v=5772158"
-			}],
-		"weblink":	"https://www.speedrun.com/arkhamcity/runs/z1e1xkwy"
 	}]
